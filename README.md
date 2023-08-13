@@ -15,3 +15,6 @@ Future additions:
   - Custom song loading without needing custom cache
   - Ability to load/parse/save mod settings via INI format
   - Port other game assets to WoR (GH5/BH/WT/GH3)
+  - Add better support for open-notes on Guitar (HOPOs and proper anims)
+  - Add tap-note chord support
+  - Add new chart features to GHTunes
