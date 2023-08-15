@@ -18,3 +18,6 @@ Future additions:
   - Add better support for open-notes on Guitar (HOPOs and proper anims)
   - Add tap-note chord support
   - Add new chart features to GHTunes
+# Files decompiled
+QB.PAK.PS3/QB.PAB.PS3:
+  - 1% Completed
