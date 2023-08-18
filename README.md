@@ -1,7 +1,7 @@
 # WoRmod
 Reverse engineering and decompilation project for Guitar Hero: Warriors of Rock
 
-Project starting soon!
+(15/8/2023): Project has started!
 # Plans so far
 Bugfixes:
   - Fix star power math bug when in Quickplay+ Powers mode
@@ -18,3 +18,6 @@ Future additions:
   - Add better support for open-notes on Guitar (HOPOs and proper anims)
   - Add tap-note chord support
   - Add new chart features to GHTunes
+# Files decompiled
+QB.PAK.PS3/QB.PAB.PS3:
+  - 1% Completed
