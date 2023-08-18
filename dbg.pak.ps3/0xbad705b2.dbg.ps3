@@ -1,0 +1,7 @@
+[LineNumbers]
+PreAllocSplats 1 (0,1) 
+
+[Checksums]
+0x30865187 scripts\fx\splat_data.qb
+0x33ef360b PreAllocSplats
+

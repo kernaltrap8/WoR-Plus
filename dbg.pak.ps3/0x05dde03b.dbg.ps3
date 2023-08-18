@@ -1,0 +1,33 @@
+[LineNumbers]
+
+[Checksums]
+0xea02ceb4 models\car_instruments\guitar\prs\gtr87_prs_mirax.qb
+0x9687f060 BRIDGE
+0xdee6d078 GTR81_Node03
+0xd23a0088 GTR81_Node05k
+0xa9e1e0ee GTR81_Node02
+0x30e8b154 GTR81_Node01
+0xcb2131c9 GTR81_Node04k
+0x310cc1d7 KNOB
+0xef5cb1df GTR87_PRS_MiraX
+0xa1dc81f9 Name
+0xf917534b GTR81_Node06k
+0x47906351 gtr87_prs_mirax_NodeArray_SortedNames
+0x8058e545 MISC
+0x3785754d GTR81_Node05
+0x408245db GTR81_Node04
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0xc98c56e1 gtr87_prs_mirax_NodeArray_SortedIndices
+0x7f261953 Pos
+0x19ebda23 Set
+0x93ffea3c gtr87_prs_mirax_NodeArray
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0xcf8a7d28 GTR81_Node01b
+0x385e8d74 SkinExport
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+

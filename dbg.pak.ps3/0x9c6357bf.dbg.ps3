@@ -1,0 +1,27 @@
+[LineNumbers]
+
+[Checksums]
+0x5de4f0b7 scripts\guitar\persistent_band_data.qb
+0xa97220ed musician4
+0xeec9418a character_id
+0x7dc1c229 appearance_checksum
+0x90f91284 g_persistent_band_initialized
+0x57525413 object
+0x0c51b433 stored_character_index
+0xd918d462 musician1
+0x96f094a3 microphone
+0x26d71541 g_persistent_band_data
+0x3716b54e musician3
+0x67e6859a player
+0x401185d8 musician2
+0xf2d16612 default_band
+0xc3409622 instrument
+0x1b0509c5 savegame
+0x21d92a26 invalid_song
+0x799bbaac g_random_win_lose_anim_current_song
+0x2f72fb37 g_band_use_alt_positions
+0x15174c77 g_current_band
+0xbdc53cf2 guitar
+0x1e909e2b building
+0x806fff30 none
+

@@ -1,0 +1,56 @@
+[LineNumbers]
+ui_create_leaderboard_difficulty 36 (0,9) (6,11) (13,13) (25,14) (57,15) (69,16) (71,17) (78,18) (90,19) (122,20) (134,21) (136,22) (143,23) (155,24) (187,25) (199,26) (201,27) (208,28) (220,29) (252,30) (264,31) (266,32) (273,33) (285,34) (317,35) (329,36) (331,37) (337,39) (343,40) (349,42) (388,44) (417,45) (419,46) (484,48) (552,49) (644,51) 
+ui_destroy_leaderboard_difficulty 3 (0,60) (6,61) (12,62) 
+ui_leaderboard_difficulty_select 5 (0,70) (52,71) (70,72) (76,73) (113,74) 
+
+[Checksums]
+0x9e681a5e scripts\guitar\menu\states\layouts\ui_leaderboard_difficulty.qb
+0xb990d003 target
+0x44949010 difficulty
+0x2a1c002c uistate_songlist
+0x3eeae02d hard
+0x059ea070 red
+0x9a2e9095 set_focus_color
+0xcf66717b GotParam
+0x2f6511de green
+0xbfa801df change
+0xa12093bc ui_leaderboard_difficulty_select
+0xc5f953c2 button
+0x78c783fa ui_create_leaderboard_difficulty
+0x1e93946b alias
+0xc3dda47f make_generic_barrel_menu
+0x9d3fb516 focus
+0xb40d153f select
+0xb8437568 pad_choose_params
+0xb69d6568 easy
+0x40de9572 set_unfocus_color
+0x6f7f2724 beginner
+0x2cb33744 LaunchEvent
+0x46551761 ui_destroy_leaderboard_difficulty
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0x9d2d8850 z
+0x6835b854 mode
+0x40c698af id
+0x7321a8d6 type
+0x398cba48 medium
+0x2c8a3a6d child_index
+0x29502bc0 UI_SFX
+0x4d49ac0a current_menu
+0x9e881c21 destroy_generic_barrel_menu
+0x520c0c9c data
+0x2b0cfca1 pad_choose_script
+0xb0e46cbd expert
+0x5c6c2d04 state
+0x66a54d2d generic_event_choose
+0x31320d2f current_leaderboard_difficulty
+0x9b4e7d31 generic_barrel_menu_finish
+0x4577fd38 AssignAlias
+0xc906ad51 menustate
+0x92a32e0c add_generic_barrel_menu_text_item
+0xf6ed2e13 songlist_clear
+0x69b05e2c generic
+0xa1598eed vmenu_id
+0x02141f19 clean_up_user_control_helpers
+0x2c6a5f27 uitype
+

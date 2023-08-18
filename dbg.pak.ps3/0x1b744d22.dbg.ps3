@@ -1,0 +1,35 @@
+[LineNumbers]
+
+[Checksums]
+0x425dbf26 models\car_instruments\guitar\bc_rich\gtr22_bc_rich_warlock.qb
+0x9687f060 BRIDGE
+0x91379088 GTR24_Neckhead_GTR22_Pickup_Node_03
+0xc09c616e gtr22_bc_rich_warlock_NodeArray_SortedNames
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x965a5491 GTR24_Neckhead_GTR22_Pickup_Node_07
+0x0f53052b GTR24_Neckhead_GTR22_Pickup_Node_04
+0x8058e545 MISC
+0x785435bd GTR24_Neckhead_GTR22_Pickup_Node_05
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0x06e54900 GTR24_Neckhead_GTR22_Pickup_Node_08
+0x7f261953 Pos
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0x89880aaf GTR24_Neckhead_GTR22_BC_Rich_Warlock
+0x7f5c9afd gtr22_bc_rich_warlock_NodeArray_SortedIndices
+0xade96b46 GTR22_BC_Rich_Warlock
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x385e8d74 SkinExport
+0x62ea3e2b gtr22_bc_rich_warlock_NodeArray
+0x967ace3c GTR24_Neckhead_GTR22_Knob_Node_01
+0xe4f19ed9 GTR24_Neckhead_GTR22_Misc_Node_06
+0x6782aedf GTR24_Neckhead_GTR22_Bridge_Node_04
+0x7874af10 GTR24_Neckhead_GTR22_Knob_Node_03
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+0x0f739f86 GTR24_Neckhead_GTR22_Knob_Node_02
+

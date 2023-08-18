@@ -1,0 +1,124 @@
+[LineNumbers]
+modelbuilder_build_model 60 (0,15) (36,17) (76,19) (88,20) (90,21) (128,22) (140,23) (142,24) (180,27) (216,29) (256,31) (292,33) (294,34) (298,36) (332,38) (334,40) (340,42) (342,44) (379,47) (412,48) (448,49) (524,51) (560,52) (600,54) (652,56) (728,57) (764,58) (840,60) (842,62) (876,66) (912,69) (948,72) (984,74) (990,76) (992,77) (998,80) (1032,83) (1072,86) (1112,88) (1152,90) (1188,92) (1190,93) (1227,95) (1260,97) (1268,99) (1278,100) (1291,101) (1304,102) (1317,103) (1330,104) (1364,105) (1377,106) (1390,107) (1424,108) (1432,109) (1438,111) (1440,112) (1442,114) (1444,116) (1480,118) 
+modelbuilder_build_logo 6 (0,126) (36,128) (42,130) (76,132) (112,133) (148,135) 
+modelbuilder_update_poly_removal 4 (0,159) (36,161) (72,164) (108,166) 
+modelbuilder_update_colors 4 (0,176) (36,178) (72,180) (108,182) 
+modelbuilder_update_single_cap_texture 4 (0,191) (36,193) (59,195) (92,197) 
+modelbuilder_update_reskins 15 (0,206) (36,208) (76,210) (90,211) (92,212) (132,214) (168,215) (170,216) (260,218) (328,219) (404,220) (433,221) (508,223) (514,225) (548,228) 
+modelbuilder_set_difference_anim 48 (28,252) (46,254) (59,255) (72,256) (85,258) (98,259) (132,261) (168,262) (228,265) (288,266) (344,267) (346,268) (348,269) (366,271) (428,272) (484,273) (486,274) (488,275) (511,277) (529,279) (542,280) (546,281) (559,282) (561,283) (565,284) (583,286) (631,287) (635,288) (682,289) (684,290) (686,291) (704,293) (722,295) (735,296) (739,297) (752,298) (754,299) (758,300) (776,301) (789,302) (793,303) (806,304) (808,305) (810,306) (841,308) (899,309) (929,310) (931,311) 
+modelbuilder_set_guitar_offset 26 (0,321) (21,322) (42,323) (55,325) (88,326) (106,329) (108,330) (110,331) (172,334) (228,335) (230,336) (244,338) (265,339) (320,342) (343,344) (369,346) (376,347) (388,348) (400,349) (408,351) (420,352) (432,353) (439,354) (441,355) (443,356) (445,357) 
+modelbuilder_update_pose 2 (0,367) (6,370) 
+modelbuilder_set_lock 2 (28,382) (46,383) 
+modelbuilder_check_lock 4 (0,394) (19,395) (136,396) (138,397) 
+
+[Checksums]
+0x95897b73 scripts\game\cas\cas_modelbuilder_scripts.qb
+0xb990d003 Target
+0x08ab2023 GH_Rocker_Female_Empty_D
+0xb4ff602c GetModelBuilderAppearance
+0xcab94088 bone
+0x6bf710cd ModelCopyGeom
+0xe4f130f4 s
+0x5861b0f8 cas_main_skel_scale
+0xaa42a104 GeomReplaceTexture
+0x7031f10c params
+0x2aafa114 ModelExpandBoundingSphere
+0x9a08b126 ModelAddCloth
+0x00e8612e cas_lowres_rig_reskin
+0x7ae6e178 guitar_and_vocals
+0xcf66717b GotParam
+0xeca9617c scriptname
+0xbfa801df change
+0xaba541e6 hero_add_clothing_difference_anim
+0xd1786225 GeomBackupLightCacheData
+0x0ecf0248 ModelClearAllGeoms
+0x0693d265 GH_Rocker_Fat_Female_D
+0xcd876271 fat_anim
+0xf335b287 donotresolve
+0xdbe2a2a2 do_not_kill_flags
+0x9639e2b7 ForEachInCAS
+0x9f2f92d6 modelbuilder_update_colors
+0x5ea292ea modelbuilder_set_lock
+0xf00b72ff TweakBonesNode
+0xef981302 hat_hair_choice
+0x24613344 CAS_Body
+0xa8ee7357 ScriptAssert
+0xf30c93aa ModelBuilder
+0x9277f428 FormatText
+0x756f5456 key
+0x67dcc463 CAS_Full_Body
+0xb8ee94a5 CAS_Female_Shoes
+0xcb9fb4cf bass
+0xf3bbb4ef GeomRestoreLightCacheData
+0x787064f1 lock
+0x53da94f1 ModelAddGeom
+0x7135152b Command
+0x6722b533 d
+0xe45bd536 diff_anim_name
+0x3ba6b58d modelbuilder_update_single_cap_texture
+0xd556a5be modelbuilder_build_model
+0xabf155ce CAS_male_Shoes
+0x2de8c60e printf
+0xc3409622 instrument
+0x6ee11639 total_offset
+0x1dbaf6ac diff_anim
+0xb9abc6be GeomSetUVMatrix
+0x3c8b36ed CAS_Female_Physique
+0x98df278b ModelUpdateMainRigForReskinning
+0x45a087f6 modelbuilder_build_logo
+0xf822a818 GeomPolyRemoval
+0x46b47841 ModelReskinPart
+0xe5c2f84c is_female
+0xa20eb8e2 GeomSetMaterialVariables
+0x3c52290c heel_anim
+0x154ec90f cas_reset_bones
+0x260cb917 model_builder_lock
+0x77814933 incremental
+0x2a013940 Anim_Command
+0x64e8e94a materials
+0x27e0f9c5 CAS_Male_Physique
+0x54cb3a0a caching
+0x33a71a14 modelbuilder_update_poly_removal
+0xb9bd6a37 CAS_Guitar_Body
+0xc0f19a45 ModelUpdateSkinningPolyRemoval
+0xb1c39a54 ModelRunScript
+0x63540a6d bone_pelvis
+0x76fa7a8f ChecksumName
+0x89d9dac1 modelbuilder_set_guitar_offset
+0x4d706ace do_not_kill
+0xe5126adb relative_bone
+0xd0e25ae1 TweakBones_RelativeTranslateBone
+0x2520db18 frontend_character
+0xe4b36b3b GeomTextureReplaceCleanup
+0x44dc7b60 modelbuilder_update_reskins
+0xa64dbb8c modelbuilder_update_pose
+0xf4bc5bc5 cas_part_reskin
+0x0a97abf1 fat_anim_name
+0xafc86c39 new_object
+0xeb7a1c62 DeformMainSkeleton
+0x09ce6c98 Anim_UpdatePose
+0x62c11cb9 getsingletag
+0x5cc16cdf drum
+0xbdc53cf2 guitar
+0xa23ded0b CreateAPieceComposite
+0xe189fd69 bass_and_vocals
+0x2b0edd74 is_fat
+0x248f3d82 kill_objects
+0xe8e6adcb vocals
+0xab364df1 GH_Rocker_Fat_Male_D
+0x9eff3e23 use_body_skeleton2
+0x6ea8ae36 force_reskin
+0xbff42e3b GH_Rocker_Male_Empty_D
+0x3bb7ee74 Bone_guitar_body
+0x63089ee6 hair
+0x806fff30 none
+0xb6f08f39 part
+0x64c82f59 ModelDeleteReskinTemporaries
+0x9d819f5c preload
+0x62ba3f6a do
+0xc45d9f80 modelbuilder_check_lock
+0xb781efbf cas_reskin_materials
+0x0c1fdfc9 GetModelBuilderActualStructKey
+0x2090efd4 modelbuilder_set_difference_anim
+0x73e1efe7 guitar_offset
+

@@ -1,0 +1,33 @@
+[LineNumbers]
+ui_create_options_vocals_view_warning 31 (0,9) (18,11) (32,12) (50,14) (63,15) (67,16) (80,17) (82,18) (89,20) (101,21) (107,22) (120,23) (122,24) (129,26) (135,27) (147,28) (160,29) (168,30) (170,31) (182,32) (196,33) (208,34) (210,35) (212,36) (224,37) (257,38) (269,39) (271,40) (273,41) (286,42) (288,43) 
+ui_destroy_options_vocals_view_warning 2 (0,52) (6,53) 
+
+[Checksums]
+0xee385fa5 scripts\guitar\menu\states\layouts\ui_options_vocals_view_warning.qb
+0xaa167043 ui_create_options_vocals_view_warning
+0xe4f130f4 s
+0x684602a3 other_view
+0xff0db407 textName
+0x9277f428 FormatText
+0xbd09544c func
+0x91f0e45a body_text
+0x2fca0578 options
+0x67e6859a player
+0x150d35f1 heading_text
+0xb6978733 options_change_vocals_highway_view
+0x81b06752 ui_destroy_options_vocals_view_warning
+0x1d2d97d4 func_params
+0x7f3fd7da static
+0xc195a822 create_dialog_box
+0x97ee1837 highway_view
+0xc4745838 text
+0xeafc692e no_background
+0xb30d9965 controller
+0xcafc596b vocals_highway_view
+0x37c84b09 destroy_dialog_box
+0xd6521cee generic_event_back
+0x7e149e2f nosound
+0x4942cf80 message
+0x69d0dfaf player_device
+0xf515cffa vocals_get_highway_view
+

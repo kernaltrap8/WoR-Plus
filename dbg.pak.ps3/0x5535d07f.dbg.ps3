@@ -1,0 +1,23 @@
+[LineNumbers]
+
+[Checksums]
+0x0743b6c4 scripts\game\net\social_networks_data.qb
+0x8de4d057 g_facebook_string
+0xb6c510b6 g_social_networks_custom_text
+0x7afb80b9 g_facebook_default_broadcast
+0xa5d181a0 g_facebook_broadcast_armed
+0x9cd2b37d g_social_networks_to_broadcast
+0xe9958449 twitter
+0xf7a43650 g_social_networks_broadcast_sent
+0x948b371f facebook
+0x87abe80c g_twitter_broadcast_armed
+0xcc9a0831 g_enable_facebook
+0x4c2788da g_twitter_default_broadcast
+0xec9579b8 g_social_networks_required_prefix
+0x3f6b2a2d g_twitter_string
+0xaae09b34 g_os_default_broadcast
+0x90e6bb74 g_enable_twitter
+0x0e18eb8d g_social_networks_broadcast_string
+0x661b4c9b g_social_networks_strings
+0x0d81ff47 g_social_networks_required_prefix2
+

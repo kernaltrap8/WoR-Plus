@@ -1,0 +1,17 @@
+[LineNumbers]
+
+[Checksums]
+0x7f806579 scripts\game\anim\animationdata\loops\sing\l_sing_rob_stillborn_f_anim_data.qb
+0x937bb16d Good
+0x12e4443d Med
+0x7dd4c604 Bad
+0xda99b63b Fast
+0x94c69659 SING_Rob_Stillborn_120_F_01
+0x2596167d Stance_A
+0xde7a971b Normal
+0x03598770 Sing_Rob_Stillborn_100_F_01
+0x5a9928d3 Sing_Rob_Stillborn_075_F_01
+0x23db4aea Idle
+0x770fdc56 L_SING_Rob_Stillborn_F_anims_set
+0xcaf88e22 Slow
+

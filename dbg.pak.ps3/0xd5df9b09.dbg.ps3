@@ -1,0 +1,161 @@
+[LineNumbers]
+LoadDrumKitAll 40 (108,15) (110,17) (128,18) (130,19) (164,20) (166,21) (216,22) (218,23) (253,26) (266,27) (268,28) (304,30) (340,31) (376,33) (394,36) (428,37) (430,38) (436,39) (454,42) (492,45) (506,46) (508,47) (561,49) (563,51) (581,54) (636,56) (656,58) (692,61) (710,62) (712,63) (752,66) (758,67) (772,68) (774,69) (792,72) (815,73) (828,74) (830,75) (883,77) (885,79) 
+LoadDrumKitAll_exit 2 (0,88) (36,90) 
+LoadDrumPadGroup 43 (0,99) (72,101) (108,103) (144,105) (197,108) (250,109) (303,110) (356,111) (409,112) (462,113) (466,115) (484,118) (513,119) (526,120) (530,121) (559,122) (561,123) (596,126) (649,127) (702,128) (755,129) (808,130) (861,131) (914,132) (916,134) (934,137) (952,139) (956,141) (958,143) (976,145) (1016,146) (1020,147) (1060,148) (1062,149) (1103,151) (1144,152) (1185,153) (1226,154) (1267,155) (1308,156) (1312,158) (1392,160) (1394,162) 
+LoadDrumKit 36 (88,171) (106,173) (156,174) (158,175) (164,177) (194,178) (209,179) (236,181) (266,184) (290,186) (320,187) (322,188) (345,191) (363,192) (382,193) (402,194) (424,195) (426,196) (495,197) (513,199) (526,200) (530,201) (543,202) (545,203) (563,205) (569,206) (571,207) (617,209) (623,210) (625,211) (627,212) (669,214) (673,215) (708,216) (744,217) (746,218) 
+UnLoadDrumKitAll 69 (76,227) (94,229) (144,230) (162,231) (212,232) (214,233) (264,234) (282,235) (332,236) (334,237) (384,238) (402,239) (452,240) (454,241) (504,242) (522,243) (572,244) (574,245) (624,246) (642,247) (692,248) (694,249) (744,250) (762,251) (812,252) (814,253) (832,256) (876,257) (920,258) (964,259) (1008,260) (1052,261) (1096,262) (1098,263) (1100,265) (1118,267) (1168,268) (1186,269) (1236,270) (1238,271) (1288,272) (1306,273) (1356,274) (1358,275) (1408,276) (1426,277) (1476,278) (1478,279) (1528,280) (1546,281) (1596,282) (1598,283) (1648,284) (1666,285) (1716,286) (1718,287) (1768,288) (1786,289) (1836,290) (1838,291) (1856,293) (1900,294) (1944,295) (1988,296) (2032,297) (2076,298) (2120,299) (2122,300) (2124,302) 
+UnloadDrumKit 11 (28,311) (55,313) (85,316) (109,317) (129,319) (175,321) (177,322) (181,323) (216,324) (252,325) (254,326) 
+CollectPadSpecificKitLoadingInfo 37 (28,335) (46,338) (64,339) (74,340) (78,341) (96,342) (119,343) (121,344) (160,347) (206,348) (259,349) (261,350) (263,351) (281,354) (307,355) (336,356) (350,357) (362,358) (384,359) (388,362) (414,363) (443,364) (457,365) (536,366) (558,367) (560,368) (581,371) (634,373) (663,376) (686,378) (739,379) (768,382) (791,384) (844,385) (848,388) (901,390) (903,392) 
+get_global_pad_struct_checksum 7 (44,401) (62,403) (122,404) (126,405) (184,406) (186,407) (200,408) 
+change_jam_current_drum_kit_padspecifickit 15 (28,417) (51,420) (69,422) (120,423) (124,424) (173,425) (175,426) (195,429) (228,430) (230,431) (260,433) (296,435) (346,436) (376,437) (378,438) 
+get_drum_kit_globals 9 (28,447) (51,449) (100,451) (117,452) (168,454) (185,455) (235,457) (252,458) (290,460) 
+find_percussion_from_base_kit 13 (28,469) (54,471) (76,472) (112,474) (124,475) (126,476) (152,478) (179,479) (193,480) (195,481) (216,483) (224,484) (256,486) 
+musicstudio_clamp_drum_kit_range 14 (0,495) (18,497) (32,498) (36,499) (50,500) (52,501) (71,503) (118,504) (139,505) (141,506) (159,508) (172,509) (174,510) (188,512) 
+get_per_pad_kit 6 (0,521) (58,523) (81,524) (115,525) (149,526) (163,527) 
+get_loadeddrumkitpak_type 8 (0,536) (64,538) (82,540) (95,541) (99,542) (112,543) (114,544) (128,546) 
+get_loadeddrumkitpak 5 (0,555) (72,557) (90,558) (122,559) (136,560) 
+set_loadeddrumkitpak 7 (0,569) (72,571) (90,572) (113,573) (155,574) (197,575) (215,576) 
+
+[Checksums]
+0x886f0b51 scripts\guitar\musicstudio\drumkit\musicstudio_drumkit_load.qb
+0x8e411006 b
+0xab1d6050 base_kit_structure
+0x62ff805a heap_drumkitaudio_percussion
+0xbec5106b UpdateStructElement
+0xf9462090 c
+0x21b99093 get_per_pad_kit
+0xbc5bf0ce pak_name
+0xe4f130f4 s
+0xe12a20fa kick
+0x6276b11a pad
+0xb4f18125 LoadDrumKitAll_Lock
+0xcc12115e song
+0x4ddd3173 percussion_drum_kits
+0xcf66717b GotParam
+0x5e6e4196 perpad_drum_p_hihat
+0x5d0671b8 channel
+0x174841bc a
+0xabca91be kit_index
+0xbebfa1c6 element
+0xbfa801df change
+0xa1dc81f9 name
+0x60f6f242 globalname
+0x779912e1 perpad_drum_kick
+0x551b72e3 percussion_id
+0x4b40630d newvalue
+0x4a07c332 frame
+0xa8ee7357 ScriptAssert
+0x31088362 perpad_drum_hihat
+0xda3403b0 null
+0x0f64a3e3 pad_string
+0x9342e3e5 gh_songlist_props
+0xff0db407 textname
+0xa2078407 persong_drum_p
+0x82209423 pak_percussion
+0x9277f428 Formattext
+0x0112d42a perpad_drum_p
+0xbefaa466 OnExitRun
+0x39b5c4b0 GetArraySize
+0x19ae24bb reset_globals
+0x2f0d64c1 get_global_pad_struct_checksum
+0xdeef04cd StructureContains
+0x3b9dd4e8 percussion
+0xc62fb525 CollectPadSpecificKitLoadingInfo
+0xbc17c534 drum_kit_index
+0x4c29c545 RequireParams
+0xd0078553 perpad_drum_p_snare
+0x7a95a557 t
+0x23a655e9 kit_structure
+0x1482c5f8 practice_percussion
+0x837195fe persong_sample
+0x2de8c60e printf
+0x8e62e613 cymbal
+0x46f9a629 PrintScriptInfo
+0xf6f6764b global_checksum
+0x540bf663 reset_percussion
+0x2b48c664 pad_struct
+0x4296266e type_string
+0x6bef3672 SetScriptCannotPause
+0x32b826a7 heap_drumkitaudio
+0x99e116f7 jam_current_drum_kit
+0xd24f570c song_name
+0x18020715 DrumKitParts
+0xa90cb72c perpad_drum
+0xa12c0737 perpad_drum_p_kick
+0x37c38790 newstruct
+0xbf6147a7 perpad_drum_snare
+0x17fc97ae g_practice_percussion_kit
+0xe288a7cb value
+0x3d0387eb change_jam_current_drum_kit_padspecifickit
+0xbaab5812 drumset
+0x90fec815 structure
+0x48980877 per_song_sample_struct
+0xef082878 standard
+0x9c31c87b loadeddrumkits_hadchange
+0x21eff892 perpad_drum_p_tom2
+0x40c698af id
+0x1f6b98c2 LoadPakAsync
+0x456d28d1 struct
+0x7321a8d6 type
+0x7f8c98fe index
+0x976e2917 jamsession
+0xb8e6a928 perpad_drum_p_tom1
+0x1993c98e i
+0xbbfbf9bc hihat
+0x561c49e9 global_checksum_persong
+0x891caa12 percussion_kit_index
+0x9601ca58 current_percussion_kit
+0x0e27da58 percussion_kit_structure
+0x553cba7d perpad_drum_p_cymbal
+0x76fa7a8f checksumname
+0x2c88daa3 LoadDrumKitAll
+0xef83eaba perpad_drum_cymbal
+0x17494acf kit_string
+0x6f0b0adf drum_kits
+0x46babaf4 Yield
+0xdcd6cb13 pakname
+0x821a2b31 get_drum_kit_globals
+0x6410bb90 set_loadeddrumkitpak
+0x1bfadba8 UnLoadDrumKitAll
+0x15266baf loadeddrumkitpaks
+0xff90dbc2 pad_checksum
+0x975bebe0 LoadDrumKit
+0xca3bfbec get_loadeddrumkitpak
+0x74d55bee create_loading_screen
+0xdc202c03 musicstudio_get_current_percussion_kit
+0x95106c0f UnloadDrumKit
+0x82117c1a wait
+0xfeaccc5b is_percussion_kit
+0x90e07c79 async
+0xf2c9ac8b pak
+0x2fdc2cac UnloadPakAsync
+0xa247ecef global_pad_struct
+0x6e53bcfe perpad_drum_tom1
+0x42d6dd1e heap
+0xf75aed44 perpad_drum_tom2
+0x7f5b3d4d array_size
+0x1db3fd5f DownloadContentLost
+0x35923d79 snare
+0x1a33fda5 drum_kit_string
+0xf0ec1df8 Musicstudio_LoadedSound
+0xb53d0e0f string_id
+0xc4e78e22 all
+0xa7779e25 LoadDrumKitAll_exit
+0xcd490e33 LoadDrumPadGroup
+0xfea73e8a get_song_name
+0x733d0e91 musicstudio_clamp_drum_kit_range
+0xbb7d3ea5 drum_kit
+0x68779ea6 find_percussion_from_base_kit
+0x3de76ed0 songlist_structure
+0xb2b15ee2 get_loadeddrumkitpak_type
+0xf8e08ee5 tom1
+0x18b52efd add_load_screen
+0xfc37df05 gameframe
+0xe6df8f0d print_drum_pad_kits
+0x58656f1d musicstudio
+0x61e9df5f tom2
+0x006e0f6c take_perc_from_base
+0x4942cf80 message
+0x835d0f90 GlobalExists
+0x3b42afe6 drumkit_pakname
+

@@ -1,0 +1,47 @@
+[LineNumbers]
+
+[Checksums]
+0x4d72fcce c:/gh6_burn/data/songs/rush2112p7.mid.qb.ps3
+0x27c2dc3c c:/gh6_burn/data/songs/rush2112p7.mid.qs.en.ps3
+0x27c2dc3c c:/gh6_burn/data/songs/rush2112p7.mid.qs.fr.ps3
+0x27c2dc3c c:/gh6_burn/data/songs/rush2112p7.mid.qs.it.ps3
+0x27c2dc3c c:/gh6_burn/data/songs/rush2112p7.mid.qs.de.ps3
+0x27c2dc3c c:/gh6_burn/data/songs/rush2112p7.mid.qs.es.ps3
+0x9a0ef61b c:/gh6_burn/data/songs/rush2112p7.note.ps3
+0x24c0fbcc c:/gh6_burn/data/songs/rush2112p7_rms.qd.ps3
+0x120299ff c:/gh6_burn/data/songs/rush2112p7.perf.xml.qb.ps3
+0xe80ca55d c:/gh6_burn/data/songs/rush2112p7.perf.ps3
+0xfc053f10 c:/gh6_burn/data/anims/facial/male/rush2112p7/gh6_singer_male_rush2112p7_1.ska.ps3
+0xcd8af802 c:/gh6_burn/data/anims/moments/solo_moments/bassist/kicking/b_quickkick01.ska.ps3
+0x6200786b c:/gh6_burn/data/anims/moments/solo_moments/bassist/kicking/b_quickkick01_c01.ska.ps3
+0x80f6b02a c:/gh6_burn/data/anims/moments/solo_moments/guitarist/kicking/g_kick01.ska.ps3
+0xf2e82815 c:/gh6_burn/data/anims/moments/solo_moments/guitarist/kicking/g_kick01_c01.ska.ps3
+0x6be179af c:/gh6_burn/data/anims/moments/solo_moments/guitarist/kicking/g_kick01_c02.ska.ps3
+0x0d069edd c:/gh6_burn/data/anims/moments/solo_moments/singer/misc/s_airsplit01.ska.ps3
+0x5c3f73c1 c:/gh6_burn/data/anims/moments/solo_moments/singer/misc/s_airsplit01_c01.ska.ps3
+0xb23112ed c:/gh6_burn/data/anims/moments/solo_moments/singer/misc/s_airsplit01_c03.ska.ps3
+0x1a80aaab c:/gh6_burn/data/anims/moments/solo_moments/song_specific/are_you_gonna/s_areyou_micoffstand01.ska.ps3
+0xdf037bc7 c:/gh6_burn/data/anims/moments/solo_moments/song_specific/are_you_gonna/s_areyou_micoffstand01_c01.ska.ps3
+0xab37d4fd c:/gh6_burn/data/anims/moments/solo_moments/bassist/solos/b_jamhard01.ska.ps3
+0x78e8d586 c:/gh6_burn/data/anims/moments/solo_moments/bassist/solos/b_jamhard01_c01.ska.ps3
+0xb12809e5 c:/gh6_burn/data/anims/moments/solo_moments/guitarist/solos/g_metalsolo05.ska.ps3
+0x582cfb71 c:/gh6_burn/data/anims/moments/solo_moments/guitarist/solos/g_metalsolo05_c01.ska.ps3
+0x2821585f c:/gh6_burn/data/anims/moments/solo_moments/guitarist/solos/g_metalsolo06.ska.ps3
+0x1f8c81a1 c:/gh6_burn/data/anims/moments/solo_moments/guitarist/solos/g_metalsolo06_c01.ska.ps3
+0x8685d01b c:/gh6_burn/data/anims/moments/solo_moments/guitarist/solos/g_metalsolo06_c02.ska.ps3
+0xfeec5b6a c:/gh6_burn/data/anims/moments/group_moments/3person/misc/gsb_b_underthestage.ska.ps3
+0xcd6be5e1 c:/gh6_burn/data/anims/moments/group_moments/3person/misc/gsb_g_underthestage.ska.ps3
+0x03751fcd c:/gh6_burn/data/anims/moments/group_moments/3person/misc/gsb_s_underthestage.ska.ps3
+0xdc168f98 c:/gh6_burn/data/anims/moments/group_moments/3person/misc/gsb_d_underthestage.ska.ps3
+0xecc68b5f c:/gh6_burn/data/anims/moments/solo_moments/guitarist/solos/locked/g_metalsolo10_s1n1.ska.ps3
+0x1d75694a c:/gh6_burn/data/anims/moments/solo_moments/guitarist/solos/locked/g_metalsolo10_s1n1_c01.ska.ps3
+0x847c38f0 c:/gh6_burn/data/anims/moments/solo_moments/guitarist/solos/locked/g_metalsolo10_s1n1_c02.ska.ps3
+0xbe81a41b c:/gh6_burn/data/anims/moments/rush_2112/rush2112_intro06_c01.ska.ps3
+0x2788f5a1 c:/gh6_burn/data/anims/moments/rush_2112/rush2112_intro06_c02.ska.ps3
+0x508fc537 c:/gh6_burn/data/anims/moments/rush_2112/rush2112_intro06_c03.ska.ps3
+0x4361c30c c:/gh6_burn/data/anims/moments/solo_moments/guitarist/playing2camera/g_lookheadbob.ska.ps3
+0x1d6b8129 c:/gh6_burn/data/anims/moments/solo_moments/guitarist/playing2camera/g_lookheadbob_c01.ska.ps3
+0xa46fe62c c:/gh6_burn/data/anims/moments/solo_moments/guitarist/solos/free/g_solo32_s0n1.ska.ps3
+0x2332f049 c:/gh6_burn/data/anims/moments/solo_moments/guitarist/solos/free/g_solo32_s0n1_c01.ska.ps3
+0xba3ba1f3 c:/gh6_burn/data/anims/moments/solo_moments/guitarist/solos/free/g_solo32_s0n1_c02.ska.ps3
+

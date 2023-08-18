@@ -1,0 +1,33 @@
+[LineNumbers]
+
+[Checksums]
+0x71ccf894 models\car_instruments\guitar\esp\gtr62_esp_alexi.qb
+0x9687f060 BRIDGE
+0xb285e121 gtr62_esp_alexi_NodeArray
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x76d8f292 GTR62_ESP_Alexi
+0x848f1327 GTR62_ESP_Alexi_GTR62_Node_Pickup04
+0xf38823b1 GTR62_ESP_Alexi_GTR62_Node_Pickup05
+0x8058e545 MISC
+0x4850554b GTR62_ESP_Alexi_GTR62_ESP_Alexi
+0xbe61c602 PICKUP
+0x6decb612 GTR62_ESP_Alexi_GTR62_Node_Pickup02
+0x12b4e660 Class
+0x1aeb8684 GTR62_ESP_Alexi_GTR62_Node_Pickup03
+0xf4e5e7a8 GTR62_ESP_Alexi_GTR62_Node_Pickup01
+0x2e94a8a7 GTR62_ESP_Alexi_GTR62_Node_Knob01
+0x7f261953 Pos
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x82e78bb6 gtr62_esp_alexi_NodeArray_SortedNames
+0x7bf7dbd7 GTR62_ESP_Alexi_GTR62_Node_MISC
+0x3ff47bf4 RemovalFlags
+0x76629cf7 gtr62_esp_alexi_NodeArray_SortedIndices
+0x385e8d74 SkinExport
+0x1491fefc GTR62_ESP_Alexi_GTR62_Node_Bridge
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+

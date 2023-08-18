@@ -1,0 +1,39 @@
+[LineNumbers]
+
+[Checksums]
+0xf6b8f152 scripts\guitar\menu\states\layouts\ui_universal_help_unicode.qb
+0x87de6058 quickplay_to_gameplay
+0xbf985091 leaderboards_menu
+0xdf5ce14e rock_star_creator
+0x4317e169 nxgui_desc
+0xad18816e bg_alpha
+0x8d60822f training_menu
+0x81f432ce universal_help_challengetracker
+0x73d9f340 triggered
+0x42efd347 per_session
+0x0c8e8379 gh_studio
+0x41abf3c3 universal_help_rockstarcreator
+0x1c6863dc final_battle
+0xa4b473f7 universal_help_finalbattle
+0xc5c5941d layout
+0x73c04473 help_context_title
+0xc40ce4e8 hide_in_index
+0xd85854ef quickplay_songlist
+0xf6253553 domination_intro
+0x43b8855d help_context
+0x70ce675a g_universal_help_popups
+0xc4745838 text
+0x38b408ae universal_help_ghstudio
+0xebf549df page
+0xbf0c9ad5 challenge_tracker
+0x3ac2fba0 image
+0x8cbf8c2f once
+0x6721dc40 music_store
+0xdd08dc66 universal_help_quickplaychallenges
+0x3c46fd5b universal_help_quickplayunlocks
+0x5ca6ddb9 quickplay_unlock
+0xe5da5def never
+0xfdfaee9f layout_2
+0x64f3bf25 layout_1
+0x5a2d5fc3 guitar_main_menu_ghstudio_string
+

@@ -1,0 +1,166 @@
+[LineNumbers]
+addump 22 (0,38235) (36,38237) (88,38242) (111,38243) (129,38244) (164,38245) (166,38246) (192,38247) (209,38248) (228,38249) (249,38250) (284,38251) (302,38252) (325,38253) (332,38254) (368,38255) (370,38256) (372,38257) (374,38258) (382,38259) (384,38260) (420,38261) 
+adcsetuptables 2 (0,38270) (36,38271) 
+adcteardowntables 2 (0,38274) (36,38275) 
+adcnormal 2 (0,38278) (52,38279) 
+adcoldway 2 (0,38282) (52,38283) 
+adcbroken 2 (0,38286) (52,38287) 
+adcplayerdump 15 (0,38384) (6,38386) (29,38387) (117,38389) (146,38390) (164,38392) (170,38393) (172,38394) (189,38395) (224,38397) (313,38399) (342,38400) (360,38402) (368,38403) (370,38404) 
+adcwipelog 2 (0,38411) (36,38412) 
+adcdebugoverlay 2 (0,38415) (36,38416) 
+adcdebugoverlay_create 8 (0,38424) (6,38426) (136,38434) (336,38447) (588,38462) (884,38480) (936,38486) (972,38490) 
+adcdebugoverlay_destroy 5 (0,38499) (36,38500) (72,38501) (74,38502) (108,38503) 
+adcdebugoverlay_loop 17 (0,38511) (2,38512) (40,38513) (96,38514) (132,38516) (136,38518) (149,38519) (151,38520) (188,38521) (201,38522) (203,38523) (240,38524) (264,38525) (266,38526) (268,38527) (320,38528) (322,38529) 
+adcdebugoverlay_task 3 (0,38537) (6,38538) (12,38539) 
+
+[Checksums]
+0xdf9e92e5 scripts\game\net\appearancedatacompressor.qb
+0x8e411006 b
+0xe126e035 top
+0x9775a050 msg
+0xfc06c07e adcdebugoverlay_text1_id
+0xe4f130f4 s
+0xab215108 GetFirstPlayer
+0x6eeda109 adcdebugoverlay
+0xb12b510a SpriteElement
+0xaaf74113 PlayerInfoEquals
+0x73665140 CreateScreenElement
+0xb576a14c LipShapeLower
+0x3499a14d msgtext
+0x306aa15f NoseTipLength
+0xcf66717b GotParam
+0x0918318a EarProminence
+0x174841bc a
+0xa1dc81f9 name
+0xf612a20c CheekboneDepth
+0x91f4221b AppearanceDataCompressor
+0x8b60022f just
+0x5053b230 LowerLipThickness
+0x24be0232 EyebrowSize
+0x28a2d237 NoseSize
+0xbd30325b white
+0x89e2625e MouthScale
+0x46159266 out
+0x2de0428d FaceFullness
+0x7d99f28d texture
+0xe6bff2c3 g_appearance_data_compressor_canned_struct_bones1
+0x652502d3 MouthAngle
+0x2aa592d4 bones
+0x4943e2df bones2
+0x6e0c6315 adcsetuptables
+0x5cc4d321 overlayenable
+0x98db8323 adcdebugoverlay_loop
+0x9eb6e336 spawnscript
+0x57f03357 MouthPosition
+0x7fb6a379 g_appearance_data_compressor_canned_struct_bones2
+0x1d54538b broken
+0x91bcc3c2 ChinHeight
+0xc5bc93ee ScreenElementExists
+0x08b193ef g_appearance_data_compressor_canned_struct_bones3
+0xff0db407 textname
+0x1a275413 adcdebugoverlay_root_id
+0x9a89041f adcteardowntables
+0x9277f428 FormatText
+0xbd09544c func
+0x5b98f460 oldway
+0x6d5bd496 EarlobeSize
+0xc2a7e4b1 ChinProminence
+0x8da97503 primary_controller
+0x4b1de51d NoseWidth
+0x0e61b525 RunScriptOnScreenElement
+0x6722b533 d
+0xc786e53b NoseAngle
+0x8a5d254c EyePosition
+0x6253256f NoseNostrilAngle
+0x34a68574 dims
+0xaee12594 NosePosition
+0x67e6859a player
+0x595705e3 g_appearance_data_compressor_static_canned_structs_array
+0x6bfa45e8 adcdebugoverlay_task
+0xd5b305f3 LipShapeUpper
+0x2de8c60e printf
+0xd029f619 seconds
+0x736ab632 NoseBridge
+0xf66f7675 player_number
+0x53937693 IsControllerPluggedIn
+0x2f1fc695 alpha
+0xe1f3c69f wipelog
+0x1cb2a6b0 num_players
+0xc4a29701 EarTip
+0x74297717 local
+0x19568719 overlaydisable
+0xde7a971b normal
+0x039aa71c adcdebugoverlay_background_id
+0x1b6f271f NoseLength
+0x2f6bf72d font
+0xe5bc374c EyeAngle
+0x38be676f fill_local_appearance_data
+0x765a3781 NoseTipAngle
+0xfac137a7 NoseTipWidth
+0x906b67ba time
+0x097b57c1 EyeScale
+0xd43297cf false
+0x2d23d7e5 EarSize
+0x19fe3810 ChinWidth
+0x95653836 ChinAngle
+0xc4745838 text
+0x5b9da842 ContainerElement
+0x6835b854 mode
+0x85981897 left
+0x40c698af id
+0x456d28d1 struct
+0x7321a8d6 type
+0x5f3f48fd JawProminence
+0xfedb6929 adcwipelog
+0xd578f92e UpperLipThickness
+0x7f261953 pos
+0xb30d9965 controller
+0x7323e97c x
+0x3c15e9b6 DestroyScreenElement
+0x13d0da1e DontAssertForChecksums
+0x712dea48 BrowPosition
+0x5df6aa66 setmode
+0x45104a7b EarlobeLength
+0x13b9da7b scale
+0xea920ae1 GetNextPlayer
+0xc45adae2 NoseTipHeight
+0x56a1eae3 root_window
+0x1f6bbaee adcdebugoverlay_destroy
+0x1f773af1 is_local_client
+0xd0e35b38 EyeDistance
+0x5464cb51 setuptables
+0xef788b58 adcbroken
+0xdd323b5b EyeCornerShape
+0xa58b7ba1 logmessage
+0x9f075bb3 MouthDepth
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0x55205c62 adcplayerdump
+0x83fc1c8f NoseNostrilHeight
+0x25cadcac GetNumPlayersInGame
+0xa9b42cb3 adcoldway
+0xa7ecdcc0 adcdebugoverlay_create
+0xf7d7ed10 NoseNostrilSize
+0x72ef6d17 EarShape
+0x870ffd17 addump
+0xcef92d47 single_line
+0xb7e00d64 EyebrowAngle
+0x380d8d9d EyeShape
+0x3f6bcdba rgba
+0xfb02ee08 JawShape
+0xbe304e86 printstruct
+0xd24e3e9f BrowDepth
+0xc8adfeb2 teardowntables
+0x589b2ec7 adcdebugoverlay_title_id
+0x65485eea GetPlayerInfo
+0xf3428f0c Waddle
+0x57710f31 z_priority
+0x1e08af3b CheekboneProminence
+0x2fefaf84 fontgrid_text_a1
+0xa1c98f94 EyebrowDistance
+0x4be80fac getdebugoverlayinfo
+0xc2719fb0 parent
+0x5200dfb6 TextElement
+0x2c564fc8 adcnormal
+0xd677bfcb ChinCleft
+

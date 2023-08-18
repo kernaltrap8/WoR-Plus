@@ -1,0 +1,29 @@
+[LineNumbers]
+
+[Checksums]
+0xe8a599f0 models\car_instruments\bass\heroes\bass133_tiki.qb
+0x9687f060 BRIDGE
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x454023e3 Bass135_Smoke_Bass133_Tiki
+0x8058e545 MISC
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0xa5dba6b8 bass133_tiki_NodeArray_SortedNames
+0x7f261953 Pos
+0xa20489c0 Bass135_Smoke_GTR133_N_pickup
+0xb0e7e9f9 Bass135_Smoke_GTR133_N_knob01
+0x19ebda23 Set
+0xad3eca30 bass133_tiki_NodeArray_SortedIndices
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x385e8d74 SkinExport
+0x152ece37 bass133_tiki_NodeArray
+0xfc342eb5 Bass133_Tiki
+0x84b1df33 ExportName
+0x18b49f49 Bass135_Smoke_GTR133_N_misc
+0x64f0cf83 AttachPoint
+0x8ae2bfa2 Bass135_Smoke_GTR133_N_Bridge
+

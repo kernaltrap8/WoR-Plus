@@ -1,0 +1,37 @@
+[LineNumbers]
+
+[Checksums]
+0x532dbd19 zones\global\global.qb
+0xb7d8609e GLOBAL_L_Viewer_Right_Direct01
+0x2ed13124 GLOBAL_L_Viewer_Right_Direct02
+0x4b81d14e GLOBAL_GlobalBox01
+0xa1dc81f9 Name
+0x8af24241 GLOBAL_L_Viewer_Ambient01
+0x3d83f352 global_NodeArray_SortedIndices
+0xecbba37b global_NodeArray_SortedNames
+0x36f19447 GLOBAL_L_Viewer_Up_Direct01
+0x786e947e RotationQuat
+0xbf4d3536 LevelGeometry
+0xaa83b57f GLOBAL_L_Viewer_Center_Direct01
+0x455485ef Dir
+0x83ae9640 NODEFLAG_VIEWERLIGHTS
+0x96d77659 GLOBAL_L_Viewer_Left_Direct02
+0x12b4e660 Class
+0xb9832749 SpecularIntensity
+0x1873875c global_NodeArray
+0x164d476d Intensity
+0x0fde27e3 GLOBAL_L_Viewer_Left_Direct01
+0xa0e52802 LevelLight
+0x7321a8d6 Type
+0x9d2d0915 Angles
+0x7f261953 Pos
+0xdcff99a3 RenderToViewport
+0x7b9ea9f2 AttenEnd
+0x152e5a8e AttenStart
+0xa40abaa7 Field
+0x74f62ad2 SelectRenderOnly
+0xb74c7cec Hotspot
+0xbcee1d37 Ambient
+0x3e69df29 CreatedFromVariable
+0x75de1f8b LightColor
+

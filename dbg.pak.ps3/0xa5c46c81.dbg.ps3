@@ -1,0 +1,62 @@
+[LineNumbers]
+ui_create_cas_select_part_options 2 (0,8) (20,9) 
+ui_create_cas_select_part_options_worker 35 (28,13) (35,15) (47,16) (59,17) (71,18) (111,19) (117,20) (130,21) (143,22) (145,23) (186,25) (207,27) (214,29) (242,30) (254,31) (266,32) (372,33) (374,34) (386,36) (404,38) (440,41) (442,42) (444,44) (451,46) (463,47) (475,48) (487,49) (568,50) (570,51) (608,53) (644,54) (662,55) (696,56) (698,57) (721,59) 
+ui_destroy_cas_select_part_options 2 (0,69) (6,70) 
+ui_deinit_cas_select_part_options 4 (0,78) (36,79) (43,80) (45,81) 
+
+[Checksums]
+0xf96c0c54 scripts\guitar\menu\states\layouts\cas\ui_cas_select_part_options.qb
+0xa484d093 add_car_menu_text_item
+0x7031f10c params
+0xcf66717b GotParam
+0x6017f1cc ui_event
+0xbfa801df change
+0xa1dc81f9 name
+0x3cd9d1fc setup_cas_menu_handlers
+0x9ddaa224 create_cas_select_part_options_vmenu
+0xbf17a257 show_history
+0x80db125a hist_tex
+0xf6ab82f2 cas_current_savegame
+0x192bc3a2 pad_back_script
+0xddbaa4a9 UIstate_cas_color_edit
+0x39b5c4b0 GetArraySize
+0x9836251b cam_name
+0x0acc054f car_helper_text
+0xc451f558 event
+0xc156b5b1 task_menu_default_anim_in
+0xe88e660c destroy_generic_menu
+0x407bc624 GetCASPartMaterials
+0x9a6bd624 icon
+0x3f6e367e zoom_camera
+0xff1496de state_device
+0xa4c5d762 part_materials
+0xd4c98794 title
+0xdf92779b ui_destroy_cas_select_part_options
+0xc4745838 text
+0xb30d9965 controller
+0x1b0509c5 savegame
+0x8a644a6b pad_back_params
+0x37ba3a84 make_generic_car_menu
+0x19fa5af7 SpawnScriptNow
+0xe4202b13 generic_menu_block_input
+0xf1ff8b68 choose_state
+0x09f3fb6f additional_deinit_script
+0x31dc7bab camera_list
+0x7d654c18 exclusive_device
+0x0c714c3f menu_finish
+0x22236c98 icon_graphics
+0x520c0c9c data
+0x7f5b3d4d array_size
+0x16d19dc2 choose_state_data
+0x5a7ece86 menu_back
+0xf2260eb8 ui_create_cas_select_part_options_worker
+0xa1598eed vmenu_id
+0x84aecef0 menu_history_color_edit
+0xb2161ef7 num_icons
+0x37bf4f09 base_name
+0x771cdf0a num_states
+0xb6f08f39 part
+0xadbcff3e ui_deinit_cas_select_part_options
+0x55f5ef8a UIstate_cap_main
+0xb871afc3 ui_create_cas_select_part_options
+

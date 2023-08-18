@@ -1,0 +1,84 @@
+[LineNumbers]
+autotest_check_test_params 36 (0,3) (30,8) (54,9) (104,11) (122,12) (152,13) (154,14) (204,16) (222,17) (252,18) (254,19) (296,21) (314,22) (344,23) (346,24) (388,26) (406,27) (436,28) (438,29) (488,31) (506,32) (536,33) (538,34) (580,36) (598,37) (628,38) (630,39) (672,41) (690,42) (720,43) (722,44) (764,46) (782,47) (812,48) (814,49) (844,51) 
+autotest_check_song 14 (0,60) (6,62) (19,64) (32,65) (34,66) (52,67) (71,68) (84,69) (116,70) (118,71) (140,73) (148,74) (183,76) (212,77) 
+autotest_check_venue 13 (0,86) (36,88) (49,90) (62,91) (64,92) (93,93) (106,94) (136,95) (138,96) (160,98) (168,99) (203,101) (232,102) 
+autotest_check_part_names 12 (0,111) (13,113) (15,114) (58,116) (81,117) (109,119) (156,120) (188,121) (190,122) (212,124) (219,125) (248,127) 
+autotest_check_difficulty_names 12 (0,136) (13,138) (15,139) (64,141) (87,142) (115,144) (162,145) (192,146) (194,147) (216,149) (223,150) (252,152) 
+autotest_check_mode 23 (0,161) (13,163) (19,164) (29,165) (39,166) (74,167) (104,168) (123,169) (158,170) (188,171) (190,172) (203,173) (216,175) (248,176) (283,177) (312,178) (314,179) (327,180) (335,182) (370,183) (400,184) (402,185) (427,187) 
+autotest_check_part_combos 41 (0,196) (18,198) (31,200) (33,201) (55,203) (57,204) (75,206) (105,207) (148,208) (191,209) (237,211) (275,212) (310,213) (340,214) (342,215) (344,216) (366,218) (390,219) (412,221) (419,222) (448,224) (450,226) (463,229) (465,230) (487,232) (489,233) (507,235) (537,236) (580,237) (623,238) (669,241) (706,242) (741,243) (772,244) (774,245) (776,246) (798,248) (822,249) (844,251) (851,252) (880,254) 
+autotest_check_start_end_times 20 (0,263) (26,265) (50,266) (85,267) (116,268) (118,269) (120,270) (146,272) (170,273) (205,274) (236,275) (238,276) (264,278) (299,279) (334,280) (364,281) (366,282) (368,283) (370,284) (400,286) 
+autotest_check_force_score 11 (0,295) (26,297) (50,298) (70,299) (90,300) (110,301) (145,302) (176,303) (178,304) (180,305) (212,307) 
+
+[Checksums]
+0x2b4a0ee2 scripts\guitar\autotest\guitar_autotest_error_checking.qb
+0x1bff900b quickplay
+0xec439017 playerB_part
+0x3e41f02c autotest_get_suite
+0x74cb503b check_song_passed
+0x32474046 LevelZoneArray
+0xce0ad0b4 check_start_end_times_passed
+0xe4f130f4 s
+0xcc12115e song
+0x937bb16d good
+0xac4911ac autotest_suite_list
+0xbb17d1ed autotest_check_test_params
+0x5f403215 check_mode_passed
+0x40747229 check_force_score_passed
+0x6ad7e2b9 playerA_part
+0xd443a2bc off
+0x17264310 autotest_check_part_combos
+0xb9aa6328 autotest_check_start_end_times
+0x4da4937b career
+0xed9f03a1 tests
+0x651533ec level
+0x6fb2b427 autotest_difficulty_strings
+0x9277f428 FormatText
+0x8c5f546b SoftAssert
+0x8320d478 game_mode
+0x39b5c4b0 GetArraySize
+0xdeef04cd StructureContains
+0x6e6ee4f2 venue
+0xc9abc553 GetSonglistChecksum
+0x7a95a557 t
+0x67e6859a player
+0x6e91f5a4 autotest_check_song
+0x8a4c762d song_checksum
+0x2afed637 GetSonglistSize
+0xf7fd167b autotest_part_strings
+0x1e5b9690 autotest_get_test
+0x1cb2a6b0 num_players
+0xe9d51717 check_passed
+0x90fec815 structure
+0x809a9834 j
+0x9ef0684a suite_struct
+0xba8fb854 diff
+0x1895e867 player_diff
+0x5c2918b2 force_score
+0x7f8c98fe index
+0x4df8994a found_match
+0x1993c98e i
+0x398cba48 medium
+0xafd20a78 start_time
+0x76fa7a8f checksumname
+0xd2f22ae7 autotest_check_part_names
+0xaa616b1a poor
+0xce515b96 versus
+0xbea9ebfe end_time
+0x33a47c14 autotest_check_venue
+0xa09ebc23 autotest_check_difficulty_names
+0x87f75c2d n
+0x65698c49 check_difficulty_names_passed
+0x5ac18c56 test_num
+0x25cadcac GetNumPlayersInGame
+0xcab65cae autotest_check_mode
+0x5b4b5ce1 suite_num
+0x7f5b3d4d array_size
+0x530fadcd check_part_combos_passed
+0x0d7adebf check_part_names_passed
+0x14eadf0a player_part
+0x806fff30 none
+0xb6f08f39 part
+0x00d63f7d autotest_check_force_score
+0xfd783fc9 check_venue_passed
+0xd2b42fff test_struct
+

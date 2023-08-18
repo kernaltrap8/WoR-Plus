@@ -1,0 +1,291 @@
+[LineNumbers]
+social_networks_broadcast_init 6 (44,16) (80,17) (98,18) (116,19) (164,20) (200,21) 
+social_networks_broadcast_deinit 4 (0,30) (36,32) (72,33) (108,34) 
+ui_event_is_top_social_share 7 (0,43) (6,44) (44,45) (76,46) (80,47) (112,48) (114,49) 
+social_networks_broadcast 51 (1,57) (8,58) (24,59) (26,64) (60,65) (72,67) (80,68) (93,69) (106,70) (108,71) (121,74) (142,75) (160,76) (173,77) (208,80) (210,81) (212,82) (225,84) (246,85) (264,86) (277,87) (312,90) (314,91) (316,92) (329,95) (338,96) (351,97) (353,98) (362,107) (375,108) (388,109) (401,110) (414,113) (427,114) (440,115) (453,116) (466,118) (468,119) (499,123) (535,124) (541,125) (547,126) (560,127) (573,128) (586,129) (599,130) (601,131) (605,132) (630,133) (659,134) (661,135) 
+social_networks_broadcast_start_pad_shim 5 (0,144) (7,145) (20,146) (22,147) (24,148) 
+social_networks_broadcast_start 13 (60,160) (96,161) (103,162) (121,164) (128,166) (141,167) (154,168) (167,169) (180,170) (193,171) (206,172) (219,173) (221,174) 
+social_networks_broadcast_continue 79 (44,188) (58,190) (76,191) (106,192) (108,193) (110,194) (133,197) (164,198) (182,199) (214,205) (221,207) (234,208) (247,209) (260,210) (272,211) (285,212) (287,213) (296,215) (317,216) (335,217) (354,218) (386,219) (399,220) (401,221) (430,222) (437,224) (449,225) (457,226) (469,227) (482,228) (495,229) (497,230) (499,231) (503,232) (515,233) (524,234) (536,235) (538,236) (545,237) (560,238) (572,239) (585,240) (599,241) (611,242) (613,243) (615,244) (622,246) (635,247) (648,248) (661,249) (674,250) (687,251) (700,252) (702,253) (706,254) (713,256) (726,257) (739,258) (752,259) (765,260) (778,261) (780,262) (793,264) (802,265) (815,266) (817,267) (853,270) (859,271) (865,272) (877,273) (899,274) (912,276) (925,277) (938,278) (951,279) (964,280) (977,281) (979,282) (981,283) 
+social_networks_broadcast_confirm 43 (44,295) (80,296) (86,297) (102,300) (112,301) (119,302) (132,303) (144,304) (152,305) (173,306) (186,307) (199,308) (212,309) (225,310) (238,311) (251,312) (263,313) (265,314) (267,315) (300,316) (313,317) (320,318) (333,319) (345,320) (353,321) (374,322) (387,323) (400,324) (413,325) (426,326) (439,327) (452,328) (464,329) (466,330) (468,331) (504,332) (512,333) (548,334) (550,335) (588,337) (628,338) (630,339) (696,340) 
+social_networks_broadcast_posted_callback 36 (28,349) (64,350) (71,351) (79,353) (100,354) (113,355) (126,356) (139,357) (152,358) (165,359) (178,360) (180,361) (198,363) (232,364) (244,366) (248,367) (254,368) (292,370) (344,371) (346,372) (388,373) (395,374) (407,375) (420,376) (433,377) (441,378) (443,379) (455,380) (468,381) (480,382) (482,383) (484,384) (496,385) (509,386) (511,387) (513,388) 
+social_networks_clear_error_dialog 4 (0,396) (36,397) (42,398) (49,399) 
+social_networks_get_error_string 79 (60,407) (96,408) (108,409) (120,410) (160,412) (172,413) (184,414) (186,415) (224,416) (236,417) (248,418) (250,419) (288,420) (296,421) (306,422) (318,423) (331,424) (343,425) (351,426) (384,427) (386,428) (398,429) (400,430) (409,431) (436,432) (448,433) (460,434) (489,435) (497,436) (507,437) (519,438) (532,439) (544,440) (552,441) (588,442) (590,443) (602,444) (604,445) (615,446) (642,447) (654,448) (666,449) (668,450) (670,451) (688,453) (696,454) (706,455) (719,456) (731,457) (744,458) (757,459) (769,460) (782,461) (794,462) (807,463) (819,464) (832,465) (844,466) (857,467) (870,468) (882,469) (895,470) (908,471) (920,472) (933,473) (946,474) (958,475) (971,476) (983,477) (996,478) (1008,479) (1021,480) (1034,481) (1042,482) (1054,483) (1056,484) (1058,485) (1070,487) (1084,489) 
+social_networks_animate_load 8 (0,497) (36,498) (42,499) (80,501) (116,502) (140,503) (158,504) (160,505) 
+social_networks_hide_load 22 (0,514) (36,516) (96,517) (131,518) (144,519) (180,520) (182,521) (184,522) (220,525) (280,526) (315,527) (328,528) (364,529) (366,530) (368,531) (404,533) (464,534) (499,535) (512,536) (548,537) (550,538) (552,539) 
+social_networks_broadcast_finish 5 (0,547) (36,551) (45,552) (83,553) (85,554) 
+social_networks_broadcast_cancel 2 (0,563) (38,567) 
+social_networks_get_message 78 (60,579) (96,580) (114,582) (151,584) (188,587) (210,588) (236,590) (258,591) (260,592) (286,594) (308,595) (310,596) (312,597) (321,599) (334,600) (347,601) (360,602) (373,603) (386,604) (399,605) (406,606) (418,607) (420,608) (432,610) (450,612) (468,613) (487,614) (526,615) (550,616) (554,617) (578,618) (580,619) (582,620) (591,622) (604,623) (617,624) (630,625) (643,626) (656,627) (669,628) (682,629) (684,630) (702,633) (709,634) (716,635) (723,636) (735,637) (747,638) (749,639) (756,640) (763,641) (770,642) (782,643) (794,644) (796,645) (803,647) (810,648) (817,649) (829,650) (841,651) (843,652) (850,654) (857,655) (864,656) (876,657) (888,658) (890,659) (897,661) (904,662) (911,663) (923,664) (935,665) (937,666) (1013,668) (1015,669) (1048,671) (1055,672) (1069,674) 
+social_networks_strip_bad_chars 11 (44,686) (56,687) (69,688) (123,689) (135,690) (137,691) (191,692) (203,693) (205,694) (246,696) (260,697) 
+social_networks_get_privacy_policy 3 (0,705) (13,708) (27,710) 
+social_networks_setup_broadcast_handlers 17 (1,719) (8,720) (15,721) (31,722) (33,727) (42,731) (56,732) (64,733) (86,734) (88,735) (94,736) (96,737) (132,739) (174,740) (204,742) (206,743) (236,745) 
+social_networks_choose_broadcast 12 (28,756) (64,757) (71,758) (92,759) (105,760) (156,761) (162,763) (191,764) (224,767) (262,768) (271,770) (273,771) 
+social_networks_broadcast_allowed 29 (28,780) (64,781) (82,784) (116,785) (148,786) (150,787) (181,790) (216,791) (248,792) (250,793) (259,804) (312,805) (344,806) (346,807) (348,808) (380,810) (416,811) (448,812) (450,813) (456,815) (487,817) (520,818) (552,819) (554,820) (578,822) (608,823) (610,824) (644,838) (676,840) 
+social_networks_is_first_boot 12 (1,849) (17,850) (19,851) (45,853) (63,854) (97,855) (99,856) (117,858) (148,859) (152,860) (184,861) (186,862) 
+social_networks_did_first_boot 11 (1,871) (17,872) (19,873) (37,874) (72,876) (108,877) (134,880) (176,881) (178,882) (212,884) (218,885) 
+social_networks_string_contains_prefix 13 (44,897) (62,898) (76,899) (94,901) (139,903) (168,904) (170,905) (200,908) (233,910) (264,911) (268,912) (300,913) (302,914) 
+social_networks_get_censored_text 11 (28,925) (46,926) (59,929) (77,930) (90,931) (92,932) (126,933) (148,934) (156,935) (158,936) (172,938) 
+
+[Checksums]
+0xf080c9fa scripts\game\net\social_networks.qb
+0xb990d003 target
+0x8e411006 b
+0x1829b014 ret
+0xaa7f2028 pad_l1
+0x0f7e902c nullscript
+0xcd0dc02d KillSpawnedScript
+0xf9d3803b social_networks_get_privacy_policy
+0x475bf03c event_handlers
+0x6a7ee03e found_error
+0xd822303e network_platform_only
+0x96d70045 TWITTER_UNAVAILABLE
+0x689fe07c template
+0x8ae8f082 g_os_msg_char_limit
+0x0e9bb087 msg_type
+0x01aa108a FACEBOOK_UNKNOWN_ERROR
+0xebe1709e FACEBOOK_DISABLED_FOR_USER
+0xb6c510b6 g_social_networks_custom_text
+0xb68c90bf facebook_post
+0xc50290c5 custom_text
+0x16e840ea cancel_confirm
+0x9f6190ed broadcast_continue_params
+0x3254b0ef back_script
+0x301dd0f9 GetGlobalTags
+0x6b574107 censored_text
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0x1bce311c friend_feed_get_message_string
+0xbf332137 console_message
+0x2bd40147 gamertag_string
+0x5ef31148 array
+0xfe82614d length
+0x945ed158 user_control_destroy_helper
+0x0f039164 is_lobby_available
+0xa8f8816f FACEBOOK_TIMED_OUT
+0xbff7a174 TWITTER_AUTH_TOKEN_INVALID
+0xcf66717b GotParam
+0xe86a819c social_did_broadcast
+0xa5d181a0 g_facebook_broadcast_armed
+0x3eb181a1 options_facebook
+0x5e9d11b2 player_num
+0x174841bc a
+0xd2fba1bf tmp_os_text
+0x6017f1cc ui_event
+0x962c31da UIstate_social_networks_broadcast
+0xbfa801df change
+0x3b4631df IsPS3
+0x848321e4 get_gamertag
+0x3f93a1ef replace_handlers
+0xa1dc81f9 name
+0xc1bf4204 freeplay_check_on
+0x01b0b20e return_struct
+0xa7a3e21a return_script
+0x393df220 image_href
+0x500eb224 Obj_GetId
+0xcb303225 FACEBOOK_AUTH_TOKEN_INVALID
+0xb2258234 facebook_name
+0x8871124e social_networks_strip_bad_chars
+0xcc9d025b error_code
+0x8231c261 twitter_post
+0x5d9e3270 get_player_num_from_controller
+0x65cc1280 TWITTER_DISABLED
+0xfe0cb28d social_networks_animate_load
+0x2f13f29b social_networks_broadcast
+0xbca002b4 FACEBOOK_DISABLED
+0xd443a2bc off
+0xbb7372f2 FACEBOOK_UNAVAILABLE
+0x67a4c30c social_networks_choose_broadcast
+0x2159e31f cancel_script
+0xa8ee7357 ScriptAssert
+0x300bc35d g_twitter_normal_append
+0xa656a35e TWITTER_AUTH_ATTEMPT_FAILED
+0x8516f361 g_twitter_truncate_append
+0x0203b372 true
+0x5b058376 param
+0x9cd2b37d g_social_networks_to_broadcast
+0x8c2fb395 game_msg
+0xf24a239a CreatePlatformMessageBox
+0xc5f953c2 button
+0x5e6c83d8 social_networks_broadcast_start_pad_shim
+0x10c6f3db structure_name
+0x4627a3de competitive
+0xc5bc93ee ScreenElementExists
+0xff0db407 textname
+0x9277f428 FormatText
+0xf8a4443a get_savegame_from_controller
+0xe9958449 twitter
+0xbd09544c func
+0x91f0e45a body_text
+0xef755468 NetFeed
+0x2e1e7476 back_button_script
+0x47e40480 FACEBOOK_ERROR
+0x906b04a1 social_networks_broadcast_start
+0x8c6bb4b0 ui_event_get_top
+0x39b5c4b0 GetArraySize
+0x445114c8 NetSessionFunc
+0xde9f04cd spinner_id
+0xdeef04cd StructureContains
+0x8da97503 primary_controller
+0xb929850d did_succeed
+0x9d3fb516 focus
+0x64946516 CheckForSignIn
+0xdb96e524 block_menu_input
+0xd96f6527 options_twitter
+0x6ba4353e freeplay_check_off
+0xb40d153f Select
+0x14251541 TWITTER_UNKNOWN_ERROR
+0x840d6547 GameMode_GetType
+0x7a95a557 t
+0xc451f558 event
+0x58cd3561 social_networks_broadcast_cancel
+0x8e688575 social_networks_broadcast_continue
+0xc1b98577 LocalizedStringEquals
+0x2fca0578 options
+0x99db757c new_string
+0xc55f3585 g_twitter_msg_char_limit
+0x67e6859a player
+0xba4e05af FACEBOOK_AUTH_ATTEMPT_FAILED
+0xd0f655b4 passed_variables
+0x724ab5de message_struct
+0x7ad735e9 is_social_share
+0x150d35f1 heading_text
+0x26bb4601 TWITTER_ERROR
+0x7bb9c604 menu_replace
+0x2de8c60e printf
+0xa0b6d64c StringLength
+0xf7a43650 g_social_networks_broadcast_sent
+0x2f1fc695 alpha
+0x4c49f695 g_twitter_additional_truncate_space
+0xd961d6e7 social_networks_broadcast_confirm
+0x332816ed menu_id
+0xadefd6f0 show_facebook
+0x74297717 local
+0x948b371f facebook
+0xc0cab738 LockGlobalTags
+0x2cb33744 LaunchEvent
+0x8ccc4760 IsOldEnoughForOnline
+0x0ed45788 Obj_SpawnScriptNow
+0x457c1789 preset_text
+0xd4c98794 title
+0x906b67ba time
+0x1804a7c4 voice
+0xe288a7cb value
+0xd43297cf false
+0x1d2d97d4 func_params
+0xe33597e8 social_networks_hide_load
+0x3e7727fa IsXenon
+0x87abe80c g_twitter_broadcast_armed
+0x90fec815 structure
+0xc195a822 create_dialog_box
+0xf4d9a825 add_user_control_helper
+0xcc9a0831 g_enable_facebook
+0xea140835 privacy_policy_text
+0xc4745838 text
+0xcc91e842 str_len
+0x9f7b7843 network
+0x25209846 SE_WaitProps
+0x9d2d8850 z
+0xb048185e ui_event_is_top_social_share
+0x90d9b876 alias_instrument_spinner
+0xee51589e counter_name
+0x40c698af id
+0xe6cf88c4 callback_params
+0x7321a8d6 type
+0xb90a78d7 is_popup
+0x9811f8fb titleid
+0x7f8c98fe index
+0x6cef5907 menu_change
+0x5260390f os_message
+0x0ad46922 controller_index
+0xa11b3926 back_params
+0x3006193d globalcounter_facebook_broadcast
+0xca7a5957 twitter_armed
+0xbecdf961 facebook_description
+0xb30d9965 controller
+0x6c4e7971 prefix
+0x1993c98e i
+0x7d5d29a9 SetButtonEventMappings
+0x8ec7a9aa show_twitter
+0x726c29b6 user
+0x1b0509c5 savegame
+0x899519ca TWITTER_TIMED_OUT
+0x53636a02 image_url
+0xc9428a08 device_num
+0xdd471a09 social_networks_is_first_boot
+0x557c6a0d voice_allowed
+0x996faa28 StringNCopy
+0xbca37a49 buttons
+0x9760fa5f default_params
+0x38caca9b UIstate_social_networks_choose
+0x79425aa5 social_networks_get_censored_text
+0x862a5aa8 instrument_spinner_ui_icon_anim
+0x5ac08ad5 active_button
+0xb2166ad6 cancel_params
+0x7fb8aae1 facebook_caption
+0x954fbaee os
+0xddd2fb05 twitter_check_is_registered_flag
+0x37c84b09 destroy_dialog_box
+0x2e121b0b social_networks_broadcast_finish
+0x4f653b0b unblock_menu_input
+0x9da0bb1d TWITTER_DISABLED_FOR_USER
+0x0eea7b49 IsCableUnplugged
+0x7ceabb52 social_networks_broadcast_posted_callback
+0x77c71b72 user_options
+0x90e6bb74 g_enable_twitter
+0xeb220b7b gettitleid
+0x0e18eb8d g_social_networks_broadcast_string
+0x8b416b8f net_counter_increment
+0xb9992b93 obj
+0x34c46ba4 facebook_check_is_registered_flag
+0xf362dbba replace
+0x29502bc0 UI_SFX
+0xa5451bc2 social_networks_broadcast_allowed
+0x34ec6bd3 return_params
+0x26464bd4 networks
+0xab251bd6 facebook_armed
+0x86068bd9 callback
+0x84dcfc07 CustomMessage
+0x4d49ac0a current_menu
+0x37f1ac0e RemoveArrayElement
+0x9f23dc21 SE_SetProps
+0xac3ebc37 social_networks_setup_broadcast_handlers
+0x55953c8a social_networks_get_error_string
+0x661b4c9b g_social_networks_strings
+0x520c0c9c data
+0x0830ecaf ObjID
+0x98621cb3 social_networks_clear_error_dialog
+0x44a31cb5 SetGlobalTags
+0x8cc51cb8 globalcounter_twitter_broadcast
+0x4adf0cd3 unfocus
+0xac85ecd6 message_id
+0xd6521cee generic_event_back
+0x361a9cef social_networks_string_contains_prefix
+0x5c6c2d04 state
+0x7f5b3d4d array_size
+0xc906ad51 menustate
+0x61414d56 string
+0xbd51fdbf back_button_params
+0x3576fdc6 current_network
+0x1dbf7dde TWITTER_UPDATE_LIMIT_REACHED
+0x078d4ded tmp_str
+0x676f1df1 with
+0xdbb68e1b social_networks_broadcast_init
+0x98423e1b social_networks_did_first_boot
+0x69b05e2c generic
+0xbe304e86 printstruct
+0xe23a4e87 orange
+0xecae4e8f message_sent
+0x940cde9c ChecksumEquals
+0x08d82e9d AddParam
+0x45c90ecc new_message_struct
+0xf767ced3 error_string
+0x8737eeda is_network_game
+0x02141f19 clean_up_user_control_helpers
+0x2c6a5f27 uitype
+0xf9bbff5e out_param
+0x4942cf80 message
+0xed70cf82 required_str_len
+0x843bdf9b StringReplace
+0x9a9edfa9 social_networks_broadcast_deinit
+0x69d0dfaf player_device
+0x9f992fc2 social_networks_get_message
+

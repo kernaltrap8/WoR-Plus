@@ -1,0 +1,71 @@
+[LineNumbers]
+ui_create_cap_artist_layer_options 18 (44,9) (120,10) (127,12) (139,13) (151,15) (191,16) (204,17) (210,18) (223,19) (236,20) (238,21) (315,23) (428,25) (451,27) (488,29) (494,30) (571,31) (573,32) 
+ui_return_cap_artist_layer_options 2 (0,41) (23,43) 
+ui_destroy_cap_artist_layer_options 2 (0,53) (6,55) 
+ui_init_cap_artist_layer_options 3 (0,65) (36,67) (38,69) 
+ui_deinit_cap_artist_layer_options 19 (28,78) (46,80) (52,81) (54,83) (60,86) (72,87) (74,88) (125,89) (137,90) (139,91) (160,92) (168,93) (208,94) (214,95) (216,97) (252,99) (259,100) (261,101) (267,103) 
+exit_artist_layer_options 2 (0,113) (37,114) 
+exit_artist_layer_options_discard 3 (0,121) (6,122) (12,123) 
+
+[Checksums]
+0x1722a617 scripts\guitar\menu\states\layouts\cap\ui_cap_artist_layer_options.qb
+0x94a5103b ui_event_get_stack
+0x04af9163 stack_size
+0xcf66717b GotParam
+0x6017f1cc ui_event
+0x3cd9d1fc setup_cas_menu_handlers
+0xefe30239 color_wheel
+0xbf17a257 show_history
+0xf55b02b2 ui_init_cap_artist_layer_options
+0x8035930b FlushAllCompositeTexturesFromUI
+0x0203b372 true
+0x192bc3a2 pad_back_script
+0xc09243be cleanup_cas_menu_handlers
+0xc5bc93ee ScreenElementExists
+0x7127a3fb car_helper_text_extra
+0x466e3450 from_artist_layer
+0xbe578495 stack
+0x6c9454c4 no_zoom
+0xd28c8510 section
+0x4c29c545 RequireParams
+0xc451f558 event
+0x7230056e ui_deinit_cap_artist_layer_options
+0xa3df65db discard_changes_prompt
+0xe88e660c destroy_generic_menu
+0x3f6e367e zoom_camera
+0xb129469f ui_create_cap_artist_layer_options
+0xff1496de state_device
+0xd4c98794 title
+0xc4745838 text
+0xe071985f KillAllCompositeTextures
+0xb5c628ac create_cap_artist_layer_options_vmenu
+0x40c698af id
+0x3be56933 color_wheel_menu_item
+0x89a01947 cap_artist_layer_edit
+0xb30d9965 controller
+0xd74a6981 no_rotate
+0x1993c98e i
+0xf99549ce exit_artist_layer_options
+0x639329fc mask_index
+0x771e5a62 ui_return_cap_artist_layer_options
+0x8a644a6b pad_back_params
+0x37ba3a84 make_generic_car_menu
+0xe316daad exit_artist_layer_options_discard
+0x09f3fb6f additional_deinit_script
+0x31dc7bab camera_list
+0x7d654c18 exclusive_device
+0x0c714c3f menu_finish
+0xd4fe7c81 ui_destroy_cap_artist_layer_options
+0x520c0c9c data
+0xc4e78e22 all
+0x5a722e29 back_steps
+0x79eefe35 car_helper_text_back
+0x32b10e57 PopTemporaryCASAppearance
+0x5a7ece86 menu_back
+0xa1598eed vmenu_id
+0xb2161ef7 num_icons
+0x37bf4f09 base_name
+0x771cdf0a num_states
+0xb6f08f39 part
+0xe06b8ff1 additional_init_script
+

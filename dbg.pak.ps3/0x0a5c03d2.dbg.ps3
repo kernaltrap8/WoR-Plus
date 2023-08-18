@@ -1,0 +1,38 @@
+[LineNumbers]
+cas_get_part_camera_pos_bedroom 49 (0,5) (12,8) (32,9) (52,10) (64,11) (72,16) (82,17) (102,18) (122,19) (135,20) (148,21) (161,22) (174,23) (187,24) (207,25) (227,26) (240,27) (253,28) (266,29) (279,30) (299,31) (319,32) (332,33) (345,34) (358,35) (378,36) (398,37) (411,38) (431,39) (451,40) (464,41) (477,42) (490,43) (503,44) (523,45) (543,46) (556,47) (576,48) (596,49) (609,50) (629,51) (649,52) (662,53) (682,54) (702,55) (710,56) (716,58) (718,60) (756,62) 
+
+[Checksums]
+0x6b1813fd scripts\create_a_rocker\car_rocker_camera.qb
+0x0f7e902c nullscript
+0x146af0ea Misc_Head
+0x5c982102 CharSelect
+0x83830215 pants
+0x17e7321e FOV
+0x748ca262 Quat
+0x175d62e8 GuitarStart
+0xfef012fd cam_fov
+0xd8a0437a Torso
+0x182643ac MicStart
+0x737d449b HeadTop
+0x8058e545 Misc
+0x4d660680 cam_quat
+0x84f40762 GuitarHead
+0x031627ad GuitarNeck
+0x7f261953 Pos
+0x580c0963 Head
+0x963139b0 cam_pos
+0xf8affa4c GuitarBody
+0xbe543aa9 BandLogo
+0x5e4edae3 Accessory
+0xe5c9cbe4 waist
+0x02e7bc75 Legs
+0xa56dec8e DrumStart
+0xd89dbd70 Hand
+0xd126cdf6 LockTo
+0x94059e68 calves
+0xeb307e68 shoes
+0xc588eebc world
+0xa1be3f46 cam_anim
+0x21c94fde cas_get_part_camera_pos_bedroom
+0xb1778fe1 AdjTorso
+

@@ -1,0 +1,24 @@
+[LineNumbers]
+request_gamer_card 22 (0,6) (13,7) (52,9) (66,10) (68,11) (104,13) (136,14) (172,15) (221,16) (234,17) (272,18) (308,19) (317,20) (347,21) (377,22) (426,23) (439,24) (441,25) (443,26) (445,27) (447,28) (455,30) 
+
+[Checksums]
+0x17a3c414 scripts\game\menu\net\xboxlivemenu_friends.qb
+0x1829b014 ret
+0x7031f10c params
+0x5ef31148 array
+0xcf66717b GotParam
+0xbebfa1c6 element
+0x4bfcd202 AddArrayElement
+0x0203b372 true
+0x2c0b443a showGamerCard
+0xbd09544c func
+0x445114c8 NetSessionFunc
+0x7ef027b7 player_xuid
+0x2f5567b7 net_id_first
+0xd43297cf false
+0xc4aa3815 net_id_second
+0x0ad46922 controller_index
+0xc9428a08 device_num
+0x5bc10e1e CanViewProfile
+0x7536bfea request_gamer_card
+

@@ -1,0 +1,116 @@
+[LineNumbers]
+ui_create_finish_song_loading 2 (0,9) (20,10) 
+ui_destroy_finish_song_loading 1 (0,19) 
+finish_song_loading_spawned 24 (60,23) (75,25) (93,26) (111,28) (148,30) (166,31) (168,32) (186,34) (192,35) (196,36) (232,37) (234,38) (246,40) (250,42) (268,43) (297,44) (315,46) (388,47) (390,48) (392,49) (394,50) (412,52) (430,53) (432,54) 
+finish_jam_song_setup 31 (0,62) (18,63) (33,64) (35,65) (41,67) (59,70) (77,71) (144,74) (212,75) (218,78) (224,81) (245,83) (303,84) (326,86) (384,87) (420,89) (450,90) (500,93) (506,96) (520,97) (532,99) (538,102) (544,105) (576,106) (594,111) (606,112) (619,113) (632,114) (645,115) (647,116) (661,118) 
+jam_song_back_to_gameplay 8 (0,125) (12,127) (60,128) (112,129) (124,130) (126,131) (163,133) (196,135) 
+finish_song_loading_and_transition_to_song_breakdown 38 (0,143) (64,144) (103,146) (109,148) (159,149) (177,150) (183,151) (185,152) (205,153) (240,154) (279,155) (283,156) (301,157) (303,158) (307,159) (325,160) (331,161) (333,162) (335,163) (337,164) (341,165) (379,166) (381,167) (390,169) (396,170) (405,171) (411,172) (454,173) (458,174) (465,175) (477,176) (490,177) (503,178) (505,179) (507,180) (511,181) (554,182) (556,183) 
+finish_song_loading_get_career_state 15 (0,191) (13,192) (23,194) (32,195) (41,196) (69,197) (73,198) (109,199) (111,200) (129,202) (142,203) (144,204) (146,205) (148,206) (162,208) 
+
+[Checksums]
+0x1b866b8b scripts\guitar\menu\states\layouts\ui_finish_song_loading.qb
+0x1bff900b quickplay
+0x958a501c arraylist
+0x0a4dd04a current_starttime
+0x62dfc076 editable
+0x0860e09c ui_memcard_autosave_all_players
+0xe8dc80d1 AddToStringLookup
+0x433840e8 finish_song_loading_spawned
+0xe4f130f4 s
+0x301dd0f9 GetGlobalTags
+0xdb161106 GetSongInfo
+0x7031f10c params
+0xf66ff117 in_game
+0xf514811e do_not_restart_gem_scroller
+0xcc12115e song
+0xcf66717b GotParam
+0x5d0671b8 channel
+0xbfa801df change
+0xd16b61e6 starttime
+0xa1dc81f9 name
+0x1209a2da jam_song_back_to_gameplay
+0xf0200326 continue_setlist_transition
+0x6b024331 jam_current_instrument_effects
+0xde655351 uselaststarttime
+0x0203b372 true
+0x5b058376 param
+0x4da4937b career
+0xabe7538f encore_ready
+0x64c743cc uistate_gameplay
+0x4627a3de competitive
+0x214f7403 uistate_quest_transformation_info
+0x8d92240c ui_event_exists_in_stack
+0x9277f428 FormatText
+0x98db4445 jamsession_copymarkerarrays
+0x006784d1 from_memcard
+0x4cb214e5 is_encore_song
+0x395b94fa songtime_paused
+0xbe314501 jam_recording_create_jamsession_arrays
+0x8da97503 primary_controller
+0x4c29c545 RequireParams
+0x840d6547 GameMode_GetType
+0xc451f558 event
+0xf7de45c4 create_cameracuts
+0x7bb9c604 menu_replace
+0x2de8c60e printf
+0x7888d69f do_not_pause_characters
+0x1cb2a6b0 num_players
+0x532566f5 UIstate_quest_breakdown
+0xd24f570c song_name
+0xaef3b72b default_loading_screen
+0x75e52789 band_lobby_career_mark_save_local_players
+0xd4c98794 title
+0xdc43879f arraylist2
+0xc87427b6 finish_song_loading_and_transition_to_song_breakdown
+0xe8b33825 jam_selected_song_name
+0x1fc908b5 bkutcher
+0x7321a8d6 type
+0x6a3568fb song_prefix
+0x976e2917 jamsession
+0xfea66978 artist
+0xd1aa397a jam_current_bpm
+0x0195a97e jam_current_tuning
+0xce7a7992 g_net_career_progression
+0x1b0509c5 savegame
+0x76fa7a8f checksumname
+0x81d35a9d console_is_net_career_client
+0x19fa5af7 SpawnScriptNow
+0x71cccb15 InInternetMode
+0xd26f2b38 ui_event_wait_for_safe
+0xab81bb3d endtime
+0x18048b72 change_jamsession_songlist_props_struct
+0x43180bda uistate_song_breakdown
+0x646a2bed quest_progression_is_chapter_rush
+0xbea9ebfe end_time
+0xe3901c29 ui_create_finish_song_loading
+0xac5b1c44 jam_load_effect
+0xd9b1bc59 players
+0xfc571c6b loading_transition
+0x8e8cec6c quickplay_start_song
+0x5bebbc79 tuning
+0x520c0c9c data
+0x9d0b5c9c finish_song_loading_get_career_state
+0xf3ab7c9c start_song
+0xda7c8ca7 uistate_song_breakdown_competitive
+0x25cadcac GetNumPlayersInGame
+0x467f8cd0 is_jam
+0x2ed45cd7 ui_destroy_finish_song_loading
+0x5c6c2d04 state
+0x60c9ed6c jamsession_copyfinalscriptarrays
+0xba63cd87 pro_faceoff
+0x57d15db0 bpm
+0xc4e78e22 all
+0x1199be53 sb_jam_song_end_time
+0x5a7ece86 menu_back
+0x8842aea9 ui_event_wait
+0x33eb8ed4 musicstudio_setup_custom_song
+0x8737eeda is_network_game
+0x48107ee0 jam_current_active_effects
+0x65485eea GetPlayerInfo
+0x70291f04 create
+0x23092f34 quest_progression_is_chapter_finale
+0xb6f08f39 part
+0x60040f9b finish_jam_song_setup
+0xe50c7fb0 career_progression_tags
+0x81882fda freeplay
+

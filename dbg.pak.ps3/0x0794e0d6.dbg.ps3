@@ -1,0 +1,225 @@
+[LineNumbers]
+ui_init_options_twitter 2 (0,15) (76,17) 
+ui_create_options_twitter 136 (28,30) (34,31) (41,32) (53,33) (65,34) (77,35) (104,36) (119,37) (134,38) (177,39) (179,40) (205,42) (248,45) (284,46) (286,47) (315,49) (333,52) (353,55) (373,56) (395,57) (417,58) (427,60) (436,61) (449,62) (462,63) (477,64) (479,65) (497,67) (564,68) (568,69) (581,70) (615,71) (617,72) (653,74) (660,76) (672,77) (680,78) (686,79) (698,80) (711,81) (724,82) (739,83) (751,84) (772,85) (784,86) (797,87) (809,88) (817,90) (824,91) (831,92) (838,93) (845,94) (847,95) (866,97) (868,98) (881,99) (893,100) (900,101) (902,102) (930,103) (944,106) (963,109) (981,110) (995,111) (997,112) (1015,114) (1080,115) (1084,116) (1118,117) (1120,118) (1156,120) (1163,122) (1175,123) (1183,124) (1189,125) (1201,126) (1214,127) (1227,128) (1242,129) (1254,130) (1275,131) (1287,132) (1300,133) (1312,134) (1321,136) (1333,138) (1352,139) (1354,140) (1367,141) (1379,142) (1386,143) (1388,144) (1416,145) (1524,154) (1537,157) (1550,158) (1563,159) (1578,160) (1587,162) (1600,163) (1613,164) (1626,165) (1636,166) (1640,167) (1650,168) (1668,169) (1683,170) (1726,171) (1736,172) (1738,173) (1781,174) (1791,175) (1793,176) (1824,177) (1839,178) (1841,179) (1845,180) (1860,181) (1891,182) (1901,183) (1903,184) (1905,185) (1907,186) (1914,188) (1927,189) (1940,190) (1952,191) (1959,192) (1961,193) (2052,229) (2058,231) (2077,233) (2272,237) (2274,239) (2472,244) (2490,247) 
+ui_destroy_options_twitter 6 (0,256) (6,258) (12,259) (48,261) (84,262) (86,263) 
+ui_return_options_twitter 4 (0,271) (36,272) (43,273) (76,275) 
+ui_options_twitter_add_helper_text 7 (28,282) (48,283) (116,284) (135,286) (200,287) (202,288) (268,290) 
+ui_options_twitter_choose_privacy_policy 2 (0,298) (108,303) 
+ui_options_twitter_choose_register 17 (0,312) (22,314) (44,315) (80,317) (120,318) (122,319) (160,321) (166,322) (216,323) (218,324) (225,326) (238,327) (251,328) (263,329) (284,330) (297,332) (299,334) 
+ui_options_twitter_did_register 29 (28,345) (34,346) (52,348) (93,352) (141,353) (165,354) (171,355) (183,356) (195,357) (208,358) (210,359) (214,360) (248,361) (324,362) (336,367) (360,368) (366,369) (372,370) (384,371) (396,372) (409,373) (417,374) (419,375) (431,376) (443,377) (445,378) (447,379) (449,380) (451,381) 
+ui_options_twitter_choose_unregister 11 (0,390) (36,392) (60,393) (66,394) (78,395) (90,396) (103,397) (115,398) (161,399) (173,400) (175,401) 
+ui_options_twitter_did_unregister 22 (28,412) (46,413) (87,414) (135,415) (159,416) (165,417) (177,418) (189,419) (202,420) (204,421) (208,422) (244,423) (320,425) (356,430) (380,431) (386,432) (398,433) (410,434) (423,435) (435,436) (437,437) (439,438) 
+ui_options_twitter_choose_test_post 12 (0,447) (36,449) (76,450) (116,451) (156,452) (158,453) (200,455) (207,457) (220,458) (232,459) (264,460) (266,461) 
+ui_options_twitter_did_post 44 (76,475) (82,477) (104,479) (126,480) (144,482) (180,484) (187,485) (199,486) (212,487) (220,488) (222,489) (234,490) (246,491) (248,492) (250,493) (256,494) (258,495) (262,496) (306,497) (313,498) (326,499) (338,500) (370,501) (372,502) (376,503) (417,505) (465,506) (472,507) (484,508) (497,509) (505,510) (507,511) (519,512) (531,513) (533,514) (535,515) (541,516) (543,517) (545,518) (547,519) (584,521) (636,522) (638,523) (667,525) 
+ui_options_twitter_accept_username 4 (0,534) (52,536) (86,538) (92,540) 
+ui_options_twitter_accept_password 4 (0,549) (52,551) (86,553) (92,555) 
+ui_options_twitter_back_and_refresh 8 (0,564) (6,566) (41,567) (47,568) (51,569) (57,570) (59,571) (92,573) 
+ui_options_twitter_cancel_edit_name 3 (0,582) (52,584) (58,586) 
+ui_options_twitter_check_settings 29 (28,595) (41,597) (80,598) (98,599) (111,600) (113,601) (135,603) (157,604) (188,606) (207,607) (209,608) (211,609) (235,611) (241,612) (253,613) (297,614) (309,615) (317,616) (319,617) (331,618) (343,619) (345,620) (347,621) (360,622) (381,623) (393,624) (395,625) (397,626) (399,627) 
+twitter_add_text_item 11 (28,638) (35,639) (37,640) (49,641) (61,642) (74,643) (76,644) (112,646) (147,647) (149,648) (163,650) 
+
+[Checksums]
+0xce912977 scripts\guitar\menu\states\layouts\ui_options_twitter.qb
+0xb990d003 target
+0x0f7e902c nullscript
+0x475bf03c event_handlers
+0x478d906c twitter_get_info
+0x059ea070 red
+0x689fe07c template
+0x6731a0e2 ui_options_twitter_choose_privacy_policy
+0x16e840ea cancel_confirm
+0xe4f130f4 s
+0x6b574107 censored_text
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0x73665140 CreateScreenElement
+0x7df8614e p
+0x01dd615f DescInterface
+0x46967175 os_kb_flags
+0xcf66717b GotParam
+0x8c6c61bc ps3_password_input
+0x2f6511de green
+0xbfa801df change
+0xb1f251e2 accept_params
+0x47d481ec default_color_scheme
+0xa1dc81f9 name
+0x8fae8247 title_text
+0xbd30325b white
+0xcc9d025b error_code
+0x8231c261 twitter_post
+0x9c3bd271 g_options_twitter_temp_info
+0x7d99f28d texture
+0xfe0cb28d social_networks_animate_load
+0x17a542ba menu_refresh
+0x10f902ff password_prompt
+0x85a5d317 ui_options_twitter_add_helper_text
+0x2159e31f cancel_script
+0x4380f321 page_head_text
+0xf8e87323 twitter_add_text_item
+0x4d8f232f username_text
+0xa8ee7357 ScriptAssert
+0x1fb3535b ui_create_options_twitter
+0x2ffb1360 yellow
+0xf44a53ab desc
+0xc5f953c2 button
+0x48efe3d2 no_show_history
+0x215563d8 confirm_func
+0xc5bc93ee ScreenElementExists
+0xff0db407 textname
+0x892cd41f f
+0x1d944426 not_focusable
+0x9277f428 FormatText
+0xc73e2430 ui_options_twitter_choose_register
+0xf8a4443a get_savegame_from_controller
+0xe9958449 twitter
+0xbd09544c func
+0x91f0e45a body_text
+0xf84de461 menurow_txt_item_rgba
+0x1e93946b alias
+0xe8d334a6 ui_options_twitter_cancel_edit_name
+0x8c6bb4b0 ui_event_get_top
+0x8da97503 primary_controller
+0xb929850d did_succeed
+0x9d3fb516 focus
+0xec1cd520 continue
+0xd96f6527 options_twitter
+0xb40d153f select
+0x7a95a557 t
+0xc451f558 event
+0x0b2a155f twitter_unregister
+0xa6243562 ui_options_twitter_accept_username
+0x2fca0578 options
+0x102585a5 e
+0x6bb875c0 ui_options_twitter_accept_password
+0x0d9295c1 u
+0x020f45d3 ui_social_networks_setup_continue
+0x767a45d7 black
+0x724ab5de message_struct
+0x7ad735e9 is_social_share
+0xac15f5ef g_twitter_tm_string
+0x150d35f1 heading_text
+0x603845f2 UIstate_generic_dialog_box
+0xa4b375f3 retry_on_fail
+0x2de8c60e printf
+0xa7d7c610 choose_script
+0x5f44361e username_prompt
+0x95741693 pad_option2
+0x53e3d6b9 no_accept
+0x332816ed menu_id
+0xd718f6ee dialog_box_desc_id
+0xe6149702 focusable_params
+0x2cb33744 LaunchEvent
+0x6071e769 ui_options_twitter_back_and_refresh
+0xd712076d name_entry_twitter_username_characters
+0xbcab976e generic_event_replace
+0x62770775 is_censored
+0x4712e77a ui_return_options_twitter
+0x0ed45788 Obj_SpawnScriptNow
+0xd4c98794 title
+0x1d2d97d4 func_params
+0xe33597e8 social_networks_hide_load
+0xd48727fe UIstate_os_edit_name
+0xc195a822 create_dialog_box
+0xf4d9a825 add_user_control_helper
+0xe468582a ui_options_twitter_check_settings
+0x22bdd82b accept_script
+0xc4745838 text
+0x370da83b ui_destroy_options_twitter
+0x23109842 name_entry_number_characters
+0x9f7b7843 network
+0x16b06850 xenon_email_input
+0x9d2d8850 z
+0x29d5d87b add_gamertag_helper
+0x40c698af id
+0xe6cf88c4 callback_params
+0x7321a8d6 type
+0xb90a78d7 is_popup
+0xbe5988dd screen_id
+0x52896903 valid_characters
+0xca3db92a password
+0xeafc692e no_background
+0xb30d9965 controller
+0x6c4e7971 prefix
+0x1f532972 g_options_twitter_did_register
+0x07a1f988 username
+0x3c15e9b6 DestroyScreenElement
+0xec9579b8 g_social_networks_required_prefix
+0x1b0509c5 savegame
+0xf2dfb9eb add_generic_menu_up_down_sound_handlers
+0xc9428a08 device_num
+0x3f6b2a2d g_twitter_string
+0x604efa33 helper_text
+0xef75ca77 mainmenu_item_id
+0xb16a8a7a ui_options_twitter_choose_test_post
+0x79425aa5 social_networks_get_censored_text
+0x3bf88ac7 name_entry_upper_characters
+0x888eaada create_mainmenu_bg
+0x56a1eae3 root_window
+0x84ff9ae3 status
+0xc16dbaec uncensored_text
+0x97699af0 xenon_password_input
+0xe42dbaff default_name
+0xddd2fb05 twitter_check_is_registered_flag
+0x37c84b09 destroy_dialog_box
+0x28e66b14 resolved_id
+0xf1ff8b68 choose_state
+0xb6c42b92 UIstate_privacy_policy
+0x29502bc0 UI_SFX
+0x5f773bc0 ui_options_twitter_did_unregister
+0x90436bd9 tags
+0x86068bd9 callback
+0x15047bf7 menu_item_text
+0x7d654c18 exclusive_device
+0x9f23dc21 SE_SetProps
+0xbecb3c77 twitter_register
+0x55953c8a social_networks_get_error_string
+0x75834c95 name_entry_lower_characters
+0x520c0c9c data
+0xf380acaf menurow_txt_item_dims
+0x62c11cb9 GetSingleTag
+0x0c441cc3 item_text
+0x4adf0cd3 unfocus
+0xac85ecd6 message_id
+0xcc848cd8 from_boot
+0xd6e7acdc cancel_func
+0xd6521cee generic_event_back
+0x361a9cef social_networks_string_contains_prefix
+0x5c6c2d04 state
+0x7ee0fd2a pad_back
+0x66a54d2d generic_event_choose
+0x4577fd38 AssignAlias
+0xa77e2d3e ui_options_twitter_choose_unregister
+0xcf1d0d4b text_color
+0xc906ad51 MenuState
+0x61414d56 string
+0x14f80d60 ui_options_twitter_did_register
+0xed90ada1 item_id
+0xf003cda9 test_update
+0x69ec7dbf alias_social_menu
+0x8dca8e05 ui_options_twitter_did_post
+0x69b05e2c generic
+0x15a08e38 confirm_func_params
+0x59ddde4c UIstate_options_game_setup
+0x24c40e79 destroy_mainmenu_bg
+0xbe304e86 printstruct
+0x7d6d6e9b options_twitter_vmenu
+0x8842aea9 ui_event_wait
+0x92313ec8 Back
+0x984abecc ui_init_options_twitter
+0xf767ced3 error_string
+0xd0887ee5 social_networks_tester_mode
+0x37bf4f09 base_name
+0x02141f19 clean_up_user_control_helpers
+0x2c6a5f27 UIType
+0x57710f31 z_priority
+0xd0abff32 g_twitter_icon
+0xe2c4cf3e char_limit
+0x0d81ff47 g_social_networks_required_prefix2
+0x56215f73 password_text
+0x00ebffa3 ps3_alphabet_input
+0xc2719fb0 parent
+0x1c396fc1 mainmenu_setup_option
+0x9f992fc2 social_networks_get_message
+0x27dbcfcb exit_func
+0x34984fd9 choose_params
+

@@ -1,0 +1,82 @@
+[LineNumbers]
+ui_create_cag_custom_body 88 (0,9) (21,11) (28,13) (40,14) (52,15) (58,16) (71,17) (73,18) (112,19) (152,20) (309,22) (341,24) (348,25) (360,26) (372,27) (384,28) (392,29) (405,30) (417,31) (430,32) (436,33) (448,34) (463,35) (491,36) (590,37) (621,38) (623,39) (625,40) (660,41) (662,42) (694,44) (701,45) (713,46) (725,47) (737,48) (745,49) (758,50) (770,51) (783,52) (789,53) (801,54) (816,55) (844,56) (943,57) (974,58) (976,59) (978,60) (1012,61) (1014,62) (1046,64) (1053,65) (1065,66) (1077,67) (1089,68) (1097,69) (1110,70) (1122,71) (1135,72) (1141,73) (1153,74) (1168,75) (1196,76) (1295,77) (1326,78) (1328,79) (1330,80) (1364,81) (1366,82) (1387,86) (1394,87) (1406,88) (1418,89) (1430,90) (1438,91) (1453,92) (1466,93) (1478,94) (1490,95) (1518,96) (1617,97) (1648,98) (1660,99) (1662,100) (1664,101) (1666,102) (1700,103) (1723,104) (1771,106) 
+ui_destroy_cag_custom_body 2 (0,115) (6,116) 
+ui_return_cag_custom_body 3 (0,124) (6,125) (29,126) 
+continue_to_finishes 5 (0,134) (9,136) (40,137) (42,138) (79,140) 
+continue_to_type 5 (0,149) (9,151) (40,152) (42,153) (79,155) 
+
+[Checksums]
+0xb36ce205 scripts\guitar\menu\states\layouts\cag\ui_cag_custom_body.qb
+0xb990d003 target
+0x7e0c6048 is_part_capable
+0x2057e079 ui_create_cag_custom_body
+0xa484d093 add_car_menu_text_item
+0xda63d104 Finishes
+0x80dab125 target_desc_id
+0xbfa801df change
+0x3cd9d1fc setup_cas_menu_handlers
+0xefe30239 color_wheel
+0xbf17a257 show_history
+0x80db125a hist_tex
+0x7aad92ad Is_ui_event_running
+0xf6ab82f2 cas_current_savegame
+0xe374335b body_part
+0x6ca9a3a5 selected_index
+0x78f65458 ui_return_cag_custom_body
+0x8dd9f475 Details
+0x40c3e4cc skull_alpha
+0x9d3fb516 focus
+0xd6429519 create_cag_custom_body_vmenu
+0x9836251b cam_name
+0x0acc054f car_helper_text
+0xc451f558 event
+0xb8437568 pad_choose_params
+0xe88e660c destroy_generic_menu
+0x39df261c return_stance
+0x9a6bd624 icon
+0x3f6e367e zoom_camera
+0xff1496de state_device
+0x326dc6f1 FADES
+0x2cb33744 LaunchEvent
+0xd4c98794 title
+0x85619797 border_elements_alpha
+0xd43297cf false
+0x63af57f5 UIstate_cap_artist_layer_popout
+0xc4745838 text
+0x4a04485c continue_to_finishes
+0x7321a8d6 type
+0xb90a78d7 is_popup
+0x6cef5907 menu_change
+0xd750490b UIstate_cag_custom_body_types
+0x2e86d939 ui_event_block
+0xaa7fe952 get_section_index_from_desc_id
+0xb30d9965 controller
+0x1b0509c5 savegame
+0xb88029ff generic_menu
+0x2c8a3a6d child_index
+0x37ba3a84 make_generic_car_menu
+0xe4202b13 generic_menu_block_input
+0x08e91b19 ui_destroy_cag_custom_body
+0xf1ff8b68 choose_state
+0x9a4eab69 Stance_Select_Guitar
+0x31dc7bab camera_list
+0x7d654c18 exclusive_device
+0x9f23dc21 SE_SetProps
+0x0c714c3f menu_finish
+0x22236c98 icon_graphics
+0x520c0c9c data
+0x2b0cfca1 pad_choose_script
+0x552d9cd5 guitar_colorwheel
+0xe3e97d00 instrument_info
+0x7056ed02 RemoveParameter
+0x5c6c2d04 state
+0x5b38cd4b icon_cag_finishes
+0x16d19dc2 choose_state_data
+0xe3e7de78 continue_to_type
+0xa1598eed vmenu_id
+0x02141f19 clean_up_user_control_helpers
+0xb6f08f39 part
+0x2fe6af65 icon_details
+0x55f5ef8a UIstate_cap_main
+0xe8dbff9a section_index
+

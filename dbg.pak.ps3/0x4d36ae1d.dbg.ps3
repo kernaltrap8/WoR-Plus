@@ -1,0 +1,79 @@
+[LineNumbers]
+ui_create_options_data 38 (0,8) (7,10) (19,11) (31,12) (43,13) (64,14) (72,15) (74,16) (82,17) (95,18) (97,19) (112,20) (124,21) (136,22) (138,23) (188,25) (224,28) (300,30) (376,31) (452,32) (496,34) (510,35) (516,36) (518,37) (520,38) (564,40) (578,41) (584,42) (586,43) (588,44) (688,53) (788,62) (888,71) (894,75) (900,77) (920,79) (1004,80) (1088,81) 
+ui_destroy_options_data 5 (0,90) (6,92) (44,94) (80,95) (82,96) 
+ui_options_data_save_game 2 (0,105) (52,107) 
+ui_options_data_load_game 2 (0,116) (68,118) 
+ui_options_data_anim_in 2 (0,131) (36,133) 
+ui_options_data_anim_out 2 (0,144) (36,146) 
+
+[Checksums]
+0xb37aa313 scripts\guitar\menu\states\layouts\ui_options_data.qb
+0x475bf03c event_handlers
+0x8ddd205f ui_memcard_load
+0x059ea070 red
+0x3254b0ef back_script
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0x80fe3141 show_mainmenu_bg
+0x01dd615f DescInterface
+0x2f6511de green
+0xb62401e5 ui_options_check_settings
+0xa1dc81f9 name
+0x0f5b9256 attempt_to_add_friend_feed
+0xf44a53ab desc
+0xc5f953c2 button
+0xc5bc93ee ScreenElementExists
+0x1cca942f menu_header_cont_alpha
+0x5b6634d4 hide
+0x8da97503 primary_controller
+0xc451f558 event
+0x82fac56c menu
+0x8d85358f parent_id
+0xa7d7c610 choose_script
+0xb4f1f65a alias_mainmenu_up_arrow
+0x622d16e6 ui_options_data_load_game
+0x14db6709 fg_objects_1
+0x9dfbf7c5 main_generic
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0x4bb2084e desc_id
+0x9d2d8850 z
+0x29d5d87b add_gamertag_helper
+0x6dfbf891 ui_options_data_save_game
+0x7a56a8a3 show_confirm_dialog
+0x40c698af id
+0x7321a8d6 type
+0xbe5988dd screen_id
+0x68ece96d ui_options_data_anim_out
+0x3c15e9b6 DestroyScreenElement
+0x26982a07 all_buttons
+0x604efa33 helper_text
+0x71d0fa66 UIStack_SpawnBoundScriptNow
+0x56a1eae3 root_window
+0x44d0faff main_menu_finalize
+0x28e66b14 resolved_id
+0xf1ff8b68 choose_state
+0xed65fbcc ui_options_data_anim_in
+0x90436bd9 tags
+0x8ecc0bda ampzilla_anim
+0x15047bf7 menu_item_text
+0x7d654c18 exclusive_device
+0x9f23dc21 SE_SetProps
+0x8fff0c90 anim_clouds
+0x1db9dcfc mainmenu_animate
+0x7ee0fd2a pad_back
+0x678a1d9e alias_mainmenu_down_arrow
+0x4f549dd1 menu_header_text_text
+0xa7920e3b UIStack_CreateBoundScreenElement
+0xfbff1e7e ui_create_options_data
+0x5a7ece86 menu_back
+0xfdbdfe9c ui_memcard_save
+0x02141f19 clean_up_user_control_helpers
+0xf42aef1e ui_options_set_settings
+0x418baf22 mainmenu_setup_physics_elements
+0x78f76f98 options_data_menu_id
+0x234aefa9 uistate_options_progression
+0xc2719fb0 parent
+0x1c396fc1 mainmenu_setup_option
+0xe90f0fcc ui_destroy_options_data
+

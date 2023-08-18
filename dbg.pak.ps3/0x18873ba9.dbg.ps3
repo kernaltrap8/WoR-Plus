@@ -1,0 +1,40 @@
+[LineNumbers]
+
+[Checksums]
+0x07c938a4 scripts\guitar\guitar_band_profile.qb
+0x30deb007 worst_female_band
+0xc2a28080 vocalist
+0xde5b8093 GH4_CAR_Female
+0x551e42d9 allowed_parts
+0x24613344 CAS_Body
+0x4570735d drummer
+0xc8b6445d Rock
+0x62c24465 face_tension
+0xf470248e jam_mode_band
+0xcb9fb4cf Bass
+0x5bba25a2 WorstMaleCharacter
+0x8c9b85ca WorstFemaleCharacter
+0x4750d5cf blurb
+0xf2d16612 default_band
+0xa6f6a663 default_custom_musician_profile_female
+0x3c8b36ed CAS_Female_Physique
+0x3ac1877c guitarist
+0x8d42e792 default_temporary_profile
+0x73996807 selection_not_allowed
+0x8c9aa82b FemalePhysique1
+0x4bb2084e desc_id
+0xf239e8ab jam_mode_band_profiles
+0x27e0f9c5 CAS_Male_Physique
+0x6e965b60 bassist
+0xe0df5b8d default_custom_musician_profile_male
+0x7cafcc07 Genre
+0x5cc16cdf Drum
+0x05c14ce3 GH4_CAR_Male
+0xbdc53cf2 Guitar
+0x3c879d1b MalePhysique1
+0x554c7d6f appearance
+0xe8e6adcb Vocals
+0x2c0a3e90 presets
+0x963a2f4d worst_male_band
+0x8186bf67 SavedBandMember
+

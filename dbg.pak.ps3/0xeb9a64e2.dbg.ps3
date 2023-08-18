@@ -1,0 +1,77 @@
+[LineNumbers]
+temp_goal_counter_create 15 (104,18) (140,20) (176,21) (178,22) (244,28) (295,30) (321,32) (355,33) (424,34) (484,35) (510,37) (557,38) (583,40) (617,41) (686,42) 
+temp_goal_counter_update 31 (28,51) (40,53) (59,54) (67,57) (77,58) (106,59) (119,60) (148,61) (150,62) (171,64) (179,67) (189,68) (218,69) (231,70) (260,71) (262,72) (266,74) (268,77) (270,79) (290,81) (298,83) (308,84) (395,85) (408,86) (495,87) (497,88) (501,90) (577,92) (579,94) (613,96) (720,97) 
+temp_goal_counter_destroy 9 (0,104) (48,107) (96,108) (140,109) (188,110) (200,111) (236,113) (272,114) (274,115) 
+temp_goal_counter_destroy_fast 4 (0,119) (36,121) (72,122) (74,123) 
+temp_goal_counter_create_element 37 (48,131) (85,133) (106,135) (124,136) (126,137) (133,140) (146,141) (158,142) (170,143) (182,144) (195,145) (207,146) (220,147) (233,148) (262,149) (274,150) (276,151) (320,153) (341,155) (359,156) (361,157) (368,160) (381,161) (393,162) (405,163) (417,164) (430,165) (442,166) (467,167) (480,168) (509,169) (521,170) (523,171) (547,173) (571,174) (606,176) (641,177) 
+temp_goal_counter_update_element 41 (116,184) (153,186) (166,187) (187,189) (205,190) (207,191) (214,194) (227,195) (239,196) (251,197) (263,198) (276,199) (288,200) (301,201) (314,202) (327,203) (339,204) (341,205) (385,207) (406,209) (424,210) (426,211) (433,214) (446,215) (458,216) (470,217) (482,218) (495,219) (507,220) (532,221) (545,222) (574,223) (586,224) (588,225) (609,227) (628,228) (630,229) (680,231) (701,233) (753,234) (755,235) 
+temp_goal_counter_fade_element 5 (0,242) (37,244) (81,245) (116,246) (151,247) 
+
+[Checksums]
+0xa3e73bb6 scripts\game\modes\challenges\challenge_helper_counter.qb
+0xb990d003 target
+0xf9462090 c
+0x7031f10c params
+0x3611c136 GetTags
+0x73665140 CreateScreenElement
+0x4d1b4174 of_pos
+0x19f8c1c9 shadow_id
+0xaa79a1d5 count_text
+0x840ed1eb temp_goal_counter_destroy_fast
+0xa1dc81f9 name
+0x8b60022f just
+0x2df412dc id_check
+0x227692e9 temp_goal_counter_create_element
+0x2334e34e temp_goal_counter_update
+0x19d913c4 count_pos
+0xc5bc93ee ScreenElementExists
+0x67d2e3f0 SE_GetProps
+0xff0db407 textname
+0x9277f428 FormatText
+0x79d8d4b6 fail
+0xbf0f14db center
+0x7a95a557 t
+0x2f1fc695 alpha
+0x34c736cd temp_goal_counter_create
+0x99a9b716 color
+0x2f6bf72d font
+0x906b67ba time
+0xc4745838 text
+0x82b0f840 new_count
+0x5b9da842 ContainerElement
+0x25209846 SE_WaitProps
+0xf7c8a852 temp_goal_counter_fade_element
+0x935ab858 debug
+0x85981897 left
+0x40c698af id
+0x7321a8d6 type
+0x7f261953 pos
+0xd6c9595e total_pos
+0x1993c98e i
+0x3c15e9b6 DestroyScreenElement
+0xa58079eb SetTags
+0x2d1c2a33 tgc_total
+0x13b9da7b scale
+0x76fa7a8f checksumname
+0x56a1eae3 root_window
+0x4b358aeb right
+0x19fa5af7 SpawnScriptNow
+0x7a26bb9d count
+0xba6ccbc5 total_text
+0x90436bd9 tags
+0x318f2bdb pass
+0x47ff1c17 temp_goal_counter_update_element
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0x6149edb9 temp_goal_counter_destroy
+0x3f6bcdba rgba
+0x49e0ee96 second
+0xa5d7eefb temp_goal_counter_container
+0x6aea8f0f tgc_count
+0xf158af17 label
+0x57710f31 z_priority
+0x10180fa7 update_text
+0xc2719fb0 parent
+0x5200dfb6 TextElement
+0xbd982fdc complete
+

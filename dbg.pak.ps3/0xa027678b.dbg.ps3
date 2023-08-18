@@ -1,0 +1,197 @@
+[LineNumbers]
+create_swatch_wheel 97 (104,18) (156,20) (196,21) (205,22) (207,23) (220,25) (227,28) (239,29) (251,30) (263,31) (285,32) (312,33) (326,34) (371,35) (373,36) (380,37) (393,38) (395,39) (402,42) (414,43) (426,44) (438,45) (450,46) (466,47) (478,48) (503,49) (528,50) (557,51) (559,52) (566,54) (578,55) (590,56) (602,57) (614,58) (626,59) (651,60) (664,61) (693,62) (695,63) (702,66) (714,67) (726,68) (738,69) (744,70) (760,71) (773,72) (775,73) (787,76) (799,77) (811,78) (813,79) (836,80) (863,81) (876,82) (878,83) (880,84) (901,85) (909,86) (922,89) (935,90) (948,91) (961,92) (974,93) (987,94) (1000,95) (1013,96) (1026,97) (1039,98) (1041,99) (1048,101) (1060,102) (1072,103) (1084,104) (1108,105) (1121,106) (1137,107) (1139,108) (1166,110) (1195,111) (1197,112) (1227,115) (1250,118) (1300,120) (1312,123) (1348,124) (1384,125) (1397,126) (1432,128) (1454,129) (1473,131) (1512,133) (1514,134) (1540,135) (1544,136) (1580,137) (1606,138) (1608,139) 
+swatch_update_text 4 (0,147) (33,149) (57,150) (59,151) 
+swatch_wheel_focus 3 (0,159) (20,160) (56,161) 
+swatch_wheel_unfocus 3 (0,168) (6,169) (26,170) 
+swatch_wheel_set_all_white 8 (0,177) (13,179) (15,180) (72,181) (129,183) (147,185) (169,187) (177,188) 
+swatch_wheel_set_textures 15 (0,196) (64,198) (77,200) (79,201) (139,202) (152,205) (170,206) (182,207) (202,208) (214,209) (216,210) (267,212) (285,214) (307,216) (315,217) 
+swatch_wheel_set_alpha_all 9 (0,225) (64,226) (77,228) (79,229) (142,230) (191,232) (209,234) (231,236) (239,237) 
+swatch_wheel_set_alpha_wedge 11 (0,246) (64,247) (76,249) (94,251) (107,252) (111,253) (134,254) (136,255) (199,258) (248,260) (266,262) 
+swatch_wheel_depress_current_wedge 10 (0,269) (13,270) (15,271) (78,273) (122,275) (188,276) (230,277) (248,279) (270,281) (278,282) 
+swatch_wheel_raise_current_wedge 13 (0,289) (6,290) (18,292) (36,294) (49,295) (53,296) (76,297) (78,298) (141,301) (196,303) (238,305) (304,306) (322,308) 
+swatch_wheel_choose 13 (0,315) (20,316) (72,324) (124,325) (165,327) (668,341) (674,344) (694,345) (714,346) (726,348) (764,349) (777,350) (779,351) 
+swatch_wheel_back 11 (0,358) (20,359) (32,361) (62,363) (112,365) (164,366) (204,368) (240,369) (253,370) (255,371) (257,372) 
+swatch_wheel_reset 3 (0,379) (212,388) (218,390) 
+swatch_wheel_rotate 43 (0,397) (36,399) (56,401) (68,403) (86,405) (156,406) (224,407) (242,410) (264,411) (296,413) (327,415) (331,416) (353,417) (386,419) (388,420) (401,422) (405,423) (472,424) (540,425) (567,428) (580,429) (615,431) (646,433) (650,434) (672,435) (705,437) (707,438) (720,440) (722,441) (735,445) (748,446) (763,447) (775,448) (777,449) (803,467) (823,470) (843,471) (849,472) (915,474) (922,477) (935,478) (964,479) (966,480) 
+swatch_wheel_swap_swatch_on_character 11 (0,487) (72,488) (97,490) (103,495) (110,497) (123,498) (136,499) (138,500) (171,502) (195,503) (197,504) 
+swatch_wheel_fix_rotate 8 (0,511) (64,512) (104,514) (123,515) (125,516) (164,518) (207,519) (209,520) 
+swatch_wheel_fire_select 4 (0,528) (20,529) (32,531) (47,533) 
+load_swatch_textures 14 (0,541) (72,543) (102,545) (114,546) (121,549) (133,550) (146,551) (158,552) (160,553) (232,555) (284,558) (352,560) (358,565) (376,568) 
+get_swatch_textures 21 (0,577) (72,579) (81,581) (116,583) (134,584) (146,585) (148,586) (184,587) (194,589) (207,590) (224,591) (226,592) (264,593) (297,594) (327,595) (329,596) (331,597) (352,599) (360,600) (362,601) (376,603) 
+load_swatch_textures_cleanup 4 (0,612) (52,614) (104,615) (140,620) 
+
+[Checksums]
+0x1a301593 scripts\engine\menu\swatch_wheel.qb
+0xb990d003 target
+0x0f7e902c nullscript
+0x475bf03c event_handlers
+0x0cf7904c color_wheel_arrow_anim_speed
+0x22ceb07d swatch_textures
+0x30e760e7 create_swatch_wheel
+0xb12b510a SpriteElement
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0x3611c136 GetTags
+0x73665140 CreateScreenElement
+0x5ef31148 array
+0x01dd615f DescInterface
+0xcf66717b GotParam
+0xcba97188 skip_exit_script
+0xbebfa1c6 element
+0x4d9c31d3 special_choose_params
+0x3f93a1ef replace_handlers
+0xa1dc81f9 name
+0x3cd9d1fc setup_cas_menu_handlers
+0x4bfcd202 AddArrayElement
+0xfe1ae232 color_wheel_unfocus_sound
+0xa075a243 wheel_arrow
+0x3696425b total_length
+0x46159266 out
+0x7d99f28d texture
+0xd443a2bc off
+0x582852c7 wedge_tex_prop
+0x5a8c82db focus_script
+0x6e043308 clockwise
+0xb9b3332b wedge_scale_prop
+0xa35a1338 color_wheel_full_alpha
+0xec5c734b SetSpawnedScriptNoRepeatFor
+0x545b1376 tex_struct
+0xf44a53ab desc
+0x10c6f3db structure_name
+0x74d863e4 swatch_name_text
+0xb221b3e6 swatch_wheel_reset
+0xb49843e8 current_swatch_desc_id
+0xc5bc93ee ScreenElementExists
+0x1d944426 not_focusable
+0x9277f428 FormatText
+0x1e93946b alias
+0x169a6474 load_swatch_textures_cleanup
+0x39b5c4b0 GetArraySize
+0xcca6c4c5 swatch_texture
+0x5c9984d7 get_swatch_textures
+0xbe6df4da alpha_struct
+0x0c5bd4f4 swatch_wheel_raise_current_wedge
+0x9d3fb516 focus
+0x1e3e253b pad_choose
+0x4c29c545 RequireParams
+0xc451f558 event
+0xb8437568 pad_choose_params
+0x34a68574 dims
+0x3be475ff special_exit_script
+0x2de8c60e printf
+0xd029f619 seconds
+0x9d2d961c swatch_wheel_set_textures
+0xf649d637 on
+0x807c4642 swatch_wheel_focus
+0xe5bc3647 UnloadCASUITextures
+0xf8c4c65e swatch_wheel_left_arrow
+0xf019365f set_generic_menu_scrollbar_pos
+0xdc7cc65f scale_struct
+0x3f6e367e zoom_camera
+0x2f1fc695 alpha
+0xa2907698 SetScreenElementLock
+0x6a3b36b5 unfocus_script
+0x1bfe26c0 g_swatch_rot_angle
+0x5a7846e9 textures
+0xc3c9370f generic_menu_scrollbar_alpha
+0xb3eaf72e ease_in
+0x2cb33744 LaunchEvent
+0x406dd761 GetScreenElementDims
+0xdbcb8780 swatch_wheel_set_alpha_wedge
+0x906b67ba time
+0xe288a7cb value
+0x2f9a97e2 swatch_wheel
+0xe13757e6 g_swatch_wheel_spin_speed
+0x77f49808 frontend_desc
+0x2748e812 swatch_area_desc_id
+0xded3b81a special_choose_script
+0x30a4f836 pad_up
+0x50cfb83b swatch_wheel_cont_rot_angle
+0x602e483d load_swatch_textures
+0x5b9da842 ContainerElement
+0x768f6843 gentle
+0x4bb2084e desc_id
+0xe071985f KillAllCompositeTextures
+0x05ddd87c pad_right
+0x40c698af id
+0x4ef9f8c0 LoadCASUITextures
+0x7321a8d6 type
+0x21cc38d9 ExtendCRC
+0x7f8c98fe index
+0xa5a3b92d heap_cas_build
+0x45a1d936 parent_height
+0x7f261953 pos
+0x1993c98e i
+0x05ff29a9 angle1
+0xa58079eb SetTags
+0xffc529f4 cas
+0xb88029ff generic_menu
+0xdb836a2f g_num_swatch_wedges
+0x56c18a33 color_wheel_turn_sound
+0xb0bc2a66 swatch_wheel_unfocus
+0x13b9da7b scale
+0x76fa7a8f checksumname
+0x9a9efa9f wedge_alpha_prop
+0x77b43ade part_swatches
+0x0ab21af0 height
+0x19fa5af7 SpawnScriptNow
+0xc9c30b12 focus_params
+0x28e66b14 resolved_id
+0xa9809b34 wedge_rgba_prop
+0x923fbb3a group
+0xc8dfbb52 swatch_wheel_fix_rotate
+0x6949db75 pad_left
+0x98549ba4 anim
+0x31dc7bab camera_list
+0x14dbabc1 color_wheel_choose_sound
+0xa46d7bed swatch_wheel_rotate
+0x55a29c08 swatch
+0x4d49ac0a current_menu
+0x3b0b8c13 nowait
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0xf6961c23 thisone
+0x0fd1ac26 pad_down
+0x94264c27 cas_add_item_to_appearance
+0xa8abfc36 special_exit_params
+0x1f566c6d re_alpha_arrow
+0x90e07c79 async
+0x2b0cfca1 pad_choose_script
+0x90356cb9 SetScreenElementProps
+0x4adf0cd3 unfocus
+0xe3102cdb swatch_wheel_set_alpha_all
+0x03daecee GetActualCASOptionStruct
+0xb1145cfc rgba_struct
+0x7056ed02 RemoveParameter
+0x89594d0b color_wheel_step_1_alpha
+0x42d6dd1e heap
+0x7ee0fd2a pad_back
+0x4577fd38 AssignAlias
+0x6aa7dd49 fast_in
+0x7f5b3d4d array_size
+0xdaf62d5d swatch_wheel_right_arrow
+0xa17eed7f color_wheel_focus_sound
+0x1c001d90 swatch_wheel_choose
+0x3f6bcdba rgba
+0x91497df3 swatch_wheel_depress_current_wedge
+0x6dcc0dff swatch_wheel_fire_select
+0x2d993e0b swatch_wheel_set_all_white
+0x0a015e17 motion
+0xed344e1b rot_angle
+0xc4e78e22 all
+0x77d9be39 swatch_wheel_swap_swatch_on_character
+0xbe304e86 printstruct
+0x08d82e9d AddParam
+0x66d20ed8 swatch_wheel_back
+0xa1598eed vmenu_id
+0xb1d12efb swatch_wheel_desc_id
+0x2a682f27 color_wheel_slice_highlight_scale
+0x57710f31 z_priority
+0xb6f08f39 part
+0x82734f43 current_wedge
+0x8ae64f71 swatch_update_text
+0xc2719fb0 parent
+0x63140fcc swatch_wheel_menu_item
+0xd301ffdd SoundEvent
+0xce4a0fef ArchiveWaitLoading
+

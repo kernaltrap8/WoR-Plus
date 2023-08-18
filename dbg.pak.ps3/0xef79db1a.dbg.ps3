@@ -1,0 +1,68 @@
+[LineNumbers]
+StartFSMExample 3 (0,5) (6,6) (12,7) 
+RegisterMyTestStates 3 (0,10) (36,11) (744,37) 
+SetupMyStateMachine 4 (0,40) (36,41) (212,49) (292,52) 
+Bv_MyTestStateInScript 14 (0,55) (36,56) (96,58) (98,59) (156,60) (164,61) (174,62) (244,63) (257,65) (348,66) (361,68) (452,69) (454,71) (456,72) 
+Bv_MyScriptChild 15 (0,75) (36,76) (43,77) (45,79) (100,80) (108,83) (118,84) (152,85) (211,86) (224,88) (260,89) (319,90) (321,92) (372,94) (374,95) 
+Bv_MessageLoop 5 (0,101) (2,102) (14,103) (64,104) (66,105) 
+
+[Checksums]
+0x9b7ed630 scripts\game\fsm_example.qb
+0x71ea800a param2
+0x57fc4029 mess1
+0xcea0606b responses
+0x06edb09c param3
+0x7031f10c params
+0xeb90c15c ref
+0x33eee163 FrontEnd
+0xcef51193 mess2
+0xe8e3d1b0 param1
+0xa1dc81f9 name
+0xac0f226a Enter_State
+0x9bd34274 Bv_MyTestState
+0x4a07c332 frame
+0x0203b372 true
+0x75f2d37d ChildTrigger
+0x844e63a6 RecurTrigger
+0xb98f948c Bv_MessageLoop
+0x10e554a6 recur
+0xee2a952f anytypes
+0xc451f558 event
+0x6820459a val
+0x2de8c60e printf
+0xe0bba634 ScriptChildEvent2
+0x514906ac blockuntilevent
+0x019176c5 frames
+0xecda76f7 fsm_set
+0x79b2f78e ScriptChildEvent1
+0xed09f7f0 Bv_Message
+0x349837fe StartFSMExample
+0xfc56a8a8 EventCache
+0xac78a8b5 events
+0x7321a8d6 type
+0x709c290b Bv_MyTestStateInScript
+0x11b70a02 components
+0xad3a2a41 MyChildScriptTrigger
+0xa7ba6aca child2
+0x7cf28b34 RegisterMyTestStates
+0x05dedb4e my_param_3
+0xdc0b8bb4 Bv_MyScriptChild
+0xab2a0bb5 replacement
+0xe3fb4bc2 input_param
+0xdd4cabd6 child
+0x72d9ebd8 my_param_2
+0x82117c1a wait
+0x5c6c2d04 state
+0x42d6dd1e Heap
+0xd1e04d7e SetupMyStateMachine
+0x6fb89db9 transitions
+0xd52e4dbf RegisterState
+0xa98bde42 StateMachineManager
+0xbe304e86 printstruct
+0xb6015ea8 component
+0xb6252ee1 MyStateMachine
+0x880d9f7c CreateCompositeObject
+0x4942cf80 message
+0x116ecf8a my_input_param
+0x23627fd7 permanent
+

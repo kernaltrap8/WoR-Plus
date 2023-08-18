@@ -1,0 +1,16 @@
+[LineNumbers]
+ReloadAnimation 6 (0,5) (36,6) (42,9) (72,10) (78,11) (112,13) 
+
+[Checksums]
+0x490aa621 scripts\game\menu\animpreview.qb
+0xd443a2bc off
+0xf649d637 on
+0xc3f4169a FileName
+0x7b9ef701 AllowAssetLoading
+0xb391d7b6 PushAssetContext
+0xeb72390a ReloadAnim
+0xc65b4a60 PopAssetContext
+0x620a9b3d ReloadAnimation
+0x6c2bfb7f AnimName
+0x98549ba4 Anim
+

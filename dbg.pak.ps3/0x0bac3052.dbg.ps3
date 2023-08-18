@@ -1,0 +1,336 @@
+[LineNumbers]
+z_MansionStudio_Setup 5 (0,1) (64,2) (132,3) (138,4) (172,5) 
+z_MansionStudio_Startup 1 (0,13) 
+z_MansionStudio_DeInit 3 (0,16) (36,17) (72,18) 
+Z_MansionStudio_SetupNodeFlags 2 (0,21) (52,23) 
+z_MansionStudio_Crowd_Peds 9 (0,26) (36,30) (71,33) (99,36) (141,37) (143,38) (145,39) (147,40) (154,42) 
+z_MansionStudio_Pyro 9 (0,394) (8,395) (18,396) (112,397) (148,398) (161,399) (252,400) (288,401) (290,402) 
+z_MansionStudio_Performance_Changed 9 (0,405) (8,406) (18,407) (124,408) (137,409) (248,410) (261,411) (368,412) (370,413) 
+Z_MansionStudio_Pyro_Moments_Front_1 13 (0,422) (68,423) (80,424) (82,425) (116,426) (179,427) (228,428) (249,429) (256,430) (292,431) (328,432) (364,433) (424,434) 
+Z_MansionStudio_Pyro_Moments_CandleFire 8 (0,447) (12,448) (14,449) (48,450) (111,451) (160,452) (181,453) (188,454) 
+Z_MansionStudio_Pyro_Moments_CandleFire_Glows 3 (0,457) (36,458) (72,459) 
+z_mansionstudio_camera_intro 5 (0,487) (6,489) (136,497) (142,499) (160,501) 
+Z_MansionStudio_camera_celebintro 5 (0,525) (6,526) (136,533) (142,534) (160,535) 
+Z_MansionStudio_CelebIntro_Lighting_and_FX 17 (0,538) (36,540) (72,543) (108,545) (144,546) (180,547) (216,548) (252,550) (288,551) (340,552) (392,553) (448,561) (516,565) (568,566) (604,568) (640,569) (676,570) 
+Z_MansionStudio_CelebIntro_LIGHTNING 12 (0,573) (36,574) (72,575) (124,576) (176,577) (228,578) (280,579) (316,580) (352,581) (404,582) (456,583) (508,584) 
+Z_MansionStudio_CelebIntro_LIGHTNING_SetDark 4 (0,587) (36,588) (72,589) (124,591) 
+Z_MansionStudio_CelebIntro_LIGHTNING_Four_Flashes 24 (0,594) (36,595) (72,596) (124,597) (176,598) (228,599) (280,600) (316,601) (352,602) (404,603) (456,604) (508,605) (560,606) (596,607) (632,608) (684,609) (736,610) (788,611) (840,612) (876,613) (912,614) (964,615) (1016,616) (1068,617) 
+Z_MansionStudio_Ambient_Lightning 7 (0,620) (2,621) (36,622) (88,623) (124,624) (176,625) (178,626) 
+Z_MansionStudio_CelebIntro_Bear_LIGHTNING 24 (0,629) (36,630) (72,631) (124,632) (176,633) (228,634) (280,635) (316,636) (352,637) (404,638) (456,639) (508,640) (560,641) (596,642) (632,643) (684,644) (736,645) (788,646) (840,647) (876,648) (912,649) (964,650) (1016,651) (1068,652) 
+Z_MansionStudio_CelebIntro_Kill 6 (0,655) (36,656) (72,657) (108,658) (144,659) (180,661) 
+z_MansionStudio_Encore_Setup 2 (0,691) (6,695) 
+Z_MansionStudio_Encore_Lighting_FX 7 (0,700) (36,705) (72,707) (140,709) (176,710) (212,711) (264,712) 
+Z_MansionStudio_Encore_WindowBats 2 (0,717) (36,718) 
+Z_MansionStudio_Transformation_Bats 19 (0,721) (220,732) (440,743) (660,754) (696,757) (748,758) (784,759) (820,760) (872,761) (908,762) (960,763) (996,769) (1032,770) (1095,771) (1128,772) (1191,773) (1224,775) (1276,776) (1312,777) 
+Z_MansionStudio_camera_encore 5 (0,793) (6,794) (136,801) (142,802) (160,803) 
+z_MansionStudio_RestartEncore_TransitionSetup 1 (0,806) 
+z_MansionStudio_Encore_TransitionEnd 2 (0,810) (36,811) 
+z_MansionStudio_sfx_Get_Venue_Size 2 (0,816) (32,817) 
+z_MansionStudio_CreateEncore 2 (0,820) (36,822) 
+z_MansionStudio_Kill 4 (0,825) (36,827) (72,829) (108,830) 
+z_MansionStudio_CreateIntactGlass 5 (0,833) (36,834) (72,835) (108,836) (144,838) 
+z_MansionStudio_KillIntactGlass 2 (0,841) (36,842) 
+z_MansionStudio_CreateWindowFrame 2 (0,846) (36,847) 
+z_MansionStudio_KillWindowFrame 2 (0,851) (36,852) 
+z_MansionStudio_CreateBrokenGlass 5 (0,856) (36,857) (72,859) (108,860) (144,861) 
+z_MansionStudio_KillBrokenGlass 2 (0,865) (36,866) 
+z_MansionStudio_CreateGlassPieces 2 (0,871) (36,872) 
+z_MansionStudio_KillGlassPieces 2 (0,875) (36,876) 
+
+[Checksums]
+0x405a95bc zones\z_mansionstudio\z_mansionstudio_scripts.qb
+0xe95ed014 Z_MansionStudio_GFX_FX_BatsSmoke_01
+0xc76ff016 Z_MansionStudio_GFX_LH_Trans_HotSpot01
+0x2497e016 z_MansionStudio_sfx_Get_Venue_Size
+0xac1d8022 color_overrides
+0x24660025 Z_MansionStudio_GFX_LH_EncoreSpot_01
+0x0f7e902c nullscript
+0xcd0dc02d killspawnedscript
+0xd49d2046 z_MansionStudio_Setup
+0x9a8bb047 spotlights_Yellow
+0x6ec68049 top_1
+0x059ea070 Red
+0xa47b7070 mid_2
+0x022cf075 resolution
+0x75570078 z_MansionStudio_FastIntro_Transition
+0xf1a22081 z_MansionStudio_Performance_Changed
+0xcab94088 bone
+0x43ebe09a front_4
+0x323f709b Z_MansionStudio_CelebIntro_LIGHTNING_Four_Flashes
+0xac00d0a5 z_MansionStudio_Ven_G_RM_Mansion_Encore_animation_glass_pieces
+0x073df0ab spotlights_Blue
+0xccdd30ab power_rocker
+0x225a80b4 Starpower01
+0xd37c40e6 mid_3
+0xc828d100 LightVolume_SetParams
+0xe3828101 Z_MansionStudio_GFX_FX_BatsFlash_01
+0xf0d90109 speed
+0x7031f10c params
+0xbb53d10e Starpower02
+0x0127813c z_MansionStudio_Ven_G_RM_Mansion_Encore_animation_glass
+0x9fd29151 viewport
+0x80c8e165 top_3
+0x937bb16d good
+0xcf66717b GotParam
+0xf8d4017b z_MansionStudio_CreateWindowFrame
+0xa78cc17d SetLightIntensity
+0x071f4183 bg_viewport
+0x1590418e CameraCuts_CalcTime
+0xcc54e198 Starpower03
+0x5d0671b8 channel
+0xa863c1bc Blackout_Generic
+0x3d7221ca mid_1
+0xd825e1d4 rocker
+0x7e5211d8 distances
+0x2f6511de Green
+0xf7cfd1f3 top_2
+0x1ad0f1f3 Poor_Generic
+0x127a21f8 Crowd_Profiles
+0xa1dc81f9 name
+0x4b965213 Z_MansionStudio_CelebIntro_Bear_LIGHTNING
+0x17e7321e FOV
+0x0796e247 Z_MansionStudio_CelebIntro_LIGHTNING_SetDark
+0x40b1f251 back_3
+0xe56e7256 Z_MansionStudio_GFX_FX_LightningFlash_01
+0x7f18b25a Climax03
+0xbd30325b White
+0x748ca262 Quat
+0x5e4ff277 Z_MansionStudio_GFX_FX_bats_01
+0x60a66291 Z_MansionStudio_camera_celebintro
+0x5cd7129e z_MansionStudio_Kill
+0x8012c29f SetSpawnInstanceLimits
+0xac1402ae z_MansionStudio_Ven_G_RM_Mansion_Encore_animation_frame
+0xe7d522b6 Z_MansionStudio_GFX_FX_WindowBats_01
+0xd443a2bc off
+0x37b6c2c7 back_2
+0x081f82cc Climax02
+0xe46a22e3 Prelude01
+0x43ce02ec exposition
+0xb24032f4 CCam_DoMorph
+0x144412f5 TOD_Proxim_Update_LightFX_Viewport
+0x944972f6 ScriptTable
+0xa11d32fe Z_MansionStudio_Encore_Lighting_FX
+0xc7395307 Z_MansionStudio_GFX_FX_Swirly_
+0x7659b312 GP_FX_MS_PyroFire_01
+0x4a07c332 frame
+0xedbda336 SetRenderBatchLODParams
+0x9eb6e336 spawnscript
+0x7d637359 Prelude02
+0x4302e35a z_MansionStudio_lightshow_mapping
+0x2ffb1360 Yellow
+0x0203b372 true
+0x9116d376 Climax01
+0xaebf937d back_1
+0x63f3e394 Ven_MansionStudio_Intro
+0xc746a3cd Z_MansionStudio_GFX_FX_bats_02
+0x0a6443cf Prelude03
+0xfaa0b3e9 spotlights_Magenta
+0x7c6723ec Z_MansionStudio_GFX_FX_LightningFlash_02
+0x87fa53ed groupID
+0xa2b033fd uniqueID
+0x33811415 front_1
+0x2ea0b41d Pyro
+0xf3b3b42a Blackout
+0x8d99f440 Strobe_Generic
+0xffd09448 z_MansionStudio_DeInit
+0x540f445c z_MansionStudio_poor_snapshots
+0x9535248a Falling01
+0xf1e5848e z_MansionStudio_Crowd_Peds
+0xcff91494 band_lobby
+0xb7199498 GP_FX_BatsFlare_01
+0x6b0ed49a Z_MansionStudio_camera_encore
+0x1eac74c6 top_4
+0xdeef04cd StructureContains
+0x0b05f4d6 SpecialCamera_PlayAnim
+0x1d5c24e6 spotlights_White
+0x6e6ee4f2 venue
+0x688ab4f5 GetUniqueCompositeObjectID
+0xb305a50c Z_MansionStudio_Pyro_Moments_Front_1
+0xaa99c521 save
+0x0c3c7530 Falling02
+0x2fcd1533 silhouette
+0xdd8f7539 front_3
+0x4d18d545 mid_4
+0x61c9354b Blue
+0x8a50b55c z_MansionStudio_Encore_Transition
+0x82fac56c menu
+0x3bd2158d GP_FX_MS_FireplaceFire_01
+0xb582258d z_MansionStudio_CelebIntro_Transition
+0x7b3b45a6 Falling03
+0xaa8845af front_2
+0x20b835af CreateParticleSystem
+0xd81595b4 LightShow_PlaySnapshot
+0x6c78a5b6 range
+0xb8c8b5ca crowd_play_adjusting_random_anims
+0x7eb95601 z_MansionStudio_TRG_Window_NewMaleTrans
+0x25763604 z_mansionstudio_camera_intro
+0x568c160a Z_MansionStudio_Pyro_Moments_Front_1_Pos
+0xfe41960d starpower
+0x2de8c60e printf
+0x84a7c612 Z_MansionStudio_Pyro_Moments_CandleFire
+0xd029f619 seconds
+0x5f1f7621 Magenta
+0x45f7c631 pyro_03
+0x53083665 Z_MansionStudio_Pyro_Moments_CandleFire_Glows
+0x4e850682 CameraCuts_WaitScript
+0xd5dab6a5 Strobe08
+0x32f0f6a7 pyro_02
+0xf1c1a6b4 fallingAction
+0xac2266dc HotspotIntensity
+0xb9f606e5 rockerintro
+0x981d66e8 pyro_scripts
+0x68c236f4 z_MansionStudio_Encore_TransitionEnd
+0x97de3700 Z_MansionStudio_GFX_FX_BatsLongGlow_01
+0xabf9a71d pyro_01
+0x05745750 VenueSize
+0x8f090763 spotlights_Green
+0x00c4176b attenuation
+0x164d476d intensity
+0x5777577a Venue_ScreenFX
+0x0ed45788 Obj_SpawnScriptNow
+0x726c4796 tension
+0x906b67ba time
+0xbb0db7d3 safecreate
+0xf83d17e6 z_MansionStudio_KillWindowFrame
+0xded567f2 back_4
+0xe17c27f9 Climax04
+0x7b81a80c z_MansionStudio_CreateIntactGlass
+0x90fec815 structure
+0x5f468818 lin
+0xc45de82c Default_TOD_Manager
+0x7a432834 color_override_exclusions
+0xf40e2838 z_MansionStudio_GFX_FX_GlassDust_01
+0x25113846 z_MansionStudio_Ven_G_RM_Mansion_Encore_animation_window_intact
+0x6bd5485e Transition_CameraCut
+0x26bd8866 spotlights_off
+0xa6d2d890 Scr
+0x86ca8891 hide_all_but_rocker
+0x40c698af id
+0x885738bb Z_MansionStudio_Pyro_Moments_CandleFire_Pos
+0x925da8cb Exposition01
+0xfd3bf8cc Z_MansionStudio_GFX_FX_CandleGlows_Pyro
+0x7321a8d6 type
+0x3b948900 BandManager_HideInstrument
+0x3c487938 setlightmapoverlayparams
+0x7f261953 pos
+0x41272956 velocity
+0x9977b95f anim_set
+0x0b54f971 Exposition02
+0x6c4e7971 prefix
+0xd71bb977 twist
+0x7d28697e performance
+0x24c3f987 Z_MansionStudio_SetupNodeFlags
+0x0da6698d ignore_spawn_request
+0x1993c98e i
+0x80804991 noprefixwarning
+0x717b7995 Z_MansionStudio_Transformation_Bats
+0xf8d6a996 kill
+0xd63fb9af processor
+0xb26eb9c2 snapshots
+0x392649d7 preferredID
+0x7c53c9e7 Exposition03
+0x6554b9f0 z_MansionStudio_Startup
+0x55b9fa01 z_MansionStudio_GFX_FX_Glass_01
+0x81f2da06 Flare_Generic
+0x19036a0c z_MansionStudio_Encore_Setup
+0xe4e0da0c BatFX_01
+0xab6bca18 Strobe05
+0x398cba48 medium
+0xd4493a48 z_MansionStudio_KillGlassPieces
+0x6d87aa51 Z_MansionStudio_GFX_FX_Godray_02
+0x63540a6d bone_pelvis
+0x9f92ba78 nodename
+0x1bfa9a8d z_MansionStudio_CreateBrokenGlass
+0xdc6cfa8e Strobe04
+0x263dda8e wash
+0x6eb6ba94 batwind02
+0xf7608aaa spotlights_Red
+0x28378aaa Z_MansionStudio_Encore_WindowBats
+0xf4b16ab0 management
+0x5cd5eabb spotlight_snapshots
+0x1a809ac7 Z_MansionStudio_GFX_FX_Godray_03
+0x1b814acd Rising04
+0xe5fa3adf intro
+0x23db4aea Idle
+0xf8641af0 Resolution02
+0xf7026af1 risingAction
+0xb886faf6 climax
+0xb7321af7 Z_MansionStudio_Ambient_Lightning
+0xaa616b1a poor
+0xf7bfeb2e batwind01
+0x4565ab34 Strobe07
+0x4fec3b3c moment01
+0xcd139b45 z_MansionStudio_GFX_FX_GlassFlare_01
+0x616d4b4a Resolution01
+0x63284b7e z_mansionstudio_TRG_Geo_Camera_Performance_SING01
+0x75155b87 tangentWeight
+0xb9992b93 Obj
+0x32629ba2 Strobe06
+0x98549ba4 anim
+0x7de98bb6 BatFX_02
+0x5ac83be0 GP_FX_MS_CandleFire_01
+0xaa21bbe1 swirlywind
+0xf48efbeb Z_MansionStudio_GFX_FX_Godray_01
+0xd8dc4bfc rockertransformation
+0xefc51c06 bone_camera
+0x1b138c10 z_MansionStudio_KillBrokenGlass
+0x32b38c14 CCam_WaitMorph
+0x82117c1a wait
+0xaf35dc26 Tension03
+0xe2375c44 Exposition04
+0xfd30ec90 Z_MansionStudio_GFX_FX_LightningLight_01
+0x3af30cab GP_FX_BatStreaks_01
+0x0830ecaf objID
+0xd832ecb0 Tension02
+0x3cd16cbb safekill
+0xd4a02cd5 z_MansionStudio_CreateGlassPieces
+0x379bed00 flare
+0x413bbd0a Tension01
+0x157a8d19 Purple
+0x86407d29 prelude
+0x6439bd2a Z_MansionStudio_GFX_FX_LightningLight_02
+0x7b742d2b z_MansionStudio_CreateEncore
+0x372e7d34 CheckWholeCallstack
+0xbf51bd3c BandManager_UnhideInstrument
+0xd9ab9d3f LightShow
+0x8c95bd4b Z_MansionStudio_CelebIntro_Lighting_and_FX
+0x1c724d65 LockToBone
+0x0f5c5d66 fxParam
+0x6289dd76 max
+0xab396d9f Z_MansionStudio_CelebIntro_LIGHTNING
+0x574aeda0 spotlights_Orange
+0xf86bbda4 z_MansionStudio_Intro_Transition
+0x6fb89db9 Transitions
+0xf941ade4 exp
+0x298e1df4 changenow
+0xd126cdf6 LockTo
+0xac060e01 Strobe01
+0x69b05e2c generic
+0x0968ce35 pyro_special
+0x258a4e38 Z_MansionStudio_CelebIntro_Kill
+0xa00a2e3e spotlights_Purple
+0xd1be5e3e ProjectorIntensity
+0x6bebbe42 Rising01
+0x6ef11e4b LightShow_SetTime
+0xc1167e66 z_MansionStudio_RestartEncore_TransitionSetup
+0xae0e3e6f camera_songtime
+0x147bee71 Z_MansionStudio_GFX_FX_SwirlySwirl
+0xbe304e86 printstruct
+0xe23a4e87 Orange
+0x7b68be91 z_MansionStudio_KillIntactGlass
+0xd6f41e9a UseSnapshotPositions
+0x96ce2ea5 params_Script
+0x4d9e9efb Wash01
+0x70291f04 create
+0x8aa10f15 z_MansionStudio_Pyro
+0x42086f2d Strobe03
+0xd497cf41 Wash02
+0x85e5df6e Rising03
+0x35d60f78 zoneparticles
+0x350f5fbb Strobe02
+0x27771fc4 strobe
+0xa390ffd7 Wash03
+0x1879bfea EngineWind
+0xf2e2eff8 Rising02
+0xedc86ffd Large_EXT
+

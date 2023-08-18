@@ -1,0 +1,36 @@
+[LineNumbers]
+
+[Checksums]
+0xa79fe26b models\car_instruments\guitar\schecter\gtr1_sch_tempest.qb
+0x63a09002 GTR77_IBZ_RG_PG_GTR1_switch
+0x9687f060 BRIDGE
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0xd834228d GTR77_IBZ_RG_PG_GTR1_SCH_pickup01
+0x413d7337 GTR77_IBZ_RG_PG_GTR1_SCH_pickup02
+0x363a43a1 GTR77_IBZ_RG_PG_GTR1_SCH_pickup03
+0x7a7a4544 gtr1_sch_tempest_NodeArray
+0x8058e545 MISC
+0x80c2c597 gtr1_sch_tempest_NodeArray_SortedIndices
+0xbe61c602 PICKUP
+0xa85ed602 GTR77_IBZ_RG_PG_GTR1_SCH_pickup04
+0x12b4e660 Class
+0xdf59e694 GTR77_IBZ_RG_PG_GTR1_SCH_pickup05
+0x404596d7 GTR77_IBZ_RG_PG_GTR1_SCH_bridge01
+0xc416a834 GTR77_IBZ_RG_PG_gtr1_sch_tempest
+0x7f261953 Pos
+0x19ebda23 Set
+0x810e6a50 GTR77_IBZ_RG_PG_GTR1_SCH_knob02
+0xc97f3aa9 Orientation
+0xf6095ac6 GTR77_IBZ_RG_PG_GTR1_SCH_knob03
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x18073bea GTR77_IBZ_RG_PG_GTR1_SCH_knob01
+0x3ff47bf4 RemovalFlags
+0x385e8d74 SkinExport
+0xa5955e95 gtr1_sch_tempest
+0x91ea2f20 gtr1_sch_tempest_NodeArray_SortedNames
+0x84b1df33 ExportName
+0x686dcf65 GTR77_IBZ_RG_PG_GTR1_SCH_knob04
+0x64f0cf83 AttachPoint
+

@@ -1,0 +1,17 @@
+[LineNumbers]
+
+[Checksums]
+0x006f042b scripts\game\anim\animationdata\loops\sing\l_sing_morgan_bleedns_m_anim_data.qb
+0xc0728028 L_SING_Morgan_BleedNS_M_anims_set
+0x937bb16d Good
+0x19f711ab sing_morgan_bleedme_150_NS_M
+0x12e4443d Med
+0x7dd4c604 Bad
+0xda99b63b Fast
+0x2596167d Stance_A
+0xde7a971b Normal
+0x23db4aea Idle
+0x4bcf3e0c sing_morgan_bleedme_100_NS_M
+0xcaf88e22 Slow
+0xdc502f25 sing_morgan_bleedme_120_NS_M
+

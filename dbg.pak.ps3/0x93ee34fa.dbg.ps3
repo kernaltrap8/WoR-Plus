@@ -1,0 +1,128 @@
+[LineNumbers]
+jam_recording_create_editable_arrays 13 (0,8) (21,11) (36,12) (51,13) (66,14) (81,15) (96,16) (111,17) (129,20) (187,23) (199,25) (252,26) (270,27) 
+jam_recording_create_jamsession_arrays 12 (0,31) (23,34) (38,35) (53,36) (68,37) (83,38) (98,39) (113,40) (171,43) (183,45) (236,46) (266,47) 
+jam_recording_setup_timesig 5 (0,52) (21,54) (77,55) (103,56) (133,58) 
+jam_recording_cleanup 7 (0,68) (21,70) (79,71) (102,73) (160,74) (166,80) (212,83) 
+jamsession_AddScriptArrayItem 2 (0,93) (30,95) 
+jamsession_array_action 91 (0,104) (12,106) (72,108) (127,109) (191,111) (245,112) (305,114) (360,115) (420,117) (472,118) (484,120) (486,121) (504,122) (525,124) (529,125) (552,126) (570,127) (584,128) (586,129) (599,131) (612,132) (624,134) (626,135) (634,137) (644,138) (657,139) (670,140) (690,141) (703,142) (721,143) (734,144) (758,145) (771,146) (795,147) (797,148) (879,150) (931,151) (950,153) (1032,154) (1087,155) (1172,157) (1226,158) (1320,160) (1374,161) (1376,162) (1398,164) (1405,165) (1424,167) (1508,168) (1562,169) (1648,171) (1702,172) (1704,173) (1726,175) (1744,176) (1746,177) (1748,178) (1750,179) (1831,181) (1885,182) (1968,184) (2011,185) (2091,187) (2146,188) (2227,190) (2271,191) (2355,193) (2399,194) (2479,196) (2534,197) (2621,199) (2676,200) (2763,202) (2817,203) (2902,205) (2956,206) (3043,208) (3097,209) (3132,211) (3144,212) (3146,213) (3158,215) (3202,216) (3224,217) (3226,218) (3311,220) (3355,221) (3434,223) (3488,224) (3509,226) (3517,227) 
+jamsession_copyfinalscriptarrays 7 (0,236) (34,237) (46,239) (48,240) (100,241) (121,243) (130,244) 
+jamsession_unload 26 (40,253) (87,255) (121,256) (154,258) (156,259) (158,260) (177,262) (179,263) (181,264) (193,266) (195,267) (224,268) (245,270) (254,271) (272,273) (301,276) (352,277) (404,279) (440,280) (476,281) (512,282) (514,283) (520,285) (549,287) (561,288) (563,289) 
+jam_debug_track 11 (28,298) (80,300) (132,301) (184,302) (213,304) (231,305) (280,307) (314,309) (364,311) (416,312) (468,313) 
+jamsession_debug_print_script_array 22 (12,322) (30,324) (60,325) (96,327) (109,328) (160,330) (197,331) (211,333) (223,334) (225,335) (246,336) (248,337) (250,338) (280,339) (318,342) (376,343) (397,345) (427,346) (429,347) (431,348) (433,349) (484,351) 
+guitar_jam_print_recording 15 (28,360) (34,362) (84,364) (102,365) (136,366) (148,367) (150,368) (168,369) (170,370) (172,371) (202,373) (248,374) (270,375) (278,376) (328,377) 
+
+[Checksums]
+0xd07e81fe scripts\guitar\musicstudio\musicstudio_arrays.qb
+0x8e411006 b
+0x44949010 difficulty
+0x958a501c arraylist
+0x9fe43020 jam_recording_setup_timesig
+0xde3c2034 GetTrackSize
+0x21902065 checksum
+0x7e2f60bb jamsession_vocals_phrases
+0xe8dc80d1 AddToStringLookup
+0xe4f130f4 s
+0x9d1c7112 SongFileManager
+0x5ef31148 array
+0x7df8614e p
+0x9a74316e jam_tracks
+0x287d118e jamsession_unload
+0xb36a519b CreateScriptArray
+0x3f4b019e Base
+0xf4cc51a3 jam_recording_create_editable_arrays
+0x5d0671b8 channel
+0x174841bc a
+0xafb911c6 appended_id
+0xa1dc81f9 name
+0xdbcab214 jamsession_lyrics
+0xd4b50263 gem_colors
+0x46159266 out
+0x4537b2b0 DestroyScriptArray
+0x6c609315 difficulty_list
+0x955b033d markerssize
+0x0203b372 true
+0x9569f390 track_size
+0x75d153b1 star_count
+0x9357840d song_array
+0x9277f428 FormatText
+0xe85e8436 drumnotessize
+0xbd09544c func
+0x39b5c4b0 GetArraySize
+0x29c204c9 MusicStudio_RemoveCurrentSong
+0xbe314501 jam_recording_create_jamsession_arrays
+0x0dbe5514 OutputJamSessionSounds
+0x6722b533 d
+0x7a95a557 t
+0x3d002580 jamsession_debug_print_script_array
+0x6a5cd5a6 fretbarsize
+0xe97175ef destname
+0x214595fe jam_instrument
+0x2de8c60e printf
+0x8a4c762d song_checksum
+0xbc0ae6c6 scripts_array
+0xc5a3a6f5 gem_pattern
+0x361bd6fb starsize
+0x1b40170a get_difficulty_text_nl
+0xd24f570c song_name
+0xcf52b712 notetrack_size
+0x2dbc774d jamsession_vocals_markers
+0xc968274e gem_array
+0x291c0759 track
+0xde263762 MusicStudio_GetCurrentHeap
+0xaee9078b bitfield_text
+0x4e90079d jam_mode
+0xdc43879f arraylist2
+0x906b67ba time
+0xe24577d6 jamsession_max_star_sequences
+0x108057d6 debug_get_bitfield_text
+0x90fec815 structure
+0x4a4f7821 suffix
+0x818af862 difficulty_text_nl
+0x41de789e timesig_array
+0x40c698af id
+0x240d18b1 CopyFinalScriptArray
+0x7f52b8c2 jamsession_array_action
+0x461398c2 count2
+0x7321a8d6 type
+0x21cc38d9 ExtendCRC
+0x6a3568fb song_prefix
+0x7f8c98fe index
+0x976e2917 jamsession
+0xd081993a jamsession_song_vocals
+0x1993c98e i
+0x48ba0990 size2
+0xd984e9b1 gem_time
+0x0f7b3a59 track_index
+0x87c69a5b curr_bitfield
+0xbbb37a5e num_bits
+0x76fa7a8f checksumname
+0x5481da9e guitar_jam_print_recording
+0x99298ad7 musicstudio_mainobj
+0xe1fe2aeb arraylistsize
+0x617e2b23 AppendSuffixToChecksum
+0x083fdb95 size
+0x7a26bb9d count
+0x23016be9 AddScriptArrayItem
+0xeb970bf2 ClearCustomSong
+0x5c6cdc26 clear_stub_file_data
+0x8836fcbd script_array_size
+0x1323ccca difficulty_text
+0xe480ed18 jam_recording_cleanup
+0x42d6dd1e heap
+0xbd439d42 sourcename
+0x7f5b3d4d array_size
+0x60c9ed6c jamsession_copyfinalscriptarrays
+0xa2a9ad7e jam_clear_clipboards
+0xedbd8d9b gem_count
+0x7a7d1dca rhythm
+0xf9110e45 jam_debug_track
+0xe20e6e92 gemarraysize
+0x3b761e9e timesig_to_add
+0x2feb8eac jamsession_AddScriptArrayItem
+0x94542eea SuffixString
+0x17765f4e gem_length
+0xb2464f73 GetNoteTrackItem
+0x835d0f90 GlobalExists
+0x3a14dfb4 gem_color_array_size
+0x772e2fca GetJamSessionSound
+

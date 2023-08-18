@@ -1,0 +1,70 @@
+[LineNumbers]
+ui_create_game_rules 40 (0,10) (36,12) (48,13) (52,14) (64,15) (66,16) (73,18) (85,19) (97,20) (113,21) (125,22) (138,23) (140,24) (176,26) (190,27) (205,28) (207,29) (231,31) (268,33) (286,34) (304,35) (313,36) (319,37) (323,38) (356,39) (432,40) (434,41) (436,42) (472,44) (474,45) (476,46) (512,48) (561,49) (565,50) (594,51) (596,52) (664,54) (732,55) (800,56) (802,57) 
+ui_destroy_game_rules 5 (0,66) (6,67) (44,69) (80,70) (82,71) 
+ui_return_game_rules 24 (0,78) (36,79) (49,80) (88,81) (148,82) (162,83) (164,84) (182,85) (211,86) (224,88) (233,89) (242,90) (255,91) (257,92) (259,93) (265,94) (283,95) (330,96) (334,97) (400,98) (468,99) (536,100) (538,101) (540,102) 
+
+[Checksums]
+0xc08d36b9 scripts\guitar\menu\states\layouts\ui_game_rules.qb
+0xb990d003 target
+0xd9883013 net_song_breakdown_timer_screen_id
+0x4e10b054 assert
+0x059ea070 red
+0x803ba0e2 filter
+0xcf66717b GotParam
+0xefdd5184 quit_only
+0x2f6511de green
+0xbfa801df change
+0xdb69820c data_to_send
+0xc2eab26a two_teams
+0xb6a6a2c9 index_to_focus
+0x1b49b2de SessionIsOver
+0xa2f7c34e ui_create_game_rules
+0xc5f953c2 button
+0xa7cde3e6 Obj_GetChecksumTag
+0xc5bc93ee ScreenElementExists
+0x1e93946b alias
+0x1706b4d7 dbreak
+0x8da97503 primary_controller
+0x9d3fb516 focus
+0x61c9354b blue
+0xe8dae5a0 ui_destroy_game_rules
+0x31d75630 IsHost
+0xb2ff568c ui_song_breakdown_helper_params
+0x453b86c7 TeamModeEquals
+0x332816ed menu_id
+0x2cb33744 LaunchEvent
+0x130ef802 vmenu
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0x9d2d8850 z
+0x14e2885f SendStructure
+0x40c698af id
+0xcec738d4 team_only
+0x7321a8d6 type
+0xb90a78d7 is_popup
+0xf06ce8d8 song_breakdown_countdown_time_added
+0xbe5988dd screen_id
+0x7f261953 pos
+0x3bba6995 checksum_value
+0x3c15e9b6 DestroyScreenElement
+0xa58079eb SetTags
+0xa4d489f7 band_lobby_create_popup_menu_game_rules
+0xd5614a50 unblock_events
+0x2c8a3a6d child_index
+0x56a1eae3 root_window
+0xe07a3b14 start_timer
+0x7a2edb98 ui_return_game_rules
+0x1f5f8baf no_team
+0x86068bd9 callback
+0x7d654c18 exclusive_device
+0x9f23dc21 SE_SetProps
+0xb9d44c2f team_mode
+0x520c0c9c data
+0x4fd33e4f tag_name
+0x02141f19 clean_up_user_control_helpers
+0x806fff30 none
+0x74b06fad net_song_breakdown_add_to_timer
+0xc2719fb0 parent
+0xa1da6fe9 InNetGame
+0x3b427fec game_rules_screen_id
+

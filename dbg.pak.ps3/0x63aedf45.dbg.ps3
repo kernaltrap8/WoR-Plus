@@ -1,0 +1,23 @@
+[LineNumbers]
+
+[Checksums]
+0x9f067a6e models\car_instruments\guitar\heroes\gtr110_banjo.qb
+0x9687f060 BRIDGE
+0xa1dc81f9 Name
+0xab37b315 GTR110_Banjo_GTR110_N_Bridge
+0x12b4e660 Class
+0xdba8c7b4 gtr110_banjo_NodeArray_SortedNames
+0x7f261953 Pos
+0xd59979c2 gtr110_banjo_NodeArray
+0x19ebda23 Set
+0x3b3eaa81 gtr110_banjo_NodeArray_SortedIndices
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x210ffd44 GTR110_Banjo
+0x385e8d74 SkinExport
+0x1faeae7f GTR110_Banjo_GTR110_Banjo
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+

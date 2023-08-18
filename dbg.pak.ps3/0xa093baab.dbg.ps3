@@ -1,0 +1,17 @@
+[LineNumbers]
+
+[Checksums]
+0xaeed3593 scripts\game\anim\animationdata\loops\guit\l_guit_ivy_4horsemen_anim_data.qb
+0xdb8560f4 L_GUIT_Ivy_4horsemen_anims_set
+0x02aaa158 guit_Ivy_4horsemen_075
+0x937bb16d Good
+0x12e4443d Med
+0x7dd4c604 Bad
+0xda99b63b Fast
+0x2596167d Stance_A
+0xde7a971b Normal
+0x3c43a927 guit_Ivy_4horsemen_100
+0x23db4aea Idle
+0x0e75cba5 guit_Ivy_4horsemen_120
+0xcaf88e22 Slow
+

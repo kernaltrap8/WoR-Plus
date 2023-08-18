@@ -1,0 +1,35 @@
+[LineNumbers]
+
+[Checksums]
+0x7eebbec3 models\car_instruments\guitar\ibanez\gtr75_ibz_xpt.qb
+0x9687f060 BRIDGE
+0x3e969071 GTR_Knob_04_GTR75_pickup03
+0x4991a0e7 GTR_Knob_04_GTR75_pickup02
+0xd098f15d GTR_Knob_04_GTR75_pickup01
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x4efc64fe GTR_Knob_04_GTR75_pickup06
+0x48e94507 GTR_Knob_04_GTR75_bridge01
+0xd7f53544 GTR_Knob_04_GTR75_pickup05
+0x8058e545 MISC
+0xa0f205d2 GTR_Knob_04_GTR75_pickup04
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0x56872692 gtr75_ibz_xpt_NodeArray
+0x7f261953 Pos
+0x6a2a398b gtr75_ibz_xpt_NodeArray_SortedNames
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x0eee8c6e GTR_Knob_04_GTR75_knob02
+0x392d7cb2 GTR75_IBZ_XPT
+0x385e8d74 SkinExport
+0x97e7ddd4 GTR_Knob_04_GTR75_knob01
+0x39e5ee24 gtr75_ibz_xpt_NodeArray_SortedIndices
+0x84b1df33 ExportName
+0x2fc40f48 GTR_Knob_04_GTR75_switch4
+0x64f0cf83 AttachPoint
+0x0bb60fd5 GTR_Knob_04_GTR75_IBZ_XPT
+

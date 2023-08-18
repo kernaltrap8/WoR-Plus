@@ -1,0 +1,74 @@
+[LineNumbers]
+savegame_async_is_busy 16 (0,15) (36,17) (54,18) (66,19) (68,20) (91,21) (128,23) (153,24) (184,25) (186,26) (190,27) (220,28) (222,29) (243,31) (251,32) (253,33) 
+savegame_async_button_in 4 (0,42) (72,44) (90,53) (143,54) 
+savegame_async_save 4 (0,63) (72,65) (90,67) (143,68) 
+savegame_async_add_request 4 (36,77) (112,79) (188,81) (206,82) 
+savegame_async_init 5 (0,91) (36,93) (108,94) (110,95) (144,96) 
+savegame_async_deinit 6 (0,105) (9,107) (44,108) (132,109) (134,110) (168,112) 
+savegame_async_checks 5 (0,121) (64,123) (104,127) (176,128) (178,129) 
+savegame_async_update 28 (0,138) (6,140) (8,142) (22,144) (40,145) (64,147) (100,149) (127,151) (212,154) (291,156) (295,158) (377,160) (480,162) (482,164) (516,166) (547,169) (565,170) (604,172) (706,174) (752,178) (770,179) (772,181) (776,182) (812,184) (814,186) (816,188) (868,191) (870,193) 
+savegame_async_update_worker 21 (0,202) (8,204) (18,206) (92,207) (102,208) (132,209) (134,210) (147,212) (224,213) (234,214) (255,216) (284,217) (286,218) (360,220) (367,221) (396,222) (398,224) (406,226) (477,227) (479,229) (510,231) 
+
+[Checksums]
+0x963ee6f4 scripts\savegame\savegame_async.qb
+0xcd0dc02d KillSpawnedScript
+0x90ff204d success
+0x449540df savegame_async_update_dlc_scan
+0xe4f130f4 s
+0x7031f10c params
+0x5ef31148 array
+0xcf66717b GotParam
+0x174841bc a
+0xbebfa1c6 element
+0xbfa801df change
+0xa1dc81f9 name
+0x4bfcd202 AddArrayElement
+0xe6177289 error_params
+0xd4de628f entry
+0x4623c2f3 saving
+0xf556430b savegame_async_update
+0xa8ee7357 ScriptAssert
+0x0203b372 true
+0xa222438e error
+0xee9bc392 SpawnScriptLater
+0x2038e3a1 chosen_index
+0xbe09f3f8 button_in
+0x39b5c4b0 GetArraySize
+0x50a3f537 savegame_async_update_saving
+0x4c29c545 RequireParams
+0x102585a5 e
+0xf2ff760a savegame_async_checks
+0x2de8c60e printf
+0x6bef3672 SetScriptCannotPause
+0xf906d74c PopUnsafeForShutdown
+0xde059750 savegame_async_queue
+0x73770759 savegame_async_save
+0x76cd7759 savegame_async_update_worker
+0xd43297cf false
+0x7f8c98fe index
+0x00357936 savegame_async_last_error
+0xb30d9965 controller
+0x1993c98e i
+0x1b0509c5 savegame
+0xf93659c9 savegame_async_deinit
+0xc130f9e5 ScriptIsRunning
+0xe065d9f3 savegame_async_init
+0xdb421a6f abort_for_signout
+0x1da27a81 context
+0x7ee9fae9 PushUnsafeForShutdown
+0x19fa5af7 SpawnScriptNow
+0x86068bd9 callback
+0x410a3bde savegame_async_is_busy
+0x37f1ac0e RemoveArrayElement
+0x82117c1a wait
+0xb9436c9c savegame_async_add_request
+0x520c0c9c data
+0x5c6c2d04 state
+0x7f5b3d4d array_size
+0x5869fd87 savegame_async_button_in
+0xc4e78e22 all
+0x5510ee66 savegame_async_update_button_in
+0xbe304e86 printstruct
+0xfc37df05 gameframe
+0x806fff30 none
+

@@ -1,0 +1,62 @@
+[LineNumbers]
+flashsounds 9 (0,1) (36,2) (42,3) (76,4) (156,5) (220,6) (316,7) (322,8) (356,9) 
+SfxCreateTestObject 12 (0,12) (36,14) (48,15) (50,16) (56,18) (69,21) (82,22) (112,24) (141,28) (163,29) (207,30) (209,31) 
+SfxDestroyTestObject 4 (0,36) (36,37) (48,38) (50,39) 
+PreviewSoundEvent 30 (0,42) (39,44) (66,45) (89,46) (130,48) (164,49) (182,50) (225,51) (260,52) (266,53) (295,54) (299,55) (332,56) (334,57) (346,59) (348,60) (366,61) (368,62) (370,63) (388,64) (400,65) (402,66) (404,67) (456,68) (477,69) (479,70) (485,71) (489,73) (512,74) (514,75) 
+
+[Checksums]
+0x9d703bfb scripts\engine\sfxutils.qb
+0x8e411006 b
+0xc6870028 Die
+0x7cf0a08a waittime
+0x3176f093 UnLoadPak
+0x76bd50d2 flashsounds
+0xe4f130f4 s
+0x7031f10c Params
+0x488cb15a PreviewSoundEvent
+0x29276176 container_name
+0x174841bc a
+0x40b2b1f5 SfxPreviewEventObject
+0xa1dc81f9 name
+0x748ca262 quat
+0x46159266 out
+0x5151b2b1 PlaySound
+0x3053b2c7 CompositeObjectExists
+0x9d5923d8 priority
+0x57525413 object
+0xdeef04cd structurecontains
+0x7135152b Command
+0xc451f558 event
+0x7840755b WaitUnloadPak
+0x2de8c60e printf
+0xd029f619 seconds
+0xac3ff6d1 no_vram
+0x0c5f37cd enable
+0x90fec815 structure
+0xda3ab8c5 camid
+0x21cc38d9 ExtendCrc
+0x7f261953 pos
+0x11b70a02 Components
+0xc97f3aa9 orientation
+0x77403afc Obj_GetQuat
+0xd0ffaafd SfxDestroyTestObject
+0xec026c0b IsSoundEventPlaying
+0x82117c1a Wait
+0x1b1f1c42 heap_audio
+0x07713c7b Sound
+0xe6fcfccc COIM_Priority_Permanent
+0x3c3a5d1c SfxCreateTestObject
+0x42d6dd1e heap
+0xe90aad2d Obj_GetPosition
+0xc99e4dea EnableRemoveSoundEntry
+0xafa20e18 Obj_PlaySound
+0x69b05e2c Generic
+0x940cde9c checksumequals
+0xb6015ea8 Component
+0x35460f50 LoadPak
+0xa997cf6a StopSoundEvent
+0x880d9f7c CreateCompositeObject
+0x78efefc9 GetCurrentCameraObject
+0xfee23fd3 stars
+0xd301ffdd SoundEvent
+

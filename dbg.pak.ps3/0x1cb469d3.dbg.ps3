@@ -1,0 +1,91 @@
+[LineNumbers]
+guitar_touch_update_hilite 25 (44,131) (61,133) (96,135) (108,136) (172,137) (174,138) (193,140) (206,141) (210,142) (240,143) (242,144) (265,146) (310,148) (384,149) (403,151) (424,152) (500,153) (502,154) (506,155) (527,156) (598,157) (600,158) (602,159) (624,161) (640,163) 
+fade_touch_glow 10 (0,167) (36,169) (57,170) (110,171) (112,172) (116,181) (137,182) (187,183) (189,184) (191,185) 
+drum_fill_update_hilite 15 (28,189) (64,191) (76,192) (141,193) (143,194) (166,195) (211,196) (285,197) (304,199) (325,200) (380,201) (382,202) (384,203) (406,205) (414,207) 
+pulse_touch_glow 8 (28,211) (49,213) (85,214) (87,215) (136,217) (157,219) (192,220) (194,221) 
+reset_all_touch_glow 18 (0,225) (36,226) (72,227) (84,229) (86,230) (120,232) (132,233) (134,234) (157,235) (202,236) (276,237) (297,239) (321,240) (323,241) (345,243) (353,244) (374,246) (381,247) 
+reset_player_touch_glow 17 (0,250) (64,251) (117,253) (135,254) (189,255) (207,256) (240,258) (252,259) (254,260) (277,261) (322,262) (396,263) (417,265) (441,266) (443,267) (465,269) (473,270) 
+guitar_touch_start_eq 11 (0,279) (17,281) (35,283) (72,286) (144,287) (227,288) (247,290) (284,293) (356,294) (439,295) (441,297) 
+guitar_touch_update_eq 11 (0,305) (17,307) (35,309) (52,312) (96,313) (179,314) (199,316) (216,319) (260,320) (343,321) (345,323) 
+guitar_touch_stop_eq 7 (0,327) (17,329) (35,331) (184,333) (204,335) (356,337) (358,339) 
+
+[Checksums]
+0xefbd5722 scripts\guitar\guitar_input_touch.qb
+0xcd0dc02d KillSpawnedScript
+0xa974207c pulse_script_id
+0xdfb2008f randomness
+0xe8dc80d1 AddToStringLookup
+0xe4f130f4 s
+0x7031f10c params
+0x785ce11e rot_offset
+0x7df8614e p
+0x6b3f915d mat
+0xcf66717b GotParam
+0xa01371b1 in
+0x5d7561de center_value
+0xa8e2b1e6 pattern_string
+0xa1dc81f9 name
+0xd4b50263 gem_colors
+0x2f6ad2ff gain
+0x2282831a Bass_EQ
+0xb7f4c355 effects
+0x0203b372 true
+0xdfa4437a touch_glow_props
+0x445f53a4 color_string
+0x4bafc3d3 touch_glow_props_rb_drum
+0xc5bc93ee ScreenElementExists
+0x9277f428 FormatText
+0x39b5c4b0 GetArraySize
+0x57d544cb guitar_touch_start_eq
+0xcb9fb4cf bass
+0xbf0f14db center
+0xf319a51e color_num
+0xf07f1529 drum_fill_update_hilite
+0x4c29c545 requireparams
+0xd114a546 glow_script_id
+0x09ec255b reset_player_touch_glow
+0x67e6859a player
+0xf259859d array_count
+0xd029f619 seconds
+0xb412461f pulse_touch_glow
+0x2f1fc695 alpha
+0x80eb06d4 touch_value
+0x99a9b716 color
+0xbbeb271e lefthanded_gems
+0x5e3fe7af script_id
+0x9d3967b2 setsoundbusseffects
+0x906b67ba time
+0xda2b37f7 touch_glow_props_drum
+0x7b8d985b fade_touch_glow
+0x210c6877 reset_all_touch_glow
+0x40c698af id
+0x930d08e2 guitar_touch_update_eq
+0x0beae92f color_count
+0x325c89a7 ParamEQ
+0x02be3a14 guitar_touch_update_hilite
+0x76fa7a8f ChecksumName
+0x75f62a90 bandwidth
+0x19fa5af7 SpawnScriptNow
+0xe52dcb67 guitar_touch_patterns
+0xd76b5be5 touch_glow_fade_in_alpha
+0xa3a33bea guitar_touch_stop_eq
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0x30c8fcf2 touch_pattern
+0xbdc53cf2 guitar
+0x5ac86d1c flip_v
+0x7f5b3d4d array_size
+0x3f6bcdba rgba
+0x499f6e0d effect
+0x6739de1b name_string
+0xc4e78e22 all
+0x9766de59 button_up_models
+0x86587e67 touch_glow_fade_in_time
+0xfbe7be97 touch_glow_fade_out_time
+0xab3f8eb6 touch_glow
+0x7e85beca highway_slide_01
+0x65485eea GetPlayerInfo
+0x76d55f06 Guitar_EQ
+0xb6f08f39 part
+0xe1a8ffa4 touch_zone
+

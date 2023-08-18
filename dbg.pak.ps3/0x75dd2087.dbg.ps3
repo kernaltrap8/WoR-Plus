@@ -1,0 +1,34 @@
+[LineNumbers]
+
+[Checksums]
+0x8036fdb1 scripts\av_presets\og_frequency_burst.qb
+0xcae27061 sprite
+0xc48391a5 radius
+0xdbbaf32d radiusScale
+0x051273c0 controls
+0xdd6bb3d5 blendMode
+0xc184f404 response
+0xa6f5352f offset
+0xf372e60b OG_Mat_Flare_Add
+0x7bc74623 spectrumBand
+0x99a9b716 color
+0xed91979d responseFunc
+0xd98047ec frequency
+0x7321a8d6 type
+0x7f261953 pos
+0xff46c97e deform
+0x34952a27 constant
+0x83418a6a material
+0x13b9da7b scale
+0x2b489a86 circle
+0xf83a3ad0 sinTime
+0x73e5bad0 width
+0x0ab21af0 height
+0xff7ebaf6 angle
+0x797b2b45 scaleMod
+0x02e58c18 add
+0xf6437c2b blendPrev
+0x16282e22 OG_Frequency_Burst
+0x54628ed7 blend
+0x68e77f40 brighten
+

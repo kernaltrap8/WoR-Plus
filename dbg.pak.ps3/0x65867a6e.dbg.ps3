@@ -1,0 +1,34 @@
+[LineNumbers]
+
+[Checksums]
+0x01164e2b models\car_instruments\guitar\prs\gtr189_prs_torero.qb
+0x9687f060 BRIDGE
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x2456d510 GTR189_Neckhead_GTR189_PRS_Torero
+0x8058e545 MISC
+0xa93d05bc gtr189_prs_torero_NodeArray
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0xb54cc668 gtr189_prs_torero_NodeArray_SortedIndices
+0xd22ec79f GTR189_PRS_Torero
+0xc2d34823 GTR189_Neckhead_GTR189_N_knob02
+0x7f261953 Pos
+0x5bda1999 GTR189_Neckhead_GTR189_N_knob01
+0x19ebda23 Set
+0x09460a81 GTR189_Neckhead_GTR189_N_pickup01
+0xc97f3aa9 Orientation
+0x904f5b3b GTR189_Neckhead_GTR189_N_pickup02
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0xe7486bad GTR189_Neckhead_GTR189_N_pickup03
+0x3ff47bf4 RemovalFlags
+0x385e8d74 SkinExport
+0x792cfe0e GTR189_Neckhead_GTR189_N_pickup04
+0x0e2bce98 GTR189_Neckhead_GTR189_N_pickup05
+0x54cfcf00 gtr189_prs_torero_NodeArray_SortedNames
+0xddf6bf24 GTR189_Neckhead_GTR189_N_misc
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+0x61df4fc2 GTR189_Neckhead_GTR189_N_bridge
+

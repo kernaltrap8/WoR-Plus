@@ -1,0 +1,29 @@
+[LineNumbers]
+show_tapping_text 6 (0,1) (36,3) (72,4) (74,5) (312,18) (345,19) 
+remove_tapping_text 4 (0,23) (36,25) (72,26) (74,27) 
+
+[Checksums]
+0xed743aa7 scripts\guitar\guitar_tapping.qb
+0x73665140 CreateScreenElement
+0x8b60022f just
+0xed2ed2f7 show_tapping_text
+0xc5bc93ee ScreenElementExists
+0xbf0f14db center
+0x34a68574 dims
+0x2f6bf72d font
+0x1abec7ff fit_text_in_rectangle
+0xc4745838 text
+0x40c698af id
+0x7321a8d6 type
+0x7f261953 pos
+0x3c15e9b6 DestroyScreenElement
+0x13b9da7b scale
+0x56a1eae3 root_window
+0xefc20d2a remove_tapping_text
+0x3f6bcdba rgba
+0x57710f31 z_priority
+0x2fefaf84 fontgrid_text_a1
+0x95861fa5 tapping_text
+0xc2719fb0 parent
+0x5200dfb6 TextElement
+

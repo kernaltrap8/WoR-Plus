@@ -1,0 +1,85 @@
+[LineNumbers]
+setup_main_button_event_mappings 6 (0,321) (7,322) (22,323) (37,324) (52,325) (54,326) 
+setup_controller_button_event_mappings 22 (44,329) (57,330) (71,331) (85,332) (99,333) (114,334) (128,335) (142,336) (156,337) (160,338) (174,339) (188,340) (202,341) (204,342) (232,344) (239,346) (254,347) (269,348) (284,349) (299,350) (305,351) (307,352) 
+get_handlers_for_all_buttons 12 (52,355) (60,357) (86,358) (112,359) (138,360) (164,361) (190,362) (216,363) (242,364) (268,365) (270,375) (284,377) 
+
+[Checksums]
+0x84b6beef scripts\engine\menu\menubuttonremap.qb
+0x8e411006 b
+0xaa7f2028 pad_l1
+0x0f7e902c nullscript
+0x475bf03c event_handlers
+0xcd254066 left_trigger1
+0x01984077 pad_btn_top
+0x1dbe60c3 get_handlers_for_all_buttons
+0x44714104 pad_l3
+0x7031f10c params
+0x5ef31148 array
+0xeef8b165 devices
+0xbc6b118f up
+0x33767192 pad_l2
+0x174841bc a
+0xbebfa1c6 element
+0x542c11dc left_trigger2
+0xcb5c11fa pad_option
+0x4bfcd202 AddArrayElement
+0x0e35426f ps3_guitar
+0x20689278 triangle
+0x65bad2b5 pad_alt
+0x456d7433 pad_circle
+0x5face43a pad_btn_right
+0xccabb4ae pad_event_types
+0xd9afe529 windx_guitar_flip
+0x1e3e253b pad_choose
+0xb40d153f select
+0x146ac590 ps3_pad
+0xef8d059e ps3
+0xa8e3e604 left_stick_button
+0x42a8865e event_params
+0x8760f677 pad_btn_bottom
+0x1daa868b pad_btn_left
+0x95741693 pad_option2
+0x54d6f6a5 right_stick_button
+0x3278a724 windx_pad
+0x281fc72f xenon_guitar
+0x321c9756 square
+0xd0e7f78d pad_event_up_inversion
+0xd43297cf false
+0xe3d547de xenon_guitar_flip
+0x30a4f836 pad_up
+0x05ddd87c pad_right
+0x85981897 left
+0x2e6ef8e7 pad_start
+0xb30d9965 controller
+0x7323e97c x
+0x97a5198c ps3_guitar_flip
+0x7d5d29a9 SetButtonEventMappings
+0xf6a179c0 xenon
+0x5c3979e3 pad_square
+0x0424d9ea y
+0x2b489a86 circle
+0x4b358aeb right
+0x08734b20 pad_backspace
+0x9fc98b4c setup_controller_button_event_mappings
+0x6949db75 pad_left
+0xda28fb8a pad_select
+0x65011baa flip
+0xe2602bac setup_main_button_event_mappings
+0x0fd1ac26 pad_down
+0x73b9ac51 pad_alt2
+0x98656c52 pad_space
+0x68106ce8 windx_guitar
+0xbdc53cf2 guitar
+0x7ee0fd2a pad_back
+0x29073d33 windx
+0xbb890e41 right_trigger1
+0xe7374e4d pad_r2
+0x92313ec8 back
+0x90307edb pad_r3
+0x1a4e0ef9 clear
+0x3f09ef5b xenon_pad
+0xd1e70f97 event_script
+0xe3006fc4 down
+0x7e3e1ff7 pad_r1
+0x22805ffb right_trigger2
+

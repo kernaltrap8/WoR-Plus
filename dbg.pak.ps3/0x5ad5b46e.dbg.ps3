@@ -1,0 +1,24 @@
+[LineNumbers]
+ui_create_tutorial_gameplay_load 3 (0,14) (6,16) (26,18) 
+ui_create_tutorial_gameplay_load_spawned 9 (0,27) (72,28) (78,31) (102,35) (114,36) (127,37) (140,38) (153,39) (155,40) 
+
+[Checksums]
+0xe7de938d scripts\guitar\menu\states\layouts\ui_tutorial_gameplay_load.qb
+0x79e3f0c0 check_lefty_flip
+0x7031f10c params
+0x6017f1cc ui_event
+0xee9bc392 SpawnScriptLater
+0x4c29c545 RequireParams
+0xc451f558 event
+0xe88e660c destroy_generic_menu
+0xd4c98794 title
+0x6cef5907 menu_change
+0x3b53993d UIstate_tutorial_menu_skill_level
+0xd26f2b38 ui_event_wait_for_safe
+0x520c0c9c data
+0x5c6c2d04 state
+0x6b32fd86 ui_create_tutorial_gameplay_load_spawned
+0xc4e78e22 all
+0x912a5f2e ui_create_tutorial_gameplay_load
+0xa7860f33 tutorial_header
+

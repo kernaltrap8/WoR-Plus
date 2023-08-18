@@ -1,0 +1,285 @@
+[LineNumbers]
+dynamic_ad_friendsfeed_uicreate_callback 12 (28,218) (80,220) (109,221) (113,222) (115,224) (133,230) (153,231) (185,232) (220,233) (226,234) (228,235) (230,236) 
+dynamic_ad_friendsfeed_uidestroy_callback 8 (28,248) (48,249) (66,250) (101,251) (133,252) (162,253) (164,254) (166,255) 
+dynamic_ad_destroy_2d_subscriber 2 (28,269) (57,278) 
+dynamic_ad_2dsubscriber_downloaded 55 (28,293) (51,297) (79,299) (100,300) (118,301) (150,302) (152,303) (154,304) (174,306) (195,308) (216,309) (240,311) (264,312) (285,314) (335,315) (361,317) (411,318) (443,320) (461,321) (481,323) (488,324) (500,325) (512,326) (525,327) (546,328) (559,329) (572,330) (588,331) (608,332) (637,333) (649,334) (661,335) (682,336) (688,337) (694,338) (696,340) (700,341) (707,342) (719,343) (731,344) (744,345) (765,346) (778,347) (791,348) (807,349) (827,350) (856,351) (868,352) (880,353) (901,354) (907,355) (909,357) (911,358) (913,359) (915,361) 
+dynamic_ad_2dsubscriber_destroycallback 9 (0,372) (23,377) (51,379) (72,380) (90,381) (122,382) (124,383) (126,384) (128,385) 
+dynamic_ad_get_2d_subscriber_info 16 (0,396) (40,398) (72,399) (74,400) (108,402) (126,403) (138,404) (140,405) (163,406) (190,407) (211,408) (213,409) (234,412) (242,413) (244,414) (276,415) 
+dynamic_ad_start_friends_feed 2 (0,424) (92,425) 
+dynamic_ad_pump_watchdogs 5 (0,428) (2,429) (36,431) (88,432) (90,433) 
+dynamic_ad_friendfeed_watchdog_callback 46 (0,443) (36,446) (140,450) (176,451) (192,454) (204,456) (222,457) (234,458) (236,459) (259,460) (282,461) (294,462) (320,463) (332,464) (334,465) (364,467) (394,468) (415,469) (465,470) (498,471) (520,472) (570,473) (577,475) (589,476) (601,477) (614,478) (635,479) (648,480) (661,481) (677,482) (697,483) (726,484) (738,485) (750,486) (771,488) (777,489) (783,490) (785,491) (834,494) (856,495) (904,496) (926,497) (928,498) (949,501) (957,502) (959,503) 
+dynamic_ad_enter_menu 27 (0,513) (84,515) (120,516) (160,519) (162,520) (164,521) (173,523) (208,525) (244,527) (280,528) (316,530) (334,531) (346,532) (348,533) (371,534) (398,535) (631,536) (649,538) (697,539) (699,540) (737,542) (751,543) (753,544) (774,547) (782,548) (784,549) (868,561) 
+dynamic_ad_replace_2d_ad_test 2 (0,591) (100,592) 
+dynamic_ad_leave_menu 5 (0,601) (36,603) (120,605) (156,606) (240,607) 
+dynamic_ad_get_current_camera_name_checksum 25 (0,617) (12,619) (31,622) (35,625) (63,626) (78,627) (96,628) (117,631) (121,634) (159,635) (188,636) (192,638) (230,639) (274,640) (309,641) (311,643) (313,644) (315,645) (317,647) (319,648) (321,649) (338,651) (384,653) (386,654) (405,656) 
+ok_for_venue_ad_on 2 (0,665) (36,666) 
+ok_for_venue_ad_off 2 (0,669) (36,670) 
+dynamic_ad_find_out_if_camera_ok_for_venue_ad_flag 22 (0,673) (64,674) (82,678) (112,680) (114,681) (132,683) (164,685) (166,686) (200,689) (213,690) (231,691) (260,693) (262,694) (274,696) (276,697) (299,698) (318,699) (348,701) (350,702) (371,704) (379,705) (408,708) 
+dynamic_ad_update_camera_ok_for_venue_ad_flag 7 (0,717) (6,724) (27,726) (60,727) (64,728) (100,729) (102,730) 
+should_we_record_dynamic_ads_for_this_song 40 (0,740) (17,742) (48,743) (50,744) (56,763) (74,764) (104,766) (106,767) (160,771) (192,773) (194,774) (244,776) (262,777) (292,779) (294,780) (344,782) (362,783) (392,785) (394,786) (406,788) (418,789) (468,791) (470,792) (487,793) (537,794) (558,795) (578,796) (599,797) (601,798) (635,799) (643,800) (661,804) (692,806) (712,807) (716,810) (734,812) (764,814) (766,815) (768,816) (800,819) 
+dynamic_ad_get_current_venue_zone_checksum 3 (0,829) (30,830) (44,831) 
+dynamic_ad_start 48 (0,840) (40,844) (53,845) (55,846) (92,847) (98,848) (100,849) (140,850) (142,851) (144,852) (239,855) (268,856) (286,861) (306,862) (308,864) (310,865) (330,866) (350,867) (352,869) (354,870) (356,871) (393,874) (395,876) (397,877) (456,881) (474,883) (480,885) (489,890) (540,897) (592,899) (621,900) (639,902) (657,903) (692,904) (696,906) (732,910) (734,912) (754,914) (760,916) (812,919) (864,920) (882,922) (911,924) (929,926) (947,927) (980,928) (984,930) (986,934) 
+dynamic_ad_stop 10 (0,946) (35,948) (92,950) (128,955) (180,956) (232,957) (268,958) (304,959) (340,960) (342,962) 
+dynamic_ad_reset 7 (0,972) (18,977) (31,978) (44,979) (50,980) (84,981) (86,982) 
+dynamicaddebugoverlay 2 (0,991) (36,993) 
+flushalldebugimpressioncounters 2 (0,1003) (36,1004) 
+dynamicaddebugoverlay_create 6 (0,1013) (6,1015) (104,1023) (304,1036) (540,1054) (592,1060) 
+dynamicaddebugoverlay_destroy 4 (0,1072) (36,1073) (72,1074) (74,1075) 
+dynamicaddebugoverlay_loop 18 (0,1084) (2,1085) (40,1087) (96,1088) (102,1090) (134,1091) (138,1093) (151,1094) (153,1095) (192,1099) (205,1100) (207,1101) (244,1102) (268,1103) (270,1104) (272,1107) (324,1109) (326,1111) 
+dynamicaddebugoverlay_task 3 (0,1120) (6,1121) (12,1122) 
+
+[Checksums]
+0x3bc4e715 scripts\engine\dynamic_ad_params.qb
+0x8e411006 b
+0x7604500e debugbouncearoundthescreen
+0x0c3b1016 dynamicaddebugoverlay_just
+0x226f401b noassert
+0xd9fbf028 dynamicaddebugoverlay_loop
+0xcd0dc02d KillSpawnedScript
+0xe126e035 top
+0xa549804d remote
+0x9775a050 msg
+0xcf77a05c pak/menu_ad_tex/menu_ad_tex.tex
+0x24c8b070 tex/ads/ad_friendfeed_ad3_468x60.dds
+0x49e430be dynamic_ad_enter_menu
+0x365de0fe massive_log_level
+0xab215108 GetFirstPlayer
+0xb12b510a SpriteElement
+0x7031f10c params
+0xc42ce128 ArrayContains
+0x73665140 CreateScreenElement
+0x5b7ef147 g_dynamic_ad_debug_uly
+0x5ef31148 array
+0x3499a14d msgtext
+0x290eb14e dynamicaddebugoverlay_root_id
+0xe9133151 camera_name_checksum2
+0x0209b15f numhighways
+0x49fd1169 dynamic_ad_replace_2d_ad_test
+0xc2739175 dynamic_ad_get_2d_subscriber_info
+0xcf66717b GotParam
+0x69f8e187 DynamicAdManagerCommand
+0x6dc13189 ok_for_venue_ad_on
+0xb513f194 dynamic_ad_get_current_camera_name_checksum
+0xa08bb195 global_name
+0xb14501b5 denominator
+0x174841bc a
+0x9dcbe1c1 dynamicaddebugoverlay
+0xbebfa1c6 element
+0x2c79c1d1 g_dynamic_ad_debug_ulx
+0x10d5f1da g_dynamic_ad_started_zone
+0xbfa801df change
+0xa1dc81f9 name
+0x4bfcd202 AddArrayElement
+0xebecc220 zonechecksum
+0x42445229 CameraCuts_Init
+0x8b60022f just
+0xd17db256 SetCurrentViewportCameraOkForVenueAd
+0xbd30325b white
+0x46159266 out
+0x7d99f28d texture
+0x9da9c29c Bassist_Mocap02
+0xeb8e32bb check_ad_threshold
+0x2bd472f4 massive_sku
+0x3a0912fe get_2d_subscriber_downloaded_id_array
+0x4137b30e Moment09
+0x04a09326 Bassist_Mocap01
+0x6a1f0326 dynamicaddebugoverlay_text_font
+0x9eb6e336 spawnscript
+0x2d00436b ad_friendfeed_ad1_468x60
+0xd38db36e FastGetArraySize
+0xe948b372 ttmp
+0x0203b372 true
+0xa6f4d374 dynamic_ad_find_out_if_camera_ok_for_venue_ad_flag
+0x36308398 Moment08
+0x7c05f3b2 uicreatecallback
+0xf5c7b3cc dynamic_ad_destroy_2d_subscriber
+0xc5bc93ee ScreenElementExists
+0xff0db407 textname
+0x6f254416 ad_friendfeed_ad3_468x60
+0x1a1ee416 new_value
+0x3dbb641a dynamicaddebugoverlay_backgroundsize
+0x9277f428 FormatText
+0x70946434 camera_name_checksum
+0xbd09544c func
+0xe2ed1462 dynamic_ad_2dsubscriber_destroycallback
+0xba4ba46b g_valid_ad_ids
+0xffc5b46e disconnect
+0xa38f4488 ad_friendfeed_ad2_468x60
+0x58235490 texturename
+0x8d1464ad dynamicaddebugoverlay_create
+0x39b5c4b0 GetArraySize
+0xdeef04cd StructureContains
+0xcb9fb4cf bass
+0xf801b4d0 ok_for_venue_ad_off
+0xe9efc4d2 dynamicaddebugoverlay_text1_id
+0xf7c1c4e4 nullcchecksum
+0xc10b44e8 current_level
+0x6e6ee4f2 venue
+0x903644fb Drummer_Mocap01
+0x0e61b525 RunScriptOnScreenElement
+0x201a5537 dynamic_ad_stop
+0x093f1541 Drummer_Mocap02
+0x4c29c545 RequireParams
+0x840d6547 GameMode_GetType
+0xccec8562 tempdims
+0x82fac56c menu
+0x34a68574 dims
+0x71059581 contains
+0x87c94581 tempwidth
+0x67e6859a player
+0x4e35c59d LevelZones
+0x325ff5c7 g_dynamic_ad_zone
+0xd75d45f7 dynamic_ad_start
+0x77b5a614 destroyall2dsubscribers
+0xd029f619 seconds
+0x061b263b temp_y
+0x68f8f647 idlist
+0x3a7ed64a dynamic_ad_start_friends_feed
+0xfcb7b666 dynamicaddebugoverlay_text_color1
+0x27f47676 g_dynamic_ad_started_mode
+0x687fa67b DynamicAdSpriteElement
+0x5788668e temppos
+0xb761f690 flushalldebugimpressioncounters
+0x2f1fc695 alpha
+0xc3f4169a filename
+0x711c16ad temp_x
+0x1cb2a6b0 num_players
+0x0e4186b8 CameraCuts_LastIndex
+0x019176c5 frames
+0x8b3006e0 connect
+0x2ada36e3 dynamicaddebugoverlay_task
+0x0107f719 dynamicad2dsubscriberid
+0x8a947729 g_dynamic_ad_2d_subscribers
+0x65cd3729 ok_for_venue_ad
+0x2f6bf72d font
+0xfcc74741 should_we_record_dynamic_ads_for_this_song
+0x8922e74b g_dynamic_ad_debug_replacetexturefailurepassthroughflag
+0x162a576d tempheight
+0xee53b7ab dynamic_ad_friendsfeed_uidestroy_callback
+0x906b67ba time
+0xe288a7cb value
+0xd43297cf false
+0x3aca77d7 pos2
+0x65bee7dc dynamicaddebugoverlay_text_color2
+0x90fec815 structure
+0xc4745838 text
+0x37c1a839 ie
+0x907fb842 tempmode
+0x5b9da842 ContainerElement
+0x6835b854 mode
+0x4bfaf85b checksum_id_array
+0x8f255867 ids
+0x85981897 left
+0x17b1e8a9 load2dtexturefromdisc
+0x40c698af id
+0x7321a8d6 type
+0xbbb9d8fd texturechecksum
+0x7f8c98fe index
+0x7f261953 pos
+0x12f7a979 dynamicaddebugoverlay_container_pos
+0x95cc6984 g_dynamic_ad_debug_2dsubscriber_bounce_around_the_screen
+0x1b6d7995 leavezone
+0x8d5c19ae massive_zones
+0x3c15e9b6 DestroyScreenElement
+0x505059ff tex/ads/ad_friendfeed_ad4_468x60.dds
+0x14cb0a04 g_dynamic_ad_ok_for_venue_ad_override
+0xa1e25a10 Moment03
+0xacb16a19 dynamic_ad_2dsubscriber_downloaded
+0xb5365a1d massive_build
+0x13d0da1e DontAssertForChecksums
+0x873c3a20 destroy2dsubscriber
+0xefd08a28 g_dynamic_ad_debug_2dsubscriber_images
+0xb1fe6a30 NewsFeedManager
+0xb94e1a31 destroyelementif2dsubscriberdestroyed
+0xe9df1a41 z_friendfeed
+0x5637ea54 dynamicaddebugoverlay_text_scale2
+0xcea42a5e trace
+0xbb841a65 debugmark2dsubscriberdownloaded
+0x789f6a78 Singer_Mocap01
+0x13b9da7b scale
+0xd6e56a86 Moment02
+0x92056a93 g_dynamic_ad_friends_feed_ui_create_first_time
+0xdbbd1aa7 replacetexturefailurepassthroughflag
+0xb14cbab9 breakpoint
+0x73e5bad0 width
+0xf931aad2 pumpallwatchdogs
+0xe0e4dae1 item
+0xea920ae1 GetNextPlayer
+0x56a1eae3 root_window
+0x21f03aeb Moment10
+0x0ab21af0 height
+0x19fa5af7 spawnscriptnow
+0x4fec3b3c Moment01
+0x1d16db47 disable_ad_manager
+0x1d842b4c issuecue
+0xe038db54 ff_refresh_feed
+0x88c05b56 enterzone
+0x6c9a3b88 dynamic_ad_friendsfeed_uicreate_callback
+0xec01db97 tempid
+0x3ac2fba0 image
+0x90057bab dynamic_ad_get_current_venue_zone_checksum
+0xe1963bc2 Singer_Mocap02
+0xcf3ebbee dynamicaddebugoverlay_text_scale1
+0x25bf4bf0 cue
+0x43ec0bf7 g_dynamic_ad_support_menu_ads
+0x37f1ac0e RemoveArrayElement
+0x82117c1a wait
+0xbf6dfc1f tex/ads/ad_friendfeed_ad2_468x60.dds
+0x9f23dc21 SE_SetProps
+0xb4456c39 g_dynamic_ad_started
+0xb5368c90 ChangeGlobalArray
+0x25cadcac GetNumPlayersInGame
+0x3606bcd5 dynamic_ad_pump_watchdogs
+0x5cc16cdf drum
+0x01d5fce4 texdict
+0xbdc53cf2 guitar
+0x65e04d0f ad_friendfeed_ad4_468x60
+0x0e1bfd13 destroycallback
+0xcef92d47 single_line
+0x7f5b3d4d array_size
+0xd3a51d80 numvocalists
+0xed90ada1 item_id
+0xbaf93da4 downloadedcallback
+0x3f6bcdba rgba
+0xe5e01dc3 g_dynamic_ad_mark_all_2d_subscribers_as_downloaded
+0xe8e6adcb vocals
+0x405b3ddf current_camera_name_checksum
+0xaf7cade3 num_remote_players
+0x3bbc8df4 current_num_ads
+0xa68f9e09 Moment07
+0xc4e78e22 all
+0xedbc2e2e tempulx
+0x3c2e1e56 g_dynamic_ad_support_venue_ads
+0xe45e4e60 on_screen
+0x2b769e83 create2dsubscriber
+0x00fdee8a nullchecksum
+0x06c6de8d Guitarist_Mocap02
+0x4b1a0e96 dynamic_ad_leave_menu
+0xd188ae9f Moment06
+0x50b20eae destroyallwatchdogs
+0x65485eea GetPlayerInfo
+0xc8f32eef tex/ads/ad_friendfeed_ad1_468x60.dds
+0x8f193eef dynamic_ad_update_camera_ok_for_venue_ad_flag
+0x6407aeef uidestroycallback
+0x2f3e0f0e CameraCuts_LastArray
+0x4881ff25 Moment05
+0x806fff30 none
+0x57710f31 z_priority
+0x18b9af35 dynamic_ad_reset
+0x9fcf8f37 Guitarist_Mocap01
+0xb6f08f39 part
+0x09cd1f50 dynamic_ad_friendfeed_watchdog_callback
+0x13f4cf52 massive_camera_names_exclude_list
+0x7d30ff5d g_dynamic_ad_debug_2dsubscriber_image_scale
+0xdc87df7f num_camera_names
+0x2fefaf84 fontgrid_text_a1
+0x4be80fac getdebugoverlayinfo
+0xc2719fb0 parent
+0x3f86cfb3 Moment04
+0x2c425fb3 dynamicaddebugoverlay_destroy
+0x5200dfb6 TextElement
+0x81882fda freeplay
+0xa8a94fe7 dynamicaddebugoverlay_background_id
+0xa75e3fee tempzone
+0x5f143ff8 zone
+

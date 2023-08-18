@@ -1,0 +1,31 @@
+[LineNumbers]
+
+[Checksums]
+0x52892a60 songs\wish.mid.qb
+0xc2a28080 vocalist
+0xdd769091 wish_localized_strings
+0x1901c0d9 wish_lightshow
+0x60d6d0f7 wish_performance
+0x7031f10c params
+0x4d8eb115 wish_lightshow_notes
+0xa1dc81f9 name
+0xe07c32e7 wish_anim_notes
+0x7166b360 Band_PlayFacialAnim
+0xe9f0b3a3 wish_crowd
+0x21426426 wish_cameras_notes
+0x8d8c5570 wish_drums_notes
+0x5da696f4 wish_facial
+0x906b67ba time
+0xd25b07bf wish_crowd_notes
+0xcbc93808 GH6_Singer_Male_Wish_4
+0xa6d2d890 scr
+0xbcce089e GH6_Singer_Male_Wish_5
+0x871b5a01 wish_anim
+0x98549ba4 anim
+0xbba3cc87 GH6_Singer_Male_Wish_1
+0x7f91fd0f wish_cameras
+0x22aa9d3d GH6_Singer_Male_Wish_2
+0xc9d04d5b wish_scripts
+0x55adadab GH6_Singer_Male_Wish_3
+0x6ef11e4b Lightshow_SetTime
+

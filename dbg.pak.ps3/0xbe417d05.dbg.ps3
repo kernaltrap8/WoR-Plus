@@ -1,0 +1,106 @@
+[LineNumbers]
+ui_create_os_edit_name 19 (200,36) (206,38) (240,40) (247,41) (265,43) (278,45) (291,46) (304,47) (317,48) (330,50) (343,51) (356,53) (369,54) (382,56) (395,58) (408,59) (421,60) (434,62) (436,63) 
+os_keyboard_spawned_script 41 (140,81) (176,82) (183,83) (191,85) (224,87) (242,89) (255,90) (268,91) (281,92) (283,94) (290,96) (303,98) (316,101) (329,102) (342,105) (349,122) (351,123) (384,125) (420,126) (438,128) (456,130) (474,131) (488,132) (490,133) (497,135) (510,136) (523,137) (536,138) (549,139) (562,140) (575,141) (588,142) (601,143) (603,144) (607,146) (614,148) (627,149) (640,150) (653,151) (655,152) (657,154) 
+os_keyboard_spawned_script_exit 8 (0,163) (36,165) (42,168) (49,170) (62,171) (75,172) (88,173) (90,175) 
+os_keyboard_entry_accepted 39 (108,191) (144,192) (151,193) (169,195) (187,196) (194,199) (207,200) (220,201) (232,202) (234,203) (236,204) (238,206) (240,207) (252,209) (270,210) (304,212) (311,215) (324,216) (337,217) (350,218) (352,219) (354,220) (356,222) (358,224) (376,226) (399,228) (406,231) (419,232) (432,233) (445,234) (447,235) (449,236) (451,238) (453,240) (492,243) (529,245) (533,247) (559,249) (561,251) 
+os_keyboard_entry_accepted_error_dialog 35 (60,264) (100,267) (121,270) (172,271) (212,272) (220,275) (222,276) (234,277) (255,278) (267,279) (269,280) (271,281) (308,284) (322,287) (362,288) (387,290) (399,292) (420,293) (432,294) (434,296) (436,298) (461,301) (473,303) (494,304) (506,305) (508,307) (515,309) (527,311) (539,313) (552,314) (564,315) (570,316) (583,317) (604,318) (606,319) 
+os_keyboard_entry_accepted_error_dialog_retry 3 (28,330) (34,332) (57,333) 
+os_keyboard_entry_accepted_error_dialog_cancel 3 (28,344) (34,346) (57,347) 
+os_keyboard_entry_cancelled 6 (28,358) (64,361) (89,363) (93,365) (99,367) (101,369) 
+ui_destroy_os_edit_name 2 (0,379) (6,381) 
+ui_init_os_edit_name 1 (0,390) 
+ui_deinit_os_edit_name 2 (0,399) (36,402) 
+
+[Checksums]
+0x7dd8f301 scripts\guitar\menu\states\layouts\ui_os_edit_name.qb
+0x0f7e902c nullscript
+0xcd0dc02d KillSpawnedScript
+0xb531d056 name_entry_space_character
+0xaa516080 CheckStringForInvalidChars
+0x2b2bf0ce os_keyboard_entry_accepted
+0x7031f10c params
+0x5ef31148 array
+0xc612a16c os_keyboard_entry_cancelled
+0xd3f4d172 dlg_z_priority
+0x46967175 os_kb_flags
+0xcf66717b GotParam
+0x69e3a1c4 max_length
+0xbebfa1c6 element
+0xb1f251e2 accept_params
+0xa1dc81f9 name
+0x4bfcd202 AddArrayElement
+0x234dd2dc original_params
+0x2159e31f cancel_script
+0x9d100337 string_validation_script
+0xee9bc392 SpawnScriptLater
+0x5f7bf3ac os_keyboard_spawned_script
+0x10c6f3db structure_name
+0xe964d41b without_invalid_characters
+0xbd09544c func
+0x91f0e45a body_text
+0xbefaa466 OnExitRun
+0x2e95c46e name_entry_misc_characters
+0x39b5c4b0 GetArraySize
+0x80039504 error_text
+0xdb96e524 block_menu_input
+0x2fca0578 options
+0x99db757c new_string
+0x150d35f1 heading_text
+0x2de8c60e printf
+0xeea1d6bd OSKeyboardShow
+0x35858705 accept_empty
+0x5d58872f dialog_text
+0xd4c98794 title
+0xe288a7cb value
+0x1d2d97d4 func_params
+0xc195a822 create_dialog_box
+0x22bdd82b accept_script
+0xc4745838 text
+0x23109842 name_entry_number_characters
+0x960ab89b xenon_highlight_text
+0x52896903 valid_characters
+0xeafc692e no_background
+0x37e4d960 os_keyboard_entry_accepted_error_dialog
+0xb30d9965 controller
+0x7d5d29a9 SetButtonEventMappings
+0xc9428a08 device_num
+0x39a22a80 name_entry_foreign_characters
+0x3bf88ac7 name_entry_upper_characters
+0xb2166ad6 cancel_params
+0x56e0eadd accept_emtpy
+0x56a1eae3 root_window
+0x19fa5af7 SpawnScriptNow
+0xe42dbaff default_name
+0x37c84b09 destroy_dialog_box
+0x4f653b0b unblock_menu_input
+0xd936cb0b struct_name
+0x04ae0b1c invalid_correct_params
+0xfa039bbb corrected_string
+0x5dec8bc8 ui_init_os_edit_name
+0xe1322bd4 os_keyboard_entry_accepted_error_dialog_retry
+0x7d654c18 exclusive_device
+0x458cec49 ui_create_os_edit_name
+0x8e117c75 initial_text
+0x75834c95 name_entry_lower_characters
+0x520c0c9c data
+0xd6521cee generic_event_back
+0x7056ed02 RemoveParameter
+0x7f5b3d4d array_size
+0x61414d56 string
+0x3c665d8a os_keyboard_entry_accepted_error_dialog_cancel
+0xa26d4daf keep_trailing_whitespace
+0x577cfdfb ui_destroy_os_edit_name
+0x981c0e4c ui_deinit_os_edit_name
+0xbe304e86 printstruct
+0x08d82e9d AddParam
+0xe0f22ec7 StringRemoveTrailingWhitespace
+0x03083ee1 OSKeyboardClose
+0xec953eec result
+0x4b8d0efc os_keyboard_spawned_script_exit
+0x02141f19 clean_up_user_control_helpers
+0x806fff30 none
+0xe2c4cf3e char_limit
+0x69d0dfaf player_device
+0xc2719fb0 parent
+0xbd982fdc complete
+

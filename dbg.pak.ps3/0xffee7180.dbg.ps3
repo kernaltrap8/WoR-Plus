@@ -1,0 +1,35 @@
+[LineNumbers]
+
+[Checksums]
+0xd6ae16aa models\car_instruments\guitar\esp\gtr4_esp_eclipse_01.qb
+0x9687f060 BRIDGE
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x0a375273 GTR12_ESP_V_01_NODE_GTR4_Pickup05
+0x7d3062e5 GTR12_ESP_V_01_NODE_GTR4_Pickup04
+0x4f509346 GTR12_ESP_V_01_NODE_GTR4_Knob08
+0x0c22738a GTR12_ESP_V_01_NODE_GTR4_Bridge02
+0x8058e545 MISC
+0xbe61c602 PICKUP
+0x88874608 gtr4_esp_eclipse_01_NodeArray
+0x12b4e660 Class
+0x0d5a966a GTR12_ESP_V_01_NODE_GTR4_Pickup01
+0xe354f746 GTR12_ESP_V_01_NODE_GTR4_Pickup03
+0x9453c7d0 GTR12_ESP_V_01_NODE_GTR4_Pickup02
+0x7f261953 Pos
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0xf90e7ab1 GTR12_ESP_V_01_GTR4_ESP_Eclipse_01
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0xd2e34cf2 GTR4_ESP_Eclipse_01
+0x385e8d74 SkinExport
+0x0951fe1e GTR12_ESP_V_01_NODE_GTR4_Switch02
+0xa8e8be41 GTR12_ESP_V_01_NODE_GTR4_Knob06
+0x5dc9fed2 gtr4_esp_eclipse_01_NodeArray_SortedIndices
+0xdfef8ed7 GTR12_ESP_V_01_NODE_GTR4_Knob07
+0x84b1df33 ExportName
+0x60d35f65 gtr4_esp_eclipse_01_NodeArray_SortedNames
+0x64f0cf83 AttachPoint
+

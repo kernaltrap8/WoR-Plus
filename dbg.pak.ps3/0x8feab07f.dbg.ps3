@@ -1,0 +1,34 @@
+[LineNumbers]
+
+[Checksums]
+0xb89b66af scripts\av_presets\og_vegas_prelude.qb
+0xcae27061 sprite
+0xfe82614d length
+0xc48391a5 radius
+0x91e07350 thickness
+0x051273c0 controls
+0xdd6bb3d5 blendMode
+0xc184f404 response
+0xa6f5352f offset
+0xf372e60b OG_Mat_Flare_Add
+0x7bc74623 spectrumBand
+0x99a9b716 color
+0xd98047ec frequency
+0x7321a8d6 type
+0x7f261953 pos
+0xff46c97e deform
+0x83418a6a material
+0x13b9da7b scale
+0x2b489a86 circle
+0x73e5bad0 width
+0x0ab21af0 height
+0xff7ebaf6 angle
+0x2eeb4b09 line
+0x797b2b45 scaleMod
+0xc42fab67 angularVel
+0xf6437c2b blendPrev
+0xf9563c76 frequency_History
+0x409e7ce3 OG_Vegas_Prelude
+0x54628ed7 blend
+0x68e77f40 brighten
+

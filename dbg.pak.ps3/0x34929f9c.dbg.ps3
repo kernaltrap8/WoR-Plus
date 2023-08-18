@@ -1,0 +1,33 @@
+[LineNumbers]
+
+[Checksums]
+0xcbf3861a models\car_instruments\guitar\bc_rich\gtr180_richbich.qb
+0x9687f060 BRIDGE
+0x59fa5170 gtr180_richbich_NodeArray
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0xc5932275 gtr180_richbich_NodeArray_SortedNames
+0x0c96b2fc GTR23_Nhead_bich_GTR80_ND_Pickup02
+0x39bf4442 gtr180_richbich_NodeArray_SortedIndices
+0x85047536 GTR23_Nhead_bich_GTR180_RichBich
+0x8058e545 MISC
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0x92f2275f GTR23_Nhead_bich_GTR80_ND_Pickup05
+0xabd69761 GTR23_Nhead_bich_GTR80_ND_Misc01
+0x7f261953 Pos
+0x19ebda23 Set
+0xd7ef4a3d GTR23_Nhead_bich_GTR80_ND_Pickup001
+0xd4a22a7c GTR23_Nhead_bich_GTR80_ND_Knob01
+0xc97f3aa9 Orientation
+0x3aac4b50 GTR23_Nhead_bich_GTR80_ND_Knob03
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x4dab7bc6 GTR23_Nhead_bich_GTR80_ND_Knob02
+0x3ff47bf4 RemovalFlags
+0xeea77c27 GTR23_Nhead_bich_GTR80_ND_Bridge
+0x385e8d74 SkinExport
+0x84b1df33 ExportName
+0x0cac5f57 GTR180_RichBich
+0x64f0cf83 AttachPoint
+

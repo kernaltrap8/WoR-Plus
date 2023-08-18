@@ -1,0 +1,27 @@
+[LineNumbers]
+ui_create_tutorial_drums_load 4 (0,14) (6,16) (40,18) (60,20) 
+ui_create_tutorial_drums_load_spawned 9 (0,29) (72,30) (78,33) (102,37) (114,38) (127,39) (140,40) (153,41) (155,42) 
+
+[Checksums]
+0x42660427 scripts\guitar\menu\states\layouts\ui_tutorial_drums_load.qb
+0x79e3f0c0 check_lefty_flip
+0x7031f10c params
+0x6017f1cc ui_event
+0xed75635c tutorial_system_set_part
+0xee9bc392 SpawnScriptLater
+0x4c29c545 RequireParams
+0xc451f558 event
+0xe88e660c destroy_generic_menu
+0xc544f662 ui_create_tutorial_drums_load
+0xd4c98794 title
+0x6cef5907 menu_change
+0x3b53993d UIstate_tutorial_menu_skill_level
+0xd26f2b38 ui_event_wait_for_safe
+0x385ebbb8 ui_create_tutorial_drums_load_spawned
+0x520c0c9c data
+0x5cc16cdf drum
+0x5c6c2d04 state
+0xc4e78e22 all
+0xa7860f33 tutorial_header
+0xb6f08f39 part
+

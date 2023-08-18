@@ -1,0 +1,400 @@
+[LineNumbers]
+tutorial_system_get_tutorial 15 (0,18) (52,19) (124,20) (171,22) (186,23) (198,24) (200,25) (237,26) (273,27) (298,28) (300,29) (302,30) (324,31) (332,32) (405,34) 
+tutorial_system_get_lesson 19 (0,42) (52,43) (128,44) (135,46) (148,47) (161,48) (163,49) (183,51) (195,52) (197,53) (226,54) (252,55) (279,56) (293,57) (295,58) (297,59) (319,60) (327,61) (398,63) 
+tutorial_system_get_page 51 (0,71) (52,72) (132,73) (139,75) (152,76) (165,77) (178,78) (180,79) (189,81) (209,82) (221,83) (223,84) (252,85) (278,86) (305,87) (335,88) (337,89) (339,90) (361,91) (369,92) (381,94) (399,95) (465,96) (485,97) (508,98) (512,99) (524,100) (526,101) (549,102) (561,104) (616,105) (646,106) (659,107) (661,108) (663,109) (716,111) (738,112) (751,113) (753,114) (755,115) (773,117) (786,118) (788,119) (790,120) (812,121) (820,122) (860,124) (948,125) (950,126) (964,128) (966,129) 
+tutorial_system_start 16 (0,137) (52,138) (128,139) (134,141) (168,143) (174,144) (180,145) (216,146) (222,147) (228,148) (234,149) (241,151) (254,152) (267,153) (280,154) (282,155) 
+tutorial_hide_venue 8 (0,164) (36,166) (72,167) (74,168) (200,178) (384,189) (420,192) (616,205) 
+tutorial_unhide_venue 4 (0,214) (36,215) (72,216) (74,217) 
+tutorial_system_start_lesson 18 (28,226) (80,227) (156,228) (162,231) (185,232) (236,234) (272,236) (278,239) (328,240) (335,242) (348,243) (361,244) (374,245) (392,246) (405,247) (418,248) (431,249) (433,250) 
+tutorial_system_start_page 14 (28,258) (80,259) (160,260) (167,262) (185,264) (203,265) (221,266) (239,267) (301,269) (340,271) (402,272) (406,273) (468,274) (470,275) 
+tutorial_system_page_complete 34 (0,283) (52,284) (116,285) (122,287) (160,289) (200,290) (202,291) (228,293) (257,294) (283,295) (285,296) (287,297) (324,300) (331,301) (346,302) (361,303) (376,304) (397,305) (399,306) (427,308) (434,309) (449,310) (464,311) (479,312) (500,313) (502,314) (506,315) (513,316) (528,317) (543,318) (558,319) (560,320) (578,321) (580,322) 
+tutorial_system_lesson_complete 71 (0,330) (52,331) (116,332) (122,335) (142,337) (153,338) (166,339) (181,340) (196,341) (217,342) (219,343) (226,344) (239,345) (254,346) (269,347) (290,348) (302,349) (304,350) (316,351) (334,357) (383,360) (420,362) (472,363) (512,365) (514,366) (520,369) (556,371) (596,372) (648,374) (650,375) (652,376) (654,377) (692,380) (732,381) (784,382) (788,383) (790,385) (792,386) (828,389) (864,390) (866,391) (988,400) (1028,402) (1068,403) (1108,404) (1115,407) (1127,408) (1139,409) (1172,410) (1174,411) (1181,414) (1193,415) (1205,416) (1226,417) (1228,418) (1264,421) (1276,422) (1318,423) (1322,424) (1334,425) (1365,426) (1367,427) (1374,429) (1386,430) (1399,431) (1412,432) (1414,433) (1420,435) (1488,436) (1524,438) (1576,440) 
+tutorial_system_continue_next_lesson 35 (0,449) (52,450) (116,451) (142,454) (180,455) (187,456) (199,457) (211,458) (219,459) (234,460) (249,461) (270,462) (272,463) (274,464) (278,465) (285,466) (297,467) (309,468) (317,469) (332,470) (347,471) (368,472) (370,473) (372,474) (374,475) (378,476) (412,478) (448,480) (516,481) (520,482) (572,483) (624,484) (626,485) (628,486) (634,487) 
+tutorial_system_replay_lesson 24 (0,495) (52,496) (88,497) (95,498) (107,499) (119,500) (127,501) (142,502) (157,503) (172,504) (174,505) (176,506) (180,507) (187,508) (199,509) (211,510) (219,511) (234,512) (249,513) (264,514) (266,515) (268,516) (270,517) (276,518) 
+tutorial_system_check_tutorial_completion 30 (0,527) (52,528) (116,529) (123,531) (138,532) (153,533) (155,534) (167,536) (187,537) (199,538) (201,539) (230,540) (241,542) (254,543) (269,544) (284,545) (305,546) (307,547) (320,548) (322,549) (344,550) (352,551) (370,553) (377,554) (390,555) (405,556) (420,557) (432,558) (434,559) (436,560) 
+tutorial_system_is_tutorial_complete 9 (0,568) (52,569) (128,570) (135,572) (153,573) (184,574) (188,575) (220,576) (222,577) 
+tutorial_system_is_lesson_complete 9 (0,585) (52,586) (132,587) (139,589) (157,590) (188,591) (192,592) (224,593) (226,594) 
+tutorial_system_lesson_complete_anim 16 (28,604) (80,605) (116,607) (118,608) (120,609) (156,611) (192,612) (194,613) (232,615) (234,616) (236,617) (328,621) (364,622) (416,624) (452,626) (458,627) 
+tutorial_system_create_description 24 (28,636) (80,637) (144,638) (170,640) (197,641) (201,642) (227,643) (229,644) (235,646) (242,648) (254,649) (266,650) (278,651) (291,652) (293,653) (326,655) (332,657) (350,664) (374,665) (378,666) (402,667) (404,668) (456,670) (470,677) 
+tutorial_system_destroy_description 6 (0,685) (52,686) (88,687) (140,688) (176,689) (178,690) 
+tutorial_system_create_pausemenu_description 11 (0,701) (52,702) (59,703) (71,704) (106,705) (119,706) (132,707) (144,708) (146,709) (188,711) (228,712) 
+tutorial_system_destroy_pausemenu_description 4 (0,720) (52,721) (58,722) (92,724) 
+tutorial_system_create_image_flipbook 14 (0,731) (52,732) (116,733) (154,735) (161,736) (173,737) (186,738) (198,739) (214,740) (226,741) (246,742) (266,743) (268,744) (270,745) 
+tutorial_system_destroy_image_flipbook 5 (0,752) (52,753) (88,754) (124,755) (126,756) 
+tutorial_system_flip_images 24 (0,764) (52,765) (88,766) (108,767) (120,768) (132,769) (134,770) (152,771) (194,773) (231,774) (235,775) (251,776) (253,777) (318,778) (356,780) (373,781) (395,783) (414,784) (427,785) (429,786) (431,787) (480,789) (482,790) (484,791) 
+tutorial_system_wait_for_complete 9 (0,799) (52,800) (116,801) (142,803) (163,804) (180,805) (184,806) (236,807) (238,808) 
+tutorial_system_setup_event_handlers 11 (0,816) (36,817) (43,818) (55,819) (70,820) (78,821) (111,822) (113,823) (119,824) (121,825) (123,826) 
+tutorial_system_handle_completion 19 (0,834) (52,835) (78,837) (104,838) (130,839) (132,840) (136,841) (162,842) (208,843) (210,844) (217,846) (219,849) (256,850) (258,851) (260,852) (312,853) (314,854) (332,856) (334,857) 
+tutorial_system_play_audio_and_wait 6 (0,866) (52,867) (116,868) (135,870) (158,871) (177,872) 
+tutorial_system_create_video 16 (44,880) (96,881) (102,883) (109,885) (121,886) (133,887) (145,888) (158,889) (174,890) (190,891) (209,892) (228,893) (240,894) (252,895) (281,896) (283,897) 
+tutorial_system_destroy_video 3 (0,906) (52,907) (128,908) 
+tutorial_system_menu_focus 8 (0,917) (52,918) (116,919) (128,921) (154,922) (175,923) (177,924) (201,926) 
+tutorial_system_play_sound 13 (28,933) (80,934) (144,935) (150,937) (202,938) (217,940) (252,941) (288,943) (306,944) (308,945) (312,946) (364,947) (366,948) 
+tutorial_system_wait_for_sound 9 (0,956) (52,957) (116,958) (118,960) (140,961) (142,962) (144,963) (196,964) (198,965) 
+tutorial_system_is_sound_playing 13 (0,972) (64,973) (70,975) (122,976) (137,978) (152,979) (184,980) (188,981) (220,982) (222,983) (226,984) (256,985) (258,986) 
+tutorial_system_get_language_prefix 13 (0,993) (9,995) (44,996) (55,997) (88,998) (99,999) (132,1000) (143,1001) (176,1002) (187,1003) (220,1004) (222,1005) (256,1007) 
+tutorial_system_stop_sound 8 (28,1014) (80,1015) (144,1016) (150,1018) (202,1019) (217,1021) (252,1022) (254,1023) 
+tutorial_system_start_gameplay 14 (0,1031) (52,1032) (116,1033) (122,1036) (139,1037) (157,1038) (180,1039) (182,1040) (200,1042) (223,1043) (246,1044) (248,1045) (266,1047) (316,1049) 
+tutorial_system_start_song 8 (0,1056) (52,1057) (88,1058) (95,1059) (107,1060) (120,1061) (133,1062) (135,1063) 
+tutorial_system_set_part 6 (0,1070) (52,1071) (116,1072) (122,1074) (146,1075) (170,1076) 
+tutorial_system_setup_players 8 (0,1083) (52,1084) (58,1085) (64,1087) (87,1088) (110,1089) (136,1090) (159,1092) 
+tutorial_system_exit_cleanup 3 (0,1099) (52,1100) (58,1101) 
+tutorial_system_hardware_check 37 (0,1108) (52,1109) (116,1110) (122,1112) (139,1113) (156,1114) (187,1116) (197,1117) (207,1118) (228,1119) (260,1120) (262,1121) (275,1122) (297,1123) (328,1124) (330,1125) (338,1126) (368,1127) (370,1128) (400,1129) (420,1130) (430,1131) (440,1132) (461,1133) (492,1134) (494,1135) (507,1136) (529,1137) (560,1138) (562,1139) (570,1140) (600,1141) (602,1142) (632,1143) (636,1144) (668,1145) (670,1146) 
+tutorial_system_lefty_flip_page_check 10 (0,1154) (52,1155) (116,1156) (122,1158) (139,1159) (164,1161) (196,1162) (200,1163) (232,1164) (234,1165) 
+tutorial_system_enable_pause 3 (0,1174) (52,1175) (58,1176) 
+tutorial_system_disable_pause 3 (0,1184) (52,1185) (58,1186) 
+tutorial_system_pausemenu_restart_lesson 6 (0,1194) (52,1195) (88,1197) (94,1199) (100,1202) (106,1204) 
+tutorial_system_pausemenu_skip_lesson 11 (0,1212) (52,1213) (88,1215) (94,1217) (100,1220) (107,1222) (122,1223) (137,1224) (152,1225) (154,1226) (172,1228) 
+tutorial_quit_from_pause_menu 7 (0,1236) (36,1238) (72,1240) (78,1241) (84,1242) (90,1245) (124,1249) 
+tutorial_system_pausemenu_quit 10 (0,1258) (52,1259) (88,1260) (124,1262) (130,1263) (164,1265) (170,1267) (176,1270) (182,1272) (256,1274) 
+tutorial_system_pausemenu_destroy 11 (0,1282) (52,1283) (70,1284) (72,1285) (74,1286) (144,1288) (196,1290) (232,1292) (284,1293) (286,1294) (292,1296) 
+check_tutorial_allowances 23 (28,1310) (46,1312) (76,1313) (78,1314) (116,1316) (129,1317) (168,1318) (186,1319) (199,1320) (203,1321) (216,1322) (218,1323) (256,1324) (269,1325) (273,1326) (308,1327) (334,1328) (347,1329) (351,1330) (364,1331) (366,1332) (368,1333) (382,1335) 
+ui_get_controller_parts_allowed 30 (0,1342) (64,1343) (84,1347) (93,1348) (114,1349) (133,1350) (156,1351) (170,1352) (181,1353) (195,1354) (197,1355) (201,1356) (230,1357) (251,1358) (270,1359) (293,1360) (307,1361) (318,1362) (347,1363) (349,1364) (351,1365) (372,1368) (393,1369) (413,1370) (415,1371) (417,1372) (456,1374) (486,1376) (488,1377) (502,1379) 
+
+[Checksums]
+0x5ab93608 scripts\tutorials\tutorial_system_funcs.qb
+0xb990d003 target
+0x8e411006 b
+0x44949010 difficulty
+0x39940016 tutorial
+0x705d4017 language_prefix
+0x3a85201b UseFourLaneHighway
+0x0f7e902c nullscript
+0xcd0dc02d KillSpawnedScript
+0xe126e035 top
+0xb388d03b load_z_visualizer
+0x475bf03c event_handlers
+0x0d194045 audio_stream
+0xe09b7076 tutorial_system_replay_lesson
+0xf3694077 not_complete
+0x189ee087 tutorial_system_check_tutorial_completion
+0xaa16108b wait_for_deferred_rendering
+0x98c2e090 reset_all_player_in_game_status
+0x98f8c0aa tutorial_system_get_lesson
+0xaf6240b2 reset
+0x883090b8 StreamExists
+0xc86350be enable_pause
+0x736670dc tutorial_struct
+0xe4f130f4 s
+0xe0c74104 tutorial_system_enable_pause
+0xab215108 GetFirstPlayer
+0xb12b510a SpriteElement
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0x70f4110e GHDrum
+0xf66ff117 in_game
+0xcb3e6120 tutorial_system_pausemenu_destroy
+0x73665140 CreateScreenElement
+0xd7ccc140 add_generic_tutorial_menu_text_item
+0x5ef31148 array
+0x7df8614e p
+0x9fd29151 viewport
+0xcc12115e song
+0x01dd615f DescInterface
+0x559e7171 TouchGuitar
+0xcf66717b GotParam
+0xb8b0217d num_frames
+0x071f4183 bg_viewport
+0x1fe04195 images
+0x0c08919e allowed
+0x508a31a1 French
+0x5d0671b8 channel
+0x174841bc a
+0xbebfa1c6 element
+0x6017f1cc ui_event
+0x9146f1cf EndMovie
+0x9f7ec1d4 tutorial_system_destroy_pausemenu_description
+0x05fc81d6 issoundplaying
+0x3de101d7 tutorials
+0xd75191d7 current_transition
+0x2f6511de green
+0xbfa801df change
+0xd16b61e6 starttime
+0x3f93a1ef replace_handlers
+0xa1dc81f9 name
+0x4bfcd202 AddArrayElement
+0x17e7321e FOV
+0x2770a220 UIstate_tutorial_menu
+0x46653221 volume
+0x8b60022f just
+0x8fae8247 title_text
+0x99bbf256 tutorial_system_flip_images
+0xbd30325b white
+0x748ca262 Quat
+0x2bac226e tutorial_system_handle_completion
+0x7617f27c g_tutorial_part_entered_with
+0x7d99f28d texture
+0x4805629c tutorial_misc_root
+0x26af62a4 tutorial_instructions_text
+0x11f692a6 SetPlayerInfo
+0x5151b2b1 PlaySound
+0xd644c2c0 tutorial_instructions_alpha
+0xe10a22e8 destroy_all_exploding_text
+0xb5b0831e time_shown
+0x27e9c321 tutorial_system_create_description
+0x9cf7232c tutorial_system_start_gameplay
+0xe6d82339 tutorial_system_start_song
+0xde655351 uselaststarttime
+0xa8ee7357 ScriptAssert
+0xed75635c tutorial_system_set_part
+0xf6c3e36e tutorial_system_continue_next_lesson
+0x0203b372 true
+0x5b058376 param
+0x9fbea388 NoTouchGuitar
+0x2c414392 Tutorial_VO
+0x4837e397 pos_anchor
+0xa02f93a0 title_page
+0x192bc3a2 pad_back_script
+0xf44a53ab desc
+0xac20f3ae tutorial_system_post_vo_wait_time
+0x9555a3c1 sound_id
+0xc5f953c2 button
+0xc5bc93ee ScreenElementExists
+0x6ccf13f7 tutorial_unhide_venue
+0x2999d3f9 save_tutorial_lesson_globaltag
+0x2f199404 destroy_bink_sub_heaps
+0x6139b417 you_rock_physics
+0x2295c41e tutorial_quit_from_pause_menu
+0x9277f428 FormatText
+0xf8a4443a get_savegame_from_controller
+0xb54a9444 tutorial_hide_venue
+0x39c45450 tutorial_system_is_lesson_complete
+0xe3dd8462 tutorial_system_play_sound
+0x85cd7470 current_tutorial_page
+0x76c99484 tutorial_id
+0x39b5c4b0 GetArraySize
+0xdeef04cd StructureContains
+0xcb9fb4cf bass
+0x12e0a4d6 disable_pause
+0xbf0f14db center
+0xc10b44e8 current_level
+0x18d964f4 tutorial_system_create_image_flipbook
+0x8da97503 primary_controller
+0xf6c07506 not_specific
+0x0ac4250c lesson_complete_vmenu
+0x9d3fb516 focus
+0xe07ad531 current_tutorial_header
+0x7b40353a wait_for_user_input
+0x1e3e253b pad_choose
+0xb40d153f select
+0x4c29c545 RequireParams
+0x7a95a557 t
+0xc451f558 event
+0xb8437568 pad_choose_params
+0xaf9b956b IsRBDrum
+0xe8a3d570 ui_memcard_autosave_replace
+0x34a68574 dims
+0x08f03580 retry_page
+0x66401594 tutorial_system_pre_vo_wait_time
+0x67e6859a player
+0xa9d735ad KillCamAnim
+0xc73f35b6 autosave
+0xe22dd5c2 lefty_flip
+0x3b70c5cb sfx
+0x833825d3 video
+0x3f11b5d6 tutorial_main
+0x7bb9c604 menu_replace
+0xe88e660c destroy_generic_menu
+0x2de8c60e printf
+0xd029f619 seconds
+0x5183d61c IsMicrophonePluggedIn
+0x0166161f hardware
+0x46f9a629 printscriptinfo
+0x77a5662c check_for_unplugged_controllers
+0xa8469630 Italian
+0xf649d637 on
+0x4686163a make_generic_menu
+0xd223f63f ui_visualizer_z_priority
+0x043c9671 playerinfo
+0x6bef3672 SetScriptCannotPause
+0x169bd67f tutorial_system_page_complete
+0xd49da691 tutorial_system_destroy_video
+0x2f1fc695 alpha
+0xe2df4695 tutorial_system_pausemenu_quit
+0x1df996c4 IsGuitarTouchController
+0x036f3723 text_physics
+0xc0bde726 lessons
+0x0301372a tutorial_system_exit_cleanup
+0x327cc72c description_text
+0x584e8743 check_tutorial_allowances
+0x2cb33744 LaunchEvent
+0x0ed45788 Obj_SpawnScriptNow
+0xb171d7af tutorial_pause_vmenu
+0xe288a7cb value
+0xd43297cf false
+0x27d867d3 alias_tutorial_flipbook_window
+0xa366c7ef IsGuitarController
+0x7fa97809 uistate_tutorial_menu_lessons
+0xf6a36814 vol
+0x90fec815 structure
+0x7753b81d tutorial_system_start
+0xf4d9a825 add_user_control_helper
+0x3acac82a uistate_mainmenu
+0xc4745838 text
+0x5b9da842 ContainerElement
+0x4bb2084e desc_id
+0x5df73865 pad_back_sound
+0xa171587f practice_enabled
+0x36fbd886 lesson_struct
+0xeb279892 crowd_system_init
+0x40c698af id
+0x05f3e8bb ui_get_controller_parts_allowed
+0x7321a8d6 type
+0xabe0a8da gh_unpause_ui
+0x9fe088e9 tutorial_system_stop_sound
+0x41c528fd tutorial_system_wait_for_complete
+0x767c0903 current_tutorial_lesson
+0x6cef5907 menu_change
+0x57850947 get_tutorial_lesson_globaltag
+0x9d47f94c anim_text
+0x7f261953 pos
+0x2b9ab95d StopSoundsByBuss
+0xe586795e uistate_play_song
+0xb30d9965 controller
+0x8f45e969 tutorial_paused
+0x840b796b crowd_system_deinit
+0xcafc596b vocals_highway_view
+0x3c521982 kill_gem_scroller
+0x1993c98e i
+0x3c15e9b6 DestroyScreenElement
+0x1b0509c5 savegame
+0x463589d0 filter_allowed_parts_by_character_type
+0x19e0c9d4 tutorial_system_menu_focus
+0xebf549df page
+0xc130f9e5 ScriptIsRunning
+0x600779ed found_page
+0xb88029ff generic_menu
+0x26982a07 all_buttons
+0xc9428a08 device_num
+0x1dd4ca24 PlayIGCCam
+0x90262a26 allowances
+0x604efa33 helper_text
+0x398cba48 medium
+0x397c5a55 tutorial_system_disable_pause
+0x48819a6b tutorial_system_get_page
+0x8a644a6b pad_back_params
+0xa5f44a78 challenge_instrument_alpha
+0x13b9da7b scale
+0x695f9a87 RBDrum
+0xdf8b1a8a pages
+0x76fa7a8f checksumname
+0xc3556a90 ch_view_cam
+0xffa3aa94 audio_ui_menu_music_off
+0xc0ba2a9b get_tutorial_globaltag
+0xbf745aca tutorial_system_lesson_complete
+0xcbe70acb Spanish
+0x2b3afad9 Playlist_SetCurrentSong
+0x56e1eae2 tutorial_array
+0x56a1eae3 root_window
+0x51138aed help_text_caption_text
+0xb7248af1 placement
+0xaa0e0af1 TextureSlot
+0x19fa5af7 SpawnScriptNow
+0xdf8abafc tutorial_system_is_sound_playing
+0x078b8b0c lesson
+0x9a6c7b13 allow_controller_for_all_instruments
+0xbe4bdb30 MovieElement
+0xb3ce9b3e cs_view_cam_id
+0xbb003b4b tutorial_system_pausemenu_restart_lesson
+0x45db0b58 fastintrotutorial
+0xc9f0db5f page_found
+0x3ac2fba0 image
+0xc13f7bb8 tutorial_system_start_page
+0x6a489bbf tutorial_system_pausemenu_skip_lesson
+0x29502bc0 UI_SFX
+0xb1a8cbe0 from_gameplay
+0xa2a40bea tutorial_system_get_language_prefix
+0x9f734c08 tutorial_system_create_video
+0x4d49ac0a current_menu
+0x20c71c12 tutorial_system_get_tutorial
+0x7d654c18 exclusive_device
+0x82117c1a wait
+0xf3b99c1b page_id
+0x9f23dc21 SE_SetProps
+0x306e0c22 tutorial_system_is_tutorial_complete
+0xeb300c29 Play_hold
+0x0e568c2d tutorial_system_setup_event_handlers
+0x58c29c3f block_scripts
+0x07713c7b sound
+0xa21b6c8d audio_ui_menu_music_on
+0x520c0c9c data
+0xf3ab7c9c start_song
+0x2b0cfca1 pad_choose_script
+0x90356cb9 SetScreenElementProps
+0xb0e46cbd expert
+0x2cd9fccb tutorial_flipbook
+0x4adf0cd3 unfocus
+0xfbd89cd5 Obj_KillSpawnedScript
+0x5cc16cdf drum
+0xd6521cee generic_event_back
+0xbdc53cf2 guitar
+0x69f93d01 l
+0x5c6c2d04 state
+0xc3945d1e item_struct
+0xe5e00d26 tutorial_system_start_lesson
+0x66d4dd47 create_exploding_text
+0x9605ed48 venue_system_init
+0x7f5b3d4d array_size
+0xc906ad51 menustate
+0x4ed8fd58 hide_glitch
+0xf5c49d66 tutorial_system_setup_players
+0xb2edcd7d interrupt_current
+0xe2a10d90 movie
+0x2b377daf tutorial_system_wait_for_sound
+0x3f6bcdba rgba
+0xa1255dc0 lesson_anim
+0xe8e6adcb vocals
+0x27576dec IsDrumController
+0xd126cdf6 LockTo
+0xd37cfdff English
+0xa52d2e13 uistate_tutorial_setup
+0xa06a3e19 controller_has_headset
+0xcb1c8e1a tutorial_system_lesson_complete_anim
+0xc4e78e22 all
+0x69b05e2c generic
+0x50fcbe30 tutorial_tag
+0xf9565e55 stored_part
+0x6d86be5c tutorial_complete
+0x3207fe69 lesson_id
+0xb0b28e7f StopSound
+0x5a7ece86 menu_back
+0x2df0de9d tutorial_flipbook_window
+0x8842aea9 ui_event_wait
+0x5e5e8eb0 next_lesson
+0x41fa7eb3 yourock_text
+0x09ed3eb9 filter_by_character
+0xc588eebc world
+0x92313ec8 back
+0x2abbdecf page_struct
+0xa301fed2 menu_music
+0x5aff8edd tutorial_system_destroy_image_flipbook
+0xaf6d0ee4 tutorial_system_play_audio_and_wait
+0x65485eea GetPlayerInfo
+0xa1598eed vmenu_id
+0x5de39ef1 double_kick_drum
+0xd565ff05 next_page
+0xfc37df05 gameframe
+0xad214f0a save_tutorial_globaltag
+0x67afff17 training_mode
+0x02141f19 clean_up_user_control_helpers
+0x4e755f1e scrolling
+0x2c6a5f27 uitype
+0x57710f31 z_priority
+0xa7860f33 tutorial_header
+0xb6f08f39 part
+0xc81d3f5d current_tutorial_id
+0x5dcbbf5e German
+0xd0b0bf63 buss
+0x0d18cf6d tutorial_system_create_pausemenu_description
+0xadaedf79 audio_ui_gameplay_play_you_rock_sfx
+0x59d2ff8d is_regular_controller
+0x95358f95 tutorial_system_lefty_flip_page_check
+0x53f1df98 slot
+0xc2719fb0 parent
+0x15b08fbd allow_RB_drums
+0x7141bfcc tutorial_system_hardware_check
+0xbd982fdc complete
+0xdb92effa current_index
+0xa8b85ffc kill_pause_curtain
+0x358b0ffe tutorial_system_destroy_description
+

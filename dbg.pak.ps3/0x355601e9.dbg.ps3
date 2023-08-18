@@ -1,0 +1,35 @@
+[LineNumbers]
+
+[Checksums]
+0xd41cf55b models\car_instruments\guitar\bc_rich\gtr182_bc_rich_king.qb
+0x9687f060 BRIDGE
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x5b613230 GTR182_BC_Rich_King_GTR182_N_Pickup02
+0x2c6602a6 GTR182_BC_Rich_King_GTR182_N_Pickup03
+0xc268638a GTR182_BC_Rich_King_GTR182_N_Pickup01
+0x8058e545 MISC
+0xbe61c602 PICKUP
+0x21db4627 GTR182_BC_Rich_King_GTR182_N_Misc01
+0x12b4e660 Class
+0xb2029705 GTR182_BC_Rich_King_GTR182_N_Pickup04
+0xc505a793 GTR182_BC_Rich_King_GTR182_N_Pickup05
+0xa704e83a gtr182_bc_rich_king_NodeArray_SortedNames
+0x7f261953 Pos
+0xb0a19a16 GTR182_BC_Rich_King_GTR182_N_Knob03
+0x19ebda23 Set
+0xc7a6aa80 GTR182_BC_Rich_King_GTR182_N_Knob02
+0xc97f3aa9 Orientation
+0x5eaffb3a GTR182_BC_Rich_King_GTR182_N_Knob01
+0x007c7b68 AttachType
+0x48692b76 gtr182_bc_rich_king_NodeArray
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0xaa932ca6 GTR182_BC_Rich_King_GTR182_BC_Rich_King
+0x64aaad61 GTR182_BC_Rich_King_GTR182_N_Bridge
+0x385e8d74 SkinExport
+0x35ef5eb1 gtr182_bc_rich_king_NodeArray_SortedIndices
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+0x7d93dfe6 GTR182_BC_Rich_King
+

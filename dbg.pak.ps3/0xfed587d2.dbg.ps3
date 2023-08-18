@@ -1,0 +1,99 @@
+[LineNumbers]
+create_news_feed_events 12 (0,18) (52,19) (64,20) (82,21) (84,22) (114,23) (144,24) (193,25) (214,26) (222,27) (224,28) (230,30) 
+feed_event_beat_score 40 (0,38) (36,39) (43,40) (72,42) (124,43) (141,44) (151,45) (164,46) (176,47) (188,48) (201,49) (214,50) (226,51) (239,52) (252,53) (254,54) (286,55) (312,56) (348,57) (359,58) (371,59) (384,60) (396,61) (409,62) (422,63) (424,64) (460,65) (462,66) (466,67) (500,68) (502,69) (506,70) (540,71) (542,72) (546,73) (580,74) (582,75) (586,76) (620,77) (622,78) 
+feed_event_cheated 23 (0,86) (36,87) (43,88) (112,90) (141,92) (196,93) (274,94) (306,95) (332,96) (399,97) (432,98) (436,99) (520,100) (522,101) (526,102) (560,103) (562,104) (566,105) (600,106) (602,107) (606,108) (640,109) (642,110) 
+feed_event_created_rocker 23 (0,118) (36,119) (43,120) (120,122) (149,124) (204,125) (282,126) (314,127) (340,128) (407,129) (440,130) (444,131) (535,132) (537,133) (541,134) (576,135) (578,136) (582,137) (616,138) (618,139) (622,140) (656,141) (658,142) 
+feed_event_completed_encore 23 (0,150) (36,151) (43,152) (120,154) (149,156) (204,157) (282,158) (314,159) (340,160) (407,161) (440,162) (444,163) (536,164) (538,165) (542,166) (576,167) (578,168) (582,169) (616,170) (618,171) (622,172) (656,173) (658,174) 
+feed_event_unlock_item_type 25 (0,182) (36,183) (43,184) (120,186) (156,188) (185,189) (240,190) (342,192) (374,194) (400,195) (467,196) (500,197) (504,198) (592,199) (594,200) (598,201) (632,202) (634,203) (638,204) (672,206) (674,207) (678,208) (712,209) (714,210) (716,211) 
+feed_event_dlc_purchased 31 (28,221) (46,223) (124,225) (153,227) (208,228) (218,229) (231,230) (243,231) (255,232) (268,233) (281,234) (293,235) (306,236) (308,237) (340,238) (366,239) (433,240) (468,241) (472,242) (562,243) (564,244) (568,245) (604,246) (606,247) (610,248) (644,249) (646,250) (650,251) (684,252) (686,253) (688,254) 
+feed_event_song_uploaded 28 (0,262) (80,264) (109,266) (164,267) (174,268) (187,269) (199,270) (211,271) (224,272) (237,273) (249,274) (251,275) (283,276) (309,277) (376,278) (412,279) (416,280) (506,281) (508,282) (512,283) (548,284) (550,285) (554,286) (588,287) (590,288) (594,289) (628,290) (630,291) 
+friend_update_check_if_cheating 18 (0,299) (6,301) (24,302) (33,303) (39,304) (75,306) (108,307) (126,308) (160,309) (162,310) (179,311) (228,312) (246,313) (254,314) (256,315) (258,316) (260,317) (262,318) 
+
+[Checksums]
+0x362942eb scripts\game\net\friend_update_events.qb
+0x9775a050 msg
+0x0e9bb087 msg_type
+0xab215108 GetFirstPlayer
+0x7031f10c params
+0xd7a3f127 create_news_feed_events
+0xc42ce128 ArrayContains
+0xa09f513e store_purchase
+0x5ef31148 array
+0xcf66717b GotParam
+0x1e2821cd createsender
+0x46159266 out
+0x8b9472dd challenge_metric
+0x5b058376 param
+0x64f6e3e2 DGSRecordData
+0xc184f404 response
+0xbd09544c func
+0xef755468 NetFeed
+0xa7ddd491 friends_beat
+0x39b5c4b0 GetArraySize
+0x83ad74cc feed_event_beat_score
+0x69ecc502 item_name
+0x840d6547 GameMode_GetType
+0xbb123552 feed_event_song_uploaded
+0x5d0ea557 dlc_purchased
+0xc451f558 event
+0x52c6657c debugmsg
+0x71059581 contains
+0x67e6859a player
+0x14bf95a9 num_feed_events
+0xd82ac5c4 net_dgs_sendfriendsfeedmessage
+0x760b75ed feed_event_unlock_item_type
+0x2de8c60e printf
+0x0b99f656 conditions
+0x1cb2a6b0 num_players
+0x74297717 local
+0x7535a7b1 isoktosend
+0x3e6797cd g_transformation_dummy_songs
+0xc34617e6 feed_event_created_rocker
+0xbb47a80e myfriends
+0x137e6832 friend_feed_get_message_structure
+0x03a17838 current_song
+0xf5607842 title_id
+0xa6d2d890 scr
+0x7321a8d6 type
+0x7ce468dd block
+0x6ed6f8e8 SetEventHandler
+0x9811f8fb titleid
+0xbfdb28fd friend_update_message_handler
+0x0ad46922 controller_index
+0xd296a95c beat_score
+0xb30d9965 controller
+0x01c6a967 IsBandCheating
+0x542449ae Playlist_GetCurrentSong
+0xef8f69ba cheated
+0x26a6a9e7 call_script
+0x968e89f7 feed_event_cheated
+0xea920ae1 GetNextPlayer
+0x9020faf9 sendto
+0xeb220b7b gettitleid
+0xa58b7ba1 logmessage
+0x4f4f4c04 msg_pak
+0xbb11ec2d item_type
+0x5ca15c8f array_entry
+0x520c0c9c data
+0x25cadcac GetNumPlayersInGame
+0xec023ddb encore_complete
+0x476f6e0e news_feed_events
+0xdb89de7b created_rocker
+0xbe304e86 printstruct
+0x00fdee8a nullchecksum
+0x2fa7aea3 sendmessage
+0xe2bcdea8 feed_event_completed_encore
+0xe2721ed7 friend_update_check_if_cheating
+0x65485eea GetPlayerInfo
+0xb4015f0f qeventhandler
+0x1ca1ff20 default
+0xb6f08f39 part
+0x3bce4f3f unlock_item
+0x7a8eaf50 challenge_type
+0xf9bbff5e out_param
+0x43df7f67 BroadcastEvent
+0x25804f80 feed_event_dlc_purchased
+0xc39cdf85 song_uploaded
+0x433a3fc9 sendtolist
+0x81882fda freeplay
+

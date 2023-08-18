@@ -1,0 +1,30 @@
+[LineNumbers]
+
+[Checksums]
+0x9539e031 scripts\guitar\hud\guitar_highway_hud_tweeks.qb
+0x06e4e015 challenge_meter_color2
+0x71e3d083 challenge_meter_color3
+0x6383d097 hw_color_streak_overbright
+0xe8ea8139 challenge_meter_color0
+0x9fedb1af challenge_meter_color1
+0xacfdf1f6 hw_color_sp_overbright
+0x0156a427 hw_color_sp_pulse_2
+0x985ff59d hw_color_sp_pulse_1
+0xb8312636 hw_color_danger_pulse_1
+0xfd2a2664 hw_color_du_overbright
+0x2138778c hw_color_danger_pulse_2
+0x0a68c7cc hw_color_default
+0x6a9787f7 hw_color_dd_overbright
+0x4a90e8bf hw_color_streak_pulse_1
+0xd399b905 hw_color_streak_pulse_2
+0x79cf99d4 hw_color_danger_overbright
+0xc0ce3a2a challenge_meter_clear_color
+0x17ba2a43 hw_color_du_pulse_1
+0x8eb37bf9 hw_color_du_pulse_2
+0x9e24bc13 challenge_meter_friend_color
+0xac017c71 hw_color_dd_pulse_1
+0xd527dc77 hw_color_lead_overbright
+0x35082dcb hw_color_dd_pulse_2
+0x48275ed0 hw_color_lead_pulse_2
+0xd12e0f6a hw_color_lead_pulse_1
+

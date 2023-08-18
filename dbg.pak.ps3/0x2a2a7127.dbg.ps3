@@ -1,0 +1,9 @@
+[LineNumbers]
+hide_console_window 1 (0,2) 
+unhide_console_window 1 (0,6) 
+
+[Checksums]
+0x72ef5588 scripts\engine\menu\consolemessage.qb
+0x5b7f40da unhide_console_window
+0x53610aa4 hide_console_window
+

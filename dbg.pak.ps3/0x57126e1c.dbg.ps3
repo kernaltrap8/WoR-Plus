@@ -1,0 +1,182 @@
+[LineNumbers]
+create_quickplay_rewards_atoms_array 25 (28,30) (64,34) (104,35) (116,36) (118,37) (198,40) (207,45) (232,46) (244,47) (256,48) (293,49) (295,50) (308,51) (316,54) (329,55) (341,56) (353,57) (419,58) (432,59) (434,60) (475,62) (496,64) (525,65) (533,66) (547,68) 
+progression_quickplay_check_reward_unlock 7 (0,77) (12,80) (57,83) (76,85) (108,87) (110,88) (140,91) 
+progression_award_points_add_just_unlocked_item 9 (0,103) (6,109) (24,110) (26,112) (28,113) (43,125) (70,140) (100,146) (118,153) 
+progression_quickplay_get_rewards_just_unlocked 19 (28,162) (46,165) (62,166) (64,167) (81,170) (99,171) (108,172) (123,175) (135,176) (153,178) (165,179) (167,180) (202,182) (242,183) (244,184) (265,186) (273,187) (275,188) (289,190) 
+progression_quickplay_clear_rewards_just_unlocked 2 (0,199) (48,201) 
+quickplay_get_awards_for_song 58 (44,214) (65,216) (67,218) (69,219) (87,222) (101,223) (114,226) (127,227) (140,230) (153,231) (166,232) (179,233) (192,234) (205,235) (218,236) (232,237) (256,239) (285,242) (301,243) (319,244) (333,245) (351,248) (353,250) (377,251) (410,252) (437,253) (455,255) (478,257) (537,258) (550,259) (552,260) (589,261) (607,263) (625,265) (647,267) (660,270) (683,271) (705,273) (727,274) (735,275) (737,276) (739,277) (761,278) (769,279) (783,281) (812,282) (848,284) (884,285) (898,288) (920,289) (923,292) (944,293) (957,294) (970,295) (983,296) (996,297) (1009,298) (1011,299) 
+quickplay_get_recent_award_points 5 (44,313) (63,314) (80,315) (82,316) (96,318) 
+quickplay_get_overall_awards_progress 18 (0,327) (36,329) (54,330) (74,331) (78,332) (95,333) (113,334) (115,335) (119,336) (139,337) (141,338) (159,340) (177,341) (180,343) (193,344) (206,345) (219,346) (221,347) 
+quickplay_get_rank_by_controller 5 (28,354) (46,356) (64,358) (82,359) (96,361) 
+quickplay_find_award_point_level 42 (28,371) (40,372) (52,373) (64,374) (78,377) (91,378) (109,379) (121,380) (123,381) (146,382) (171,383) (192,384) (194,385) (196,386) (217,387) (238,388) (246,389) (267,392) (286,397) (307,401) (319,402) (321,403) (354,404) (373,407) (386,408) (388,409) (392,412) (413,413) (415,414) (436,415) (438,416) (440,417) (442,418) (460,420) (482,421) (484,422) (496,424) (499,431) (512,432) (525,433) (538,434) (540,435) 
+quickplay_get_outro_percentages 94 (76,444) (88,445) (100,446) (112,447) (124,448) (136,449) (150,452) (163,453) (190,454) (208,456) (220,457) (222,458) (240,460) (279,461) (283,462) (322,463) (324,464) (342,466) (354,467) (401,468) (439,469) (459,471) (489,472) (507,475) (520,476) (524,477) (538,478) (540,479) (579,481) (635,482) (691,483) (695,484) (714,485) (727,486) (740,487) (753,488) (757,489) (796,490) (814,493) (826,494) (830,495) (869,496) (871,497) (927,499) (966,501) (1005,502) (1059,504) (1061,505) (1063,506) (1067,518) (1106,519) (1125,522) (1147,523) (1186,524) (1204,527) (1216,528) (1220,529) (1259,530) (1261,531) (1317,533) (1348,535) (1404,536) (1455,539) (1477,540) (1510,541) (1549,542) (1605,543) (1627,545) (1666,546) (1697,547) (1753,548) (1757,551) (1779,552) (1810,553) (1849,554) (1905,555) (1927,557) (1966,558) (1997,559) (2053,560) (2055,561) (2057,562) (2075,572) (2088,573) (2090,574) (2108,576) (2121,577) (2123,578) (2126,580) (2139,581) (2152,582) (2165,583) (2178,584) (2180,585) 
+quickplay_get_next_threshold 11 (28,594) (42,595) (69,598) (108,599) (112,603) (151,604) (173,605) (204,606) (206,607) (218,609) (244,615) 
+quickplay_complete_all_current_challenges 25 (0,623) (36,624) (72,625) (74,626) (92,628) (110,632) (112,633) (114,634) (126,636) (128,637) (167,638) (188,639) (196,640) (214,643) (237,645) (245,646) (280,649) (298,650) (300,651) (302,652) (314,654) (316,655) (355,656) (376,657) (384,658) 
+quickplay_get_best_stars_for_song 4 (28,666) (41,668) (65,704) (79,706) 
+
+[Checksums]
+0x4d6edf07 scripts\guitar\quickplay_progression.qb
+0x1bff900b quickplay
+0x6925c012 song_props
+0x7ca93016 difficulty_rating_checksum
+0x226f401b noassert
+0xb8bd9023 max_on_disc_requirement
+0x7a46c032 qp_power_best_stars
+0x1e3b103f start_percentage
+0xc853b049 temp_array
+0x530f005a next_threshold
+0x2b75d083 config
+0xe88a208d conditional_async_wait
+0x31d7709e quickplay_get_recent_award_points
+0xe8dc80d1 AddToStringLookup
+0x07b6e0e0 config_idx
+0x301dd0f9 GetGlobalTags
+0xab215108 GetFirstPlayer
+0x7031f10c params
+0x5f7e3115 progression_quickplay_clear_rewards_just_unlocked
+0x5ef31148 array
+0xaeb6715d rewards_just_unlocked
+0xcc12115e song
+0x04d9716d total_award_points
+0x38255179 local_integer
+0xa4b9117b atom_type
+0xcf66717b gotparam
+0xc5e96195 challenge_awards_total
+0x174841bc a
+0xbebfa1c6 element
+0xa6a551cb grade
+0xc80141d6 current_award_points_total
+0xbfa801df change
+0x7b5e11ec challenge_index
+0x2e2761f4 g_quickplay_rewards_just_unlocked
+0xa1dc81f9 name
+0x4bfcd202 AddArrayElement
+0x7040120c awards_total
+0x17f0c20f award_points
+0x5b8d8247 highest_award_requirement
+0xf4c26284 goals_by_player_size
+0x2e1bd285 create_quickplay_rewards_atoms_array
+0x902bf29e FastStructureContains
+0xe70ba2dc award_point_level_up
+0x4b40630d newvalue
+0x77df6346 get_current_progression_award_points
+0xd38db36e FastGetArraySize
+0x0203b372 true
+0x5b058376 param
+0xda3403b0 NULL
+0x651533ec level
+0x203c7402 completed_atoms_array
+0x2ef8b40d GMan_SetPendingGrade
+0x9277f428 FormatText
+0xf8a4443a get_savegame_from_controller
+0x0e14844b challenges_index
+0xbfecc45b goal_name
+0x9b8f3484 quickplay_get_outro_percentages
+0x39b5c4b0 GetArraySize
+0xa84524b7 atomic_reward_index
+0xcfa364c5 current_threshold
+0xbe0f64d1 quickplay_get_next_threshold
+0x032314d1 goal
+0xc10b44e8 current_level
+0x8da97503 primary_controller
+0x840d6547 GameMode_GetType
+0xc68df58b max_on_disc_level_req
+0xcb56658f awards_earned
+0x67e6859a player
+0x463715ba progression_quickplay_get_rewards_just_unlocked
+0x8f61d602 ArrayName
+0xdd71c605 num_on_disc_levels
+0xac34a614 award_point_progression
+0xc3409622 instrument
+0xadac769e quickplay_find_award_point_level
+0x1cb2a6b0 num_players
+0xbedc26b5 part_text
+0x0b0096c1 quickplay_get_overall_awards_progress
+0x4a6a66d1 atom_script
+0xd24f570c song_name
+0x74297717 local
+0x7786171a rank
+0x05e14733 song_is_jamsession
+0x62bce74f end_percentage
+0xd9fcf755 next_dlc_award_requirement
+0xc774275a goals_by_player
+0x989f8765 config_size
+0xe8c0976b next_award_points_threshold
+0x25272786 dlc_levels_gained
+0x7837f7ad traditional_band
+0xd43297cf false
+0xaf1ae7d5 depends_on
+0x27d4c7d6 quickplay_progression_tags
+0x90fec815 structure
+0x1dd24825 player_savegame
+0xe83a3831 quickplay_get_awards_for_song
+0xc4745838 text
+0x5106c849 challenge_configs
+0xc2f5b859 award_point_level
+0xe42ed85f quickplay_calc_challenge_outro_stats
+0xdf8c6877 best_stars
+0x537f1885 CreateLocalArray
+0xa6d2d890 scr
+0x775d1894 num_challenges
+0x2306d8a5 atoms
+0xbbc748a7 current_dlc_levels_earned
+0x456d28d1 struct
+0xa65c38d1 GetSavegameFromController
+0x7321a8d6 type
+0x7f8c98fe index
+0x5e791934 g_quickplay_extra_levels_interval
+0x27d7e955 reward_struct
+0xb30d9965 controller
+0xca97d96a fix_song_id_suddendeath_hack
+0x1993c98e i
+0x1b0509c5 savegame
+0x5cbbe9d5 GetLocalInteger
+0x8a2189e2 quickplay_get_best_stars_for_song
+0xf2fa19e8 GetChallengeGradeChecksum
+0x0bc06a21 CastToInteger
+0x13f7fa68 previous_threshold
+0xdfbf1a84 atom
+0x76fa7a8f ChecksumName
+0x8eedcabb previous_level
+0xea920ae1 GetNextPlayer
+0xf69edae8 difficulty_rating
+0xddb30b01 GMan_GetGoalsByPlayer
+0x8ad89b08 award_struct
+0x6cc28b13 quickplay_get_rank_by_controller
+0xd042ab24 qp_performance_stars
+0x8e10bb70 SetArrayElement
+0x9662ab7d atomic_reward_data
+0x083fdb95 size
+0xd42e2bad unlocks
+0x3ef44bb8 Playlist_GetSongProps
+0xdf8cabb8 current_points
+0x3e282c2e qp_power_stars
+0xa053dc45 challenge_props
+0x90e07c79 async
+0x90c46c9b current_award_points_level
+0x25cadcac GetNumPlayersInGame
+0xa8751ce8 recent_award_points
+0xfec33cf5 at_max_level
+0x5f424d0c song_id
+0xb7205d14 band
+0x8d910d1d do_atomic_reward_unlock
+0xca528d3e quickplay_complete_all_current_challenges
+0x7f5b3d4d array_size
+0x3d4d4d60 g_qp_required_challenge_props_order
+0x2da14d78 previous_points
+0x6d057dea progression_award_points_add_just_unlocked_item
+0x4771ee4c previous_threshold_start
+0xde0e0e5f GetDifficultyRatingChecksumByPart
+0x6f6eeea3 grade_checksum
+0x67fe6ec7 max_stars_quickplay
+0x65485eea GetPlayerInfo
+0xd925ef18 atom_params
+0xee626f22 previous_dlc_levels_earned
+0x806fff30 none
+0xb6f08f39 part
+0xa16d9fb5 GMan_GetSongChallengeProps
+0x55b1afb7 total_dlc_levels_earned
+0x29a8bfc0 challenge_awards
+0x2e878fd6 progression_quickplay_check_reward_unlock
+0xe67f1fe8 criteria_passed
+

@@ -1,0 +1,26 @@
+[LineNumbers]
+ui_create_tutorial_guitar_load_intermediate 4 (0,14) (6,16) (40,18) (60,20) 
+ui_create_tutorial_guitar_load_intermediate_spawned 8 (0,29) (72,30) (78,33) (102,36) (114,37) (127,38) (140,39) (142,40) 
+
+[Checksums]
+0xb6ff3941 scripts\guitar\menu\states\layouts\ui_tutorial_guitar_load_intermediate.qb
+0x7031f10c params
+0x6017f1cc ui_event
+0x06c32201 ui_create_tutorial_guitar_load_intermediate_spawned
+0xed75635c tutorial_system_set_part
+0xee9bc392 SpawnScriptLater
+0x76c99484 tutorial_id
+0x4c29c545 RequireParams
+0xc451f558 event
+0xe88e660c destroy_generic_menu
+0x7fa97809 UIstate_tutorial_menu_lessons
+0x6cef5907 menu_change
+0xe9ddaa17 ui_create_tutorial_guitar_load_intermediate
+0xd26f2b38 ui_event_wait_for_safe
+0x520c0c9c data
+0xbdc53cf2 guitar
+0x5c6c2d04 state
+0xc4e78e22 all
+0xa7860f33 tutorial_header
+0xb6f08f39 part
+

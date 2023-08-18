@@ -1,0 +1,375 @@
+[LineNumbers]
+vocals_start_mic 4 (0,546) (60,547) (96,548) (148,549) 
+vocals_init_mic_starpower_button 2 (0,552) (52,553) 
+vocals_init 3 (0,562) (34,563) (52,564) 
+vocals_set_mics_to_user_volumes 13 (0,573) (36,574) (54,575) (88,576) (90,577) (116,578) (142,579) (160,580) (162,581) (164,582) (187,583) (195,584) (197,585) 
+controller_has_headset 9 (0,594) (64,595) (82,598) (112,599) (114,600) (135,603) (164,604) (166,605) (196,607) 
+get_num_mics_plugged_in 17 (0,617) (13,618) (26,619) (28,620) (49,621) (71,622) (73,623) (95,624) (102,625) (115,627) (117,628) (138,629) (160,630) (162,631) (184,632) (191,633) (205,635) 
+has_USB_mic_plugged_in 9 (0,644) (13,645) (15,646) (36,647) (68,648) (70,649) (92,650) (99,651) (128,652) 
+vocals_reset_mics 9 (0,660) (36,661) (54,662) (88,663) (90,664) (113,665) (136,666) (144,667) (146,668) 
+vocals_get_num_mics 10 (0,676) (12,677) (24,678) (26,679) (47,680) (68,681) (70,682) (91,683) (98,684) (112,685) 
+vocals_distribute_mics 144 (44,703) (80,707) (92,708) (128,711) (146,713) (180,714) (182,715) (208,716) (234,718) (256,720) (274,721) (297,723) (299,724) (301,725) (319,727) (345,728) (368,730) (370,731) (394,732) (417,733) (419,735) (423,737) (425,741) (429,743) (452,744) (454,746) (477,747) (485,748) (487,749) (493,751) (499,753) (529,754) (541,756) (553,757) (565,758) (600,759) (618,761) (652,763) (654,764) (680,765) (706,766) (733,767) (760,768) (781,769) (783,770) (785,771) (787,772) (789,773) (812,774) (820,775) (856,777) (858,778) (870,779) (888,780) (914,781) (926,782) (928,783) (930,784) (957,787) (969,788) (971,789) (989,791) (1015,792) (1041,793) (1058,794) (1076,795) (1095,796) (1124,797) (1145,798) (1157,799) (1159,800) (1179,801) (1208,802) (1220,803) (1222,804) (1224,805) (1226,806) (1228,807) (1251,808) (1259,809) (1277,812) (1296,815) (1332,816) (1334,817) (1346,818) (1364,819) (1390,820) (1402,821) (1404,822) (1406,823) (1433,825) (1445,826) (1447,827) (1465,829) (1491,830) (1517,831) (1534,832) (1556,833) (1575,834) (1604,835) (1625,836) (1637,837) (1639,838) (1641,839) (1643,840) (1645,841) (1647,842) (1670,843) (1678,844) (1680,845) (1716,850) (1718,851) (1730,852) (1748,853) (1774,854) (1786,855) (1788,856) (1790,857) (1817,859) (1829,860) (1831,861) (1849,863) (1875,864) (1901,865) (1920,866) (1949,868) (1971,869) (1983,870) (2024,874) (2053,876) (2074,877) (2076,878) (2078,879) (2080,880) (2082,881) (2105,882) (2113,883) (2115,884) (2117,885) (2126,888) (2145,890) (2149,891) (2168,893) (2170,894) 
+vocals_preference_match 14 (0,903) (64,904) (81,906) (98,907) (116,909) (134,910) (164,911) (166,912) (186,913) (216,914) (236,915) (268,916) (270,917) (300,919) 
+vocals_mic_distribution_is_valid 20 (0,929) (36,930) (54,931) (88,932) (90,933) (116,934) (142,935) (164,937) (183,938) (185,939) (189,940) (215,942) (234,943) (236,944) (238,945) (240,946) (263,947) (271,948) (273,949) (304,951) 
+is_mic_plugged_in 28 (44,962) (52,964) (62,965) (84,966) (116,967) (118,968) (131,969) (168,970) (200,971) (202,972) (215,973) (252,974) (284,975) (286,976) (299,977) (336,978) (368,979) (370,980) (383,981) (420,982) (452,983) (454,984) (467,985) (496,986) (504,987) (536,988) (538,989) (568,991) 
+vocals_safely_assign_mic 53 (0,1002) (72,1003) (118,1005) (135,1006) (148,1008) (174,1010) (187,1011) (189,1012) (202,1014) (220,1018) (249,1020) (284,1022) (296,1023) (298,1024) (321,1025) (331,1036) (344,1037) (357,1038) (359,1039) (392,1042) (404,1043) (406,1044) (432,1045) (459,1046) (478,1048) (491,1050) (493,1051) (497,1052) (509,1054) (511,1055) (513,1056) (515,1058) (517,1059) (540,1060) (548,1061) (566,1064) (579,1065) (581,1066) (583,1067) (585,1069) (606,1071) (613,1072) (615,1073) (625,1076) (638,1077) (651,1078) (653,1079) (677,1081) (723,1082) (727,1084) (750,1086) (784,1087) (786,1089) 
+vocals_player_has_mic 37 (0,1098) (64,1099) (104,1102) (131,1103) (186,1104) (216,1105) (218,1106) (220,1107) (246,1110) (276,1111) (278,1112) (295,1114) (313,1115) (330,1116) (352,1117) (384,1119) (386,1120) (406,1121) (444,1122) (476,1124) (478,1125) (498,1126) (536,1127) (568,1128) (570,1129) (590,1130) (628,1131) (660,1132) (662,1133) (682,1134) (720,1135) (752,1136) (754,1137) (774,1138) (804,1140) (806,1141) (836,1143) 
+vocals_get_num_vocalists_on_same_highway 19 (0,1152) (13,1153) (31,1154) (44,1155) (57,1157) (92,1158) (110,1159) (144,1160) (146,1161) (172,1162) (190,1163) (209,1164) (231,1165) (233,1166) (235,1167) (258,1168) (266,1169) (268,1170) (282,1172) 
+vocals_get_num_vocalists 13 (0,1183) (13,1185) (19,1186) (37,1187) (43,1188) (45,1189) (71,1190) (93,1191) (95,1192) (113,1193) (121,1194) (123,1195) (137,1197) 
+vocals_get_num_vocalists_onscreen 13 (0,1207) (13,1209) (48,1210) (66,1211) (100,1212) (102,1213) (128,1214) (150,1215) (152,1216) (175,1217) (183,1218) (185,1219) (199,1221) 
+get_num_non_vocals_players_onscreen 7 (0,1231) (18,1233) (48,1234) (50,1235) (56,1238) (92,1239) (115,1240) 
+vocals_activate_starpower 5 (0,1248) (6,1250) (24,1251) (55,1252) (57,1253) 
+vocals_mute_all_mics 18 (28,1262) (46,1264) (64,1265) (76,1266) (78,1267) (80,1268) (116,1270) (134,1271) (168,1272) (170,1274) (196,1275) (267,1276) (310,1277) (340,1278) (342,1279) (365,1281) (373,1282) (375,1283) 
+vocals_ingame_change_mic_volume 39 (0,1293) (72,1294) (90,1295) (224,1296) (226,1297) (228,1298) (234,1300) (252,1301) (269,1303) (282,1304) (312,1305) (336,1306) (340,1308) (358,1309) (392,1310) (425,1312) (455,1314) (496,1319) (531,1320) (558,1321) (564,1323) (607,1324) (609,1326) (628,1328) (630,1329) (632,1330) (740,1332) (770,1333) (788,1335) (818,1336) (822,1337) (852,1338) (854,1339) (888,1341) (895,1343) (908,1344) (921,1345) (934,1346) (936,1347) 
+vocals_controller_uses_headset_for_singing 22 (0,1358) (64,1359) (82,1361) (100,1365) (132,1366) (134,1367) (151,1369) (169,1371) (200,1372) (202,1373) (219,1375) (237,1377) (268,1378) (270,1379) (288,1381) (320,1382) (322,1383) (328,1385) (355,1387) (384,1388) (386,1389) (416,1391) 
+vocals_get_lag_calibration 19 (0,1417) (64,1418) (77,1420) (98,1421) (117,1423) (145,1424) (147,1425) (149,1426) (165,1427) (227,1428) (257,1429) (263,1432) (286,1436) (309,1437) (332,1438) (366,1440) (400,1441) (514,1443) (540,1444) 
+vocals_hide_player 5 (0,1453) (64,1454) (82,1457) (100,1458) (123,1461) 
+vocals_unhide_player 5 (0,1471) (64,1472) (87,1475) (105,1478) (123,1479) 
+vocals_score_percent_to_text 16 (0,1490) (12,1492) (34,1493) (48,1495) (60,1497) (62,1498) (97,1499) (126,1500) (155,1501) (157,1502) (179,1504) (187,1505) (190,1507) (203,1508) (216,1509) (218,1510) 
+vocals_deinit_all_mics 6 (0,1519) (12,1520) (14,1521) (32,1522) (53,1523) (60,1524) 
+vocals_reinit_mics 4 (0,1532) (64,1533) (70,1534) (88,1536) 
+vocals_init_assigned_mics 14 (0,1544) (64,1545) (100,1546) (118,1547) (152,1548) (154,1549) (180,1550) (206,1551) (236,1552) (238,1553) (240,1554) (263,1555) (271,1556) (273,1557) 
+vocals_init_mic 10 (0,1565) (72,1566) (89,1567) (106,1568) (125,1569) (144,1570) (186,1571) (204,1572) (206,1573) (208,1574) 
+vocals_get_highway_type_text 14 (0,1582) (64,1583) (76,1585) (84,1587) (94,1588) (106,1589) (119,1590) (131,1591) (144,1592) (156,1593) (164,1594) (187,1595) (189,1596) (203,1598) 
+vocals_safely_set_highway_view 22 (0,1606) (72,1607) (85,1608) (102,1611) (120,1612) (143,1613) (196,1614) (215,1615) (280,1616) (282,1617) (284,1618) (320,1621) (326,1622) (328,1623) (354,1624) (380,1625) (404,1626) (450,1627) (452,1628) (454,1629) (477,1630) (485,1631) 
+vocals_debug_print_all_mic_types 15 (0,1646) (12,1647) (64,1648) (66,1649) (83,1650) (129,1651) (150,1652) (157,1653) (169,1655) (220,1656) (222,1657) (239,1658) (285,1659) (306,1660) (313,1661) 
+vocals_debug_print_all_headsets 12 (0,1670) (12,1671) (64,1672) (66,1673) (83,1674) (104,1675) (150,1676) (154,1677) (200,1678) (202,1679) (223,1680) (230,1681) 
+vocal_freeform_debug_update_points_spawned 3 (0,1684) (52,1685) (58,1686) 
+vocals_freeform_Debug_update_message 16 (0,1694) (36,1696) (72,1697) (74,1698) (81,1703) (93,1704) (105,1705) (117,1706) (133,1707) (152,1708) (168,1709) (197,1710) (209,1711) (222,1712) (224,1713) (264,1715) 
+vocal_freeform_debug_update_points 17 (0,1723) (36,1724) (72,1725) (74,1726) (108,1728) (115,1731) (127,1732) (139,1733) (151,1734) (167,1735) (186,1736) (202,1737) (231,1738) (243,1739) (256,1740) (258,1741) (300,1743) 
+
+[Checksums]
+0x02cadf6f scripts\guitar\vocals.qb
+0x4b6eb001 debug_text
+0x01e18004 phrase_score
+0x8e411006 b
+0xde25c007 vocals_freeform_debug_message
+0xe836f013 end_color
+0xb31f3020 vocals_get_num_vocalists
+0xc6870028 die
+0x3eeae02d hard
+0xa44bd055 vocals_controller_uses_headset_for_singing
+0x328ba087 scale_fireball
+0xf9462090 c
+0xd9c31093 vocal_starpower_increase
+0x696fe0ab number
+0x670800ac this_highway
+0x748f80bc rolling_accuracy_mod
+0x9dc590c8 total_assigned_headsets
+0xefee50d3 time_drum_midi_offset
+0x3d1bc0d5 vocals_hyperspeed_values
+0xda6b50f9 pitch_class
+0x301dd0f9 GetGlobalTags
+0xab215108 GetFirstPlayer
+0x7031f10c params
+0x56a43111 mic_type
+0xaaf74113 PlayerInfoEquals
+0x647f811f ff_health_boost
+0xbd51111f vocals_safely_assign_mic
+0x100e7123 vocals_reset_mics
+0x73665140 CreateScreenElement
+0x7df8614e p
+0xcf66717b gotparam
+0xb8b0217d num_frames
+0x4514f1a6 star_power_frames
+0x292b81b0 Vocals_InitMic
+0x5e9d11b2 player_num
+0x5d0671b8 channel
+0x174841bc a
+0xd8e111c6 star_power_double_tap_frames
+0xa1ebc1d7 vocal_note_on_fade_start
+0x7a5131da vocal_freeform_debug_update_points
+0xbfa801df change
+0x46653221 volume
+0x5e84e22f min
+0x8b60022f just
+0x3177a23b score_per_second
+0x5694a24a vocals_unhide_player
+0x27f1925f g_in_tutorial
+0x62d40261 vocals_player_has_mic
+0x8ab6a27c vocals_get_num_mics
+0xa0869282 vocal_sp_threshold_melodic
+0x2f2c328e song_value
+0xb991c290 vocals_freeform_Debug_update_message
+0x884cc295 get_num_non_vocals_players_onscreen
+0xd9cd5299 vocal_ff_points_correct_pitch_mod
+0x11f692a6 SetPlayerInfo
+0xf21892ba vocals_get_num_vocalists_on_same_highway
+0xc4a072c8 interactive
+0x1697a2d6 vocal_marker_freeform
+0x958be2de highway_position
+0xfc0002e4 ChangeSpinalTapVolume
+0x92e9d304 highway_type_text
+0x9e97a305 vocal_mic_type_props
+0x4e4ba31a save_progression_instrument_user_option
+0xe21d331c vocals_init_assigned_mics
+0x7ede9325 vocals_message
+0x4e918331 sp_boost_legacy
+0x4dcea332 ff_sustain_pts
+0xf258f35d health_boost
+0x6901a364 hud_parent
+0x23f0236d vocal_ff_points_sustain_rate_mod
+0x0203b372 true
+0x5b058376 param
+0x3de0c3a0 vocals_init_mic_starpower_button
+0x2297a3c8 num_vocalists_on_highway
+0x9df3e3db vocals_start_mic
+0xd875f3e7 vocal_tut_threshold_melodic
+0xc5bc93ee ScreenElementExists
+0x67d1b400 vocal_record_song
+0xff0db407 textname
+0x1a1ee416 new_value
+0x9277f428 FormatText
+0xa3eaa445 mic_types
+0xbd09544c func
+0x9dfa344e total_assigned_mics
+0xf0e19461 Vocals_ControllerHasUsableHeadset
+0x8c5f546b SoftAssert
+0xc02be472 user_option
+0x8320d478 game_mode
+0x949bc47b v
+0xa4fa3489 audio_offset
+0xbccaa48c vocal_ff_rewards_threshold
+0xe5cde490 highway_type
+0xcba5f49c vocal_bot_uses_starpower
+0x6b92f4a2 get_num_mics_plugged_in
+0x8c6bb4b0 ui_event_get_top
+0x39b5c4b0 GetArraySize
+0x7e6174b5 mic_input_lag
+0x7d49c4b6 vocal_ff_quality_base
+0x4c0574c1 vocals_hide_player
+0x445114c8 NetSessionFunc
+0xe675e4d6 streak
+0xcb17a4d9 audio_gameplay_vocal_sidechain_logic
+0xbf0f14db center
+0x774734e0 allow_default_headset
+0xb50554ed musicstudio_jamroom_highways
+0x914d34fa star_power_double_tap_between_frames
+0x9834c4fa game_type
+0xa33d0520 mic_used
+0x6722b533 d
+0x4c29c545 RequireParams
+0x840d6547 GameMode_GetType
+0x3ed4854d Vocals_MuteOutput
+0xb34b654e g_vocals_min_slide_enabled
+0x1c97f555 get_lag_values
+0xb69d6568 easy
+0x1485d569 threshold
+0x34a68574 dims
+0x90fbe579 vocal_count_in_duration_ms_default
+0x0466857f invalid
+0x81a3d586 input_lag_ms
+0x5e80f596 vocal_marker_freeform_rgba
+0x67e6859a player
+0x1c2045a3 vocal_sp_threshold_noise
+0xb349d5aa time_input_offset
+0x23a4e5c2 Obj_SpawnScript
+0x1acd85c9 vocal_base_score_scale
+0x9d1315c9 time_drum_midi_offset_with_lag
+0x3b70c5cb sfx
+0xdcd3d5d8 voclas_proto_adjustments
+0x9ea295e2 video_offset
+0x732d75e4 num_players_shown
+0x852355ea volumes
+0x56a875fa num_vocalists
+0x2de8c60e printf
+0xd029f619 seconds
+0x5183d61c IsMicrophonePluggedIn
+0x7c79261c vocals_score_percent_to_text
+0x46f9a629 printscriptinfo
+0xd951c642 g_vocals_min_spoken_ms
+0x2d79f64e dropped
+0xc469f663 allow_volume_change
+0xa41f7664 vocal_enable_guitar_samples
+0xd6f69676 mic2
+0x5112e68a num_vocalists_shown
+0x31e4269d fx_script
+0x74b936ab star_power_activate_and_drain
+0x1cb2a6b0 num_players
+0xadc486b3 vocal_phrase_qualities
+0x1b94f6b9 vocal_sp_boost_noise
+0x5b78e6b9 invalid_mic_player
+0x966ce6c3 mic_preference
+0x314116cb round_to
+0x042d66d1 in_sing_a_long
+0x9480d6d7 wav
+0xa1f1a6e0 mic3
+0xdddea6f6 voclas_proto
+0x2ff81705 jam_score
+0x7945c720 sp_boost_bonus
+0x6f7f2724 beginner
+0x2861d727 num_mics_plugged_in
+0x2f6bf72d font
+0xa047f73b freeplay_state
+0x4805673d mic_struct
+0x38f8f75a mic0
+0xc6bc5767 vocal_freeform_qualities
+0xd72de770 mics
+0xec8b3792 vocal_tut_mute
+0x97367795 Vocals_GetMicType
+0xd09a37ac vocal_use_recording
+0x1bd397b9 vocals_get_num_vocalists_onscreen
+0xc79b27c1 time_gem_offset
+0x1804a7c4 voice
+0xd62777c5 get_savegame_from_player
+0x106c17cb microsoft_wireless
+0x4fffc7cc mic1
+0x0c5f37cd Enable
+0xd43297cf false
+0x7f3fd7da static
+0x2ba17810 cents
+0xf6a36814 vol
+0x0c33181f vocals_mic_distribution_is_valid
+0xc4745838 text
+0x935ab858 debug
+0x618fe886 specific_mic_type
+0xb837d893 vocals_init_mic
+0x85981897 left
+0xfc9e6898 g_vocals_phrase_band_moments_enabled
+0xa77b589f rgba_fireball
+0xcd66c8ae score
+0x40c698af id
+0xc86648ca get_progression_instrument_user_option
+0x409658d1 muting
+0x7321a8d6 type
+0x774b68f1 vocals_reinit_mics
+0x36eac8f2 this_player
+0x7f8c98fe index
+0x0ad46922 controller_index
+0x7f261953 pos
+0xb30d9965 controller
+0xcafc596b vocals_highway_view
+0x673a296c vocal_mic_invalid_dist
+0xa9f54983 vocals_debug_print_all_mic_types
+0x5cb2b98d only_preferences
+0x1993c98e i
+0xa77c5995 active_highway
+0x6fa939a6 vocals_ingame_change_mic_volume
+0x73b8d9b3 vocals_distribute_mics
+0x3c15e9b6 DestroyScreenElement
+0x1b0509c5 savegame
+0xa62c49d7 vocal_pitch_detection_lag
+0xeeaa59d9 vocal_bot_with_mic
+0x1b49ca15 ui_options_audio_update_mic_volume
+0x0e9d7a23 vocal_tut_no_star_power
+0x398cba48 medium
+0x4918ca56 star_power_peak
+0x413dfa59 g_vocals_min_slide_ms
+0x4dfb0a5d Vocals_DeinitMic
+0x7f110a70 g_backup_vocals_enabled
+0xd92a5a75 note_on_dropoff
+0xb2fbfa7d vocals_freeform_debug_text
+0x3a837a7f has_USB_mic_plugged_in
+0x71a62a99 vocal_bot_semitones_off
+0xe7995aaf vocals_end_phrase_NO_fx
+0x2b4f3ab1 VocalsHighway_GetId
+0x82888acd sp_max_health
+0xea920ae1 GetNextPlayer
+0x56a1eae3 root_window
+0x1f773af1 is_local_client
+0x415c7af6 particle_base
+0x19fa5af7 SpawnScriptNow
+0xfd539b04 voclas_proto_test_offset
+0x4f010b2c gem_offset
+0x2aa6ab36 vocals_preference_match
+0xf57bdb42 vocal_freeform_debug_update_points_spawned
+0xd6b5eb5a vocals_get_highway_type_text
+0x77c71b72 user_options
+0xb9992b93 obj
+0x8013cbb1 practice
+0xde688bc5 vocals_score_text
+0x86bf2bc7 g_vocals_hit_window_ms
+0xd1f94bd0 vocal_score_inflation
+0xb13bbbdd star_power_hertz
+0xfee0fbee bot
+0xc4ec1c0d dummy_struct
+0xd0586c0e karaoke
+0x82117c1a wait
+0x31bd7c36 playing_song
+0x091c8c4a vocals_safely_set_highway_view
+0x14483c50 voice_init
+0xcada6c5f get_local_in_game_player_num_from_controller
+0x6a41bc72 input_offset
+0x39f40c99 sp_boost
+0x33468ca3 mute
+0x259faca4 g_vocals_hit_window_enabled
+0x25cadcac GetNumPlayersInGame
+0x44a31cb5 SetGlobalTags
+0xbcbd8cb7 distribution_changed
+0xb0e46cbd expert
+0x464c6cbe logitech
+0xe93ddccd vocal2
+0xc276cccf hit_window_leniency
+0x3a8b2ccf any_mic
+0xad840cd7 freeplay_mic_volume
+0x2f574cd9 vocals_mute_all_mics
+0x3125dcec health
+0xd1428cf1 vocal_ff_points_scale_constant
+0xbdc53cf2 guitar
+0x327e3cf4 slide_leniency
+0x613a0d0b is_mic_plugged_in
+0x84faed24 vocals_set_mics_to_user_volumes
+0x20d0ad37 bot_play
+0x7f5b3d4d array_size
+0xd5cf0d55 safe_show
+0x9c715d5c ff_beat_pts
+0x39b01d62 noise_gate
+0xb7e14d62 num_non_vocals_players
+0x95a5bd65 skip_freeplay_player
+0x70348d77 vocal1
+0x98c49d94 vocal_min_pitch_duration
+0x1efe0d97 m
+0x4af54d9a invalidate_bogus_mics
+0x7e012d9b hit_credit
+0x3f6bcdba rgba
+0xd4b31dc5 ff_beat_slop
+0xe8e6adcb vocals
+0x4b0d7dcd mic_volume
+0x4b739dd1 leniency
+0x42c38ddb vocal_sp_boost_melodic
+0xecfcade7 start_color
+0x41b48de9 vocals_highway_id
+0xa06a3e19 controller_has_headset
+0xc4e78e22 all
+0x25771e47 vocals_score_rgba
+0xe3f88e49 particle_miss
+0x35d05e60 multiplier_mod
+0xe45e4e60 on_screen
+0x7a9a6e7b Vocals_GetActiveHighway
+0x8bb07e8d headset
+0x20359e92 mic
+0x477fae96 vocals_init
+0xe653ee9e num_mics
+0x4c489eb6 vocal_count_in_min_blank_ms_default
+0x65485eea GetPlayerInfo
+0x45cd8eeb vocals_debug_print_all_headsets
+0x4d3dcef1 dont_check_part
+0x34234ef2 vocal_difficulty
+0x77f21ef8 alias_v1
+0xe3d25ef8 vocal_enable_freeform_always
+0x0be1df03 g_vocals_hit_window_debug
+0x37bf4f09 base_name
+0x74626f1a is_valid_assignment
+0x3a0c5f1d vocals_deinit_all_mics
+0x4e755f1e scrolling
+0x806fff30 none
+0xb6f08f39 part
+0xeefb4f42 alias_v2
+0xa579ff4f option
+0x671daf59 vocals_activate_starpower
+0xec1f9f60 time_gem_offset_with_lag
+0x43581f7f safe_hide
+0x4942cf80 message
+0x857a1f86 vocal_ff_points_deg_rate_mod
+0x7d067f8f spinal_tap_volume
+0x575fffac singstar
+0xc2719fb0 parent
+0xd0cd0fb5 voclas_proto_num_players
+0x5200dfb6 TextElement
+0x9e497fc6 percent
+0x55eb7fcc vocal_ff_points_base_mod
+0x4a9a3fd4 total_assigned
+0x81882fda freeplay
+0xf66d0fe0 SetMicStarpowerButtonParams
+0xe97e1ff9 vocals_get_lag_calibration
+

@@ -1,0 +1,124 @@
+[LineNumbers]
+ui_init_mic_debug 1 (0,8) 
+ui_create_mic_debug 2 (0,18) (6,19) 
+ui_destroy_mic_debug 2 (0,28) (6,29) 
+ui_deinit_mic_debug 1 (0,37) 
+create_mic_debugging_menu 23 (28,49) (45,51) (432,67) (438,69) (504,70) (572,71) (640,72) (658,76) (668,80) (678,82) (720,83) (733,85) (772,86) (785,88) (824,89) (837,91) (876,92) (889,94) (928,95) (930,97) (1012,100) (1092,101) (1144,103) 
+destroy_mic_debugging_menu 8 (0,112) (52,114) (88,116) (106,119) (112,121) (148,124) (184,125) (186,126) 
+mic_debugger_update 89 (28,137) (80,139) (93,142) (106,143) (119,144) (132,147) (145,148) (158,149) (171,150) (184,151) (197,154) (215,156) (228,157) (232,158) (245,159) (247,160) (249,163) (267,166) (285,169) (308,170) (312,171) (335,172) (337,173) (375,177) (408,178) (426,180) (439,181) (441,182) (460,185) (483,188) (516,189) (534,191) (548,192) (550,193) (580,195) (602,197) (610,198) (612,199) (633,203) (656,206) (692,207) (710,209) (724,210) (726,211) (762,213) (803,214) (805,215) (827,217) (835,218) (837,219) (839,220) (858,224) (872,225) (922,227) (940,228) (964,229) (968,230) (992,231) (994,232) (996,233) (1032,239) (1046,240) (1096,242) (1114,244) (1138,245) (1142,246) (1166,247) (1168,248) (1186,250) (1216,251) (1218,252) (1232,254) (1234,255) (1252,259) (1274,260) (1292,263) (1310,266) (1351,267) (1353,268) (1375,271) (1393,273) (1423,275) (1437,278) (1439,279) (1441,280) (1443,281) (1457,285) (1508,287) (1510,288) 
+mic_debugger_gem_color 15 (0,298) (29,301) (58,302) (87,303) (116,304) (134,307) (147,308) (167,311) (180,312) (200,315) (213,316) (217,319) (230,320) (232,321) (246,323) 
+mic_debugger_reset 17 (0,333) (29,334) (64,336) (104,338) (144,339) (184,340) (224,341) (268,343) (299,344) (324,345) (326,346) (368,347) (399,348) (424,349) (426,350) (508,352) (588,353) 
+mic_debugger_synch 2 (0,363) (36,366) 
+mic_debugger_set_color 11 (60,375) (87,377) (118,378) (136,379) (176,380) (194,381) (223,382) (225,383) (250,384) (252,385) (254,386) 
+
+[Checksums]
+0xbc753850 scripts\guitar\menu\states\layouts\ui_mic_debug.qb
+0xb990d003 target
+0xcd0dc02d KillSpawnedScript
+0x475bf03c event_handlers
+0x059ea070 red
+0xc7245075 color_orange
+0xd8e2e09f DecimalPlaces
+0x036f50c8 sensitivity
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0x56a43111 mic_type
+0x73665140 CreateScreenElement
+0x01dd615f DescInterface
+0xc38eb169 floating_peak_timer
+0x1a5cf192 mic_debugger_reset
+0x6636b192 pre_amplitude
+0x174841bc a
+0x2f6511de green
+0x887931e6 hold_text
+0xa1dc81f9 name
+0xcb5c11fa pad_option
+0x99e7a238 alias_output_eq
+0xa5ca128a max_peak_hold
+0x862fb2bc ui_deinit_mic_debug
+0x92ad02e4 current_peak
+0x5ea9436c color_green
+0x51efe390 create_mic_debugging_menu
+0xf44a53ab desc
+0xc5f953c2 button
+0xc5bc93ee ScreenElementExists
+0x572423f4 Microphone_InitDebugEq
+0xff0db407 textname
+0x9277f428 FormatText
+0x391a843a mic_debug_menu
+0x1e93946b alias
+0xd0b164c4 Microphone_DeInit
+0xf77614d8 ResolveScreenElementID
+0x5c01d4fe mic_debugger_update
+0x9d3fb516 focus
+0x284cf529 last_frame
+0x61c9354b blue
+0x3dfcf551 use_pre_amp
+0x72290562 ui_init_mic_debug
+0x0466857f invalid
+0x67e6859a player
+0xd53b55ff color_red
+0x9052e677 mic_debugger_gem_color
+0xa67cc6f9 ui_destroy_mic_debug
+0x99a9b716 color
+0x04e65733 color_off
+0x2cb33744 LaunchEvent
+0xbcab976e generic_event_replace
+0x0ed45788 Obj_SpawnScriptNow
+0xb8adf7bb fall_speed_frames
+0x106c17cb microsoft_wireless
+0xb07677d6 input_peak_hold_text
+0x945267ee amplitude
+0xf4d9a825 add_user_control_helper
+0x602c8832 Microphone_UpdateDebugEq
+0xc4745838 text
+0x9d2d8850 z
+0x8c3c7867 output_peak_hold_text
+0x40c698af id
+0x7321a8d6 type
+0x990fd8ec num_changed
+0x7f8c98fe index
+0x353c1919 post_amplitude
+0x7f261953 pos
+0xb30d9965 controller
+0x54ff699d ui_create_mic_debug
+0x3c15e9b6 DestroyScreenElement
+0x096f19df mic_info_text
+0x13d0da1e DontAssertForChecksums
+0x0bc06a21 CastToInteger
+0x23ea8a47 input_max_peak_text
+0x6a01ea63 output_max_peak_text
+0xade34ac7 alias_input_eq
+0x56a1eae3 root_window
+0x28e66b14 resolved_id
+0xda28fb8a pad_select
+0x29502bc0 ui_sfx
+0xdd4cabd6 child
+0x6b56fbef mic_debugger_synch
+0xb4eefc03 uistate_mic_debug
+0x93382c17 mic_debugger_set_color
+0x82117c1a wait
+0x9f23dc21 SE_setprops
+0x464c6cbe logitech
+0xd6521cee generic_event_back
+0x5c6c2d04 state
+0x7ee0fd2a pad_back
+0xc906ad51 menustate
+0x0ae50d92 color_yellow
+0x3f6bcdba rgba
+0xbb0f7dc0 max_text
+0x69b05e2c generic
+0xdc660e64 hold_time
+0x22654e7a max_peak
+0x8bb07e8d headset
+0x92313ec8 back
+0x65485eea GetPlayerInfo
+0xe817aef8 gem_index
+0xfc37df05 gameframe
+0x02141f19 clean_up_user_control_helpers
+0x2c6a5f27 uitype
+0x575fffac singstar
+0xc2719fb0 parent
+0xb0df9fce destroy_mic_debugging_menu
+0x3c19dffd vol_db
+

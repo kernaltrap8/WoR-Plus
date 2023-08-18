@@ -1,0 +1,48 @@
+[LineNumbers]
+CameraBlur_FastZoom_InandOut 11 (0,3) (56,4) (58,5) (60,6) (112,8) (164,9) (216,10) (268,11) (320,12) (372,13) (401,14) 
+CameraBlur_SlowZoom_InandOut 11 (0,17) (56,18) (58,19) (60,20) (112,22) (164,23) (216,24) (268,25) (320,26) (372,27) (401,28) 
+CameraBlur_Fast 7 (44,31) (100,32) (102,33) (104,34) (133,36) (150,37) (180,38) 
+CameraBlur_FocusOut 5 (0,41) (56,42) (58,43) (60,44) (112,46) 
+CameraFX_WhiteFlash 9 (0,50) (56,51) (58,52) (60,53) (112,55) (164,56) (200,58) (229,59) (231,60) 
+CameraFX_BlackFadeIn 7 (0,63) (56,64) (58,65) (60,66) (91,68) (128,70) (134,71) 
+CameraFX_BlackFadeIn_Cleanup 4 (0,74) (36,75) (54,76) (56,77) 
+CameraFX_BlackFadeOut 7 (0,80) (56,81) (58,82) (60,83) (112,85) (164,86) (193,87) 
+CameraFX_BlackFadeOut_CareerIntro 7 (0,90) (56,91) (58,92) (60,93) (112,95) (164,96) (193,97) 
+
+[Checksums]
+0x88c32bbe scripts\fx\camera_fx.qb
+0x369df00c effectName
+0x7031f10c params
+0xfe82614d length
+0x9fd29151 viewport
+0x071f4183 bg_viewport
+0x5fd5018a CameraFX_BlackFadeOut_CareerIntro
+0x638cb1e4 BG_fx_set_blur
+0x3ef8321f effectParams
+0x118b72a0 BG_fx_set_brightness_WhiteFlash
+0x0023a2f6 CameraBlur_FocusOut
+0x4a07c332 frame
+0xbefaa466 OnExitRun
+0xfb13e515 BG_fx_set_brightness_BlackFade
+0xfd91f5b7 appendStrength
+0xd029f619 seconds
+0x906b67ba time
+0x6a28c843 BG_fx_get_start_params
+0x40c698af id
+0x7ce468dd block
+0xb8f219cb CameraBlur_Fast
+0x8014ba12 startValue
+0x0a91ea32 CameraFX_WhiteFlash
+0x23892aac CameraBlur_SlowZoom_InandOut
+0x46527b68 CameraFX_BlackFadeOut
+0x82117c1a wait
+0x60104c21 appendBrightness
+0x52fb9c3e ViewportExists
+0xf5a35d86 CameraFX_BlackFadeIn_Cleanup
+0xa7394de0 Brightness___Saturation
+0x29461e27 strength
+0x26f55e3a Depth_of_Field__simplified_
+0xb4ca0e74 CameraBlur_FastZoom_InandOut
+0x49e0ee96 second
+0xe7fa7fb1 CameraFX_BlackFadeIn
+

@@ -1,0 +1,83 @@
+[LineNumbers]
+cas_update_accessory_bones 16 (28,97) (100,99) (102,100) (114,102) (148,103) (150,104) (181,105) (208,107) (244,108) (256,109) (341,110) (343,111) (404,112) (406,113) (427,115) (435,116) 
+cas_skeleton_reset 7 (0,125) (56,127) (128,129) (130,130) (168,133) (204,134) (234,135) 
+cas_ragdoll_reset 8 (0,144) (56,146) (128,148) (130,149) (168,151) (206,152) (242,153) (284,154) 
+cas_process_accessory_part 21 (0,164) (72,166) (74,167) (104,169) (140,171) (198,173) (236,175) (269,176) (310,177) (314,178) (380,179) (382,180) (400,182) (436,184) (469,185) (522,186) (526,187) (656,188) (658,189) (660,190) (662,192) 
+
+[Checksums]
+0x5d994c37 scripts\game\cas\cas_bone_merging.qb
+0x0cab301b cas_ragdoll_reset
+0xfc19e032 Bone_ACC_Torso_02
+0x41dd4038 ragdollName
+0x93f60062 r
+0x8b1ed0a4 Bone_ACC_Torso_03
+0xe4f130f4 s
+0xee51513a Bone_Mic_Adjust_Angle
+0x7df8614e p
+0xcf66717b GotParam
+0x6510b188 Bone_ACC_Torso_01
+0x3ca1f1b5 Bone_ACC_Legs_04
+0x0cbc121f assetContext
+0x46159266 out
+0xf335b287 DoNotResolve
+0x2aa592d4 bones
+0x83d6030b Bone_ACC_Head_08
+0x5996b31e Bone_IK_Hand_Slave_L
+0xa8ee7357 ScriptAssert
+0xf4d1339d Bone_ACC_Head_09
+0x8b5d73b0 ragdoll
+0xa2c56416 Bone_ACC_Legs_03
+0xd5c25480 Bone_ACC_Legs_02
+0x8884f496 cas_all_merged_skeleton_bones
+0x39b5c4b0 GetArraySize
+0xdeef04cd StructureContains
+0x451e44ec Bone_Mic_Stand
+0x157a4507 Bone_ACC_Torso_04
+0x0cfda537 Bone_Mic_Microphone
+0x4ccb053a Bone_ACC_Legs_01
+0x2de8c60e printf
+0x1429763c cas_update_accessory_bones
+0xeadf2688 cas_drummer_bones
+0x69ea96b6 Bone_IK_Hand_Guitar_L
+0x222756d5 skeleton
+0x3fd4b7a2 acc_ragdoll
+0x90fec815 structure
+0x5bf70817 Ragdoll_MergeRagdoll
+0x93d5982b cas_temporaries
+0x4bb2084e desc_id
+0xc795888b Bone_Guitar_String_1
+0x21cc38d9 ExtendCRC
+0x5e9cd931 Bone_Guitar_String_2
+0x09794932 skeletonName
+0x1993c98e i
+0x299be9a7 Bone_Guitar_String_3
+0xfbe6a9aa cas_all_merged_radgoll_bones
+0x6303ea15 Bone_ACC_Head_02
+0x1404da83 Bone_ACC_Head_03
+0x839b2ad5 master_editable_list
+0x9871bb80 Bone_Mic_Adjust_Height
+0xfa0abbaf Bone_ACC_Head_01
+0x93e5abd5 Bone_IK_Hand_Guitar_R
+0xb7ff7c04 Bone_Guitar_String_4
+0xc0f84c92 Bone_Guitar_String_5
+0x03daecee GetActualCASOptionStruct
+0x59f11d28 Bone_Guitar_String_6
+0x7f5b3d4d array_size
+0x554c7d6f appearance
+0x2e93bd88 partname
+0xea27ede8 cas_process_accessory_part
+0x646e2e0c Bone_ACC_Head_06
+0x88273e1f Skeleton_MergeSkeleton
+0xd12aae59 acc_skeleton
+0x3bb7ee74 Bone_Guitar_Body
+0xa3998e7d Bone_IK_Hand_Slave_R
+0xbe304e86 PrintStruct
+0x13691e9a Bone_ACC_Head_07
+0x8a604f20 Bone_ACC_Head_04
+0xb6f08f39 part
+0xfbfa5f3d cas_skeleton_reset
+0x5874af82 acc_bones
+0x00d7df90 Bone_Guitar_Fret_Pos
+0x226bcfad do_ragdoll
+0xfd677fb6 Bone_ACC_Head_05
+
