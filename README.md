@@ -21,3 +21,6 @@ Future additions:
 # Files decompiled
 QB.PAK.PS3/QB.PAB.PS3:
   - 1% Completed
+CAS_PIECES.PAB.PS3:
+  - 50% Completed
+      - Files need to be converted to readable formats (PNG)
