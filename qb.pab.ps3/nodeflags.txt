@@ -1,0 +1,1 @@
+Unknown [1c000000000000000000004c0000000000000000]Script create_node_flags 0x6f80ee20 [	:i $createnodeflag$${StructQBKey ls_mood_silhouette}$	:i $createnodeflag$${StructQBKey nodeflag_viewerlights}$	:i endfunction]

@@ -1,0 +1,1 @@
+Unknown [1c00000000000000000000580000000000000000]Script ui_create_pausemenu_song_ended 0x1e8097a8 [	:i $kill_intro_celeb_ui$	:i $create_song_ended_menu$	:i endfunction]Script ui_destroy_pausemenu_song_ended d89c64bb [	:i $destroy_song_ended_menu$	:i endfunction]
