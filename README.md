@@ -2,6 +2,8 @@
 Reverse engineering and decompilation project for Guitar Hero: Warriors of Rock
 
 (15/8/2023): Project has started!
+
+(21/8/2023): QB.PAB.PS3 fully decompiled.
 # Plans so far
 Bugfixes:
   - Fix star power math bug when in Quickplay+ Powers mode
