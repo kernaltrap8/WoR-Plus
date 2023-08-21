@@ -20,18 +20,14 @@ Future additions:
   - Add new chart features to GHTunes
 
 # Files decompiled
-<<<<<<< HEAD
-QB.PAB.PS3:
+`QB.PAB.PS3:`
   - 99% Completed
-    - Not entirely accurate to source files, limitation of QBc.
-=======
-QB.PAK.PS3/QB.PAB.PS3:
-  - 1% Completed
-
->>>>>>> e847cd80220d7505ec4d93e27a79ee3f9ea2fd70
-CAS_PIECES.PAB.PS3:
+    - Not entirely accurate to source files, limitation of QBc. Could be fixed later on for strings.
+  
+`CAS_PIECES.PAB.PS3:`
   - 50% Completed
       - Files need to be converted to readable formats (PNG)
-QS.PAB.PS3:
+  
+`QS.PAB.PS3:`
   - 100% Completed
     - This file contains strings for the game, it is plaintext and can be read in a text editor.
