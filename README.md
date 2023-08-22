@@ -6,6 +6,8 @@ Reverse engineering and decompilation project for Guitar Hero: Warriors of Rock
 (17/8/2023): CAS_PIECES.PAB.PS3 extracted, files need to be converted. 
 <br>
 (21/8/2023): QB.PAB.PS3 fully decompiled. 
+<br>
+(22/8/2023): DBGQ.PAB.PS3 fully decompiled | GH:WoR KLIC found (thanks to TheOmen757)
 
 # Mod ideas
 Bugfixes:
