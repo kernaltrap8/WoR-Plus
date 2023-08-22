@@ -1,5 +1,9 @@
 # WoRmod
-Reverse engineering and decompilation project for Guitar Hero: Warriors of Rock
+
+![banner](https://github.com/JamesIsWack/WoRmod/assets/94473358/0c7db371-b94a-46fd-8a87-1c1390771db7)
+
+---------------------------------
+Project announcements:
 <br>
 (15/8/2023): Project has started! 
 <br>
