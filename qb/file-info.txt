@@ -1,0 +1,6 @@
+dbg.pak.ps3
+    - This file contains the debug information for scripts inside of `qb.pab.ps3`
+dbgq.pak.ps3
+    - This file contains scripting for the debug menu
+qb.pak.ps3
+    - This file contains the QB Scripting logic for the games engine
