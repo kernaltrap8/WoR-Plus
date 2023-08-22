@@ -37,7 +37,7 @@ Future additions:
     - This file contains strings for the game, it is plaintext and can be read in a text editor.
     
 # Credits
-TheOmen757 - Testing
+TheOmen757 - Testing & KLIC hash
 <br>
 AddyMills - Help with understanding file types
 <br>
