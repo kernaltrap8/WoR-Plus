@@ -12,6 +12,8 @@ Project announcements:
 (21/8/2023): QB.PAB.PS3 fully decompiled. 
 <br>
 (22/8/2023): DBGQ.PAB.PS3 fully decompiled | GH:WoR KLIC found (thanks to TheOmen757)
+<br>
+(23/8/2023): EBOOT.BIN decompiled into C, non-compilable
 
 # Mod ideas
 Bugfixes:
