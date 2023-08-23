@@ -1,0 +1,4 @@
+cas_pieces.pak.ps3
+  - This file contains different assets for the game
+qs.pak.ps3
+  - This file contains different strings for the game, assigned to hashes.

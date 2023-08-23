@@ -1,11 +1,17 @@
 # WoRmod
-Reverse engineering and decompilation project for Guitar Hero: Warriors of Rock
+
+![banner](https://github.com/JamesIsWack/WoRmod/assets/94473358/0c7db371-b94a-46fd-8a87-1c1390771db7)
+
+---------------------------------
+Project announcements:
 <br>
 (15/8/2023): Project has started! 
 <br>
 (17/8/2023): CAS_PIECES.PAB.PS3 extracted, files need to be converted. 
 <br>
 (21/8/2023): QB.PAB.PS3 fully decompiled. 
+<br>
+(22/8/2023): DBGQ.PAB.PS3 fully decompiled | GH:WoR KLIC found (thanks to TheOmen757)
 
 # Mod ideas
 Bugfixes:
