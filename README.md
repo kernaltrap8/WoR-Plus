@@ -54,3 +54,5 @@ WTDE Development Team - For QBc and GHSDK
 NeverScript Development Team - For making QB tools and QB documentation
 <br>
 Neversoft and Beenox - For making the best rhythm game, and for their humour in the QB source files
+<br>
+National Security Agency - For Ghidra, probably the best decompilers out there (used to decompile the EBOOT.ELF)
