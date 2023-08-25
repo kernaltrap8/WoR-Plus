@@ -15,7 +15,9 @@ Project announcements:
 <br>
 (23/8/2023): EBOOT.BIN decompiled into C, non-compilable
 <br>
-(25/8/2023): First set of EBOOT patches released, debug menu
+(25/8/2023): First set of EBOOT patches released, debug menu (NOT WORKING)
+<br>
+(25/8/2023): EBOOT strings exported, CDN/dev CDN found (still up)
 # Mod ideas
 Bugfixes:
   - Fix star power math bug when in Quickplay+ Powers mode
