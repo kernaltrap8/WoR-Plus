@@ -20,7 +20,7 @@ Project announcements:
 Bugfixes:
   - Fix star power math bug when in Quickplay+ Powers mode
   - Fix issue when the Quickplay+ Rank is higher than 108, game will set rank in leaderboards to `-1`
-  - Fix issue where if the section breakdwon screen doesnt have enough sections, the game will refuse to scroll the list once scrolled fully
+  - Fix issue where if the section breakdown screen doesnt have enough sections, the game will refuse to scroll the list once scrolled fully
 
 Future additions:
   - Add custom asset loading
