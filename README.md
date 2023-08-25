@@ -14,7 +14,8 @@ Project announcements:
 (22/8/2023): DBGQ.PAB.PS3 fully decompiled | GH:WoR KLIC found (thanks to TheOmen757)
 <br>
 (23/8/2023): EBOOT.BIN decompiled into C, non-compilable
-
+<br>
+(25/8/2023): First set of EBOOT patches released, debug menu
 # Mod ideas
 Bugfixes:
   - Fix star power math bug when in Quickplay+ Powers mode
@@ -58,3 +59,5 @@ Neversoft and Beenox - For making the best rhythm game, and for their humour in 
 National Security Agency - For Ghidra, probably the best decompilers out there (used to decompile the EBOOT.ELF)
 <br>
 ExtremeKnave0 - For his QB script findings
+<br>
+uzis - EBOOT patch help (NotCD & highway_fps_patch)

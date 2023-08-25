@@ -1,0 +1,6 @@
+Original:
+Offset: 0055710
+Data: 3C 60 00 CD 38 80 00 00 98 83 AD FE 
+Patched NotCD:
+Offset: 0055710
+Data: 3C 60 00 CD 38 80 00 01 98 83 AD FE 
