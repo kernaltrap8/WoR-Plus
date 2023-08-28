@@ -1,0 +1,1 @@
+these files are to be re-decompilled as the GHSDK cannot properly decompile WoR files. for anyone wanting to help, please use Guitar-Hero-III-Tools by AddyMills.
