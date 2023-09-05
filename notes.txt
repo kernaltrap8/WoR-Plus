@@ -1,4 +1,4 @@
-# different ideas i have for WoRmode
+# different ideas i have for WoRmod
 # DOF: 05/09/2023
 # This file is a part of the WoRmod project
 
