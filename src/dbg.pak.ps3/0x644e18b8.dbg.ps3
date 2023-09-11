@@ -1,0 +1,196 @@
+[LineNumbers]
+add_view_models_to_menu 11 (0,38) (36,39) (68,40) (80,41) (98,42) (123,43) (125,44) (127,45) (131,46) (180,47) (182,48) 
+draw_viewer_object_panel 13 (0,56) (6,57) (44,59) (75,60) (106,61) (137,62) (168,63) (172,64) (235,65) (298,66) (361,67) (424,68) (426,69) 
+kill_viewer_object_panel 13 (0,77) (36,78) (88,79) (90,80) (128,81) (180,82) (182,83) (220,84) (272,85) (274,86) (312,87) (364,88) (366,89) 
+panel_message_viewobj_line 3 (0,97) (100,98) (140,99) 
+viewerobj_add_components 21 (0,125) (64,127) (116,131) (152,133) (171,134) (178,135) (190,136) (192,137) (204,138) (206,139) (208,140) (210,141) (248,143) (255,144) (267,145) (269,146) (282,147) (294,148) (296,149) (298,150) (321,153) 
+viewerobj_init_model 18 (28,158) (88,160) (124,164) (160,165) (164,166) (200,167) (207,168) (211,169) (248,170) (255,171) (259,172) (292,173) (294,174) (296,175) (298,176) (304,178) (327,179) (360,181) 
+launch_view_models_menu 2 (0,191) (7,192) 
+make_select_view_model_category 8 (0,196) (7,197) (19,198) (31,199) (44,200) (56,201) (77,202) (79,203) 
+make_select_view_model_line 8 (28,208) (35,209) (47,210) (59,211) (72,212) (84,213) (94,214) (96,215) 
+simple_focus 4 (0,218) (6,219) (20,220) (66,221) 
+simple_unfocus 4 (0,224) (6,225) (20,226) (66,227) 
+create_view_models_menu 15 (0,231) (6,233) (44,235) (80,236) (82,237) (276,249) (360,256) (396,258) (403,261) (415,262) (423,264) (456,265) (458,266) (460,267) (467,269) 
+view_models_menu_cleanup 7 (0,273) (36,274) (72,278) (108,279) (110,280) (144,282) (220,284) 
+exit_view_models_menu 7 (0,288) (36,289) (42,290) (48,292) (52,293) (58,294) (60,295) 
+SetReferenceChecksum 2 (0,302) (36,303) 
+view_model 61 (0,307) (36,308) (57,310) (92,311) (96,312) (132,313) (134,314) (146,316) (155,317) (188,318) (200,319) (202,320) (240,325) (255,326) (262,327) (264,328) (266,329) (304,331) (319,332) (326,333) (328,334) (330,335) (336,337) (376,339) (382,340) (384,341) (401,344) (413,345) (427,346) (439,347) (443,348) (457,349) (459,350) (496,353) (514,354) (548,355) (561,356) (573,357) (577,358) (598,359) (619,360) (621,361) (623,362) (660,364) (713,365) (717,366) (724,367) (726,368) (764,370) (800,371) (838,372) (840,373) (876,375) (888,376) (890,377) (908,379) (944,380) (946,381) (984,386) (1020,387) (1022,388) 
+set_player_to_model 12 (0,391) (36,392) (54,394) (80,396) (172,398) (198,405) (202,406) (236,407) (238,408) (276,410) (282,411) (284,412) 
+toggle_model_viewer 16 (28,420) (68,422) (75,425) (81,426) (94,428) (106,429) (108,430) (114,432) (118,433) (152,435) (158,437) (164,438) (170,439) (182,442) (188,444) (190,446) 
+
+[Checksums]
+0x12059e6a scripts\game\menu_skate\modelviewer_menu_scripts.qb
+0xb990d003 target
+0x475bf03c event_handlers
+0xd3982061 max_bone_skip_lod
+0xc965e06f ResetCameraToViewerObject
+0x0c7800b0 BottomUpHeap
+0xbecb50d2 view_models_menu_cleanup
+0x7031f10c params
+0x115f9117 vo_line4
+0x437b2131 ObjectExists
+0x5ef31148 array
+0x9fd29151 viewport
+0xfb58f173 defaultAnim
+0xcf66717b GotParam
+0x071f4183 bg_viewport
+0x4d8e11ab Obj_InitModel
+0xbfa801df change
+0xa1dc81f9 name
+0x17e7321e FOV
+0x500eb224 Obj_GetID
+0xc48cc227 launch_view_models_menu
+0x00961228 simple_unfocus
+0x8b60022f just
+0xa1116237 create_panel_message
+0x890d6244 SetViewerModel
+0x748ca262 Quat
+0xb125026f line2
+0xd443a2bc off
+0x3053b2c7 CompositeObjectExists
+0xe60442d5 ViewerAutoRepeatTime
+0x2da212e5 ViewerAutoRepeatSpeed
+0xb59352f1 EditCASAppearance
+0xc62232f9 line3
+0xb974f2fc modelName
+0x3417c307 MemPopContext
+0x299ee352 buildScript
+0xa8ee7357 ScriptAssert
+0x0203b372 true
+0xcaca33a4 max_wheel_speed
+0xbfafe3c9 create_view_models_menu
+0x282c53d5 line1
+0xc5bc93ee ScreenElementExists
+0x968f7408 view_mode
+0xf83c3422 vo_line2
+0x39b5c4b0 GetArraySize
+0x8f3b04b4 vo_line3
+0x5b6634d4 hide
+0xbf0f14db center
+0x812684ef body_shape
+0x787064f1 lock
+0x0e61b525 RunScriptOnScreenElement
+0xcbcbf534 make_select_view_model_category
+0x1beb3564 create_guitarist
+0xb8437568 pad_choose_params
+0x61356598 vo_line1
+0x67e6859a player
+0xa9d735ad KillCamAnim
+0xd556a5be modelbuilder_build_model
+0x1dc635e9 ApplyViewerObjModelToPlayer
+0x455485ef dir
+0x7ea855f0 profile
+0x2de8c60e printf
+0xf649d637 on
+0x4686163a make_generic_menu
+0xe8233645 last_profile_valid
+0x58bff689 viewer_obj_get_panel_info
+0x2f1fc695 alpha
+0x46a2869c targetParams
+0x222756d5 skeleton
+0xc5d5b6db modelview_view_cam
+0x332816ed menu_id
+0x7b9ef701 AllowAssetLoading
+0x2e288705 SetViewerAnim
+0x9e65a71e kill_viewer_object_panel
+0xad63c742 ModelViewerNode
+0x5973c74e kill_panel_message
+0x5846a75a line4
+0x7019d766 xy
+0x3ac1877c guitarist
+0xd4c98794 title
+0xcc424795 style
+0xfa97b79d LegacyDoMorph
+0xd43297cf false
+0x5cf1b7d4 Obj_Rotate
+0x63c2f7ee animLoadScript
+0x3e7727fa isXenon
+0x0e5a8818 last_profile_viewed
+0x91a4c826 relative
+0xa8964833 set_viewerobj_anim_handlers
+0xc4745838 text
+0xed9c1839 draw_viewer_object_panel
+0xca5d3848 generic_ui_destroy
+0x4bb2084e desc_id
+0x585ff882 use_last_model_viewed
+0xdd5a3884 ToggleViewMode
+0x85981897 left
+0xe2c6589e rot
+0x406998a5 CreateComponentFromStructure
+0x2eccf8ae script_assert
+0x40c698af id
+0x7321a8d6 type
+0xccc718d7 extraAnim
+0xe1ac58d7 GH3_Guitarist_Axel
+0x743318fa SetAnalogStickActiveForMenus
+0xc0bc7924 no_profile
+0x09794932 skeletonName
+0x030c0940 IsTrue
+0x7f261953 pos
+0x5cfae953 modelview_view_cam_id
+0x88c21962 car
+0x480b0969 toggle_model_viewer
+0x3c15e9b6 DestroyScreenElement
+0x4fb6a9be no_exit
+0xbbab79de viewerobj_init_model
+0x1dd4ca24 PlayIGCCam
+0x4a492a35 view_model
+0xab9e5a4c ScriptExists
+0x13b9da7b scale
+0xc6f3baa5 Obj_SetOrientation
+0x15670ab7 ViewerObjPos
+0xb2685ad7 make_select_view_model_line
+0xde755adb cas_board
+0xa11acadc add_generic_menu_text_item
+0x56a1eae3 root_window
+0xc5551b4b exit_view_models_menu
+0x8536dba5 AnimTree
+0x24c71bc7 viewerobj_add_components
+0x90436bd9 tags
+0x9f29abff DefaultViewerObjPos
+0xda1e6c16 RunScriptOnObject
+0x9f23dc21 SE_SetProps
+0xeb300c29 Play_hold
+0x49a73c94 SetCASAppearance
+0x2b0cfca1 pad_choose_script
+0x0830ecaf objID
+0x90356cb9 SetScreenElementProps
+0x633f4cba SetReferenceChecksum
+0x2f637ce0 view_models_menu
+0xf8c36cfd UsePlayerPosForViewerObjPos
+0x83339d0b SetPart
+0x286a8d26 model
+0x7ee0fd2a pad_back
+0xe90aad2d Obj_GetPosition
+0x7f5b3d4d array_size
+0x371f1d51 modelviewer_categories
+0x68a21d67 panel_message_viewobj_line
+0x554c7d6f appearance
+0x6fc76d70 heap_debug
+0xb2edcd7d interrupt_current
+0x3f6bcdba rgba
+0xef5bade5 Ped_M_Idle1
+0xd126cdf6 LockTo
+0x891e6e3a UpdateCurrentCASModel
+0xcdc00e63 menu_state
+0x7bb14e8d GetCASAppearance
+0xb6015ea8 component
+0xd88deeaf DefaultCommandTarget
+0xf7adaeb0 view_models_vmenu
+0xc9bafeba ForEachIn
+0xc588eebc world
+0xba03aebd AreAssetsLocked
+0xa1598eed vmenu_id
+0x4e755f1e scrolling
+0x1ca1ff20 Default
+0xc31a2f28 add_view_models_to_menu
+0x10079f2d UseModelLights
+0xb60d1f35 unhide
+0xb6f08f39 part
+0x2f2d5f5c simple_focus
+0x62ba3f6a do
+0x835d0f90 GlobalExists
+0xa1fcffb4 set_player_to_model
+0xeb117fd0 MemPushContext
+0x38d23fd4 GotExtraMemory
+

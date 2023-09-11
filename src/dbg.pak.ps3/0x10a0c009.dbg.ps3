@@ -1,0 +1,125 @@
+[LineNumbers]
+ui_create_cap_shape_list_subset 23 (0,9) (72,11) (79,13) (91,14) (104,15) (116,17) (137,18) (149,19) (162,20) (175,21) (177,22) (209,24) (237,25) (241,26) (282,27) (305,28) (307,29) (385,32) (428,35) (446,36) (476,37) (478,38) (526,40) 
+ui_destroy_cap_shape_list_subset 2 (0,49) (6,51) 
+add_shape_list_subset_to_menu 44 (0,60) (72,62) (105,64) (136,66) (150,68) (162,69) (164,70) (200,79) (251,80) (259,81) (265,82) (267,83) (271,84) (279,85) (285,86) (297,87) (299,88) (301,89) (303,90) (310,93) (343,94) (356,95) (369,96) (381,97) (462,98) (474,99) (541,100) (548,101) (550,102) (588,104) (601,105) (603,106) (636,108) (657,111) (665,112) (704,114) (768,115) (780,116) (782,117) (846,119) (876,120) (890,122) (892,124) (924,126) 
+shape_list_preview_selection 3 (0,135) (36,137) (54,138) 
+shape_list_preview_selection_spawned 8 (0,147) (6,149) (37,151) (43,153) (90,155) (132,157) (162,158) (164,160) 
+shape_list_cancel_preview 5 (0,169) (6,171) (50,173) (92,174) (94,175) 
+shape_list_back 5 (0,184) (52,185) (88,187) (106,188) (112,189) 
+shape_list_accept 10 (0,198) (52,200) (86,201) (148,202) (150,203) (156,205) (179,207) (200,208) (225,209) (382,211) 
+
+[Checksums]
+0x4d0fb5e9 scripts\guitar\menu\states\layouts\cap\ui_cap_shape_list_subset.qb
+0xb990d003 target
+0x8e411006 b
+0x0f7e902c nullscript
+0xcd0dc02d KillSpawnedScript
+0x61d40064 create_cap_shape_list_subset_vmenu
+0x360040b8 shape_list_cancel_preview
+0x627f90fe no_rotate_zoom_text
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0x62a6a164 num_elements
+0x5b350169 add_shape_list_subset_to_menu
+0xcf66717b GotParam
+0xfdab51ad UIstate_cap_shape_edit
+0x174841bc a
+0xa1dc81f9 name
+0x3cd9d1fc setup_cas_menu_handlers
+0x73c5f1fe shape_list_preview_selection_spawned
+0xd033b232 shape_list_back
+0x7aab6234 skip_build
+0x80db125a hist_tex
+0x9b74127c generic_scrollbar_wgt_set_resolution
+0x7d99f28d texture
+0xf6ab82f2 cas_current_savegame
+0xa8ee7357 ScriptAssert
+0x5c430371 pattern
+0x192bc3a2 pad_back_script
+0x6ca9a3a5 selected_index
+0x7d67e485 delete_layer
+0x39b5c4b0 GetArraySize
+0x8c6bb4b0 ui_event_get_top
+0xdeef04cd StructureContains
+0xb52f44ef additional_focus_params
+0xa56ac4f4 add_layer_to_profile
+0x2898a4fc make_list_menu
+0xd28c8510 section
+0x9d3fb516 focus
+0x7bfa951a CasWaitForComposite
+0x9836251b cam_name
+0xb40d153f select
+0x4c29c545 RequireParams
+0x0acc054f car_helper_text
+0xb8437568 pad_choose_params
+0x7bdd5578 generic_list_destroy
+0xf4e615cf layer_index
+0x19a4f5fe is_locked_item
+0x9a6bd624 icon
+0x356bd67b generic_scrollbar_wgt_initialize
+0x3f6e367e zoom_camera
+0xff1496de state_device
+0x468296f5 shape_list_accept
+0x2f6bf72d font
+0x2cb33744 LaunchEvent
+0x152d376e locked
+0xbcab976e generic_event_replace
+0xd4c98794 title
+0x77f49808 frontend_desc
+0x90fec815 structure
+0xc4745838 text
+0x1465e851 check_cas_texture_unlocked_flag
+0x27abd858 ui_event_add_params
+0x862ba85b CAS_Band_logo
+0x40c698af id
+0x808918ce text_case
+0x7321a8d6 type
+0xf20b48fb first_mask_index
+0x7f8c98fe index
+0x1b9f593a ui_create_cap_shape_list_subset
+0x88c21962 car
+0xb30d9965 controller
+0x1993c98e i
+0x1b0509c5 savegame
+0x58aa79cb GetCAPSectionsArray
+0xe77c19dd ui_destroy_cap_shape_list_subset
+0x639329fc mask_index
+0xb1f48a3a generic_list_menu
+0xbf216a5d cas_current_appearance
+0x8a644a6b pad_back_params
+0x2c8a3a6d child_index
+0x19fa5af7 SpawnScriptNow
+0x28e66b14 resolved_id
+0x31fceb9a alias_generic_scrollbar_wgt
+0x31dc7bab camera_list
+0x29502bc0 UI_SFX
+0x1c743bf7 add_list_item
+0x37b80c00 cap_index
+0x7d654c18 exclusive_device
+0x0c714c3f menu_finish
+0xd469bc67 sections
+0x520c0c9c data
+0x2b0cfca1 pad_choose_script
+0x80903ccf mask
+0xd6521cee generic_event_back
+0x7056ed02 RemoveParameter
+0x5c6c2d04 state
+0x2660cd26 additional_focus_script
+0x7f5b3d4d array_size
+0xc906ad51 menustate
+0x554c7d6f appearance
+0x49f4ad93 override_base_name
+0xc4e78e22 all
+0x69b05e2c generic
+0xabc25e54 is_unlocked_item
+0x940cde9c ChecksumEquals
+0x92313ec8 back
+0xa1598eed vmenu_id
+0x2c6a5f27 uitype
+0x0d347f29 num_elements_added
+0xb6f08f39 part
+0x38646f3a shape_list_preview_selection
+0xd08d8f7a original
+0xe8dbff9a section_index
+0xc2576f9b masks
+

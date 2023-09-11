@@ -1,0 +1,427 @@
+[LineNumbers]
+vocals_setup_comet_locations 33 (0,169) (13,171) (15,172) (44,173) (66,174) (73,175) (79,178) (97,179) (99,180) (101,181) (136,183) (155,186) (170,187) (174,188) (189,189) (191,190) (219,192) (232,195) (245,196) (280,197) (286,198) (288,199) (314,200) (354,201) (381,204) (421,206) (442,207) (444,208) (462,210) (484,212) (486,213) (504,214) (512,215) 
+vocals_get_highway_pos 18 (0,218) (64,219) (70,221) (88,225) (100,226) (104,228) (122,229) (156,230) (174,233) (186,234) (190,235) (202,236) (204,237) (208,238) (220,239) (222,240) (224,241) (238,242) 
+vocals_create_highway 94 (28,251) (100,253) (122,255) (129,256) (142,257) (154,258) (166,259) (168,260) (170,261) (238,263) (244,264) (262,266) (280,267) (286,269) (304,270) (322,273) (340,276) (353,277) (371,279) (395,281) (403,282) (413,283) (429,284) (452,285) (465,286) (496,288) (512,289) (516,290) (532,291) (534,292) (557,293) (565,294) (600,295) (616,296) (639,297) (641,298) (648,301) (661,302) (674,303) (686,304) (713,305) (726,307) (738,308) (757,309) (776,310) (778,311) (820,314) (841,315) (865,316) (867,317) (898,320) (933,323) (940,325) (952,326) (965,327) (977,328) (993,329) (1012,330) (1031,331) (1043,332) (1049,333) (1051,334) (1058,336) (1070,337) (1083,338) (1095,339) (1111,340) (1130,341) (1149,342) (1161,343) (1167,344) (1169,345) (1187,348) (1194,349) (1206,350) (1218,351) (1231,352) (1243,353) (1259,354) (1275,355) (1287,356) (1299,357) (1318,358) (1330,359) (1336,360) (1338,361) (1340,362) (1358,366) (1376,367) (1406,368) (1408,369) (1438,372) (1456,375) (1474,377) 
+vocals_highway_hide_notes 5 (0,390) (64,392) (82,394) (117,395) (155,396) 
+vocals_highway_show_notes 5 (0,400) (64,402) (82,404) (117,405) (155,406) 
+vocals_destroy_highway 10 (0,416) (6,417) (24,420) (60,421) (62,422) (80,425) (98,426) (100,427) (118,429) (136,430) 
+backup_vocals_create_highway 45 (28,441) (50,443) (57,444) (70,445) (82,446) (94,447) (96,448) (98,449) (105,452) (118,453) (131,454) (143,455) (170,456) (185,458) (197,459) (216,460) (235,461) (237,462) (272,465) (279,467) (291,468) (304,469) (316,470) (332,471) (351,472) (370,473) (382,474) (388,475) (390,476) (397,478) (409,479) (422,480) (434,481) (450,482) (469,483) (488,484) (500,485) (506,486) (508,487) (526,490) (550,493) (574,494) (598,495) (622,496) (646,497) 
+backup_vocals_destroy_highway 4 (0,506) (36,508) (72,509) (74,510) 
+create_vocals_spoken_word_mask_material 3 (0,521) (168,532) (336,543) 
+destroy_vocals_spoken_word_mask_material 3 (0,552) (36,554) (72,555) 
+create_vocals_spoken_word_mask_element 16 (0,564) (18,566) (53,567) (60,569) (73,570) (85,571) (101,572) (117,573) (136,574) (155,575) (167,576) (179,577) (191,578) (203,579) (215,580) (217,582) 
+vocals_highway_slide_in 20 (28,592) (92,593) (110,595) (131,596) (168,598) (185,599) (187,600) (208,603) (250,605) (271,606) (289,607) (328,608) (364,609) (366,610) (368,611) (414,613) (416,614) (418,615) (420,616) (456,619) 
+vocals_create_highway_bg 36 (0,628) (64,629) (82,631) (100,632) (118,654) (166,655) (214,656) (218,657) (243,658) (245,659) (263,662) (287,664) (311,665) (335,666) (370,667) (394,668) (429,669) (453,670) (473,671) (497,673) (521,674) (545,675) (569,676) (593,677) (597,678) (621,679) (645,680) (669,681) (693,682) (717,683) (719,684) (737,687) (775,688) (793,689) (795,690) (797,691) 
+vocals_create_moment_section 38 (0,700) (76,702) (94,704) (129,705) (154,706) (161,707) (174,708) (186,709) (199,710) (212,711) (231,712) (250,713) (262,714) (264,716) (278,717) (291,719) (312,720) (338,721) (364,722) (381,725) (383,726) (390,727) (403,728) (415,729) (428,730) (441,731) (454,732) (473,733) (502,734) (514,735) (526,736) (528,737) (551,738) (584,740) (586,741) (588,742) (590,743) (604,745) 
+vocals_create_freeform_section 27 (28,755) (46,757) (120,759) (138,761) (173,762) (180,764) (193,765) (205,766) (218,767) (231,768) (250,769) (269,770) (281,771) (283,773) (297,774) (337,777) (344,783) (357,784) (369,785) (385,786) (398,787) (411,788) (430,789) (442,790) (454,791) (456,793) (470,796) 
+vocals_create_paint 39 (0,805) (18,806) (53,807) (76,810) (83,815) (96,816) (108,817) (127,818) (140,819) (152,820) (154,821) (168,822) (175,825) (188,826) (200,827) (212,828) (231,829) (243,830) (249,831) (262,832) (264,833) (271,836) (284,837) (296,838) (308,839) (327,840) (339,841) (352,842) (354,843) (368,844) (375,847) (388,848) (400,849) (412,850) (431,851) (443,852) (456,853) (458,854) (484,856) 
+vocals_create_phrase_marker 17 (0,865) (64,867) (82,869) (117,870) (135,873) (142,875) (155,876) (167,877) (186,878) (221,879) (237,880) (249,881) (261,882) (290,883) (302,884) (304,885) (318,887) 
+vocals_get_highway_view 13 (0,897) (64,898) (70,900) (83,901) (100,904) (109,905) (121,906) (123,907) (141,910) (159,911) (171,912) (173,913) (187,916) 
+vocals_set_highway_view 7 (0,925) (72,926) (96,928) (136,929) (157,930) (159,931) (224,932) 
+vocals_get_highway_view_text 7 (0,941) (64,942) (82,944) (112,945) (116,946) (148,947) (150,948) 
+vocals_freeform_melodic_message 3 (0,957) (46,958) (104,959) 
+vocals_message 29 (0,968) (18,969) (35,970) (57,972) (92,973) (94,974) (96,975) (130,978) (161,979) (163,980) (170,981) (182,982) (195,983) (207,984) (223,985) (239,986) (258,987) (277,988) (290,989) (303,990) (319,991) (331,992) (343,993) (355,994) (367,995) (373,997) (389,998) (391,999) (414,1000) 
+vocals_message_wait_and_DIE 5 (0,1008) (52,1009) (104,1010) (110,1011) (116,1012) 
+vocals_message_delayed 2 (0,1021) (18,1022) 
+vocals_message_delayed_spawn 3 (0,1025) (52,1026) (59,1028) 
+vocals_freeform_score_message 7 (0,1036) (23,1037) (30,1041) (43,1042) (64,1043) (85,1044) (87,1045) 
+vocals_lightning_alert 5 (0,1054) (18,1055) (56,1056) (79,1057) (81,1058) 
+vocals_lightning_alert_spawned 21 (0,1066) (6,1067) (18,1068) (60,1070) (102,1071) (144,1072) (186,1073) (192,1075) (233,1077) (250,1078) (291,1080) (332,1081) (349,1082) (390,1084) (431,1085) (448,1086) (489,1088) (530,1089) (547,1090) (588,1092) (605,1093) 
+vocals_lightning_hide 10 (0,1101) (6,1102) (27,1103) (39,1104) (52,1105) (54,1106) (93,1107) (115,1108) (123,1109) (125,1110) 
+vocals_star_power_changed 6 (0,1119) (18,1121) (36,1122) (40,1123) (58,1124) (60,1125) 
+vocals_lightning_starpower_spawned 25 (0,1134) (36,1135) (42,1137) (84,1139) (126,1140) (168,1141) (210,1142) (223,1144) (225,1146) (243,1147) (285,1148) (326,1149) (367,1150) (408,1151) (426,1152) (467,1154) (509,1155) (527,1156) (568,1158) (610,1159) (628,1160) (669,1162) (711,1163) (729,1164) (731,1165) 
+vocals_lightning_starpower_spawned_b 24 (0,1169) (6,1170) (48,1172) (90,1173) (132,1174) (174,1175) (187,1177) (189,1179) (207,1180) (249,1181) (290,1182) (331,1183) (372,1184) (390,1185) (431,1187) (473,1188) (491,1189) (532,1191) (574,1192) (592,1193) (633,1195) (675,1196) (693,1197) (695,1198) 
+vocals_lightning_starpower_spawned_c 28 (0,1202) (6,1203) (48,1205) (90,1206) (132,1207) (174,1208) (187,1210) (200,1211) (202,1213) (244,1214) (285,1215) (326,1216) (367,1217) (385,1218) (426,1220) (468,1221) (486,1222) (527,1224) (569,1225) (587,1226) (628,1228) (670,1229) (688,1230) (695,1231) (736,1233) (777,1234) (818,1235) (859,1236) 
+vocals_highway_border_flash 4 (56,1245) (120,1246) (138,1247) (181,1248) 
+vocals_highway_border_flash_spawned 1 (0,1256) 
+vocals_karaoke_hide_highway 12 (0,1272) (64,1273) (99,1276) (134,1277) (169,1278) (204,1279) (239,1280) (257,1283) (275,1284) (293,1285) (311,1286) (329,1287) 
+vocals_lyrics_move_and_die 2 (0,1296) (62,1297) 
+vocals_lyrics_move_and_die_spawned 4 (0,1305) (42,1306) (92,1307) (98,1308) 
+vocals_lyrics_move 3 (0,1316) (23,1317) (114,1318) 
+vocals_hud_amplitude_glow 24 (0,1326) (30,1327) (60,1328) (66,1332) (97,1333) (136,1334) (153,1335) (183,1336) (213,1337) (215,1338) (217,1339) (224,1342) (237,1343) (250,1344) (252,1345) (254,1347) (272,1348) (294,1349) (312,1350) (324,1351) (326,1352) (344,1353) (396,1355) (398,1356) 
+vocals_is_last_player_in_starpower_on_highway 21 (0,1364) (64,1365) (82,1366) (95,1367) (108,1368) (144,1370) (180,1371) (182,1375) (202,1376) (228,1377) (246,1378) (265,1379) (291,1380) (320,1381) (322,1382) (324,1383) (326,1384) (328,1385) (351,1387) (359,1388) (388,1390) 
+vocals_activate_star_power 4 (0,1398) (64,1399) (82,1401) (113,1402) 
+vocals_deactivate_star_power 6 (0,1410) (64,1411) (85,1412) (103,1413) (134,1414) (136,1415) 
+vocals_should_hide_highway 13 (0,1423) (18,1425) (48,1426) (50,1427) (56,1430) (74,1431) (92,1432) (110,1433) (130,1434) (160,1435) (162,1436) (164,1437) (196,1439) 
+
+[Checksums]
+0x99cf125e scripts\guitar\vocals_highway.qb
+0x8e411006 b
+0x370c800c star_003
+0xe0a59017 highway_index
+0xf31fd022 this_active_highway
+0xc6870028 Die
+0xe10ce02b destroy_vocals_visualizer
+0xe126e035 top
+0xc5c8b059 vocals_lightning_alert_spawned
+0x53fc0061 Vocals_GetCurAmplitude
+0xb176f078 g_vocal_note_z_priority
+0x689fe07c template
+0x328ba087 scale_fireball
+0xc5aa8095 vocals_message_wait_and_DIE
+0x400bb09a star_002
+0xeb79309b vocals_deactivate_star_power
+0x00ab90c1 vocals_static_fade_alpha
+0x2a1fe0cc shadow_offs
+0x5dcbc0d6 vocals_highway_show_notes
+0x920960dc vocals_health_ring_scale
+0x3c1f60f7 mat_dims
+0xab215108 GetFirstPlayer
+0xb12b510a SpriteElement
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0xaaf74113 PlayerInfoEquals
+0x9ac2d119 highway_pos
+0xd902e120 star_001
+0x73665140 CreateScreenElement
+0x5f56f147 vocals_highway_assignment_vocalists
+0x7df8614e p
+0xcc12115e song
+0x01dd615f DescInterface
+0xcf66717b GotParam
+0x5d0671b8 channel
+0x3249c1c3 vocals_next_phrase_lyrics
+0xbc4601c3 step
+0xd657d1cf vocal_scrolling_word_highlight
+0x1fe341d2 internal_scale
+0x4db5e1d3 create_vocal_visualizer
+0x1144e1d5 vocals_lyrics_move_and_die
+0x446681ed g_vocal_spoken_mask_offset_y_px
+0xac5a21f0 vocal_health_meter_needle_2_alpha
+0xa1dc81f9 name
+0xd61b8203 vocals_paint_note_max_length
+0xb1e77204 vocal_scrolling_lyric_after
+0xff00e20e vocals_get_highway_view_text
+0x085de20f lyric_blip_right
+0x7e849214 phrase_end
+0xd214021a vocals_current_phrase_lyrics
+0x3097921e vocal_space_width
+0x500eb224 Obj_GetId
+0x8b60022f just
+0xa623c23b vocal_highway_karaoke_text_height
+0x951d7241 vocal_sung_note_height
+0x5bf89259 Vocals_SetActiveHighwayPlayerIndex
+0xbd30325b white
+0x30bc2261 vocals_spoken_word_mask_bar_material
+0x40d92263 TextBlockElement
+0xc2eab26a two_teams
+0x7d99f28d texture
+0x3624a295 vocals_paint_star_power_on
+0x11f692a6 SetPlayerInfo
+0xc17842d5 vocals_create_paint
+0x5ed892d7 middle_id
+0xac01e2da phrase_start
+0x958be2de highway_position
+0x79adb2e4 note_middle
+0xf79b1312 ImmediateMode
+0xe8cbd314 Mat_Vocal_Band_Moment_Fire
+0x4e4ba31a save_progression_instrument_user_option
+0x7ede9325 vocals_message
+0x60613330 curr_phrase_bg_static_alpha
+0xbc08c345 vocals_get_highway_pos
+0x6901a364 hud_parent
+0x0203b372 true
+0x5b058376 param
+0x3862937d vocals_difficulty_rating
+0x70900382 vocal_highway_text_offset
+0xee9bc392 SpawnScriptLater
+0x4837e397 pos_anchor
+0xcfd8539d get_song_difficulty_ratings
+0xf44a53ab desc
+0x8bf1f3ad WaitScreenElementprops
+0xb400c3c1 vocal_scrolling_lyric_rgba
+0xa006a3ca alias_note_scale
+0xdd6bb3d5 blendmode
+0x4627a3de competitive
+0x67e093e4 internal_just
+0x500e53eb fontgrid_title_a1
+0x804bb3ec trchen
+0xc5bc93ee ScreenElementExists
+0xec9073ee vocals_lyrics_move
+0xff0db407 textName
+0xf543040f vocals_lightning_hide
+0x1a1ee416 new_value
+0x9277f428 FormatText
+0x88ad6464 vocal_highway_no_background
+0x8c5f546b SoftAssert
+0x01025471 view
+0x0bde347a vocal_meter_color_stripe_rgba
+0x7d35e488 vocalist_phrase_status
+0xbe1eb48b lightning2b
+0x39b5c4b0 GetArraySize
+0x3eff54b5 active_highway_index
+0x5b6634d4 Hide
+0xf77614d8 ResolveScreenElementId
+0xbf0f14db center
+0xcf0ea513 combo_meter_id
+0x0e61b525 RunScriptOnScreenElement
+0x26b6e535 ease_out
+0x4c29c545 RequireParams
+0x840d6547 GameMode_GetType
+0x34a68574 dims
+0x46462587 vocals_scrolling_fade_alpha
+0x2430e58b highway
+0x062a4596 ScreenELementPos
+0x67e6859a player
+0x5ee835ae setup_individual_highway_hud
+0xa96815af star_004
+0x709945b6 alias_top_lightning
+0x23a4e5c2 Obj_SpawnScript
+0xa70585ca lightning3b
+0x69f9f5cd vocals_is_last_player_in_starpower_on_highway
+0x1407a5d4 Audio_UI_Gameplay_Vocal_Highway_Appear
+0xdcd3d5d8 voclas_proto_adjustments
+0xceb1b5e0 vocal_lyric_font
+0x732d75e4 num_players_shown
+0x4244d5f2 paint_default
+0xbc1035fd outline_mask
+0x8c28d609 lightning0b
+0xa35cd60a fontgrid_lyric_a1
+0x2de8c60e printf
+0xd029f619 seconds
+0xe55eb61c vocal_enable_static_view
+0xa906561d vocals_freeform_melodic_message
+0x6ea4463c vocals_highway_assignment
+0x4f74d642 current_amplitude
+0x6d80164e clonematerial
+0x6e192664 vocals_static_fade_end
+0x5112e68a num_vocalists_shown
+0x8b63f68b vocals_view_text
+0x8b73268c Create_Vocals_Star_Power_Effect
+0x0936b68f backup_vocals_highway
+0x2f1fc695 alpha
+0x1c3a669f g_vocal_spoken_mask_z_priority
+0xe90b06a4 root
+0x5b6556a4 multiplier
+0x019176c5 frames
+0x453b86c7 TeamModeEquals
+0x38d126c8 vocal_note_alpha_width
+0x272066e8 vocal_lyric_font_scale
+0xdddea6f6 voclas_proto
+0x96fa06fe glow_rgba
+0xfaa9e70f quality_struct
+0x297a5712 vocal_enable_material_paint
+0x74297717 local
+0x49fe5720 vocals_hud_rgba
+0x632b6721 Vocals_SetPlayerHighwayIndex
+0x2f6bf72d font
+0x7c8b5741 vocals_message_delayed
+0xb6480743 vocal_slide_length_tweak_px
+0xa11a8744 backup_vocals_destroy_highway
+0x9533e748 lightning1b
+0xf9ad9752 vocals_lightning_alert
+0x406dd761 GetScreenElementDims
+0xc6bc5767 vocal_freeform_qualities
+0x53e7476d curr_pos
+0x762d876f vocal_space_height
+0xdb675777 vocals_scrolling_fade_end
+0x0ed45788 Obj_SpawnScriptNow
+0x9f68e79f offset_dims
+0x1bd397b9 vocals_get_num_vocalists_onscreen
+0x906b67ba time
+0x28c467be technique
+0xaff707c6 fireball_bg_rgba
+0x0c5f37cd enable
+0xd43297cf false
+0x7f3fd7da static
+0x407727db vocal_static_lyric_color_moment_upcoming
+0xb10537f9 Vocals_GetVocalistNum
+0xbb9a2809 g_vocal_spoken_paint_pos_offset_y
+0x97ee1837 highway_view
+0xc4745838 text
+0x03a17838 current_song
+0x5b9da842 ContainerElement
+0x25209846 SE_WaitProps
+0xc09d9857 play_vocal_highway_sfx
+0x93dcc862 texture_to_hwy_ratio
+0xadcc4879 MaterialProps
+0x29f1a896 GetScreenElementChildren
+0x85981897 left
+0xa77b589f rgba_fireball
+0x40c698af id
+0xf244e8b2 vocal_static_lyric_color_after
+0x43de08bd container_id
+0x8270e8c4 vocals_message_delayed_spawn
+0x32dbb8d3 vocal_fireball_color
+0x7321a8d6 type
+0x71e6f8e7 g_vocal_spoken_cap_z_priority
+0xa711c8ea assignment_array
+0x36eac8f2 this_player
+0x7f8c98fe index
+0x9a48a904 vocals_create_moment_section
+0xe36b4915 paint_hit
+0x299b692d lightning_time
+0xe534493a create_vocals_spoken_word_mask_element
+0x2e25293c note_right
+0x392e3940 Cheat_PerformanceMode
+0x69731944 is_current_song_a_jam_session
+0x516b1953 g_vocal_spoken_pos_offset_y
+0x7f261953 pos
+0x09df4962 vocals_scrolling_fade_start
+0xb30d9965 controller
+0xcafc596b vocals_highway_view
+0x704d597c base_score
+0xd7dbd97d vocal_meter_color_stripe_ON_alpha
+0x1993c98e i
+0xa77c5995 active_highway
+0x322839a2 allow_expansion
+0xedfe89a9 g_spoken_mask_padding_px
+0x76a979ac note_scale
+0x542449ae Playlist_GetCurrentSong
+0x3c15e9b6 DestroyScreenElement
+0xa52dd9be hit
+0x555bb9c4 vocalist_num
+0x4fef79c5 vocal_sung_note_lerp_value
+0x25e209cf note_left
+0xdcadc9d1 paint_miss
+0x513d19fb curr_phrase_bg_scrolling_alpha
+0x21e9aa16 y_pos
+0x5f3eba22 static_next_phrase_bg_alpha
+0x0bdaba31 vocals_karaoke_hide_highway
+0xfbaafa3c lightning0
+0xc40bfa58 vocal_spoken_color
+0x10748a62 vocal_lyric_karaoke_font_scale
+0x83418a6a material
+0x13b9da7b scale
+0x8cadcaaa lightning1
+0x2b4f3ab1 VocalsHighway_GetId
+0xa718aab9 vocals_destroy_highway
+0xb3424acb highways
+0x5b91bad3 vocals_hud_amplitude_glow
+0xea920ae1 GetNextPlayer
+0x56a1eae3 root_window
+0xb92a4ae5 streak_lightning_05
+0x648c3ae7 vocal_static_lyric_color_star_upcoming
+0x9e4adaee child_pos
+0x0ab21af0 height
+0x19fa5af7 SpawnScriptNow
+0xb7511b04 vocal_scrolling_spoken_lyric_rgba
+0xc1ba2b04 vocals_setup_comet_locations
+0x15a49b10 lightning2
+0xbc7d8b16 g_backup_vocals_highway_offset
+0xc65bab39 lyric_blip_middle
+0x55e2ab69 vocals_create_phrase_marker
+0x9db23b6d vocal_health_meter_needle_1_alpha
+0x62a3ab86 lightning3
+0xffd2bb9d vocals_freeform_score_message
+0x4a9a7ba6 fireball_bg_scale
+0xa13adbb7 WindowElement
+0xee241bb9 TextureProperty
+0x22f50bbe vocals_highway_root
+0x5f0febc3 white_col_black
+0x57242bc9 streak_lightning_07
+0xdd4cabd6 child
+0x793a5bf1 g_vocal_spoken_mask_height_px
+0xec026c0b isSoundEventplaying
+0xd0586c0e karaoke
+0xd531fc10 CreateMaterial
+0x23e4cc15 audio_gameplay_intro_vocal_highway_up_sfx_waiting
+0x02e58c18 Add
+0x074dcc19 _2D_Col_Tex
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0x4f32fc24 vocals_static_fade_start
+0x119adc25 now_bar
+0xb9d44c2f team_mode
+0x0e4cdc31 backup_vocals_highway_id
+0xdcd72c5d vocal_highway_text_height
+0xf6475c5d vocalist_hud_debug_pitch
+0xd6fcac62 vocals_create_highway_bg
+0x99da4c67 vocal_meter_color_stripe_ON_rgba
+0x05b94c88 alias_bg_container
+0x5f6a6c8c vocals_spoken_word_mask_material
+0x3a65bc95 vocals_highway_border_flash
+0x0b5cfca0 DestroyMaterial
+0x33468ca3 mute
+0xd92b4ca4 alias_visible_highway
+0xa041ccab vocals_should_hide_highway
+0x25cadcac GetNumPlayersInGame
+0x0830ecaf ObjId
+0x90356cb9 SetScreenElementProps
+0x11dd4cc0 vocals_create_highway
+0xe93ddccd vocal2
+0x012bacd6 m_samp0
+0x45f18cd8 vocals_health_alpha_scale
+0x2f574cd9 vocals_mute_all_mics
+0xf7f92cdb alias_static_phrase_end
+0x0858ece2 vocals_star_power_changed
+0x5d0c9ce4 vocals_hud_glow_rgba
+0xa67b2ce5 vocals_hud_amp_glow_scale
+0xec5b0d0c vocals_paint_star_power_off
+0xb7205d14 band
+0xebce9d19 vocal_static_lyric_color_star_after
+0xd3fa2d1c g_vocals_highway_notes_hide_time
+0x5ac86d1c flip_v
+0x92be3d33 star_power_used
+0xb1db9d38 vocal_pitch_indicator_hide_time
+0x7f5b3d4d array_size
+0x9f677d4e alphacutoff
+0xab076d4f g_vocal_spoken_min_gap_px
+0xd739ed6f g_vocal_note_cap_z_priority
+0x70348d77 vocal1
+0xba63cd87 pro_faceoff
+0xbc4fdd92 pitch_indicator
+0x1efe0d97 m
+0x4f285da0 g_vocal_paint_z_priority
+0xc0166da4 melodic
+0x36fe6da8 Vocals_GetActiveHighwayIndex
+0x1f762db2 Kill_Vocals_Star_Power_Effect
+0x3f6bcdba rgba
+0x2b1f9dc3 vocals_highway_border_flash_spawned
+0xe890edc7 vocal_static_lyric_color_moment_after
+0xe8e6adcb vocals
+0x50186dcc bg_container
+0x8a897dd2 shadow
+0x969d9dd7 vocal_scrolling_highway_timespan
+0xce4afdd9 GetScreenElementPosition
+0xc703bde3 vocals_set_highway_view
+0x41b48de9 vocals_highway_id
+0x2d2bbe02 alias_now_bar
+0x0bb1fe12 vocal_paint_colors
+0x0a015e17 motion
+0xc4e78e22 all
+0x5e684e45 children
+0xe6927e46 alias_pitch_indicator
+0xe45e4e60 on_screen
+0xcfc76e6d vocal_lyric_font_offset
+0x7a9a6e7b Vocals_GetActiveHighway
+0xa545ae85 backup_vocals_create_highway
+0xbe304e86 printstruct
+0x49e0ee96 second
+0xccba3ead alias_static_phrase_start
+0xee49deb4 Multiply
+0x095daeb4 destroy_vocals_spoken_word_mask_material
+0x73851ec5 vocals_highway_slide_in
+0x54628ed7 blend
+0xe8bb4ee9 g_vocal_spoken_z_priority
+0x65485eea GetPlayerInfo
+0x77f21ef8 alias_v1
+0xbe478efc streak_lightning_01
+0xa2a5defe local_id
+0x2ed62f02 lyrics_container
+0xfc37df05 gameframe
+0x4e755f1e scrolling
+0x8d964f25 vocals_lightning_starpower_spawned_c
+0x57710f31 z_priority
+0xb6f08f39 part
+0x38d53f3b vocals_highway_hide_notes
+0xeefb4f42 alias_v2
+0xa579ff4f option
+0x2645df58 vocals_lightning_starpower_spawned
+0xfcb13f5e vocal_debug_hud
+0x4d657f64 delay
+0x83f6ef70 visible_highway
+0x43581f7f safe_hide
+0x2fefaf84 fontgrid_text_a1
+0x371ddfa7 vocals_activate_star_power
+0xc2719fb0 parent
+0xfa917fb3 vocals_lightning_starpower_spawned_b
+0x3711bfb5 create_vocals_spoken_word_mask_material
+0x5049efd0 streak_lightning_03
+0x81882fda freeplay
+0x3a611fdf vocals_lyrics_move_and_die_spawned
+0xb20c4fe0 stretch_id
+0xee846ff2 vocal_static_lyric_color_upcoming
+0x74235ff2 vocals_create_freeform_section
+0xf515cffa vocals_get_highway_view
+

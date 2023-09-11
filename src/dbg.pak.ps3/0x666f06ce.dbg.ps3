@@ -1,0 +1,453 @@
+[LineNumbers]
+z_HouseBand_Setup 4 (0,4) (64,5) (132,7) (138,8) 
+z_HouseBand_Startup 1 (0,17) 
+Z_HouseBand_SetupNodeFlags 2 (0,20) (52,22) 
+z_HouseBand_Crowd_Peds 9 (0,25) (36,29) (71,32) (99,35) (141,36) (143,37) (145,38) (147,39) (154,41) 
+z_HouseBand_Pyro 11 (0,392) (8,393) (18,394) (108,395) (114,396) (127,397) (212,398) (218,399) (224,400) (230,401) (232,402) 
+z_HouseBand_Performance_Changed 9 (0,405) (8,406) (18,407) (120,408) (133,409) (240,410) (253,411) (356,412) (358,413) 
+z_HouseBand_Pyro_Moments_Front_1 25 (0,423) (68,425) (104,426) (116,427) (118,428) (152,429) (215,430) (264,431) (300,434) (363,435) (412,436) (448,437) (511,438) (560,439) (596,440) (659,441) (708,442) (744,443) (823,444) (872,445) (908,446) (971,447) (992,448) (1044,449) (1051,450) 
+z_HouseBand_Pyro_Moments_Front_2 15 (0,466) (68,468) (80,469) (82,470) (116,471) (203,472) (236,473) (299,474) (332,475) (395,476) (444,477) (465,478) (516,479) (523,480) (556,481) 
+z_HouseBand_Pyro_Moments_Mid_1 25 (0,489) (68,491) (104,492) (116,493) (118,494) (152,495) (215,496) (264,497) (300,500) (363,501) (412,502) (448,503) (511,504) (560,505) (596,506) (659,507) (708,508) (744,509) (823,510) (872,511) (908,512) (971,513) (992,514) (1044,515) (1051,516) 
+Z_HouseBand_Pyro_Moments_Mid_2 15 (0,524) (68,526) (80,527) (82,528) (116,529) (203,530) (236,531) (299,532) (332,533) (395,534) (444,535) (465,536) (516,537) (523,538) (556,539) 
+z_HouseBand_Pyro_Moments_Back_1 24 (0,547) (68,548) (80,549) (82,550) (116,551) (179,552) (228,553) (264,556) (327,557) (376,558) (412,559) (475,560) (524,561) (560,562) (623,563) (672,564) (708,565) (787,566) (836,567) (872,568) (935,569) (956,570) (1008,571) (1015,572) 
+Z_HouseBand_Pyro_Moments_Back_2 15 (0,580) (68,581) (80,582) (82,583) (116,584) (203,585) (236,586) (299,587) (332,588) (395,589) (444,590) (465,591) (516,592) (523,593) (556,594) 
+z_HouseBand_Pyro_Moments_Top_1 23 (0,602) (68,603) (104,604) (106,605) (108,606) (120,608) (122,609) (156,612) (247,613) (296,614) (332,615) (408,616) (444,617) (520,618) (572,619) (608,620) (684,621) (736,624) (772,625) (848,626) (869,627) (920,628) (927,629) 
+Z_HouseBand_Pyro_Special 6 (0,632) (36,633) (72,634) (124,635) (176,636) (212,637) 
+Z_HouseBand_Pyro_Intro 7 (0,640) (52,641) (104,642) (156,643) (208,644) (260,645) (312,646) 
+Z_HouseBand_ModulatePyroLights 4 (0,650) (40,651) (92,652) (132,653) 
+Z_HouseBand_PyroLights_Front 5 (0,656) (6,657) (80,658) (132,659) (138,660) 
+Z_HouseBand_PyroLights_Mid 5 (0,663) (6,664) (80,665) (132,666) (138,667) 
+Z_HouseBand_PyroLights_Back 5 (0,670) (6,671) (80,672) (132,673) (138,674) 
+Z_HouseBand_PyroLights_Enable 2 (0,677) (18,678) 
+Z_HouseBand_PyroLights_Disable 2 (0,681) (18,682) 
+Z_HouseBand_PyroLights_Front_Enable 2 (0,685) (76,686) 
+Z_HouseBand_PyroLights_Front_Disable 2 (0,689) (76,690) 
+Z_HouseBand_PyroLights_Mid_Enable 2 (0,693) (76,694) 
+Z_HouseBand_PyroLights_Mid_Disable 2 (0,697) (76,698) 
+Z_HouseBand_PyroLights_Back_Enable 2 (0,701) (76,702) 
+Z_HouseBand_PyroLights_Back_Disable 2 (0,705) (76,706) 
+Z_HouseBand_CelebIntro_FX_Setup 3 (0,745) (36,746) (104,747) 
+Z_HouseBand_CelebIntro_FX_CreateGodRay 4 (0,750) (52,751) (396,768) (398,769) 
+Z_HouseBand_CelebIntro_FX_CreateFire 3 (0,772) (36,773) (72,774) 
+Z_HouseBand_CelebIntro_CreateWind 14 (0,777) (2,778) (15,779) (27,780) (39,781) (59,782) (186,783) (273,784) (285,785) (297,786) (309,787) (311,788) (402,790) (404,791) 
+Z_HouseBand_CelebIntro_FX_Reveal 3 (0,794) (36,795) (104,796) 
+Z_HouseBand_CelebIntro_FX_End 3 (0,799) (36,800) (104,801) 
+Z_HouseBand_CelebIntro_FX_CleanUp 7 (0,804) (36,805) (72,807) (108,808) (160,810) (260,817) (262,818) 
+Z_HouseBand_camera_celebintro 5 (0,821) (6,822) (136,829) (142,830) (160,831) 
+Z_HouseBand_Encore_TransitionDeinit 2 (0,859) (6,860) 
+Z_HouseBand_Encore_FX_Setup 26 (0,863) (36,864) (72,865) (108,866) (144,867) (180,868) (216,869) (252,870) (288,872) (324,874) (392,875) (448,877) (504,878) (560,879) (572,881) (585,882) (597,883) (609,884) (622,885) (642,886) (654,887) (666,888) (678,889) (690,890) (702,891) (704,892) 
+Z_HouseBand_Encore_FX_SpeedFire01 18 (0,895) (36,896) (104,897) (116,899) (128,900) (157,901) (169,902) (171,904) (240,905) (258,906) (270,908) (308,910) (344,911) (394,912) (396,913) (417,915) (434,916) (442,917) 
+Z_HouseBand_Encore_FX_SpeedFire02 16 (0,920) (12,921) (24,922) (53,923) (65,924) (67,926) (136,927) (154,928) (166,930) (204,932) (240,933) (290,934) (292,935) (313,937) (330,938) (338,939) 
+Z_HouseBand_Encore_FX_CircleSparks 2 (0,942) (36,943) 
+Z_HouseBand_Encore_FX_CircleFire 5 (0,946) (36,947) (77,948) (112,950) (153,951) 
+Z_HouseBand_Encore_FX_CircleFire03 3 (0,954) (36,955) (77,956) 
+Z_HouseBand_Encore_FX_Sparks 3 (0,959) (36,960) (72,961) 
+Z_HouseBand_Encore_FX_MoveCircle 2 (0,964) (72,965) 
+Z_HouseBand_Encore_FX_GroundFire 7 (0,968) (36,969) (72,970) (108,971) (144,972) (180,973) (216,974) 
+Z_HouseBand_Encore_FX_CleanUp 11 (0,977) (36,978) (72,979) (108,981) (144,982) (180,983) (216,984) (252,985) (288,986) (324,987) (360,988) 
+z_Houseband_CelebIntro_Setup 2 (0,991) (6,995) 
+z_Houseband_KillVenueDoors 3 (0,998) (36,999) (72,1000) 
+z_Houseband_CreateVenueDoors 3 (0,1003) (36,1004) (72,1005) 
+Z_HouseBand_camera_encore 5 (0,1008) (6,1009) (136,1016) (142,1017) (160,1018) 
+z_HouseBand_Encore_Setup 1 (0,1021) 
+z_HouseBand_ReHouseBandEncore_TransitionSetup 1 (0,1025) 
+z_HouseBand_Encore_TransitionEnd 1 (0,1029) 
+z_HouseBand_sfx_Get_Venue_Size 2 (0,1033) (32,1034) 
+z_HouseBand_CreateIntro 2 (0,1037) (36,1038) 
+z_HouseBand_KillIntro 2 (0,1041) (36,1042) 
+
+[Checksums]
+0x5e88e2a9 zones\z_houseband\z_houseband_scripts.qb
+0x002ea00a Z_HouseBand_GFX_FX_Encore_GroundFire06
+0xac1d8022 color_overrides
+0x0f7e902c nullscript
+0xcd0dc02d KillSpawnedScript
+0x0e899033 Z_HouseBand_back_1_03
+0x9db2c043 Z_HouseBand_Front_2_01
+0xbc7ce044 z_HouseBand_lightshow_mapping
+0x9a8bb047 spotlights_Yellow
+0x6ec68049 top_1
+0xec926060 Z_HouseBand_CelebIntro_FX_Reveal
+0x059ea070 Red
+0xa47b7070 mid_2
+0x022cf075 resolution
+0xcd281077 fadeout_end
+0x9bbc008d z_HouseBand_CelebIntro_Transition
+0xc383d096 Z_HouseBand_CelebIntro_FX_CleanUp
+0x43ebe09a front_4
+0x798ea0a5 Z_HouseBand_back_1_02
+0x073df0ab spotlights_Blue
+0xccdd30ab power_rocker
+0xe893b0ac z_HouseBand_Pyro_Back_1_Pos
+0x225a80b4 Starpower01
+0xcccb70c3 Z_HouseBand_Pyro_Intro
+0xd37c40e6 mid_3
+0x0221d0f3 z_HouseBand_Pyro_Moments_Back_1
+0x918710fb GP_FX_SparkShowerSmall_SmokeDown_01
+0xf0d90109 speed
+0x7031f10c params
+0x7580010d callback_Script
+0xbb53d10e Starpower02
+0x1a146119 enablelight
+0xe087f11f Z_HouseBand_back_1_01
+0xee20c126 Z_HouseBand_GFX_FX_Encore_GroundFire04
+0x73e0a138 z_Houseband_Ven_G_BackStageDoorLeft
+0x9b288149 Z_HouseBand_Pyro_Moments_Back_2
+0x9fd29151 viewport
+0x80c8e165 top_3
+0x937bb16d good
+0x73bca16f Z_HouseBand_Front_2_03
+0xcf66717b GotParam
+0x071f4183 bg_viewport
+0x1590418e CameraCuts_CalcTime
+0x9fd8618f Z_HouseBand_camera_celebintro
+0xcc54e198 Starpower03
+0xbceab19a z_HouseBand_Performance_Changed
+0x07b9d1a8 Z_HouseBand_Encore_FX_CircleFire03
+0x1b9f51ad Z_HouseBand_PyroLights_Front_Disable
+0x9927f1b0 Z_HouseBand_GFX_FX_Encore_GroundFire05
+0x5d0671b8 channel
+0xa863c1bc Blackout_Generic
+0x3d7221ca mid_1
+0xbffc51d4 z_HouseBand_FirePlumes_Duration
+0xd825e1d4 rocker
+0x7e5211d8 distances
+0x2f6511de Green
+0x78a2b1f1 venue_moment_flags
+0xf7cfd1f3 top_2
+0x1ad0f1f3 Poor_Generic
+0x127a21f8 Crowd_Profiles
+0xa1dc81f9 name
+0x04bb91f9 Z_HouseBand_Front_2_02
+0x31e12214 Z_HouseBand_Encore_FX_Setup
+0x17e7321e FOV
+0xe4a7e23b lightposition
+0x40b1f251 back_3
+0x7f18b25a Climax03
+0xbd30325b White
+0x748ca262 Quat
+0x08304276 CelebIntro_End
+0x8012c29f SetSpawnInstanceLimits
+0xd443a2bc off
+0x16c382bf Z_HouseBand_Encore_FX_MoveCircle
+0x37b6c2c7 back_2
+0x3053b2c7 CompositeObjectExists
+0x081f82cc Climax02
+0x977fe2cf remove
+0x6ced52db z_HouseBand_Encore_Setup
+0xe46a22e3 Prelude01
+0xfda152ea Z_HouseBand_Mid_1_01
+0x43ce02ec exposition
+0xb24032f4 CCam_DoMorph
+0x144412f5 TOD_Proxim_Update_LightFX_Viewport
+0x944972f6 ScriptTable
+0xfd5f6307 numObjs
+0xea81a32b Obj_MoveToRelPos
+0x0550d32c z_Houseband_KillVenueDoors
+0x4a07c332 frame
+0xedbda336 SetRenderBatchLODParams
+0x9eb6e336 spawnscript
+0x64a80350 Z_HouseBand_Mid_1_02
+0xa8ea8351 z_HouseBand_TRG_Geo_Camera_Performance_Sing01
+0x7d637359 Prelude02
+0x2ffb1360 Yellow
+0x0203b372 true
+0x9116d376 Climax01
+0xde67a376 z_HouseBand_sfx_Get_Venue_Size
+0xaebf937d back_1
+0x8902d37d z_HouseBand_Intro_Transition
+0x67147380 Z_HouseBand_PyroLights_Enable
+0xee9bc392 SpawnScriptLater
+0x0aa5f3a7 GP_FX_Sparx_01
+0x1c0b83af Encore_Start
+0x13af33c6 Z_HouseBand_Mid_1_03
+0x0a6443cf Prelude03
+0xef8a33d4 FXID_EncoreUpFire01
+0xfaa0b3e9 spotlights_Magenta
+0x87fa53ed groupID
+0x0fcad3f8 disableScreenFX
+0xa2b033fd uniqueID
+0xa08b340e Z_HouseBand_GFX_FX_Encore_FireDummy02
+0x07436413 Z_HouseBand_GFX_FX_Encore_GroundFire02
+0x33811415 front_1
+0x2ea0b41d Pyro
+0x9277f428 FormatText
+0xf3b3b42a Blackout
+0x5b463436 GP_FX_DragonFire_Glow_01
+0x8d99f440 Strobe_Generic
+0xfb3d8449 Z_HouseBand_Pyro_Moments_Top_1_Pos
+0x21112459 Z_HouseBand_PyroLights_Front
+0xbafa2459 Z_HouseBand_GFX_FX_Encore_SwirlSparks02
+0x392d2471 z_HouseBand_Pyro_Moments_Front_1
+0x70445485 Z_HouseBand_GFX_FX_Encore_GroundFire03
+0x9535248a Falling01
+0xcff91494 Band_Lobby
+0x3783f4b1 FXID_CircleFire01
+0x7ee364bc Z_HouseBand_back_1_06
+0xc475d4bc Z_HouseBand_CelebIntro_FX_End
+0x9e3c24be z_HouseBand_Setup
+0x1eac74c6 top_4
+0xb8bcc4c7 Z_HouseBand_PyroLights_Disable
+0xdeef04cd StructureContains
+0xcdfd14cf Z_HouseBand_GFX_FX_Encore_SwirlSparks03
+0x1d5c24e6 spotlights_White
+0x6e6ee4f2 venue
+0x140a24f4 z_HouseBand_Pyro_Front_1_Pos
+0x688ab4f5 GetUniqueCompositeObjectID
+0xe7ea3506 Z_HouseBand_back_1_05
+0xae8aa50b FXID_CircleFire02
+0x9c8c8517 Z_HouseBand_GFX_FX_PyroLight_Back
+0x9a38151e z_Houseband_CelebIntro_Setup
+0xaa99c521 save
+0x0c3c7530 Falling02
+0x2fcd1533 silhouette
+0xdd8f7539 front_3
+0x4d18d545 mid_4
+0x61c9354b Blue
+0xae81d553 Z_HouseBand_Encore_FX_CircleFire
+0xd723455d z_HouseBand_Pyro_Moments_Front_3
+0x82fac56c menu
+0xcbddf58d steps
+0x90ed0590 Z_HouseBand_back_1_04
+0xd98d959d FXID_CircleFire03
+0x7b3b45a6 Falling03
+0x9e4a35a9 Z_HouseBand_GFX_FX_Encore_GroundFire01
+0xaa8845af front_2
+0x20b835af CreateParticleSystem
+0xd81595b4 LightShow_PlaySnapshot
+0x398265b4 Z_HouseBand_GFX_FX_Encore_FireDummy01
+0x6c78a5b6 range
+0xb8c8b5ca crowd_play_adjusting_random_anims
+0xa02475cb z_HouseBand_Pyro_Moments_Front_2
+0x23f375e3 Z_HouseBand_GFX_FX_Encore_SwirlSparks01
+0x84ec6600 Obj_MoveToPos
+0xb307b607 z_HouseBand_KillIntro
+0x4203e608 cliplightposition
+0xfe41960d starpower
+0x2de8c60e printf
+0xd029f619 seconds
+0x5f1f7621 Magenta
+0x3692e626 GP_FX_SparkShowerSmall_LensFlares_01
+0xf649d637 on
+0xd862e639 Z_HouseBand_GFX_FX_PyroLight_Mid
+0x752eb642 z_HouseBand_Encore_Transition
+0x2d116659 Z_HouseBand_Encore_FX_CleanUp
+0x016e965c z_HouseBand_CreateIntro
+0x8dcba665 Z_HouseBand_Mid_1_04
+0xf400b671 z_HouseBand_Pyro
+0x4e850682 CameraCuts_WaitScript
+0xd5dab6a5 Strobe08
+0xf1c1a6b4 fallingAction
+0xe8e8d6ba Z_HouseBand_PyroLights_Mid
+0x981d66e8 pyro_scripts
+0xfacc96f3 Z_HouseBand_Mid_1_05
+0x99a9b716 Color
+0xc2b8672f Z_HouseBand_SetupNodeFlags
+0x63c5c749 Z_HouseBand_Mid_1_06
+0x05745750 VenueSize
+0xe26cd752 VenueInteraction
+0x8f090763 spotlights_Green
+0x00c4176b attenuation
+0x7a020773 GP_FX_SparkShowerSmall_TopGlows_01
+0x5777577a Venue_ScreenFX
+0x0ed45788 Obj_SpawnScriptNow
+0xe2eab789 z_HouseBand_Encore_TransitionEnd
+0x1f8aa790 Encore_ViolentWind01
+0x726c4796 tension
+0xb0597799 Z_HouseBand_Encore_FX_Sparks
+0x906b67ba time
+0x7a8017ba node
+0xbb0db7d3 SafeCreate
+0x672a27d9 colormodulate
+0xded567f2 back_4
+0xe17c27f9 Climax04
+0x89ff6813 LifeRange
+0x90fec815 structure
+0x5f468818 lin
+0xc45de82c Default_TOD_Manager
+0x7a432834 color_override_exclusions
+0x8c25e854 EngineConfig
+0x6bd5485e Transition_CameraCut
+0x26bd8866 spotlights_off
+0xa6d2d890 Scr
+0x86ca8891 hide_all_but_rocker
+0xd4ef989d z_HouseBand_Crowd_Peds
+0x40c698af id
+0x925da8cb Exposition01
+0x7321a8d6 Type
+0x2e2718dd lightsource
+0x3b948900 BandManager_HideInstrument
+0xbe2c8936 Z_HouseBand_CelebIntro_FX_CreateGodRay
+0x3c487938 setlightmapoverlayparams
+0x9d1b8940 CallScriptOnNode
+0x7f261953 pos
+0x41272956 velocity
+0x9977b95f anim_set
+0x0b54f971 Exposition02
+0x6c4e7971 prefix
+0xf958d972 disablelight
+0xd71bb977 twist
+0x7d28697e performance
+0x0da6698d ignore_spawn_request
+0x1993c98e i
+0xf8d6a996 Kill
+0xd63fb9af processor
+0xb26eb9c2 snapshots
+0xef0489d0 Z_HouseBand_CelebIntro_FX_Setup
+0x392649d7 preferredID
+0xf58ff9e0 GP_FX_SparkShowerSmall_MultiSparks_01
+0x7c53c9e7 Exposition03
+0x13a85a05 Z_HouseBand_Pyro_Top01_02
+0x81f2da06 Flare_Generic
+0x1163fa0e Z_HouseBand_Front_1_06
+0xab6bca18 Strobe05
+0xe5c2ba42 SetLightIntensityOverTime
+0x398cba48 medium
+0x9bc91a5b SafeDestroy
+0x6ac52a75 z_HouseBand_Pyro_Mid_1_Pos
+0x9f92ba78 nodename
+0xea47aa7c Z_HouseBand_Encore_TransitionDeinit
+0xdc6cfa8e Strobe04
+0x263dda8e wash
+0x76fa7a8f checksumName
+0xbadc1a93 GP_FX_NewSparks_SmokeColumn_01
+0x64af6a93 Z_HouseBand_Pyro_Top01_03
+0x33b99aa4 Z_HouseBand_PyroLights_Mid_Disable
+0xf7608aaa spotlights_Red
+0xf4b16ab0 management
+0x5cd5eabb spotlight_snapshots
+0x1b814acd Rising04
+0x985efad3 GP_FX_FirePlume_Bottom_01
+0xb81d8ad7 Z_HouseBand_CelebIntro_FX_CreateFire
+0xdcf2fada Z_HouseBand_PyroLights_Mid_Enable
+0xe5fa3adf intro
+0x23db4aea Idle
+0xf8641af0 Resolution02
+0xf7026af1 risingAction
+0xb274daf4 z_HouseBand_poor_snapshots
+0xb886faf6 climax
+0x3ccf7b08 GP_FX_SparkShowerSmall_Sparks_01
+0xaa616b1a poor
+0xff6d9b22 Z_HouseBand_Front_1_04
+0x23d54b29 GP_FX_NewSparks_SmokeColumn_02
+0x4565ab34 Strobe07
+0x4fec3b3c moment01
+0x616d4b4a Resolution01
+0x17305b6c GP_FX_NewSparks_Sparks_01
+0x049b4b84 fadeout_begin
+0x75155b87 tangentWeight
+0xd95f9b98 GP_FX_SparkFountain_FrontGlow_01
+0x32629ba2 Strobe06
+0x4f1e7ba2 stepTime
+0x98549ba4 anim
+0x886aabb4 Z_HouseBand_Front_1_05
+0x5107ebb9 CelebIntro_Reveal
+0x8aa10bbf Z_HouseBand_Pyro_Top01_01
+0x076a2bce z_HouseBand_TRG_Intro_HB_Doors
+0xb8f8bbe6 directional
+0xefc51c06 bone_camera
+0x32b38c14 CCam_WaitMorph
+0x82117c1a wait
+0xaf35dc26 Tension03
+0x011a9c28 Z_HouseBand_Mid_2_03
+0x0daa4c2b z_Houseband_Ven_G_BackStageDoorRight
+0x87f75c2d n
+0x1ae7ac30 Z_HouseBand_Encore_FX_GroundFire
+0x93a67c38 Z_HouseBand_PyroLights_Back_Enable
+0xe2375c44 Exposition04
+0xcc7e5c84 ambientOcclusion
+0x0830ecaf objID
+0xd832ecb0 Tension02
+0x3cd16cbb Safekill
+0x761dacbe Z_HouseBand_Mid_2_02
+0x85322cd6 GP_FX_FirePlume_02
+0x49ab4cf8 z_HouseBand_ReHouseBandEncore_TransitionSetup
+0xbe5c5cfd z_HouseBand_Startup
+0xc3ea1cfe Z_HouseBand_Pyro_Special
+0x379bed00 flare
+0xef14fd04 Z_HouseBand_Mid_2_01
+0xbdea4d07 skycolor
+0x413bbd0a Tension01
+0x71048d0f Z_HouseBand_ModulatePyroLights
+0x157a8d19 Purple
+0xb2222d1c depthmodulate
+0x86407d29 prelude
+0xe90aad2d Obj_GetPosition
+0x372e7d34 CheckWholeCallstack
+0xbf51bd3c BandManager_UnHideInstrument
+0x57e62d48 z_HouseBand_Back_2_pos
+0xc8511d4a Encore_Flames
+0xdcd2bd55 GetNode
+0x43ae7d5d Encore_BodyWind01
+0x1c724d65 LockToBone
+0x0f5c5d66 fxParam
+0x6289dd76 max
+0x7df24d76 Z_HouseBand_PyroLights_Back_Disable
+0x9a2c0d78 z_HouseBand_Mid_2_pos
+0x33705d83 scefName
+0xb006ed85 OutsideNode
+0x574aeda0 spotlights_Orange
+0x6fb89db9 Transitions
+0x652b9db9 VenuePyroFXKill
+0xe80dddbd Z_HouseBand_PyroLights_Back
+0x73cc7dd5 Z_HouseBand_camera_encore
+0xf8816de2 Z_HouseBand_PyroLights_Front_Enable
+0xf941ade4 exp
+0x298e1df4 changenow
+0xd126cdf6 LockTo
+0xac060e01 Strobe01
+0x1f424e07 Z_HouseBand_CelebIntro_CreateWind
+0xb607ae15 Z_HouseBand_Encore_FX_SpeedFire01
+0x160e3e17 Z_HouseBand_Front_1_02
+0x4c285e27 Z_HouseBand_GFX_FX_Encore_CircleDummy01
+0x69b05e2c generic
+0xf6a0ce36 Godray
+0xa00a2e3e spotlights_Purple
+0x6bebbe42 Rising01
+0x6ef11e4b LightShow_SetTime
+0x86c1be5b Z_HouseBand_Pyro_Moments_Mid_2
+0x7b54be5d z_Houseband_CreateVenueDoors
+0xa2e2ae5e GP_FX_HouseBand_Encore_CircleFire02
+0x4c7c4e62 z_HouseBand_Pyro_Moments_Top_1
+0xae0e3e6f camera_songtime
+0x61090e81 Z_HouseBand_Front_1_03
+0xbe304e86 printstruct
+0xe23a4e87 Orange
+0x63c2ae8a Z_HouseBand_Pyro_Top01_07
+0x49e0ee96 second
+0xd6f41e9a UseSnapshotPositions
+0x96ce2ea5 params_Script
+0x9b9ffebd GP_FX_SparkFountain_FrontFlash_01
+0xd5e59ec8 GP_FX_HouseBand_Encore_CircleFire03
+0x618a3eca Z_HouseBand_GFX_FX_CelebIntro_DoorFire01
+0x28c33ecc ScreenFX_FXInstanceExists
+0x183eded1 enableScreenFX
+0xf2325ef1 Z_HouseBand_Back_2_01
+0x4d9e9efb Wash01
+0x70291f04 create
+0x42086f2d Strobe03
+0xfacbff30 Z_HouseBand_Pyro_Top01_04
+0xd497cf41 Wash02
+0x6b3b0f4b Z_HouseBand_Back_2_02
+0xc9ebef59 GP_FX_HouseBand_Encore_UpFire02
+0x85e5df6e Rising03
+0x72e67f76 z_HouseBand_Front_2_pos
+0xc218cf77 LifeTime
+0x35d60f78 zoneparticles
+0x7d194f9f CelebIntro_Start
+0x8dcccfa6 Z_HouseBand_Pyro_Top01_05
+0x8f076fad Z_HouseBand_Front_1_01
+0x2f0effaf Z_HouseBand_Encore_FX_SpeedFire02
+0x5e737fb9 ScreenFX_UpdateFXInstanceParams
+0x350f5fbb Strobe02
+0x27771fc4 strobe
+0xa390ffd7 Wash03
+0x1c3c3fdd Z_HouseBand_Back_2_03
+0x1fc8efe1 z_HouseBand_Pyro_Moments_Mid_1
+0x3bebffe4 GP_FX_HouseBand_Encore_CircleFire01
+0x1879bfea EngineWind
+0x1766eff7 Z_HouseBand_GFX_FX_PyroLight_Front
+0xf2e2eff8 Rising02
+0x4d043ff8 Z_HouseBand_Encore_FX_CircleSparks
+0xedc86ffd Large_EXT
+

@@ -1,0 +1,107 @@
+[LineNumbers]
+goal_timer_create_timer 27 (0,33) (18,35) (20,36) (22,37) (43,39) (61,40) (63,41) (100,43) (113,44) (117,45) (130,46) (132,47) (140,50) (150,52) (157,53) (170,54) (199,55) (211,56) (223,57) (236,58) (248,59) (264,61) (280,62) (292,63) (305,64) (307,65) (309,67) 
+goal_timer_build_timer_element 78 (72,76) (84,78) (102,81) (115,83) (121,84) (158,85) (196,86) (256,87) (274,88) (312,89) (329,90) (333,91) (346,92) (348,93) (386,96) (399,97) (415,98) (417,99) (421,100) (438,101) (440,102) (444,103) (461,104) (474,105) (476,106) (480,107) (497,108) (499,109) (503,112) (521,114) (543,116) (614,117) (616,118) (632,120) (634,121) (641,125) (653,126) (666,127) (679,128) (698,129) (711,130) (724,131) (740,132) (742,133) (749,136) (761,137) (774,138) (786,139) (799,140) (818,141) (837,142) (856,143) (872,144) (885,145) (898,146) (914,147) (926,148) (938,149) (951,150) (953,152) (992,157) (1005,158) (1007,159) (1014,161) (1026,162) (1039,163) (1051,164) (1064,165) (1083,166) (1096,167) (1115,168) (1128,169) (1141,170) (1154,171) (1167,172) (1187,173) (1200,174) (1202,175) 
+get_team_versus_timer_pos 7 (0,182) (48,183) (86,184) (110,185) (133,186) (135,187) (149,188) 
+goal_timer_destroy_timer 4 (0,195) (21,196) (39,197) (41,198) 
+goal_timer_update 4 (0,206) (34,207) (77,208) (79,209) 
+goal_hide_timer 4 (0,216) (36,217) (88,218) (90,219) 
+goal_unhide_timer 4 (0,226) (36,227) (88,228) (90,229) 
+timer_runout_beep 2 (28,237) (46,238) 
+
+[Checksums]
+0xba73e448 scripts\game\goals\goal_timer.qb
+0x450d6026 text_scale
+0x780ed027 timer_container_parent
+0x2666804d dont_show_on_enter
+0x1baef0ed bg_color
+0x1b09e0f6 Audio_UI_Gameplay_Countdown_Timer_Beep
+0xb12b510a SpriteElement
+0xbc5fd10b Desc_ResolveAlias
+0x73665140 CreateScreenElement
+0x7df8614e p
+0x7277e15a goal_timer_build_timer_element
+0xcf66717b GotParam
+0xd87251d6 scale each line if larger
+0xa1dc81f9 name
+0x8b60022f just
+0x312ed240 sprite_alpha
+0x40d92263 TextBlockElement
+0xc2eab26a two_teams
+0x7d99f28d texture
+0x7ec332ef synced_beep_fast_settings
+0xa8ee7357 ScriptAssert
+0x5b058376 param
+0x3815b38f text_rgba
+0xd0e6c392 gh5_style
+0x4837e397 pos_anchor
+0xcfc7c3ad timer_runout_beep
+0x4627a3de competitive
+0x67e093e4 internal_just
+0xc5bc93ee ScreenElementExists
+0x56ec54c7 fit_width
+0x5b6634d4 hide
+0xe675e4d6 streak
+0xbf0f14db center
+0x044f94fb scale down if larger
+0x4c29c545 RequireParams
+0x840d6547 GameMode_GetType
+0x727f9552 screen_element_id
+0xc451f558 event
+0x91ea3561 meter_id
+0x34a68574 dims
+0x062a4596 ScreenElementPos
+0x67e6859a player
+0x2f1fc695 alpha
+0x453b86c7 TeamModeEquals
+0x894496d9 fit_height
+0x39155705 hud_root
+0x2f6bf72d font
+0x68847760 beep_sound
+0xc4745838 text
+0x5b9da842 ContainerElement
+0x9d59b880 get_team_versus_timer_pos
+0x40c698af id
+0x43de08bd container_id
+0x7321a8d6 type
+0x5c26b8dc alias_versus_meter
+0xd665c92c bg_blend
+0x392e3940 Cheat_PerformanceMode
+0x7f261953 pos
+0x09879998 versus_meter
+0x592089a9 absolute
+0x3c15e9b6 DestroyScreenElement
+0xeea6c9c7 goal_timer_create_timer
+0x8c1819fc bg_offset
+0x13b9da7b scale
+0x068c2a9e goal_timer_destroy_timer
+0x51053ad7 bg_rot
+0x56a1eae3 root_window
+0xf165cb76 goal_unhide_timer
+0x069fcbc7 synced_beep_slow_settings
+0xd0d4abd3 goal_hide_timer
+0xdd4cabd6 child
+0x9f23dc21 SE_SetProps
+0xb9d44c2f team_mode
+0xb1e6bca3 timer_style
+0x90356cb9 SetScreenElementProps
+0xb0535cc4 timer_container
+0x62699ccf bg_texture
+0xa6343cd4 the_time
+0x6e51ccff get_highway_hud_root_id
+0x91be9d80 bg_scale
+0x3f6bcdba rgba
+0xce4afdd9 GetScreenElementPosition
+0xed344e1b rot_angle
+0x6b9aae37 timer_bg
+0xc1e1cea8 fontgrid_text_A3
+0x154daed1 highway_hud_root
+0x54628ed7 blend
+0xa2a5defe local_id
+0xea8eff10 alias_timer_container
+0x57710f31 z_priority
+0xb60d1f35 unhide
+0x8dec6f84 goal_timer_update
+0xc2719fb0 parent
+0x6711dfb7 timer_text
+0xd301ffdd SoundEvent
+

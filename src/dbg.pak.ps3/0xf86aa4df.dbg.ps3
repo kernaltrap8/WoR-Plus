@@ -1,0 +1,93 @@
+[LineNumbers]
+jam_input_lead 7 (60,21) (100,23) (152,24) (154,25) (166,27) (178,28) (208,31) 
+jam_input_stop_sound_lead_midi 7 (0,40) (19,43) (21,44) (23,45) (72,48) (124,50) (192,51) 
+jam_input_stop_sound_lead 26 (28,61) (68,63) (120,64) (122,65) (172,68) (202,71) (215,72) (233,73) (246,74) (248,76) (278,77) (296,78) (310,79) (330,81) (380,82) (432,84) (434,85) (436,86) (438,87) (476,90) (528,93) (530,94) (532,96) (584,98) (586,99) (652,101) 
+jam_input_get_single_note 18 (0,109) (12,112) (30,114) (43,115) (45,116) (63,119) (76,120) (78,121) (96,124) (109,125) (111,126) (129,134) (142,135) (144,136) (162,139) (175,140) (177,141) (191,143) 
+fret_noise_lead 1 (0,152) 
+jam_input_lead_get_current_note 33 (0,163) (15,166) (37,167) (53,168) (88,170) (106,171) (124,172) (146,173) (148,174) (150,175) (168,178) (190,179) (210,180) (232,181) (252,182) (274,183) (294,184) (316,185) (336,186) (358,187) (378,188) (400,189) (420,190) (442,191) (444,192) (480,194) (502,197) (524,200) (596,202) (600,204) (612,205) (614,206) (628,208) 
+musicstudio_input_lead_tilt_update 31 (0,218) (16,221) (39,224) (63,225) (89,228) (102,229) (106,230) (119,231) (121,232) (142,235) (156,236) (178,239) (208,241) (226,244) (244,246) (280,247) (284,248) (320,249) (322,250) (326,253) (344,255) (380,256) (413,257) (448,258) (481,259) (516,260) (520,261) (556,262) (558,263) (560,264) (562,265) 
+jam_input_lead_display_note 3 (0,274) (52,277) (118,280) 
+
+[Checksums]
+0x3fbf50ae scripts\guitar\musicstudio\instrument_input\musicstudio_lead_input.qb
+0xcbd8702c jam_input_add_player_server
+0xdf39203f jam_sustain_lead
+0xd1975098 jam_track_rootnotes
+0x2fef40e1 jam_track_scaleindex
+0xdd96f0ed jam_input_lead_get_current_note
+0x7031f10c params
+0x4c0da124 chosen_scale
+0xcf66717b gotparam
+0xbfa801df change
+0xecf06207 RightY_unscaled
+0xf5b8a227 mid_up_strum
+0x2c0792a9 chromatic
+0x918e82fc jam_input_get_single_note
+0x4e258305 jam_active_scales
+0x464b9335 lead_hold_pattern
+0xdc5c8365 single_note_text
+0x5c430371 pattern
+0x29409371 fret_noise_lead
+0xda3403b0 NULL
+0xb99ae3d6 gameframes
+0x8560f402 sustain_global
+0x1f44d434 IsSoundPlayingByID
+0x7c1df4b3 jam_input_current_lead
+0xdeef04cd StructureContains
+0xec69d4d5 jam_fretboard_add_note
+0xa957855a jam_tilt_lead
+0x1ad7956a fade_type
+0x0cde9592 jam_lead_curr_midi_note
+0x67e6859a player
+0x7b86b5a9 jam_input_lead_display_note
+0x879695ce chosen_scales_array
+0xc3409622 instrument
+0x9190762d hopo
+0xe9f3e637 sustain
+0xe90b06a4 root
+0xaf50c6a8 jam_input_stop_sound_lead_midi
+0xb2f666ca GuitarGetAnalogueInfo
+0x760626df jam_input_lead
+0xc5a3a6f5 gem_pattern
+0xe1197741 chosen_scale_index
+0x3730174e jam_scales_new
+0x11dab754 hold_pattern
+0xfe3b375f GetHeldPattern
+0x90fec815 structure
+0xd000c841 jam_track_scales_new
+0xcbf7584e log_fast
+0xa23ff911 jam_input_spawns
+0x46a9e949 stop
+0x640e4960 note_text
+0xb30d9965 controller
+0x9bf61977 select_player
+0xeb14a9b9 mid_down_strum
+0xf99d5a06 fade_time
+0x69343a09 jam_calc_line_rot
+0xb6f66a4c hopo_note
+0x13b9da7b scale
+0x6f5e0aa4 single_note_pattern
+0xd4fe0ae2 jam_input_strum_wait
+0x19fa5af7 SpawnScriptNow
+0x9ec91afc spawn_id
+0x118d6bc4 line_rot
+0x036c9bf9 hammer_on
+0x82117c1a wait
+0x76143c5c current_scale_name
+0x5e20fc62 diatonic
+0xb66b3cac jam_update_falling_gem_sustain
+0x1c397cbc unique_id
+0x7fc67d44 midi_note
+0x61414d56 string
+0xb7a7ad7f current_scale
+0x38e46db2 musicstudio_input_lead_tilt_update
+0xbd51edec spc_v_dist
+0x7cad2dff musicstudio_scale_get_note_text
+0xb0b28e7f StopSound
+0xd8611ec5 fret
+0x65485eea GetPlayerInfo
+0xfc37df05 gameframe
+0x5dbf7f05 note_struct
+0x41b26f21 guitar_jam_scales_get_diatonic
+0xb3468f4d jam_input_stop_sound_lead
+

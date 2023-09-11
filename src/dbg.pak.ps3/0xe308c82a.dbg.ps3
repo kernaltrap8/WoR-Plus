@@ -1,0 +1,42 @@
+[LineNumbers]
+menu_stack_push 8 (36,35) (76,36) (112,37) (114,38) (132,40) (172,42) (178,43) (180,44) 
+menu_stack_pop 5 (0,54) (36,55) (76,57) (82,58) (84,59) 
+menu_stack_create_latest 16 (0,70) (9,71) (48,73) (84,74) (120,75) (122,76) (124,77) (130,80) (164,81) (200,82) (213,83) (244,85) (248,86) (284,87) (316,89) (318,90) 
+menu_stack_clear 2 (0,99) (52,100) 
+menu_stack_can_pop_menu 7 (0,109) (6,110) (44,112) (76,113) (80,114) (112,115) (114,116) 
+menu_stack_get_local_stack 3 (0,124) (40,125) (54,126) 
+menu_stack_push_or_pop_menu 7 (28,134) (34,135) (68,136) (80,138) (92,139) (98,141) (122,142) 
+
+[Checksums]
+0x5c76defb scripts\engine\menu\menu_stack.qb
+0x3039201d menu_script
+0xd93ee116 menu_stack_pop
+0xcf66717b GotParam
+0x7dcbc235 menu_stack_get_local_stack
+0x0c7cd27a RemoveTags
+0xa8ee7357 ScriptAssert
+0x59679361 CanPop
+0x0203b372 true
+0x1107537f param_stacks
+0xc5bc93ee ScreenElementExists
+0xbd09544c func
+0x3da15550 no_destroy
+0x2de8c60e printf
+0x1199d78b menu_stack_create_latest
+0x8df817bf menu_stack_push
+0xd43297cf false
+0x2660d7d6 menu_stack_clear
+0x2ffba7f2 menu_stack
+0x40c698af id
+0xe62f48e9 pop
+0xa0c5e99b push
+0x3c15e9b6 DestroyScreenElement
+0xa376a9d4 menu_params
+0xa58079eb SetTags
+0x56a1eae3 root_window
+0x6f15db76 no_create
+0xdc3fbbd2 menu_stack_can_pop_menu
+0x62c11cb9 GetSingleTag
+0xf53d1d83 current_menu_anchor
+0xfb2c5de1 menu_stack_push_or_pop_menu
+

@@ -1,0 +1,3 @@
+cdn-gh6-ps3.guitarhero.com
+dev-cdn-gh6-ps3.guitarhero.com
+cert-cdn-gh6-ps3.guitarhero.com

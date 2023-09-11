@@ -1,0 +1,184 @@
+[LineNumbers]
+music_store_preload_album_covers 18 (0,13) (64,14) (70,16) (82,18) (100,19) (119,22) (132,23) (134,24) (143,26) (155,28) (157,29) (193,30) (241,31) (243,32) (264,33) (272,34) (301,36) (303,37) 
+music_store_change_album_cover 16 (28,44) (92,45) (114,47) (116,48) (118,49) (156,51) (192,52) (194,53) (251,55) (329,56) (347,59) (366,62) (395,63) (397,64) (421,66) (483,68) 
+music_store_replace_album_cover_when_loaded 22 (28,75) (100,76) (122,78) (124,79) (126,80) (176,82) (194,84) (196,86) (228,88) (264,89) (282,91) (311,93) (341,95) (362,99) (387,100) (389,101) (391,103) (393,104) (444,106) (451,108) (469,111) (504,112) 
+music_store_get_current_album_texture 8 (0,119) (21,120) (33,121) (51,122) (65,123) (69,124) (188,125) (190,126) 
+music_store_set_current_album_texutre 7 (0,133) (48,134) (69,136) (94,137) (98,138) (216,139) (218,140) 
+music_store_preload_preview_music 14 (0,147) (64,148) (76,150) (94,151) (103,158) (115,160) (117,161) (153,162) (201,163) (203,164) (224,165) (232,166) (261,168) (263,169) 
+music_store_request_preview_music 41 (0,176) (52,177) (88,180) (90,181) (92,182) (156,184) (192,187) (232,188) (268,190) (283,191) (285,192) (287,193) (289,194) (291,195) (300,197) (316,198) (320,199) (336,200) (338,201) (372,203) (374,205) (431,206) (524,207) (556,209) (592,210) (628,212) (657,214) (691,216) (746,218) (784,221) (797,222) (810,223) (823,224) (825,225) (827,226) (829,228) (831,229) (880,231) (887,232) (920,235) (956,236) 
+music_store_kill_preview_music 20 (0,243) (6,244) (44,246) (80,247) (82,248) (120,250) (156,251) (158,252) (196,254) (236,255) (272,257) (287,258) (305,259) (307,260) (309,261) (348,263) (384,265) (413,266) (415,267) (417,268) 
+music_store_turn_on_loading 15 (28,275) (80,276) (101,278) (125,279) (163,281) (187,282) (211,283) (229,284) (231,285) (269,287) (293,288) (317,289) (335,290) (337,291) (339,292) 
+music_store_turn_off_loading 12 (28,299) (49,300) (73,301) (111,303) (135,304) (159,305) (161,306) (199,308) (223,309) (247,310) (249,311) (251,312) 
+music_store_animate_loading 3 (0,319) (52,320) (58,322) 
+music_store_monitor_loop_sound 18 (0,330) (72,331) (124,333) (126,335) (158,336) (187,338) (203,340) (252,341) (286,343) (324,346) (337,347) (350,348) (352,349) (354,350) (356,351) (358,352) (408,354) (410,355) 
+marketplace_exit_check 39 (0,364) (52,366) (58,368) (79,369) (108,370) (110,371) (128,373) (134,374) (140,375) (152,377) (161,378) (174,379) (178,380) (190,381) (192,382) (199,384) (205,385) (217,386) (230,387) (245,388) (253,389) (255,390) (267,391) (279,392) (281,393) (283,394) (295,395) (307,396) (309,397) (311,398) (313,399) (315,401) (317,402) (368,404) (381,405) (385,406) (398,407) (400,408) (423,410) 
+marketplace_exit_check_warning 10 (0,419) (52,421) (58,423) (65,425) (78,426) (91,427) (104,428) (117,429) (132,430) (134,431) 
+marketplace_exit_check_warning_cancel 5 (0,440) (6,441) (56,443) (108,444) (114,446) 
+marketplace_exit_check_warning_exit 9 (0,454) (6,456) (96,457) (144,459) (157,460) (161,461) (174,462) (176,463) (199,465) 
+music_store_purchase_content 32 (28,475) (80,476) (168,478) (180,479) (216,481) (252,483) (288,484) (297,489) (303,492) (336,495) (372,498) (408,499) (410,500) (447,502) (449,505) (484,506) (503,507) (522,508) (524,509) (526,510) (528,511) (580,513) (582,514) (620,516) (656,517) (682,518) (752,519) (754,520) (756,521) (792,523) (828,524) (912,526) 
+
+[Checksums]
+0x2e6bcbaa scripts\guitar\menu\menu_music_store.qb
+0xb990d003 target
+0xcd0dc02d KillSpawnedScript
+0x4867a044 music_store_request_preview_music
+0x5a66805e request_sound
+0x689fe07c template
+0xe8dc80d1 AddToStringLookup
+0xe4f130f4 s
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0xa09f513e store_purchase
+0x5ef31148 array
+0x7df8614e p
+0xcf66717b GotParam
+0x1fe04195 images
+0xdb6d61c0 music_store_hub_create_default_user_control_helpers
+0xbebfa1c6 element
+0x3b4631df IsPS3
+0xbfa801df change
+0xa1dc81f9 name
+0x4bfcd202 AddArrayElement
+0x39b1c21f get_state
+0xb035d275 SongList_options
+0x39fdb280 current_album_texture_id
+0x7d99f28d texture
+0x8012c29f SetSpawnInstanceLimits
+0x5151b2b1 PlaySound
+0x50c7d2b1 checkout
+0xe4598308 music_store_kill_preview_music
+0x7e321311 g_ps3_dlc_scan_occured
+0xa8ee7357 ScriptAssert
+0x0203b372 true
+0x5b058376 param
+0xf44a53ab desc
+0x9772d3ad music_store_hub_vmenu
+0xa4c573b7 calculate_preview_image_limit
+0xb99ae3d6 gameframes
+0xc5bc93ee ScreenElementExists
+0x8d92240c ui_event_exists_in_stack
+0x9277f428 FormatText
+0x1f44d434 IsSoundPlayingByID
+0xbd09544c func
+0x91f0e45a body_text
+0x39b5c4b0 GetArraySize
+0xd9bf54c7 generic_event_back_block
+0xdeef04cd StructureContains
+0xcd8fb4eb song_preview_asset_name
+0xc66444ec music_id
+0x8da97503 primary_controller
+0x9d3fb516 focus
+0x2189a51a g_musicstore_ps3_library_instructions
+0x4c29c545 RequireParams
+0x7b68f553 music_store_get_current_album_texture
+0x5d0ea557 dlc_purchased
+0xf5ed8562 music_name
+0x2fca0578 options
+0x96628579 music_store_preload_preview_music
+0x39b0157d current_album_texture
+0x8d85358f parent_id
+0x61bc9594 music_store_set_current_album_texutre
+0x67e6859a player
+0x688845c3 vol_percent
+0x3bdb05ce is_image_loaded
+0xe65fd5e5 SE_GetParentID
+0x150d35f1 heading_text
+0x2de8c60e printf
+0xd029f619 seconds
+0x8a4c762d song_checksum
+0x88d9267f music_store_attempted_purchase
+0x60181684 music_short_name
+0x2f1fc695 alpha
+0xcdc3f6a0 back_state
+0x1d3a26a9 MainMenu_LOGO_lrg
+0x73d3f6c2 music_store_animate_loading
+0xe7f8471b loading_alpha
+0x3e0f6740 uistate_band_lobby
+0x2cb33744 LaunchEvent
+0xf906d74c PopUnsafeForShutdown
+0x67d54785 request_image
+0x0ed45788 Obj_SpawnScriptNow
+0xd4c98794 title
+0x8069179f limit
+0x4a0087ae music_setlist
+0xc86ed7cb texture_name
+0xbb3707e7 list
+0x90fec815 structure
+0xc195a822 create_dialog_box
+0x91ca282a SongList_detail
+0x3acac82a uistate_mainmenu
+0xc4745838 text
+0x1b18f86d songlist_component
+0x90d9b876 alias_instrument_spinner
+0x40c698af id
+0x7321a8d6 type
+0x0ad46922 controller_index
+0xeafc692e no_background
+0x0da6698d ignore_spawn_request
+0x1993c98e i
+0xb95c89d7 release_image
+0xc130f9e5 ScriptIsRunning
+0xa58079eb SetTags
+0x153929f3 music_store_preload_album_covers
+0x2c8a3a6d child_index
+0x1da27a81 context
+0x9e022a84 purchase_struct
+0x9f142a88 music_store_change_album_cover
+0x76fa7a8f checksumname
+0x862a5aa8 instrument_spinner_ui_icon_anim
+0xf4b16ab0 management
+0x7ee9fae9 PushUnsafeForShutdown
+0x19fa5af7 SpawnScriptNow
+0x70cdaaf7 marketplace_exit_check_warning_cancel
+0x37c84b09 destroy_dialog_box
+0x00f59b0c music_store_monitor_loop_sound
+0xe4202b13 generic_menu_block_input
+0x1a5f7b1b completed_checkout
+0x7d66cb25 lock_image
+0x52b22bda destroy_band
+0xc3aa8bea music_store_turn_off_loading
+0x3ca17bef MarketplaceFunc
+0x0c47dbf1 alloc_commerce
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0x71215c31 alias_instrument_spinner2
+0xdfb43c53 texture_id
+0x46771c95 marketplace_exit_check
+0x520c0c9c data
+0xc350dca2 marketplace_exit_check_warning_exit
+0x62c11cb9 GetSingleTag
+0x1c397cbc unique_id
+0x4adf0cd3 unfocus
+0xfbd89cd5 Obj_KillSpawnedScript
+0xd6521cee generic_event_back
+0x40d50cfe lock_sound
+0x5c6c2d04 state
+0x7f5b3d4d array_size
+0x6289dd76 max
+0x87e57d8f download
+0x32adddb5 music
+0x33df2dea music_store_purchase_content
+0xdfc75df8 plat
+0x84ef4e0c release_sound
+0xc4e78e22 all
+0x7e149e2f nosound
+0x57ae7e6d marketplace_exit_check_warning
+0xb0b28e7f StopSound
+0x6e89fe81 VMHeap
+0xe1528e85 destroy_song_and_musicstudio_heaps
+0xbe304e86 printstruct
+0x4545dec0 music_store_replace_album_cover_when_loaded
+0xcbd42ec5 is_sound_loaded
+0xfc37df05 gameframe
+0x7e72cf0f swap_out
+0xf9045f11 do_unloads
+0x9c746f4c PreviewAssetCache
+0xd0b0bf63 buss
+0x88eacf67 code
+0x43df7f67 BroadcastEvent
+0x2eb3ff83 kill_oldest
+0x69d0dfaf player_device
+0x0b2effd3 songlist_detail_album_sprite_texture
+0x2eeb9fd6 music_store_turn_on_loading
+0x587c3fff songlist_clean_up_spawned_scripts
+

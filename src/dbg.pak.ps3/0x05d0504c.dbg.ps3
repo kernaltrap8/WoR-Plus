@@ -1,0 +1,15 @@
+[LineNumbers]
+ui_create_tutorial_setup 7 (0,10) (7,12) (19,13) (32,14) (45,15) (58,16) (60,17) 
+ui_destroy_tutorial_setup 1 (0,27) 
+
+[Checksums]
+0xe7b2b9b4 scripts\guitar\menu\states\layouts\ui_tutorial_setup.qb
+0xbe5c6267 ui_destroy_tutorial_setup
+0x76c99484 tutorial_id
+0xc451f558 event
+0x6cef5907 menu_change
+0x021f9c5f ui_create_tutorial_setup
+0xe5e00d26 tutorial_system_start_lesson
+0x3207fe69 lesson_id
+0xa7860f33 tutorial_header
+

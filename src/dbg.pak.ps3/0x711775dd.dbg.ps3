@@ -1,0 +1,170 @@
+[LineNumbers]
+
+[Checksums]
+0x9145b237 scripts\guitar\visualizer_data.qb
+0x70f5a018 OG_Enerdonut_E
+0xaf68d01c intensity11
+0x68ae501e OG_Circles_Centered_Dark
+0x605c9021 Indie Rock
+0x5ce4e030 materialfilter
+0x28955034 Modern Rock
+0xb0ad6043 p4
+0x2a67d048 TB_Global_Horizon_Mist_1
+0x35178053 TB_Global_Zoom_Tunnel_1
+0x022cf075 resolution
+0x9185107c OG_Explosives_A
+0xd86fe08a intensity10
+0x07f2908e OG_Enerdonut_D
+0x62cb5098 intensity1
+0xfbc20122 intensity2
+0x01edd128 Global_Visualizer_Banks
+0x4166b130 intensity13
+0x7f8b7150 OG_Explosives_C
+0xb055b155 JOW_Viz_PinkTunnel
+0xca1e317e JOW_PowerRings
+0xdb19e17f TB_Global_Zoom_Tunnel_3
+0xe9fcf1a2 OG_Enerdonut_F
+0x366181a6 intensity12
+0x286371ab Blues
+0x8cc531b4 intensity3
+0xaa9491b5 New Wave
+0x088c41c6 OG_Explosives_B
+0xac1ed1e9 TB_Global_Zoom_Tunnel_2
+0xe9f491f1 Donut_Visualizer_Bank
+0xf100a205 Alternative
+0xd5d55277 saturation
+0x98a2e27f Pop_Visualizer_Bank
+0x33cb9286 Intensity_Visualizer_Bank
+0xe7b40290 Dance
+0x40d7329b main
+0xe8d7a2a7 Glam Rock
+0x5f0282d0 raw_audio_dampening
+0x43ce02ec exposition
+0xc864e33e ColorSwap_Visualizer_Bank
+0xd62bf342 Disco
+0xdb316373 OG_Cloud_Rays_B
+0xab96e377 Big Band
+0xa8051405 intensity15
+0x12a1a417 intensity4
+0x2ea0b41d Pyro
+0xf3b3b42a blackout
+0xc6a0d43d Punk
+0xcda32449 TB_Global_Eyeball_1
+0xc8b6445d Rock
+0x96e8d465 OG_Explosives_E
+0x65a69481 intensity5
+0xf9d52489 TB_Global_Blackhole_1
+0xdb00848d TB_Global_Falling_Action
+0xdf022493 intensity14
+0x9351749a OG_Frequency_Rays_Response_A
+0x9393c4c8 TB_Global_Speakers1
+0xc0c794cc p1
+0xe1efe4f3 OG_Explosives_D
+0xeb73c519 OG_Enerdonut
+0x0a582520 OG_Frequency_Rays_Response_B
+0x9996052d OG_Enerdonut_C
+0x2fcd1533 Silhouette
+0xfcafc53b intensity6
+0x82fac56c menu
+0x59cec576 p2
+0xdea7e576 subtract
+0x70e16585 Industrial
+0xff3215a7 Default_Visualizer_Audio_Params
+0x8ba8f5ad intensity7
+0x7d5f15b6 OG_Frequency_Rays_Response_C
+0xee9135bb OG_Enerdonut_B
+0x310c45bf intensity16
+0x0fe185df OG_Explosives_F
+0x2ec9f5e0 p3
+0x4c4115ec raw_audio_dampeninfg
+0xfe41960d starpower
+0xf649d637 on
+0xb8e3f63d Prog Rock
+0xac8c3699 Country
+0xbed4c6a4 Metal_Visualizer_Bank
+0xf1c1a6b4 fallingAction
+0xc2a556c5 OG_Circles_Trail_Symmetry_YOffsetBlend
+0xdf6436d2 fullscreen
+0x620706e8 TB_Global_Sym_Line_1
+0x250196ef OG_Enerdonut_Climax_B
+0xecf83726 JOW_PowerRings_Quiet
+0x832b8775 JOW_Cube_Expansion_White
+0x9030a776 spectrum_dampening
+0xf352d785 Reggae
+0x6978778e OG_Circles_Trail_Symmetry
+0x726c4796 tension
+0x2f4937c8 OG_Enerdonut_Climax
+0x059c57d6 OG_Element_Spirograph
+0x672a27d9 colormodulate
+0x9141b7e3 JOW_Cube_Expansion_Dark
+0x94c8b819 Default_Visualizer_Bloom_Params
+0x40246835 Dance_Visualizer_Bank
+0x1b17e83c intensity8
+0x37231894 spectrum_decay_amount
+0x6c10d8aa intensity9
+0x189698d3 spectrum_windowing
+0xe62f48e9 Pop
+0x3cd1e8ec Southern Rock
+0x1474f917 Blues Rock
+0xe79a3927 OG_Element_Sparkler
+0xe571b949 JOW_Cube_Expansion_White_Dark
+0xca3aa956 Black Metal
+0x82f9495b OG_Circles_Trail_Symmetry_C
+0x2d14c970 OG_Jam_4Player_Cube_D
+0x37a91983 R&B
+0xed4419c0 OG_Circles_Centered_Rays
+0x2bc1a9df Ska Punk
+0x5a13f9e6 OG_Jam_4Player_Cube_E
+0xea310a12 International
+0x04a61a38 OG_Frequency_Clouds_Electric_BA
+0x990c6a70 Death Metal
+0xa1631a8a spectrum_normalize
+0x263dda8e wash
+0x137ebac2 Classic Rock
+0xc4e56adb TB_Global_Notehit_Liteshow_1
+0x26a7cadf Other
+0xe5fa3adf intro
+0xccb10ae4 JOW_Cube_Expansion
+0xcbbacaeb Disco_Visualizer_Bank
+0xf7026af1 risingAction
+0xb886faf6 climax
+0x998b5b11 Pop Punk
+0x3f9d0b36 Metal
+0xe615ab3a waveform_dampening
+0xee028b40 JOW_Viz_DiamondStar
+0xf51bfb59 Speed Metal
+0xe0006b71 Nu Metal
+0x979dcb71 Pop Rock
+0x17b95bd7 OG_Circles_Centered
+0xd483fbdd Hardcore
+0x2aeb0bf7 TB_Global_Notehit_Liteshow_3
+0xfe7b4bfb TB_Global_Forest_Fire_1
+0x35879c06 Experimental
+0x46522c08 Default_Visualizer_Bank
+0xd1120c22 Grunge
+0x7deeac32 Rockabilly
+0xc4776c45 OG_Jam_4Player_Cube_B
+0xb3d2dc7e Funk
+0xb3705cd3 OG_Jam_4Player_Cube_C
+0x1c9ddcf8 OG_Circles_Trail_Symmetry_D
+0x379bed00 flare
+0x86407d29 prelude
+0x46feed4a Surf Rock
+0x0a3b1d71 OG_Frequency_Clouds_Electric_C
+0x7d3c2de7 OG_Frequency_Clouds_Electric_B
+0x5d7e3dff OG_Jam_4Player_Cube_A
+0x16282e22 OG_Frequency_Burst
+0x5ea1ee44 TB_Global_Gradient_3_Invert
+0xb48f9e54 TB_Global_Notehit_Liteshow_4
+0x4d02de7a JOW_Viz_ElectricTunnel_B
+0x4a32de80 OG_Jam_4Player_Cube
+0xf6e02e94 TB_Global_Spark_Anim_1
+0xe4a9fec7 OG_Frequency_Clouds_C
+0x1ca1ff20 default
+0xb1eaef21 TB_Gradient_1
+0xdd52af3c Hard Rock
+0x6b291f66 Hip_Hop
+0xe190cfa1 Electronic
+0x27771fc4 strobe
+0xa6359fcd Jazz
+

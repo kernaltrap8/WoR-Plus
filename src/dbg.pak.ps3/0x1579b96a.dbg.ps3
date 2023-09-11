@@ -1,0 +1,42 @@
+[LineNumbers]
+COIM_PreAllocate 3 (0,80) (23,82) (56,87) 
+
+[Checksums]
+0x9421c52e scripts\game\coim.qb
+0xa3cbe03c COIM_Min_Offscreen_Dist
+0x6489704e Spawner_Cleanup_Relevance_Amount
+0xa8735078 COIM_Initial_Num_Perm_Objects
+0x8eff40df COIM_Priority_PedLife
+0x5be8e162 COIM_Priority_PedlifeDead
+0xe01221ed COIM_Permanent_Cleanup_Relevance
+0xe7e2d23a COIM_Kill_Relevance
+0xc590c246 Generic_COIM_Size
+0xf784c25f NonCareer_PedLife_XBOX_COIM_Size
+0xc55a5277 Career_PedLife_COIM_Size
+0xbe4f02bf Generic_COIM_Params
+0x6ce0d40a COIM_Kill_Priority
+0x46aec467 Generic_XBox_COIM_BlockAlign
+0x40196482 COIM_Priority_PermanentCleanup
+0x38dc14e7 Spawner_Cleanup_Min_Count
+0x8bc0d5a6 ReserveCOIMBlocksForPermObjects
+0x1f6735a9 Career_PedLife_XBOX_COIM_Size
+0x9e10f5f9 COIM_Vehicle_Min_Offscreen_Dist
+0xd84c26cf COIM_Max_Peds_Remove_AtOnce
+0x9646172a NonCareer_PedLife_COIM_Size
+0x504b997b ClassicMode_ReservedCOIMBlocksForPermObjects
+0xc5a1ea66 Generic_COIM_BlockAlign
+0x31126a87 blocks
+0xb5527b89 COIM_Min_Scratch_Blocks
+0x083fdb95 size
+0xbc682bd0 COIM_Perm_Max_Offscreen_Seconds
+0x17db6c55 COIM_Priority_DroppedWeapons
+0xe6fcfccc COIM_Priority_Permanent
+0xf1badd0e COIM_Priority_PedLife_Actor
+0x64b57da2 COIM_Priority_NonPermanent
+0xbbf2dda6 COIM_Priority_Effects
+0x96378df2 COIM_Max_Distance
+0x69b05e2c Generic
+0x4c321e58 COIM_Type_ID
+0x08a4befe COIM_PreAllocate
+0xd46b5f00 COIM_Max_Offscreen_Seconds
+

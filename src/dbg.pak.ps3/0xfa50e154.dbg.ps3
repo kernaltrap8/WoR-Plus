@@ -1,0 +1,110 @@
+[LineNumbers]
+music_store_recommendations_process 40 (28,9) (76,11) (112,12) (148,13) (184,14) (204,18) (223,21) (253,22) (271,24) (273,27) (291,28) (293,29) (295,30) (344,32) (346,33) (364,35) (366,38) (384,39) (386,40) (388,41) (440,43) (442,44) (476,46) (480,47) (520,50) (560,51) (600,55) (606,58) (648,60) (688,61) (728,65) (730,67) (784,68) (940,75) (942,76) (944,77) (996,79) (1003,80) (1009,82) (1011,83) 
+ms_rec_CALLBACK_have_most_played_page 12 (0,90) (13,92) (31,94) (53,95) (55,96) (62,98) (74,99) (86,100) (98,101) (111,102) (123,103) (125,104) 
+ms_rec_CALLBACK_have_most_played_range 28 (0,111) (13,112) (25,114) (43,115) (57,116) (59,117) (72,119) (74,120) (108,121) (144,122) (172,124) (174,127) (192,128) (194,129) (196,130) (248,132) (250,133) (278,135) (280,138) (298,139) (300,140) (302,141) (352,143) (354,144) (376,146) (384,147) (390,149) (424,151) 
+ms_rec_find_similar_songs_by_artist 51 (28,160) (40,161) (42,164) (75,167) (77,168) (79,169) (111,171) (119,172) (121,173) (133,174) (154,175) (166,177) (168,178) (170,179) (182,180) (194,181) (206,182) (208,183) (210,184) (222,185) (246,186) (258,187) (260,188) (262,189) (296,192) (314,193) (327,196) (329,197) (338,198) (350,199) (375,200) (387,201) (389,202) (419,204) (433,205) (455,207) (463,208) (465,209) (472,211) (484,212) (497,213) (503,214) (515,215) (528,216) (564,217) (566,218) (568,220) (570,221) (620,223) (627,224) (633,225) 
+ms_rec_find_similar_songs_by_genre 47 (28,234) (40,235) (42,238) (74,239) (83,240) (85,241) (97,242) (118,243) (130,244) (132,245) (134,246) (146,247) (158,248) (170,249) (172,250) (174,251) (186,252) (210,253) (222,254) (224,255) (226,256) (260,259) (278,260) (291,263) (293,264) (302,265) (314,266) (339,267) (351,268) (353,269) (383,271) (397,272) (419,274) (427,275) (429,276) (436,278) (448,279) (461,280) (467,281) (479,282) (492,283) (523,284) (525,285) (527,287) (529,288) (580,290) (587,291) 
+ms_rec_CALLBACK_artist_page 20 (0,298) (12,299) (25,302) (43,305) (76,307) (78,309) (99,310) (112,311) (134,312) (138,313) (151,314) (173,315) (175,316) (182,318) (194,319) (207,320) (220,321) (233,322) (245,323) (247,324) 
+ms_rec_CALLBACK_artist_range 9 (0,331) (12,332) (25,333) (27,334) (75,335) (93,336) (115,338) (123,339) (156,341) 
+ms_rec_CALLBACK_genre_page 16 (0,348) (12,349) (30,351) (64,353) (66,355) (70,356) (83,358) (105,359) (107,360) (114,362) (126,363) (139,364) (152,365) (165,366) (177,367) (179,368) 
+ms_rec_CALLBACK_genre_range 27 (0,375) (36,376) (50,377) (62,378) (76,379) (108,382) (138,385) (151,386) (153,387) (201,388) (219,389) (241,391) (249,392) (253,393) (266,395) (268,396) (305,398) (319,399) (367,402) (385,403) (415,406) (429,407) (451,408) (473,410) (492,411) (494,412) (528,414) 
+ms_rec_fabricate_random_list 14 (0,421) (36,423) (57,425) (82,426) (95,428) (97,429) (134,431) (148,432) (180,435) (198,436) (220,437) (242,439) (250,440) (252,441) 
+
+[Checksums]
+0x6869d16d scripts\guitar\menu\menu_music_store_recommendations.qb
+0x8e411006 b
+0xc843f020 content_source
+0x244620b9 current_page
+0x47e0c0c8 callback_marketplace_content_general_timedout
+0x384f80c9 ms_rec_CALLBACK_genre_range
+0x954e70e9 filterspec
+0x9bbec0fa content_source_registered
+0x8bb4f130 num_artist_songs
+0x5ef31148 array
+0xcc12115e song
+0xc66791bc album
+0x174841bc a
+0xbebfa1c6 element
+0x6821a1dc pack
+0xbfa801df change
+0xa1dc81f9 name
+0x4bfcd202 AddArrayElement
+0x0ad9820f start_index
+0x278b9223 songlist_content_source_init
+0xb3d20265 genre_size
+0x4b0b0293 MembFunc_Songlist_UIStack_SetListName
+0x196d12d1 song_title
+0xda3403b0 null
+0xda8983b1 alt_key
+0x3dc303fd music_store_recommendations_process
+0xf8a4443a get_savegame_from_controller
+0xbd09544c func
+0x756f5456 key
+0x16d4e481 ms_rec_fabricate_random_list
+0x39b5c4b0 GetArraySize
+0x11eb04b6 random_integer
+0x8da97503 primary_controller
+0xc958f508 num_songs_to_use
+0x99cb2599 marketplace
+0x6c78a5b6 range
+0xc7df15cb union_list
+0x5524b5da MembFunc_Songlist_UIStack_GetListName
+0xbe7af5fa ms_rec_CALLBACK_artist_page
+0xd029f619 seconds
+0x8a4c762d song_checksum
+0xabd25650 ms_rec_find_similar_songs_by_artist
+0x7ccd466a g_music_store_recommendations_complete
+0x3aca36d2 g_music_store_recommendations_genre_complete
+0x7f4f5701 get_ui_song_struct_items
+0xa968070d ms_rec_CALLBACK_have_most_played_page
+0x8ffbc74f page_size
+0xe288a7cb value
+0x6e0ea80e sortspec
+0x5617984a extra_filter
+0x6835b854 mode
+0x57ce285d g_music_store_recommendations_artist_complete
+0x76274868 total_size
+0x1b18f86d songlist_component
+0x7321a8d6 type
+0xf8dd78f2 song_artist
+0x7f8c98fe index
+0x9b969920 is_ready
+0xe682f936 song_num_times_played
+0xb10b5942 song_genre
+0x4316395b song_struct
+0xb30d9965 controller
+0xb2ab3988 ui_struct
+0x1993c98e i
+0xe9207998 GetRandomInteger
+0x1b0509c5 savegame
+0xa58079eb SetTags
+0xd154ea08 equal
+0x37ee5a3d song_year
+0xc3739a8e num_to_remove
+0x115c1af5 g_music_store_num_recommendations
+0x04e78b00 ms_rec_CALLBACK_have_most_played_range
+0xce4f5b0c comparator
+0x6fbecb51 ascending
+0x2dab2b66 request_data
+0xd0821b82 MembFunc_Songlist_UIStack_SetMode
+0x0db6cbb0 ms_rec_find_similar_songs_by_genre
+0xd6484bc6 purchased
+0x86068bd9 callback
+0x9feffbf7 ContentManFunc
+0x37f1ac0e RemoveArrayElement
+0x82117c1a wait
+0x6721dc40 music_store
+0xe80bacb7 Mod
+0x7f5b3d4d array_size
+0x5611ddce g_music_store_recommendations
+0xe4125e10 list_name
+0x94526e25 request_page
+0x2729fe4d ms_rec_CALLBACK_artist_range
+0x36e35e4e local_song_list
+0xfc37df05 gameframe
+0x02871f29 ms_rec_CALLBACK_genre_page
+0x89eaaf80 not_equal
+0xa10d4f87 gh_songlist
+0xc717ef8f play_song
+0x0e13dffb end_index
+

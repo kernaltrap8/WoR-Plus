@@ -1,0 +1,51 @@
+[LineNumbers]
+
+[Checksums]
+0xa5b72948 scripts\av_presets\tb_cube_climax.qb
+0xcae27061 sprite
+0x833950cc outerRadius
+0xcfa6a0fa clearColor
+0xfe82614d length
+0x1ba4e231 TB_Mat_DemonStg2
+0x6ca3d2a7 TB_Mat_DemonStg3
+0x384c42d0 TB_Mat_Gradient
+0x91e07350 thickness
+0x82adb38b TB_Mat_DemonStg1
+0x051273c0 controls
+0xdd6bb3d5 blendMode
+0xc184f404 response
+0x5472542b traceLength
+0xf5d16465 primitives
+0xed2994e2 TB_Cube_Climax
+0x9c7ce5bc TB_Mat_Space_bkgrnd
+0x7bc74623 spectrumBand
+0xd1cd1630 cosTime
+0xf2c74704 TB_Mat_DemonStg4
+0x99a9b716 color
+0xed91979d responseFunc
+0xd98047ec frequency
+0x8d2c287f innerRadius
+0x7321a8d6 type
+0x7f261953 pos
+0xff46c97e deform
+0x515e298e diffuse
+0xaa4579db thicknessScale
+0xcf494a07 frequencyOnBeat
+0x8ebb3a3e brightnessModulation
+0x83418a6a material
+0x13b9da7b scale
+0x73e5bad0 width
+0x0ab21af0 height
+0x2eeb4b09 line
+0x797b2b45 scaleMod
+0xc42fab67 angularVel
+0x02e58c18 add
+0xae1fcc20 viewport_Params
+0x4829cc7e rect
+0x6dac4cd9 hypotrochoid
+0x3c9a4d66 color2
+0x6025fe01 TB_Mat_Space2_bkgrnd
+0x28749e08 alphaFromGray
+0x54628ed7 blend
+0x430f0f40 angularVelMod
+

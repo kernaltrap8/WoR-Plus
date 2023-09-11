@@ -1,0 +1,56 @@
+[LineNumbers]
+character_add_particle_systems 20 (60,21) (99,23) (111,25) (129,27) (142,29) (144,31) (151,33) (164,34) (177,35) (200,36) (213,37) (215,38) (237,40) (245,41) (247,43) (261,45) (274,46) (287,47) (299,48) (301,49) 
+character_add_single_particle_system 25 (76,64) (143,66) (161,67) (168,69) (181,70) (194,71) (207,72) (214,73) (216,74) (242,76) (271,78) (293,81) (332,82) (339,83) (352,84) (354,85) (358,87) (365,90) (378,91) (391,92) (404,93) (417,94) (424,95) (426,96) (428,98) 
+character_destroy_particle_systems 4 (28,110) (46,112) (75,114) (93,115) 
+character_hide_particle_systems 10 (28,127) (49,129) (67,130) (69,131) (71,132) (73,133) (80,135) (93,136) (95,137) (119,139) 
+character_unhide_particle_systems 15 (28,151) (49,153) (67,154) (69,155) (71,156) (73,157) (94,159) (112,161) (119,163) (132,164) (145,165) (158,166) (160,167) (184,169) (186,171) 
+
+[Checksums]
+0xb05b3c6e scripts\create_a_rocker\car_particles.qb
+0x8e411006 b
+0xcd0dc02d KillSpawnedScript
+0x1e8e10a0 pref_id
+0xe8dc80d1 AddToStringLookup
+0x74a0b104 character_unhide_particle_systems
+0x7031f10c params
+0xefa19136 custom_particle_script
+0xd198e141 character_hide_particle_systems
+0x174841bc a
+0xa1dc81f9 name
+0x2d8c7239 character_destroy_particle_systems
+0xb580423a character_add_single_particle_system
+0x46159266 out
+0xe17c72d2 particle_system_destroy_id
+0xaf12f32a MangleChecksums
+0x0203b372 true
+0x87fa53ed groupID
+0xa2b033fd uniqueID
+0x9277f428 FormatText
+0x39b5c4b0 GetArraySize
+0xdeef04cd StructureContains
+0x688ab4f5 GetUniqueCompositeObjectID
+0x20b835af CreateParticleSystem
+0xfba40626 mangled_id
+0x65be063e DestroyParticlesByGroupID
+0x9af3f70d custom_script_params
+0xdc96e76c particles_added
+0x90fec815 structure
+0x4bb2084e desc_id
+0x978e9851 particle_systems
+0x40c698af id
+0x0218e8cb node_array_name
+0x21cc38d9 ExtendCrc
+0xbf6cd980 particle_system_array
+0x1993c98e i
+0x392649d7 preferredID
+0xa58079eb SetTags
+0x76fa7a8f checksumname
+0x19fa5af7 SpawnScriptNow
+0x0830ecaf objID
+0x62c11cb9 GetSingleTag
+0xd7d3acc1 custom_script
+0x7f5b3d4d array_size
+0x3cc9bdea object_name
+0xbe304e86 printstruct
+0x51db1f07 character_add_particle_systems
+

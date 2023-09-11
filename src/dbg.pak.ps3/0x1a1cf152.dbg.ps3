@@ -1,0 +1,31 @@
+[LineNumbers]
+goal_menu_tool_create_menu 19 (0,6) (8,8) (18,10) (40,11) (62,12) (84,13) (120,16) (181,17) (185,18) (192,19) (198,20) (211,21) (224,22) (237,23) (239,24) (241,25) (249,27) (284,28) (286,30) 
+goal_menu_tool_destroy_menu 12 (0,37) (8,39) (18,40) (56,41) (108,42) (114,43) (118,44) (124,45) (126,46) (134,48) (168,49) (170,51) 
+
+[Checksums]
+0xf190c967 scripts\game\goals\goal_menu_tool.qb
+0x689fe07c template
+0xcf66717b GotParam
+0xd0ec32a0 goal_menu_tool_create_menu
+0xc10753af goal_menu_tool_destroy_menu
+0x91f0e45a body_text
+0x2fca0578 options
+0x150d35f1 heading_text
+0x603845f2 UIstate_generic_dialog_box
+0xc195a822 create_dialog_box
+0x2eccf8ae script_assert
+0xeafc692e no_background
+0xd2d81ac6 dialog_box
+0x37c84b09 destroy_dialog_box
+0x29502bc0 UI_SFX
+0x520c0c9c data
+0xd6521cee generic_event_back
+0x5c6c2d04 state
+0x66a54d2d generic_event_choose
+0xc906ad51 menustate
+0x69b05e2c generic
+0x92313ec8 back
+0xa4fa6ed9 new_state
+0x2c6a5f27 uitype
+0x45ec6f49 template_settings
+

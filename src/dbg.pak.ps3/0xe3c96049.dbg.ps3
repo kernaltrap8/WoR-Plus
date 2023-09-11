@@ -1,0 +1,36 @@
+[LineNumbers]
+
+[Checksums]
+0x9ddebdfb scripts\tutorials\title_update_strings.qb
+0x2f55b19e jam_ghmix_text_nudge_forward
+0xbfa801df change
+0x83c2824f name_text
+0xe89c626e mixer_volume_txt_rhythm
+0x004562c8 jam_ghmix_text_skip_forwards
+0xac7ab3cb mixer_mixer
+0x8798041c note_value
+0x2ea0b41d pyro
+0x6ea1e425 mixer_pan
+0x6db284ad jam_option_text_mute_off
+0x805e059f jam_ghmix_text_nudgeall_forward
+0x51c455c4 bass_kits_one_string
+0x64d255f6 jam_lightshow
+0xa1bb75fb jam_note_text_string_mute
+0xd345d6cb jam_ghmix_text_nudge_backwards
+0x4ed3b700 bass_kits_clean_string
+0x1f29c739 bass_kits_two_string
+0x254cb759 mixer_volume_txt_lead
+0x68799802 jam_note_text_string_normal
+0xd59d083c jam_ghmix_text_nudge_dir
+0x114cf8c5 jam_ghmix_text_skip_backwards
+0x765af8cb mixer_volume_txt_keyboard
+0xab4ec937 bass_kits_option_string
+0x3157da60 jam_note_text_string_power
+0xa0d75b7a jam_note_text_string_perc
+0xd7496bd3 jam_note_text_string_special
+0x36fb3c2c jam_note_text_string_octave
+0x61bbce41 jam_option_text_mute_on
+0x06523f14 jam_ghmix_text_nudgeall_backwards
+0xef95ef50 rating_failed_nonexistant_song_txt
+0x27771fc4 strobe
+

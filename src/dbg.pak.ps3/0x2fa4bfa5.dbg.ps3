@@ -1,0 +1,32 @@
+[LineNumbers]
+
+[Checksums]
+0xfc76c44f models\car_instruments\guitar\heroes\gtr142_vtwin.qb
+0x9687f060 BRIDGE
+0x4cd281cd gtr142_vtwin_NodeArray
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0x9a50d6de gtr142_vtwin_NodeArray_SortedNames
+0x4b9c687e GTR142_VTWIN_GTR142_VTWIN
+0xce9c48a6 gtr142_vtwin_NodeArray_SortedIndices
+0xcc0458b0 GTR142_VTWIN_GTR142_Node_Bridge
+0x7f261953 Pos
+0x979c39e9 GTR142_VTWIN_GTR142_Node_Pickup01
+0x19ebda23 Set
+0x866bfa64 GTR142_VTWIN_GTR142_Node_Knob04
+0xc97f3aa9 Orientation
+0xf16ccaf2 GTR142_VTWIN_GTR142_Node_Knob05
+0x68659b48 GTR142_VTWIN_GTR142_Node_Knob06
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x385e8d74 SkinExport
+0xf6010eeb GTR142_VTWIN_GTR142_Node_Knob01
+0x84b1df33 ExportName
+0x430a8f4c GTR142_VTWIN
+0x6f085f51 GTR142_VTWIN_GTR142_Node_Knob02
+0x64f0cf83 AttachPoint
+0x180f6fc7 GTR142_VTWIN_GTR142_Node_Knob03
+

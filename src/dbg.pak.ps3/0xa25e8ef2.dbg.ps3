@@ -1,0 +1,127 @@
+[LineNumbers]
+begin_car_capture 45 (28,17) (34,19) (57,21) (71,23) (92,25) (160,26) (162,27) (169,30) (181,31) (194,32) (207,33) (209,34) (227,36) (234,38) (246,39) (258,40) (270,41) (282,42) (298,43) (314,44) (333,45) (345,46) (358,47) (360,48) (389,49) (418,51) (460,52) (464,54) (493,56) (495,58) (508,60) (526,61) (580,64) (582,65) (605,66) (612,67) (625,68) (632,69) (634,70) (638,71) (640,72) (642,73) (644,74) (646,75) (648,77) 
+kill_car_capture 14 (0,87) (36,89) (72,90) (74,91) (97,93) (111,95) (132,97) (139,99) (152,100) (154,101) (172,103) (190,104) (192,105) (194,107) 
+car_capture_place_camera 64 (0,117) (23,119) (37,121) (45,123) (47,124) (59,125) (79,126) (99,127) (111,128) (124,129) (136,130) (152,131) (154,132) (156,134) (168,135) (188,136) (208,137) (220,138) (233,139) (245,140) (261,141) (263,142) (265,143) (277,144) (297,145) (317,146) (329,147) (342,148) (354,149) (370,150) (372,152) (374,153) (386,154) (406,155) (426,156) (438,157) (451,158) (463,159) (479,160) (481,162) (483,163) (495,165) (548,166) (571,167) (608,169) (616,170) (629,171) (649,172) (669,173) (681,174) (694,175) (706,176) (722,177) (724,178) (726,179) (733,182) (746,183) (759,184) (772,185) (779,186) (791,187) (797,188) (799,189) (801,191) 
+do_car_capture 22 (0,201) (36,202) (59,203) (73,205) (91,207) (140,208) (180,210) (209,211) (211,212) (229,214) (280,215) (286,217) (315,219) (364,221) (370,222) (376,223) (405,225) (444,227) (462,228) (464,229) (505,234) (507,236) 
+car_capture_move_away_character 34 (0,251) (8,253) (10,254) (30,256) (50,257) (52,258) (54,259) (74,261) (94,262) (96,263) (98,264) (118,266) (138,267) (140,268) (142,269) (162,271) (182,272) (184,273) (186,274) (198,276) (251,277) (274,278) (292,280) (315,282) (328,283) (341,284) (359,285) (377,286) (412,287) (452,288) (485,289) (518,290) (520,291) (522,292) 
+car_capture_move_back_character 10 (0,301) (18,303) (41,305) (80,306) (107,307) (134,308) (136,309) (138,310) (172,311) (174,313) 
+show_photo_cam 4 (0,322) (23,324) (52,325) (54,326) 
+photograb_preset_profiles 1 (0,335) 
+cas_save_photo_of_car 1 (0,375) 
+
+[Checksums]
+0x0e4a6650 scripts\guitar\menu\car_capture.qb
+0x8e411006 b
+0xe126e035 top
+0x7454803e PhotoCapture_CaptureFromViewport
+0x033e4045 cas_current_player
+0x7f85004e FinishRendering
+0xcab94088 bone
+0x6f8ba0c9 do_car_capture
+0x9329b0f2 saveshot
+0x9c0160fe DOF_CAR_Photo_tod_manager
+0x5df3c12c photograb_preset_profiles
+0x1d20d135 car_capture_moved_char
+0x73665140 createScreenElement
+0x9fd29151 viewport
+0xcf66717b GotParam
+0x0d31b1a8 character_head_camera
+0x174841bc a
+0xbebfa1c6 element
+0xbfa801df change
+0x278081f3 test
+0xa1dc81f9 name
+0xc4e311fa camera
+0x17e7321e FOV
+0x8b60022f just
+0x23afe24c gh_rocker_male_hardrockface_5
+0xbd30325b white
+0x748ca262 Quat
+0x9e083274 car_capture_move_away_character
+0x7d99f28d texture
+0x769112d0 cas_player_has_character_object
+0xa6b13307 photo_test
+0xa8ee7357 ScriptAssert
+0x7166b360 Band_PlayFacialAnim
+0x0203b372 true
+0x41ecf378 character_head_rendering
+0xb99ae3d6 gameframes
+0x9d5923d8 priority
+0xc5bc93ee ScreenElementExists
+0xb4e103fd active
+0x8bce1415 kill_car_capture
+0x39b5c4b0 GetArraySize
+0xc189c4bd character_head_viewport
+0x755414cc showcamoffset
+0xdeef04cd StructureContains
+0xa5f054f4 Integer
+0xeb17151b viewer_cam
+0x67e6859a player
+0xa9d735ad KillCamAnim
+0x2de8c60e printf
+0xdd77d634 car_capture_moved_old_quat
+0xbae2b64b show_photo_cam
+0x5b6176c4 car_capture_place_camera
+0x7806c6f6 do_not_modify
+0xc9a2e72b CreateViewport
+0x47ba1751 AddParams
+0xf4109780 character_object
+0xcc424795 style
+0x17cfe79b DestroyViewport
+0xd43297cf false
+0x90fec815 structure
+0xd9708819 param_sets
+0x04b1f829 chosen_param
+0x2dc0c85d screen_FX
+0x5a0e0860 Bone_Neck
+0x85981897 left
+0x40c698af id
+0xddec28af Bone_Head
+0x7321a8d6 type
+0x7f8c98fe index
+0x7f261953 pos
+0x88c21962 car
+0x867389b5 ScreenFX_AddFXInstance
+0x3c15e9b6 DestroyScreenElement
+0x02b3f9ce SetHFov
+0x51caf9f7 ScreenOffset
+0x1dd4ca24 PlayIGCCam
+0xf7251a64 Obj_SetPosition
+0x13b9da7b scale
+0xc6f3baa5 Obj_SetOrientation
+0x56a1eae3 root_window
+0x77403afc Obj_GetQuat
+0xb9d31b0a position
+0x522deb38 SetViewportProperties
+0xabbd8b51 ScreenFX_ClearFXInstances
+0x99a27b69 viewportelement
+0x98549ba4 anim
+0x1faf6bcc pos_dir
+0x3770ebfc hfov
+0x2a8d0c00 Bone_Brow_Mid
+0x82117c1a wait
+0x18e75c22 GetNextArrayElement
+0xeb300c29 Play_hold
+0x52fb9c3e ViewportExists
+0x38fc1cbf car_capture_moved_old_pos
+0x204d5ccc begin_car_capture
+0xda79ace1 character_head_viewport_props
+0x01f2cd2b SetActiveCamera
+0xe90aad2d Obj_GetPosition
+0xec2a8d3d car_capture_move_back_character
+0x7f5b3d4d array_size
+0xe55bdd57 chosen_pos_dir
+0xcbfbed5d cas_current_player_name
+0x1c724d65 LockToBone
+0x0f5c5d66 fxParam
+0xb2edcd7d interrupt_current
+0x0ff66d91 LookAtBone
+0x26205db6 LookAt
+0x889ecdc3 existing_viewport_id
+0xd126cdf6 LockTo
+0x9c293f28 cas_save_photo_of_car
+0x57710f31 z_priority
+0xc2719fb0 parent
+0xb96e8fbd GetRandomValue
+0xfe6d0fbe readytorock
+

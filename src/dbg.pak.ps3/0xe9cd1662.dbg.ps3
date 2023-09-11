@@ -1,0 +1,166 @@
+[LineNumbers]
+
+[Checksums]
+0x9906b175 scripts\guitar\gh5_0_songlist.qb
+0x0431c003 dlc501
+0x605c9021 Indie Rock
+0x893ea032 dlc547
+0x7e2bf05f dlc555
+0x21902065 checksum
+0xf324906e dlc513
+0xcd32e08d vocals_scroll_speed
+0xfe3990a4 dlc546
+0x092cc0c9 dlc554
+0x8423a0f8 dlc512
+0xde88b0fb bass_difficulty_rating
+0x6730c11e dlc545
+0xea3fa12f dlc503
+0x1d2af142 dlc511
+0x90259173 dlc557
+0x1037f188 dlc544
+0xa1cf2192 artist_text_by
+0xaa9491b5 New Wave
+0x9d3891b9 dlc502
+0x6a2dc1d4 dlc510
+0xe722a1e5 dlc556
+0xa1dc81f9 name
+0xf100a205 alternative
+0x41009217 dlc520
+0xcc0ff226 dlc566
+0x3b1aa24b dlc574
+0xb615c27a dlc532
+0x3607a281 dlc521
+0xb8b232a0 thin_fretbar_16note_params_low_bpm
+0xe8d7a2a7 Glam Rock
+0xbb08c2b0 dlc567
+0x8b4d12b6 fake_bass_mode
+0x4c1d92dd dlc575
+0xc112f2ec dlc533
+0x2201930a dlc564
+0x12dac335 placeholder_album
+0xaf0ef33b dlc522
+0x581ba356 dlc530
+0x1a166358 guitar_difficulty_rating
+0xd514c367 dlc576
+0x3862937d vocals_difficulty_rating
+0x5506a39c dlc565
+0xd809c3ad dlc523
+0x2f1c93c0 dlc531
+0xa213f3f1 dlc577
+0x035c041a dlc505
+0x8e53642b dlc543
+0x46507438 overall_song_volume
+0xc6a0d43d Punk
+0x79463446 dlc551
+0xc8b6445d Rock
+0xf4495477 dlc517
+0x745b348c dlc504
+0xf95454bd dlc542
+0x0e4104d0 dlc550
+0x181044d6 mono_drums
+0x834e64e1 dlc516
+0x6e6ee4f2 venue
+0x605d0507 dlc541
+0xed526536 dlc507
+0x1a47355b dlc515
+0x9748556a dlc553
+0xed9e3573 double_kick
+0x70e16585 Industrial
+0x175a3591 dlc540
+0xb58b7593 female
+0x9a5555a0 dlc506
+0x692195af vocals_pitch_score_shift
+0x6d4005cd dlc514
+0xe04f65fc dlc552
+0x466d560e dlc524
+0x8e62e613 cymbal
+0xb8e3f63d Prog Rock
+0xcb62363f dlc562
+0x3c776652 dlc570
+0xb1780663 dlc536
+0x6749e668 singer
+0x12318687 gh5_0_songlist
+0x316a6698 dlc525
+0xac8c3699 Country
+0xbc6506a9 dlc563
+0x4b7056c4 dlc571
+0xc67f36f5 dlc537
+0x256c5713 dlc560
+0xa8633722 dlc526
+0x2423b74a album_img
+0x5f76674f dlc534
+0x3ac1877c guitarist
+0x526b6785 dlc561
+0xd4c98794 title
+0xdf6407b4 dlc527
+0x0a6517c1 thin_fretbar_8note_params_high_bpm
+0xd43297cf false
+0x287157d9 dlc535
+0xa57e37e8 dlc573
+0x2ba17810 cents
+0x680ef82c Band_MattBellamy
+0x0aea4831 dlc509
+0x7ded78a7 dlc508
+0x3cd1e8ec Southern Rock
+0x1474f917 Blues Rock
+0x13f17970 dlc519
+0xfea66978 artist
+0xc717d9a0 Band_Santana
+0xbbfbf9bc hihat
+0x64f649e6 dlc518
+0xcce84a0b dlc581
+0x4fdb1a25 dlc528
+0x990c6a70 Death Metal
+0xf0af6a8c thin_fretbar_16note_params_high_bpm
+0xbbef7a9d dlc580
+0xadda4aa8 original_artist
+0x5056baaf Band_ShirleyManson
+0x38dc2ab3 dlc529
+0xd12d4ac0 Band_KurtCobain
+0x137ebac2 Classic Rock
+0x998b5b11 Pop Punk
+0x22e62b27 dlc583
+0x3f9d0b36 metal
+0x6e965b60 bassist
+0x56c02b64 dlc538
+0x979dcb71 Pop Rock
+0x55e11bb1 dlc582
+0x21c71bf2 dlc539
+0x7cafcc07 genre
+0xd1120c22 Grunge
+0x779dbc74 dlc559
+0xb3d2dc7e Funk
+0x7df21cbe thin_fretbar_8note_params_low_bpm
+0x447d8cc8 year
+0x009a8ce2 dlc558
+0xf40a5d06 countoff
+0xb7205d14 band
+0x0aa62d30 drums_difficulty_rating
+0xd163ad32 band_difficulty_rating
+0x6e868d35 dlc549
+0x46feed4a Surf Rock
+0x1981bda3 dlc548
+0xe7d1adac leaderboard
+0xa271cdb2 album_title
+0x13fefdef parts_with_mic
+0x9b184e05 Band_JohnnyCash
+0xcb858e12 dlc585
+0x0aa26e1f gh5_0_songlist_props
+0xf4fabe45 flags
+0x32acee60 dlc578
+0xbc82be84 dlc584
+0xbb7d3ea5 drum_kit
+0x78cadea7 artist_text
+0xc1d88eac trivia_no_phrases
+0xa735bebf disable_for_medley_mode
+0xf8e08ee5 tom1
+0x45abdef6 dlc579
+0x2bb7df21 dlc568
+0xdd52af3c Hard Rock
+0x79a07f3f duration
+0xaa721f56 male
+0x61e9df5f tom2
+0x6b291f66 hip_hop
+0x528cdfa8 dlc586
+0x5cb0efb7 dlc569
+

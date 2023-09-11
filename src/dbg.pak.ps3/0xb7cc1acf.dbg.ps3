@@ -1,0 +1,36 @@
+[LineNumbers]
+
+[Checksums]
+0x46f3120d scripts\av_presets\jow_musicstudio_ghmix_a.qb
+0x44738127 hueModulation
+0xfe82614d length
+0xf5a93162 offsetX
+0xc48391a5 radius
+0x82ae01f4 offsetY
+0xb7f9b256 timeRate
+0x91e07350 thickness
+0x051273c0 controls
+0xdd6bb3d5 blendMode
+0xc184f404 response
+0xa6f5352f offset
+0x6eaf8576 radius2
+0xba277641 nStar2
+0x99a9b716 color
+0xed91979d responseFunc
+0xa23a786c JOW_MusicStudio_GHMix_A
+0x2f6238b3 nPoints
+0x7321a8d6 type
+0x7f261953 pos
+0x34952a27 constant
+0x13b9da7b scale
+0xf83a3ad0 sinTime
+0xff7ebaf6 angle
+0x2eeb4b09 line
+0x797b2b45 scaleMod
+0xc42fab67 angularVel
+0xf6437c2b blendPrev
+0xf9cf6df9 nonUniformScale
+0x0d53ae6a alphaModulation
+0x54628ed7 blend
+0x68e77f40 brighten
+

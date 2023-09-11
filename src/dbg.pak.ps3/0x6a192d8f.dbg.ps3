@@ -1,0 +1,31 @@
+[LineNumbers]
+
+[Checksums]
+0x9eb89b62 models\car_instruments\bass\schecter\bass276_sch_riot.qb
+0x9687f060 BRIDGE
+0x802bd0c3 Bass276_Sch_Riot_BAS_Riot_KnobNode_01
+0x19228179 Bass276_Sch_Riot_BAS_Riot_KnobNode_02
+0x034dc19e Bass276_Sch_Riot
+0x310cc1d7 KNOB
+0x6e25b1ef Bass276_Sch_Riot_BAS_Riot_KnobNode_03
+0xa1dc81f9 Name
+0xf041244c Bass276_Sch_Riot_BAS_Riot_KnobNode_04
+0xbe61c602 PICKUP
+0xe61ab65e Bass276_Sch_Riot_Bass276_Sch_Riot
+0x12b4e660 Class
+0x75cfc82e Bass276_Sch_Riot_BAS_Riot_BridgeNode
+0x6635b8a1 bass276_sch_riot_NodeArray
+0x7f261953 Pos
+0x19ebda23 Set
+0xdf4bba6e Bass276_Sch_Riot_BAS_Riot_PickupNode_01
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x4642ebd4 Bass276_Sch_Riot_BAS_Riot_PickupNode_02
+0x3ff47bf4 RemovalFlags
+0xb0668c51 bass276_sch_riot_NodeArray_SortedIndices
+0x26ce9cfb bass276_sch_riot_NodeArray_SortedNames
+0x385e8d74 SkinExport
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+

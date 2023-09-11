@@ -1,0 +1,33 @@
+[LineNumbers]
+
+[Checksums]
+0xff05b1d2 models\car_instruments\bass\esp\bass14_esp_surveyor.qb
+0x9687f060 BRIDGE
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x31d8d23b Bass14_ESP_Surveyor
+0x54ea723e Bass13_misc_Bass14_N_bridge01
+0xd48252cb Bass13_misc_Bass14_ESP_Surveyor
+0x8058e545 MISC
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0xcc9bc664 Bass13_misc_Bass14_N_pickup01
+0x559297de Bass13_misc_Bass14_N_pickup02
+0x7b0058c1 bass14_esp_surveyor_NodeArray_SortedNames
+0x3385f929 Bass13_misc_Bass14_N_misc
+0x09c6094f bass14_esp_surveyor_NodeArray_SortedIndices
+0x7f261953 Pos
+0xe495096e bass14_esp_surveyor_NodeArray
+0x01a1998d Bass13_misc_Bass14_N_Knob04
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x9fc50c2e Bass13_misc_Bass14_N_Knob03
+0xe8c23cb8 Bass13_misc_Bass14_N_Knob02
+0x71cb6d02 Bass13_misc_Bass14_N_Knob01
+0x385e8d74 SkinExport
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+

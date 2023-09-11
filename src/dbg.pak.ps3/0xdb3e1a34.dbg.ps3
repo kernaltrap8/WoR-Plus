@@ -1,0 +1,34 @@
+[LineNumbers]
+
+[Checksums]
+0xb2660459 songs\debugtesttones.mid.qb
+0xed3c301a debugtesttones_crowd_notes
+0xe12a20fa kick
+0x7031f10c params
+0xe23f3132 debugtesttones_crowd
+0xb2eb62d5 debugtesttones_drums_notes
+0xcb9fb4cf bass
+0x94c9c558 TestToneEnterScript
+0x8e62e613 cymbal
+0x4a8fb6e2 debugtesttones_cameras_notes
+0x5fb1e752 debugtesttones_performance
+0x906b67ba time
+0xa6d2d890 scr
+0x7321a8d6 type
+0x0e60194d debugtesttones_localized_strings
+0x324d4a41 debugtesttones_anim_notes
+0xdaa5faa4 debugtesttones_facial
+0x9346eace debugtesttones_anim
+0x4f53ab05 crowd
+0x8ac57b6a debugtesttones_lightshow_notes
+0x25fc9bff debugtesttones_lightshow
+0x82208cec tom
+0xbdc53cf2 guitar
+0xb7205d14 band
+0xc2310d5a voxbackup
+0x35923d79 snare
+0xd4fe6dc6 voxlead
+0x5235ae57 TestToneSoundEvent
+0x147daf97 debugtesttones_cameras
+0xa23c1fc3 debugtesttones_scripts
+

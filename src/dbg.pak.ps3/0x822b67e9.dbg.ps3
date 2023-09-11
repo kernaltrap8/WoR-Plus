@@ -1,0 +1,77 @@
+[LineNumbers]
+fretbar_update_tempo 9 (0,48) (6,49) (8,50) (17,51) (19,52) (21,53) (72,54) (74,55) (80,56) 
+fretbar_update_hammer_on_tolerance 9 (0,59) (6,60) (8,61) (17,62) (19,63) (21,64) (72,65) (74,66) (80,67) 
+move_debug_measure_text 14 (0,70) (2,72) (17,73) (30,75) (59,77) (88,80) (130,82) (155,83) (204,84) (208,85) (226,86) (228,87) (230,88) (232,90) 
+destroy_debug_measure_text 5 (0,94) (36,95) (72,96) (74,97) (108,98) 
+
+[Checksums]
+0x1426ce25 scripts\guitar\guitar_fretbar.qb
+0xcd0dc02d killspawnedscript
+0x39a10072 t4d4
+0x29c6f0b8 fretbar_update_tempo_CFunc_Cleanup
+0x349a30eb t2d8
+0x62171101 thin
+0x18abe11a thick
+0x6fb9512a thin_fretbar_8note_params
+0xbde4b145 fretbar_update_hammer_on_tolerance_CFunc_Cleanup
+0x9fd29151 viewport
+0x57848190 thin_fretbar_16note_params
+0x3251f200 t7d8
+0xf9fd224f default_thin_fretbar_16note_params_high_bpm
+0x70e02284 t10d8
+0x3f6ac299 t1d4
+0xb8b232a0 thin_fretbar_16note_params_low_bpm
+0x4c2182b7 fretbar_update_tempo
+0x7fd5a2bf measure_checksum
+0x3053b2c7 CompositeObjectExists
+0xed20f31b debug_measure_window
+0x31799321 t9d4
+0xc5bc93ee ScreenElementExists
+0x3a25d41c t6d4
+0x78940498 t11d4
+0x390db53d t8d8
+0x7d5d45b8 destroy_debug_measure_text
+0x163b8607 fretbar_update_hammer_on_tolerance
+0x31d5266e t5d8
+0x27add693 fretbar_id
+0x1e42b6c3 fretbar_prefix_type
+0x7364f6ea t12d8
+0x3cee16f7 t3d4
+0x5cda16f8 fretbar_update_hammer_on_tolerance_CFunc
+0xfa97b79d LegacyDoMorph
+0x0a6517c1 thin_fretbar_8note_params_high_bpm
+0xb89bb814 debug_measure_text
+0x33939837 t6d8
+0x4341387a thin_fretbar_timesigs
+0x40c698af id
+0x712248b3 t11d8
+0x30bbf916 t8d4
+0x7f261953 pos
+0x6879f97d move_debug_measure_text
+0x3c15e9b6 DestroyScreenElement
+0x38636a45 t5d4
+0x398cba48 medium
+0xf0af6a8c thin_fretbar_16note_params_high_bpm
+0x5cb6daac default_thin_fretbar_16note_params_low_bpm
+0x7ad2bac1 t12d4
+0x35585adc t3d8
+0x77d51b32 default_thin_fretbar_8note_params_low_bpm
+0x2da74b6b GetViewport2DPosFrom3D
+0x82117c1a wait
+0x30174c59 t4d8
+0x24c96c70 fretbar_update_hammer_on_tolerance_CFunc_Setup
+0x7df21cbe thin_fretbar_8note_params_low_bpm
+0x3d2c7cc0 t2d4
+0x370e9cdf fretbar_update_tempo_CFunc_Setup
+0xe90aad2d Obj_GetPosition
+0x3be7be2b t7d4
+0x79566eaf t10d4
+0x36dc8eb2 t1d8
+0xfc37df05 gameframe
+0x38cfdf0a t9d8
+0x1e4a7f22 t7d16
+0xacc3df59 posx
+0xee61ffcd default_thin_fretbar_8note_params_high_bpm
+0xdbc4efcf posy
+0xed1fbfd0 fretbar_update_tempo_CFunc
+

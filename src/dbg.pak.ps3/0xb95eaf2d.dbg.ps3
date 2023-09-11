@@ -1,0 +1,36 @@
+[LineNumbers]
+
+[Checksums]
+0x0fcec205 models\car_instruments\guitar\mm\gtr84_mm_petrucci.qb
+0x9687f060 BRIDGE
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x561472cc gtr84_mm_petrucci_NodeArray
+0x0b1523c7 GTR84_MM_Petrucci_NODE_Pickup05_MM
+0x0185643f GTR84_MM_Petrucci_NODE_MISC01_MM
+0x8477b490 GTR84_MM_Petrucci_NODE_Pickup01_MM
+0xb3a944a2 GTR84_MM_Petrucci_NODE_Pickup04_MM
+0x8058e545 MISC
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0x1c9a3722 GTR84_MM_Petrucci_GTR84_MM_Petrucci
+0x7f261953 Pos
+0xc949b95f GTR84_MM_Petrucci
+0x0590e98b GTR84_MM_Petrucci_NODE_MISC01_MM02
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x2e7e7c1b GTR84_MM_Petrucci_NODE_Pickup03_MM
+0x07077d32 gtr84_mm_petrucci_NodeArray_SortedIndices
+0x385e8d74 SkinExport
+0x5d9b2dd5 gtr84_mm_petrucci_NodeArray_SortedNames
+0xc3e66e0d GTR84_MM_Petrucci_NODE_Knob_MM01
+0x7245de7f GTR84_MM_Petrucci_NODE_Bridg_MM01
+0x2de80f21 GTR84_MM_Petrucci_NODE_Knob_MM03
+0x33d54f31 GTR84_MM_Petrucci_NODE_Pickup01_MM01
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+0x5aef3fb7 GTR84_MM_Petrucci_NODE_Knob_MM02
+

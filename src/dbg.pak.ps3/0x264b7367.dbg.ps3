@@ -1,0 +1,34 @@
+[LineNumbers]
+
+[Checksums]
+0xa5f62d43 models\car_instruments\guitar\ibanez\gtr178_ibz_ict.qb
+0x9687f060 BRIDGE
+0xec0eb091 GTR178_IBZ_ICT_GTR178_N_pickup01
+0x0200d1bd GTR178_IBZ_ICT_GTR178_N_pickup03
+0xc15101c1 gtr178_ibz_ict_NodeArray
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x9c64441e GTR178_IBZ_ICT_GTR178_N_pickup04
+0xeb637488 GTR178_IBZ_ICT_GTR178_N_pickup05
+0x726a2532 GTR178_IBZ_ICT_GTR178_N_pickup06
+0x8058e545 MISC
+0x7a180595 GTR178_IBZ_ICT_GTR178_N_Misc
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0xef2f3914 gtr178_ibz_ict_NodeArray_SortedIndices
+0x7f261953 Pos
+0x2aec1986 GTR178_IBZ_ICT
+0x19ebda23 Set
+0xbc052a5f GTR178_IBZ_ICT_GTR178_IBZ_ICT
+0x14b92aa6 GTR178_IBZ_ICT_GTR178_N_Knob02
+0xc97f3aa9 Orientation
+0x8db07b1c GTR178_IBZ_ICT_GTR178_N_Knob01
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x7293fbda gtr178_ibz_ict_NodeArray_SortedNames
+0x3ff47bf4 RemovalFlags
+0xb7b52d47 GTR178_IBZ_ICT_GTR178_N_Bridge
+0x385e8d74 SkinExport
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+

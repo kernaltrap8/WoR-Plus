@@ -1,0 +1,77 @@
+[LineNumbers]
+ui_create_customize_character_body_art 65 (0,9) (7,10) (19,11) (31,12) (43,13) (49,14) (62,15) (64,16) (250,19) (257,21) (269,22) (281,23) (293,24) (301,25) (316,26) (328,27) (340,28) (372,29) (487,30) (524,31) (536,32) (548,33) (560,34) (572,35) (584,36) (586,37) (588,38) (595,39) (607,40) (619,41) (631,42) (639,43) (654,44) (666,45) (678,46) (714,47) (845,48) (882,49) (894,50) (906,51) (918,52) (930,53) (942,54) (944,55) (946,56) (953,57) (965,58) (977,59) (989,60) (997,61) (1012,62) (1024,63) (1036,64) (1071,65) (1198,66) (1235,67) (1247,68) (1259,69) (1271,70) (1283,71) (1295,72) (1297,73) (1299,74) (1322,80) (1370,82) 
+ui_destroy_customize_character_body_art 2 (0,92) (6,93) 
+hide_torso_parts_for_body_art 10 (0,101) (6,102) (80,103) (156,104) (165,105) (240,106) (244,107) (320,108) (322,109) (328,111) 
+unhide_torso_parts_for_body_art 4 (0,119) (10,120) (72,121) (74,122) 
+
+[Checksums]
+0x5e605bd1 scripts\guitar\menu\states\layouts\cas\ui_customize_character_body_art.qb
+0xb990d003 target
+0x0e52f043 PushTemporaryCASAppearance
+0x9b598086 BodyArt_RightArm
+0xa484d093 add_car_menu_text_item
+0x3cd9d1fc setup_cas_menu_handlers
+0xbf17a257 show_history
+0x80db125a hist_tex
+0xc54dc25e Stance_Select_Tat_Chest
+0xf6ab82f2 cas_current_savegame
+0x24613344 CAS_Body
+0x0203b372 true
+0x6ca9a3a5 selected_index
+0x2457f44d Body
+0xa4678485 Stance_Select_Tat_Arm_L
+0xd1c554d0 Left Arm
+0x9d3fb516 focus
+0x9836251b cam_name
+0x9e2ee54e div_id
+0x0acc054f car_helper_text
+0x3336956b CAS_Acc_Left
+0xb9eda58b SetCASAppearancePartInstance
+0xd713b5c1 F_Fun_Torso_Bra
+0x4871b5fd RebuildCurrentCASModel
+0xe88e660c destroy_generic_menu
+0x9a6bd624 icon
+0x3f6e367e zoom_camera
+0xff1496de state_device
+0x53476743 BodyArt_Chest
+0x2cb33744 LaunchEvent
+0x75b2077f Shirtless
+0xd4c98794 title
+0x48bbd7ee merge_presets
+0xc4745838 text
+0x4bb2084e desc_id
+0x7321a8d6 type
+0x862e48dd create_customize_character_body_art_vmenu
+0xb30d9965 controller
+0xc19f796a part_list
+0x80768988 ui_create_customize_character_body_art
+0x1b0509c5 savegame
+0x5e68b9e6 Stance_Select_Tat_Arm_R
+0xff889a51 CAS_Acc_Right
+0x2c8a3a6d child_index
+0x69ce0a79 Right Arm
+0x37ba3a84 make_generic_car_menu
+0x2a9dcb5e part_instance
+0xf1ff8b68 choose_state
+0x09f3fb6f additional_deinit_script
+0x31dc7bab camera_list
+0x7d654c18 exclusive_device
+0x0c714c3f menu_finish
+0x520c0c9c data
+0x7d02bcc3 stance
+0xa17ccd19 CAS_Torso
+0xacc4fd2e BodyArt_LeftArm
+0x044d1db2 is_accepting_invite_or_sigining_out
+0x16d19dc2 choose_state_data
+0x780a1e1e is_female_char
+0xd9f19edd unhide_torso_parts_for_body_art
+0xa1598eed vmenu_id
+0xb2161ef7 num_icons
+0x2013cf11 hide_torso_parts_for_body_art
+0x806fff30 none
+0xb6f08f39 part
+0xc4e3df4a MergePartIntoTemporaryCASAppearance
+0xeaed0f6d ui_destroy_customize_character_body_art
+0x55f5ef8a UIstate_cap_main
+0xe06b8ff1 additional_init_script
+

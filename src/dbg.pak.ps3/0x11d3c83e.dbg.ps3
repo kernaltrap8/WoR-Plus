@@ -1,0 +1,258 @@
+[LineNumbers]
+get_pad_string_from_kit 6 (0,6) (27,8) (50,9) (54,10) (76,11) (78,12) 
+musicstudio_get_current_drum_kits 5 (0,21) (6,23) (30,24) (54,25) (80,26) 
+musicstudio_get_drum_kit_text 16 (0,35) (6,37) (44,39) (80,40) (132,41) (136,42) (178,43) (180,44) (184,45) (220,46) (272,47) (276,48) (318,49) (320,50) (322,51) (336,52) 
+musicstudio_sound_customize_get_state 10 (0,61) (12,64) (25,65) (43,67) (76,68) (108,69) (112,70) (144,71) (146,72) (180,74) 
+musicstudio_get_default_drum_kit_list_checksum 2 (0,83) (32,85) 
+musicstudio_get_percussion_kit_list_checksum_sound 2 (0,94) (32,96) 
+musicstudio_get_customize_drum_kit_text 7 (0,105) (18,107) (30,108) (34,109) (46,110) (48,111) (62,113) 
+musicstudio_get_drum_pad_text 17 (0,122) (18,124) (60,125) (72,126) (76,127) (116,128) (128,129) (130,130) (153,132) (176,133) (206,135) (232,136) (286,137) (290,138) (336,139) (338,140) (352,142) 
+musicstudio_get_drum_kit_pad_scrolling_state 6 (0,151) (18,153) (48,154) (52,155) (84,156) (86,157) 
+musicstudio_get_drum_kit_list_checksum 6 (0,166) (18,168) (48,169) (52,170) (84,171) (86,172) 
+musicstudio_get_drum_kit_list_size_checksum 10 (0,181) (18,183) (32,184) (36,185) (50,186) (52,187) (70,189) (91,190) (93,191) (107,192) 
+musicstudio_choose_customize 9 (0,202) (36,204) (56,205) (58,206) (96,208) (132,209) (136,210) (172,211) (174,212) 
+musicstudio_change_drum_kit 6 (0,221) (36,223) (82,225) (86,227) (138,229) (140,231) 
+musicstudio_change_drum_kit_go_back 1 (0,240) 
+musicstudio_drumkit_customize_set_pad 2 (0,248) (18,250) 
+musicstudio_preview_drum_kit 9 (0,259) (36,261) (72,262) (74,263) (112,265) (153,266) (157,267) (198,268) (200,269) 
+musicstudio_change_drum_kit_pad 18 (0,278) (40,280) (56,281) (58,282) (96,284) (111,285) (113,286) (131,288) (171,289) (212,290) (225,291) (229,292) (269,293) (308,294) (321,295) (323,296) (365,298) (412,299) 
+musicstudio_load_custom_drum_kit_data 11 (0,308) (36,310) (76,311) (89,312) (103,313) (107,314) (148,315) (161,316) (175,317) (177,318) (224,321) 
+musicstudio_get_current_percussion_kit 13 (0,330) (18,332) (32,333) (36,334) (72,335) (74,336) (108,339) (126,340) (139,341) (160,342) (181,343) (183,344) (197,346) 
+musicstudio_set_current_kit_to_custom 12 (0,355) (40,357) (55,358) (57,359) (75,361) (116,362) (151,363) (155,364) (196,365) (226,366) (228,367) (234,369) 
+musicstudio_drum_kit_menu_enter 2 (0,378) (7,379) 
+musicstudio_drum_kit_menu_exit 2 (0,387) (7,388) 
+musicstudio_drum_pad_display_find_matching_kit_from_pad_string 16 (28,396) (46,398) (60,399) (64,400) (78,401) (80,402) (92,404) (104,405) (106,406) (130,407) (157,409) (171,410) (173,411) (195,413) (203,414) (240,416) 
+musicstudio_drum_pad_display_refresh_drum_set 141 (28,425) (34,427) (47,428) (65,430) (79,431) (92,432) (105,433) (144,434) (157,435) (159,436) (163,437) (177,438) (190,439) (203,440) (205,441) (212,444) (224,445) (236,446) (249,447) (261,448) (280,449) (292,450) (329,451) (358,452) (371,453) (373,454) (385,456) (398,457) (411,458) (423,460) (444,461) (461,462) (463,463) (481,466) (489,467) (491,468) (503,469) (532,470) (534,471) (536,472) (548,473) (577,474) (579,475) (581,476) (593,477) (622,478) (624,479) (626,480) (638,481) (667,482) (669,483) (671,484) (683,485) (712,486) (714,487) (716,488) (728,489) (757,490) (759,491) (761,492) (765,493) (773,494) (775,495) (787,496) (816,497) (818,498) (820,499) (832,500) (861,501) (863,502) (865,503) (877,504) (906,505) (908,506) (910,507) (922,508) (951,509) (953,510) (955,511) (967,512) (996,513) (998,514) (1000,515) (1012,516) (1041,517) (1043,518) (1045,519) (1047,520) (1059,523) (1071,524) (1073,525) (1097,527) (1119,528) (1141,529) (1153,532) (1174,533) (1198,534) (1211,535) (1213,536) (1215,537) (1233,539) (1255,541) (1273,542) (1312,543) (1334,544) (1336,545) (1338,546) (1351,549) (1382,550) (1417,551) (1464,554) (1490,555) (1544,556) (1546,557) (1548,558) (1566,561) (1620,562) (1622,563) (1629,565) (1641,566) (1653,567) (1665,568) (1684,569) (1697,570) (1722,571) (1734,572) (1746,573) (1748,575) (1755,577) (1767,578) (1780,579) (1792,580) (1811,581) (1823,582) (1839,583) (1868,584) (1881,585) (1883,586) (1885,587) (1907,589) (1915,590) 
+musicstudio_drum_pad_display_refresh 38 (28,599) (68,601) (70,602) (72,603) (90,605) (128,608) (144,609) (156,610) (160,611) (176,612) (188,613) (260,614) (262,615) (286,617) (299,618) (312,621) (330,622) (358,623) (371,624) (373,627) (375,628) (382,631) (394,632) (406,633) (418,634) (431,635) (443,636) (455,637) (468,638) (470,639) (508,641) (514,642) (548,643) (568,644) (620,645) (624,646) (630,647) (632,648) 
+musicstudio_drum_pad_display_destroy 5 (0,657) (36,659) (72,661) (108,662) (110,663) 
+musicstudio_enter_drum_sub_menu 2 (0,672) (7,673) 
+musicstudio_enter_custom 2 (0,681) (7,682) 
+musicstudio_drum_kit_preview 32 (44,690) (73,692) (112,695) (124,696) (126,697) (164,699) (176,700) (189,701) (191,702) (203,705) (221,706) (234,707) (236,708) (254,711) (300,712) (352,715) (370,717) (411,718) (415,719) (470,720) (472,721) (474,722) (492,724) (538,725) (588,728) (606,730) (647,731) (651,732) (706,733) (708,734) (710,735) (739,737) 
+musicstudio_drum_kit_preview_loop 40 (0,746) (12,748) (51,749) (90,750) (114,752) (127,753) (139,755) (160,756) (177,757) (179,758) (197,761) (236,762) (238,763) (250,766) (262,767) (264,768) (276,771) (312,772) (341,773) (354,774) (356,775) (360,776) (373,777) (375,778) (393,780) (432,782) (439,785) (462,786) (474,787) (487,788) (500,789) (513,790) (525,791) (531,792) (544,793) (546,794) (563,795) (565,796) (587,798) (595,799) 
+musicstudio_is_custom_kit 6 (28,808) (52,810) (71,811) (100,812) (102,813) (132,814) 
+musicstudio_custom_kit_refresh_from_kit 7 (0,823) (41,824) (82,825) (123,826) (164,827) (205,828) (246,829) 
+musicstudio_custom_kit_setup_pads_on_entry 18 (0,837) (6,839) (19,842) (56,843) (69,844) (71,845) (104,848) (156,849) (185,850) (214,851) (216,852) (234,854) (267,855) (316,856) (345,857) (374,858) (376,859) (378,860) 
+musicstudio_custom_kit_get_selected_pad 13 (0,869) (18,871) (30,872) (72,873) (76,874) (88,875) (128,876) (130,877) (146,879) (169,880) (206,881) (250,882) (264,883) 
+musicstudio_per_pad_init 2 (0,892) (36,893) 
+musicstudio_per_pad_deinit 5 (0,901) (18,902) (25,903) (27,904) (60,906) 
+musicstudio_ghmix_refresh_drum_preview_display 19 (0,914) (40,917) (52,918) (70,919) (72,920) (74,921) (86,922) (100,923) (102,924) (126,926) (139,927) (157,929) (159,930) (161,931) (179,933) (213,934) (217,935) (251,936) (253,937) 
+
+[Checksums]
+0xe57684a8 scripts\guitar\musicstudio\drumkit\musicstudio_drumkit_menu.qb
+0xb990d003 target
+0x8e411006 b
+0xd106e027 header_id
+0xe126e035 top
+0xbec5106b UpdateStructElement
+0xb0ce2071 drum_kit_percussion
+0x67564079 selected
+0x721fe092 musicstudio_drum_pad_display_refresh_drum_set
+0xe4f130f4 s
+0xe12a20fa kick
+0xdb161106 getsonginfo
+0xb12b510a spriteelement
+0x7031f10c params
+0x6276b11a pad
+0x0281513f GlobalArray
+0x73665140 CreateScreenElement
+0x5ef31148 array
+0x1fae215a musicstudio_per_pad_had_preview
+0x4ddd3173 percussion_drum_kits
+0x52f1f174 musicstudio_per_pad_deinit
+0xcf66717b GotParam
+0x477da199 MusicStudioGhmix_GetCustomDrumKit
+0x670671af musicstudio_sound_customize_get_state
+0xff2811b0 jam_input_drum_strum
+0x5d0671b8 channel
+0x174841bc a
+0xbebfa1c6 element
+0xbfa801df change
+0x607671f3 musicstudio_drumkit_customize_set_pad
+0xe74d01fc pad_kit_text
+0xc9f421fe MusicStudio_GetPlayerFromIndex
+0x01b0b20e return_struct
+0x5ea0e211 loop
+0xfedc5219 height_offset
+0x8ca7721d do_standard
+0xc218a21f musicstudio_drum_kit_menu_exit
+0x8b60022f just
+0xf3faa23e MusicStudioPlayer_GetPlayerIndex
+0x83c2824f name_text
+0x65ac525d musicstudio_get_drum_kit_list_checksum
+0xf2f1826c custom_percussion_kit
+0x202c427a musicstudio_drum_kit_state
+0x7d99f28d texture
+0x69f022b5 header_text
+0xc852c2cd player_object
+0x977fe2cf remove
+0xd87e72d4 musicstudio_step_record_state
+0x347df2de ghmix_generic_button
+0x2601f2e2 MusicStudioPlayer_GetController
+0x860612f3 get_pad_string_from_kit
+0x5ffd1305 list_checksum
+0x4b40630d newValue
+0x194eb32c musicstudio_per_pad_init
+0x0203b372 true
+0x56b47391 global_kit_array
+0xda3403b0 null
+0x0f64a3e3 pad_string
+0xc5bc93ee ScreenElementExists
+0xd3dc93f9 musicstudio_change_sound
+0xff0db407 textname
+0x3e77e412 ii
+0x9277f428 FormatText
+0xf3b3b42a blackout
+0x2acb843e musicstudio_drum_kit_preview
+0x85af5463 DrumKitParts_OnScreen
+0x4df1047c list_size
+0xadf43487 scrolling_menu_elements
+0xf7343497 return_struct_index
+0x39b5c4b0 GetArraySize
+0x103574bc musicstudio_scrolling_select_percussionkit_pad_state
+0xdeef04cd StructureContains
+0xf801b4d4 id_type
+0xbf0f14db center
+0x3b9dd4e8 percussion
+0x28fcd4fb musicstudio_enter_custom
+0xd3e6b516 musicstudio_set_current_kit_to_custom
+0x9d3fb516 focus
+0xbc17c534 drum_kit_index
+0xd4cac562 musicstudio_get_customize_drum_kit_text
+0xaf9b956b isRBDrum
+0xdc609575 pad_kit_string
+0x460ea584 kit_list
+0x4b08d587 musicstudio_menu_current_pad
+0x8188a58d musicstudio_get_percussion_kit_list_checksum_sound
+0xbd05e597 preview_pattern_array
+0x67e6859a player
+0xe22dd5c2 lefty_flip
+0x194855c8 musicstudio_scrolling_select_dumkit_pad_state
+0x23a655e9 kit_structure
+0xa47655ef per_pad
+0x8f61d602 arrayName
+0x2de8c60e printf
+0x8e62e613 cymbal
+0xe1f0e618 custom_kit_index
+0xd029f619 seconds
+0xa4bcb61d jam_current_percussion_kit
+0x2a08f621 musicstudio_custom_kit_refresh_from_kit
+0xc3409622 instrument
+0x52141624 musicstudio_state
+0x259df657 musicstudio_load_custom_drum_kit_data
+0x2b48c664 pad_struct
+0x9808e68f header_offset
+0x2f1fc695 alpha
+0x186e36ba preview_pad
+0x46ca36d4 musicstudio_get_drum_kit_text
+0x48cb36e0 musicstudio_ghmix
+0x163d16e2 preview_one_pad
+0x90ccc6f5 musicstudio_custom_kit_get_selected_pad
+0x99e116f7 jam_current_drum_kit
+0x0c0de6fb id_value
+0x2f6bf72d font
+0x2cb33744 LaunchEvent
+0xcf895752 musicstudio_get_default_drum_kit_list_checksum
+0x88f5a752 drum_kit_only
+0x11dab754 hold_pattern
+0x57225755 musicstudio_get_drum_pad_text
+0x525a7779 musicstudio_percussion_menu
+0x37c38790 newstruct
+0x1a767793 MusicStudio_GetMainPlayerController
+0xd814b7b6 percussion_kit
+0xe288a7cb value
+0xd43297cf false
+0xa76b67e7 kit
+0x760807ec MusicStudio_GetMainPlayerIdIndex
+0x84b5c7f6 playerid_index
+0x10ca0809 musicstudio_drum_pad_display_find_matching_kit_from_pad_string
+0x90fec815 structure
+0x9795c819 musicstudio_highway_blackout
+0xe744b81d musicstudio_change_drum_kit_go_back
+0xc4745838 text
+0x5b9da842 containerelement
+0xe7cdb863 musicstudio_get_current_drum_kits
+0xef082878 standard
+0x870ed891 musicstudio_scrolling_sound_select_state
+0x85981897 left
+0x2eccf8ae script_assert
+0x40c698af id
+0x1fc908b5 bkutcher
+0x456d28d1 struct
+0x7321a8d6 type
+0xb4e308ea musicstudio_drum_kit_preview_loop
+0xf1a0f8f6 musicstudio_scrolling_state
+0x7f8c98fe index
+0xb586e918 musicstudio_change_drum_kit_pad
+0x96a8b91c musicstudio_get_drum_kit_list_size_checksum
+0x782ba924 musicstudio_drum_pad_display_refresh
+0x7f261953 pos
+0x41272956 velocity
+0x0a7be964 custom
+0xb30d9965 controller
+0x9bf61977 select_player
+0x3c15e9b6 DestroyScreenElement
+0x17f649b8 per_drum_wait
+0xbbfbf9bc hihat
+0x5eafd9c1 custom_drum_kit
+0x344fc9e2 musicstudio_preview_drum_kit
+0xf8725a00 current_state
+0x891caa12 percussion_kit_index
+0xdc8bba31 musicstudio_is_custom_kit
+0x9601ca58 current_percussion_kit
+0x3164ca69 pad_index
+0x13b9da7b scale
+0x76fa7a8f checksumname
+0x671f8aa2 musicstudio_enter_drum_sub_menu
+0x99298ad7 musicstudio_mainobj
+0x6f0b0adf drum_kits
+0x19fa5af7 SpawnScriptNow
+0xe94feb49 ArrayContainsElementWithId
+0x8e10bb70 SetArrayElement
+0xff90dbc2 pad_checksum
+0x28a59bda pad_text
+0xdc202c03 musicstudio_get_current_percussion_kit
+0x82117c1a wait
+0xc60aac45 preview_pad_array
+0x4a9e7c59 show_button
+0xfeaccc5b is_percussion_kit
+0x90e07c79 async
+0x0ad29ca6 custom_kit
+0x84da6cae musicstudio_play_sound_get_buss
+0x4adf0cd3 unfocus
+0xadb2acd8 loop_pitch
+0xd9c26d23 musicstudio_get_drum_kit_pad_scrolling_state
+0x7f5b3d4d array_size
+0x61414d56 string
+0x76a08d5b bottom
+0xc8957d68 musicstudio_custom_kit_setup_pads_on_entry
+0x43411d72 ghmix_drum_kit_header
+0x35923d79 snare
+0xf8fa3d8c main_player
+0x564cfda5 MusicStudioPlayer_GetInstrument
+0x3f6bcdba rgba
+0xd472bdd2 MusicStudioMenu_GetCurrentState
+0x104cddd7 data_array
+0xbecb9de1 musicstudio_choose_customize
+0x27576dec IsDrumController
+0x2195edf5 ghmix_drum_perc_header
+0x54567e03 preview_menu
+0xb53d0e0f string_id
+0x01941e37 musicstudio_drum_kit_menu_enter
+0x44d50e8a ghmix_drum_reference
+0xbb7d3ea5 drum_kit
+0x68779ea6 find_percussion_from_base_kit
+0x47fc3ee0 kit_id_checksum
+0xf8e08ee5 tom1
+0x65485eea GetPlayerInfo
+0xd8348eec musicstudio_change_drum_kit
+0x57710f31 z_priority
+0x33652f48 kit_struct
+0x61e9df5f tom2
+0xd0b0bf63 buss
+0x2fefaf84 fontgrid_text_a1
+0x64e08fa4 musicstudio_drum_pad_display_destroy
+0xc2719fb0 parent
+0x5200dfb6 TextElement
+0x9f2eefe5 musicstudio_ghmix_refresh_drum_preview_display
+0xffd61ff2 MusicStudio_GetCurrMainPlayer
+

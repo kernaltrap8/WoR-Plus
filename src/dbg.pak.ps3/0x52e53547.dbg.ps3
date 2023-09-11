@@ -1,0 +1,102 @@
+[LineNumbers]
+ui_create_cag_custom_strings 59 (0,9) (72,11) (79,13) (92,14) (104,15) (116,16) (129,18) (142,19) (144,20) (162,22) (174,24) (186,25) (224,27) (288,29) (292,30) (308,31) (310,32) (322,34) (340,35) (352,36) (354,37) (405,39) (470,41) (535,42) (543,43) (549,44) (551,45) (555,46) (563,47) (569,48) (571,49) (573,50) (575,51) (612,53) (625,54) (627,55) (634,57) (665,58) (677,59) (689,60) (740,61) (753,62) (755,63) (776,65) (812,67) (814,69) (835,71) (843,72) (847,73) (880,76) (931,77) (933,78) (976,81) (994,82) (1024,83) (1026,84) (1032,86) (1060,87) (1108,89) 
+ui_destroy_cag_custom_strings 5 (0,99) (6,100) (44,101) (80,102) (82,103) 
+ui_init_cag_custom_strings 2 (0,111) (6,112) 
+ui_deinit_cag_custom_strings 2 (0,120) (6,121) 
+select_strings_focus_change 17 (0,129) (36,131) (72,132) (74,133) (108,135) (159,136) (161,137) (168,139) (180,140) (192,141) (204,142) (217,143) (233,144) (252,145) (268,146) (270,147) (319,149) 
+
+[Checksums]
+0xba6297c0 scripts\guitar\menu\states\layouts\cag\ui_cag_custom_strings.qb
+0xb990d003 target
+0xb98e3019 create_cag_custom_strings_vmenu
+0x0e52f043 PushTemporaryCASAppearance
+0x059ea070 red
+0xe4f130f4 s
+0x627f90fe no_rotate_zoom_text
+0xb12b510a SpriteElement
+0xbc5fd10b Desc_ResolveAlias
+0x73665140 CreateScreenElement
+0x62a6a164 num_elements
+0xcf66717b GotParam
+0xa1dc81f9 name
+0x8b60022f just
+0x80db125a hist_tex
+0x9b74127c generic_scrollbar_wgt_set_resolution
+0x7d99f28d texture
+0xd5ef62e2 ui_destroy_cag_custom_strings
+0xb59352f1 EditCASAppearance
+0xf6ab82f2 cas_current_savegame
+0xa8ee7357 ScriptAssert
+0x192bc3a2 pad_back_script
+0xc5f953c2 button
+0xc5bc93ee ScreenElementExists
+0x39b5c4b0 GetArraySize
+0xb52f44ef additional_focus_params
+0x2898a4fc make_list_menu
+0x9d3fb516 focus
+0x4c29c545 RequireParams
+0x7a95a557 t
+0x34a68574 dims
+0x7bdd5578 generic_list_destroy
+0x08ed25a7 is_part_unlocked
+0x19a4f5fe is_locked_item
+0x9a6bd624 icon
+0x7943e65f current_part
+0x356bd67b generic_scrollbar_wgt_initialize
+0x46a2869c targetParams
+0xff1496de state_device
+0xe643e6f6 preview_texture
+0x914466fc ui_init_cag_custom_strings
+0x2cb33744 LaunchEvent
+0x152d376e locked
+0xd4c98794 title
+0x9c3247e3 select_strings_focus_change
+0x77f49808 frontend_desc
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0x4bb2084e desc_id
+0x9d2d8850 z
+0x40c698af id
+0x7321a8d6 type
+0x7e2c78e8 string_preview
+0x7f8c98fe index
+0x7f261953 pos
+0x4a376958 get_part_current_desc_id
+0xb30d9965 controller
+0xc19f796a part_list
+0x1993c98e i
+0x3c15e9b6 DestroyScreenElement
+0x1b0509c5 savegame
+0xb1f48a3a generic_list_menu
+0x2c8a3a6d child_index
+0x56a1eae3 root_window
+0x28e66b14 resolved_id
+0x92c72b61 cas_item_is_visible
+0x31fceb9a alias_generic_scrollbar_wgt
+0x1c743bf7 add_list_item
+0x939f8c12 car_helper_text_cancel
+0x7d654c18 exclusive_device
+0xd53dac1d is_part_unlockable
+0x0c714c3f menu_finish
+0x421dcc47 generic_exit_restore
+0x520c0c9c data
+0x2b0cfca1 pad_choose_script
+0xd6521cee generic_event_back
+0x03daecee GetActualCASOptionStruct
+0x7056ed02 RemoveParameter
+0x83339d0b SetPart
+0xf5105d1d num_parts_added
+0x2660cd26 additional_focus_script
+0x7f5b3d4d array_size
+0x87e57d8f download
+0xe1bf8dcb current_desc_id
+0x7c614ddc ui_deinit_cag_custom_strings
+0xc4e78e22 all
+0xabc25e54 is_unlocked_item
+0x32b10e57 PopTemporaryCASAppearance
+0xa1598eed vmenu_id
+0x46a90f17 ui_create_cag_custom_strings
+0x02141f19 clean_up_user_control_helpers
+0xb6f08f39 part
+0xc2719fb0 parent
+

@@ -1,0 +1,48 @@
+[LineNumbers]
+igc_temporarily_disable_input 4 (0,14) (36,15) (72,16) (164,17) 
+TemporarilyDisableInput 8 (28,27) (64,28) (100,30) (136,32) (158,33) (162,34) (179,35) (181,36) 
+TemporarilyDisableInput_Reenable 2 (0,44) (36,45) 
+igc_immediately_start_rendering 3 (0,53) (36,54) (42,55) 
+igc_temporarily_disable_rendering 5 (0,63) (40,64) (76,65) (105,66) (107,67) 
+igc_temporarily_disable_rendering_with_wait 5 (0,75) (6,76) (40,77) (92,79) (99,80) 
+igc_temporarily_disable_rendering_with_wait_end 2 (0,88) (52,89) 
+
+[Checksums]
+0x7698ded1 scripts\game\igc\igc_player.qb
+0xcd0dc02d KillSpawnedScript
+0xc98b70a5 igc_temporarily_disable_rendering_with_wait
+0x0b7190c6 PushDisableRendering
+0x7031f10c params
+0xcf66717b GotParam
+0xcbe4f401 igc_render_toggle
+0xbefaa466 OnExitRun
+0xbe578495 stack
+0xdb96e524 block_menu_input
+0xd9e4052c StartRendering
+0x5df1a5ff igc_temporarily_disable_input
+0xd029f619 seconds
+0x6bef3672 SetScriptCannotPause
+0x664706c0 igc_temporarily_disable_rendering
+0x628cd705 igc_input_toggle
+0xecffe757 PopDisableRendering
+0x906b67ba time
+0x82912846 igc_debug_hold_camera
+0x240cb86f Debounce
+0x40c698af id
+0x7321a8d6 type
+0x2ba74930 igc_playing
+0x030c0940 IsTrue
+0x7323e97c X
+0x7d5d29a9 SetButtonEventMappings
+0xde1929ec igc_debug
+0xb32979f7 ignoreslomo
+0x1da27a81 context
+0xdc960ac0 TemporarilyDisableInput_Reenable
+0x19fa5af7 SpawnScriptNow
+0x4f653b0b unblock_menu_input
+0xe997db9f is_changing_levels
+0x82117c1a wait
+0x8ad87d7d igc_immediately_start_rendering
+0xaf535f62 TemporarilyDisableInput
+0x78584fa4 igc_temporarily_disable_rendering_with_wait_end
+

@@ -1,0 +1,30 @@
+[LineNumbers]
+
+[Checksums]
+0x0a9830ef models\car_instruments\guitar\heroes\gtr130_steampunk.qb
+0x9687f060 BRIDGE
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x212d6214 GTR130_PG_GTR130_N_bridge01
+0xe23d427b GTR130_PG_GTR130_N_misc
+0x0af47439 GTR130_PG_GTR130_Steampunk
+0x8058e545 MISC
+0x7ea1f5ae GTR130_PG_GTR130_N_knobs1
+0xbe61c602 PICKUP
+0xb95cd64e GTR130_PG_GTR130_N_pickup01
+0x12b4e660 Class
+0x0b5bd71d GTR130_Steampunk
+0x3de64793 gtr130_steampunk_NodeArray
+0x205587f4 GTR130_PG_GTR130_N_pickup02
+0x7f261953 Pos
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x80c64c2b gtr130_steampunk_NodeArray_SortedNames
+0x385e8d74 SkinExport
+0xb78d3d92 gtr130_steampunk_NodeArray_SortedIndices
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+

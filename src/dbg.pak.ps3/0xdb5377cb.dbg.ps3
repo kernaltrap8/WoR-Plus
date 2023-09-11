@@ -1,0 +1,109 @@
+[LineNumbers]
+ui_create_career_movie 23 (100,18) (106,20) (112,23) (118,25) (127,27) (155,28) (159,29) (193,30) (195,31) (244,33) (250,37) (284,38) (320,39) (388,40) (395,44) (401,45) (409,46) (422,47) (435,48) (448,49) (461,50) (463,51) (465,52) 
+ui_destroy_career_movie 1 (0,70) 
+ui_init_career_movie 5 (0,80) (36,81) (72,82) (108,83) (144,85) 
+ui_deinit_career_movie 1 (0,94) 
+ui_career_movie_preload_stream 15 (36,102) (59,103) (65,105) (128,107) (140,109) (158,111) (160,113) (196,114) (248,115) (250,116) (252,117) (304,119) (356,121) (358,122) (360,123) 
+ui_career_movie_play_movie_spawned 23 (84,135) (90,136) (124,137) (208,139) (231,141) (249,142) (251,143) (269,145) (320,146) (404,148) (406,149) (440,151) (476,154) (510,156) (544,158) (550,161) (592,164) (628,165) (680,167) (716,169) (752,171) (788,172) (831,174) 
+career_movie_drop_player 2 (0,181) (7,182) 
+career_movie_end_game 3 (0,189) (6,190) (13,192) 
+
+[Checksums]
+0xdf0bfb59 scripts\guitar\menu\states\layouts\ui_career_movie.qb
+0x59442011 heap_cas_cache
+0x705d4017 language_prefix
+0xcd0dc02d killspawnedscript
+0xe6dc4040 career_movie_end_game
+0xdb27e0c1 StartPreLoadedStream
+0xb32370c8 PreLoadStreamDone
+0xe8dc80d1 AddToStringLookup
+0xe4f130f4 s
+0x301dd0f9 GetGlobalTags
+0xfcc65109 mood
+0x7031f10c params
+0xb8b0217d num_frames
+0xbfa801df change
+0x0f1641e3 stream
+0xa1dc81f9 name
+0xce9ff20e ui_init_career_movie
+0xd443a2bc off
+0x656f5347 respond_to_signin_changed_func
+0x6988c35f career_first_time_setup
+0x94453372 end_game_script
+0x0203b372 true
+0xbbf0138e band_lobby_end_game
+0x9277f428 FormatText
+0xc40f843d ui_destroy_career_movie
+0x2e30346f PlayMovieAndWait
+0x4d3c549c career_movie_drop_player
+0xb74ce4a3 respond_to_signin_changed
+0xd9e4052c startrendering
+0xc451f558 event
+0x0dd14566 heap_bink
+0x1ad7956a fade_type
+0x82fac56c menu
+0xd6ff958f ui_create_career_movie
+0x8901b59c localized_stream
+0x7bb9c604 menu_replace
+0x2de8c60e printf
+0xf649d637 on
+0xb806d663 persistent_band_cancel_lobby
+0x6bef3672 SetScriptCannotPause
+0x2f1fc695 alpha
+0xe1490746 hide_glitch_frames
+0xf221474c linear
+0xf906d74c PopUnsafeForShutdown
+0x0f1fe783 noblack
+0x0b6f778a ui_deinit_career_movie
+0x2e41f796 transition_time
+0xaa2b07a2 play_cameracut
+0x906b67ba time
+0x259a07d3 fadetoblack
+0xf6a36814 vol
+0xa6e1b841 new_data
+0x7d036868 ui_career_movie_preload_stream
+0x4dfba8c4 destroy_friend_feed
+0x08fe48d4 g_career_movie_stream
+0x8892694c drop_player_script
+0xb30d9965 controller
+0x6c4e7971 prefix
+0xce7a7992 g_net_career_progression
+0xf99d5a06 fade_time
+0xc9428a08 device_num
+0x1da27a81 context
+0x76fa7a8f checksumname
+0x81d35a9d console_is_net_career_client
+0xba68ead9 Encore_Events
+0x7ee9fae9 PushUnsafeForShutdown
+0x19fa5af7 SpawnScriptNow
+0xdba76b03 wait_for_safe_shutdown
+0xa91a9bce respond_to_signin_changed_all_players
+0x52b22bda destroy_band
+0xa2a40bea tutorial_system_get_language_prefix
+0x82117c1a wait
+0xa5a85c77 SetBinkHeap
+0x520c0c9c data
+0x1c397cbc unique_id
+0x9bf83cec create_song_and_musicstudio_heaps
+0x69f93d01 l
+0x5c6c2d04 state
+0xc91f9d0f PreLoadStream
+0x4ed8fd58 hide_glitch
+0xe2a10d90 movie
+0x75438dff band_lobby_drop_player
+0x766ebe47 forcesafepreload
+0xb955fe61 LightShow_NotInGamePlay_SetMood
+0x4d4a9e71 spawn_player_drop_listeners
+0xf3851e7e ui_career_movie_play_movie_spawned
+0xb0b28e7f StopSound
+0xe1528e85 destroy_song_and_musicstudio_heaps
+0x8842aea9 ui_event_wait
+0xa4fa6ed9 new_state
+0xfc37df05 gameframe
+0xf9045f11 do_unloads
+0x806fff30 none
+0x57710f31 z_priority
+0xd0b0bf63 buss
+0xeb0acfac net_career_flip_save_warning_flag
+0xe50c7fb0 career_progression_tags
+

@@ -1,0 +1,24 @@
+[LineNumbers]
+ui_create_play_tutorial 2 (0,9) (6,11) 
+ui_destroy_play_tutorial 2 (0,21) (6,24) 
+ui_play_tutorial_anim_out 2 (0,34) (6,36) 
+ui_return_play_tutorial 6 (0,44) (36,45) (88,46) (92,47) (98,48) (100,49) 
+
+[Checksums]
+0xce315546 scripts\guitar\menu\states\layouts\ui_play_tutorial.qb
+0xb990d003 target
+0x7d5b6018 ui_create_play_tutorial
+0xba43b0bd tutorial_shutdown
+0x582642a9 ui_destroy_play_tutorial
+0xdac1f2e8 tutorial_create_pause_handler
+0xc5bc93ee ScreenElementExists
+0x9d3fb516 focus
+0xd9e4052c StartRendering
+0x15c54580 menu_tutorial
+0x2cb33744 LaunchEvent
+0x40c698af id
+0x7321a8d6 type
+0x894bdb6b ui_return_play_tutorial
+0xc2c5cd48 TutorialSystem_run
+0xf3b44fb5 ui_play_tutorial_anim_out
+

@@ -1,0 +1,82 @@
+[LineNumbers]
+ui_create_cadrm_hub 95 (0,9) (21,11) (28,13) (40,14) (52,15) (58,16) (71,17) (73,18) (112,19) (152,20) (281,21) (313,23) (320,24) (332,25) (344,26) (356,27) (364,28) (370,29) (383,30) (395,31) (408,32) (437,33) (449,34) (464,35) (476,36) (499,37) (602,38) (604,39) (606,40) (640,41) (642,42) (674,44) (681,45) (693,46) (705,47) (717,48) (725,49) (731,50) (744,51) (756,52) (769,53) (797,54) (809,55) (824,56) (836,57) (859,58) (946,59) (948,60) (950,61) (984,62) (986,63) (1007,65) (1014,66) (1026,67) (1038,68) (1050,69) (1058,70) (1073,71) (1086,72) (1098,73) (1126,74) (1138,75) (1153,76) (1165,77) (1249,78) (1272,79) (1274,80) (1276,81) (1278,82) (1285,84) (1297,85) (1309,86) (1321,87) (1329,88) (1335,89) (1347,90) (1353,91) (1387,92) (1399,93) (1411,94) (1423,95) (1438,96) (1450,97) (1462,98) (1485,99) (1608,100) (1610,101) (1612,102) (1648,104) (1666,105) (1700,106) (1744,107) (1868,108) (1870,109) (1893,117) 
+ui_return_cadrm_hub 3 (0,125) (6,127) (29,128) 
+ui_destroy_cadrm_hub 2 (0,138) (6,139) 
+
+[Checksums]
+0xf8f312e4 scripts\guitar\menu\states\layouts\cadrm\ui_cadrm_hub.qb
+0x39c33040 Stance_Select_DrumSticks
+0x7e0c6048 is_part_capable
+0xa484d093 add_car_menu_text_item
+0x301dd0f9 GetGlobalTags
+0xe632c101 life
+0xda63d104 FINISHES
+0x7031f10c params
+0x80dab125 target_desc_id
+0xbfa801df change
+0x3cd9d1fc setup_cas_menu_handlers
+0xefe30239 color_wheel
+0xbf17a257 show_history
+0x80db125a hist_tex
+0xf6ab82f2 cas_current_savegame
+0xe374335b body_part
+0x5b058376 param
+0x14aa037e UIstate_popout_select_part
+0x8dd9f475 DETAILS
+0x40c3e4cc skull_alpha
+0x9836251b cam_name
+0x0acc054f car_helper_text
+0x2cb52555 ui_destroy_cadrm_hub
+0xc451f558 event
+0xe88e660c destroy_generic_menu
+0xa7d7c610 choose_script
+0x39df261c return_stance
+0x9a6bd624 icon
+0x4b9fc644 cas_helper_dialogue
+0x3f6e367e zoom_camera
+0x0a058699 ui_return_cadrm_hub
+0xff1496de state_device
+0xd4c98794 title
+0x85619797 border_elements_alpha
+0x047207cd create_cadrm_hub_vmenu
+0x63af57f5 UIstate_cap_artist_layer_popout
+0xc4745838 text
+0xb90a78d7 is_popup
+0x6cef5907 menu_change
+0xaa7fe952 get_section_index_from_desc_id
+0xb30d9965 controller
+0x1b0509c5 savegame
+0xb88029ff generic_menu
+0xd4495a05 icon_sticks
+0xde368a31 ui_create_cadrm_hub
+0x45b69a33 CAS_Drums_Sticks
+0x37ba3a84 make_generic_car_menu
+0xe4202b13 generic_menu_block_input
+0x70b40b15 visit_cadrm
+0xf1ff8b68 choose_state
+0x31dc7bab camera_list
+0x9cf02bb2 icon_cadrm_skin
+0x486e3bf0 icon_cadrm_shell
+0x7d654c18 exclusive_device
+0x9f23dc21 SE_SetProps
+0x0c714c3f menu_finish
+0x22236c98 icon_graphics
+0x520c0c9c data
+0x44a31cb5 SetGlobalTags
+0x7d02bcc3 stance
+0x552d9cd5 guitar_colorwheel
+0xd6521cee generic_event_back
+0xe3e97d00 instrument_info
+0x7056ed02 RemoveParameter
+0x5c6c2d04 state
+0xf2490d0f purchase_menu
+0x4e8b5d34 UIstate_helper_dialogue
+0x59dbfd46 Stance_Select_Drum
+0x16d19dc2 choose_state_data
+0x8842aea9 ui_event_wait
+0xa1598eed vmenu_id
+0x02141f19 clean_up_user_control_helpers
+0xb6f08f39 part
+0x55f5ef8a UIstate_cap_main
+0xe8dbff9a section_index
+

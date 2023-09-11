@@ -1,0 +1,49 @@
+[LineNumbers]
+cas_random_band_logo 3 (0,10) (20,12) (54,14) 
+randomize_band_logo 10 (0,23) (36,24) (72,25) (74,26) (108,27) (114,28) (143,29) (149,30) (184,31) (220,32) 
+init_band_logo 13 (0,40) (36,42) (42,45) (76,49) (160,54) (196,55) (216,58) (239,60) (276,61) (305,62) (325,63) (327,64) (360,66) 
+
+[Checksums]
+0x9d899ca3 scripts\guitar\menu\states\layouts\ui_band_name_logo.qb
+0x6c55902e weighted_array
+0x301dd0f9 GetGlobalTags
+0xa7290172 SetCASAppearanceCAP
+0xcf66717b gotparam
+0x4742a1a1 BandLogoObject
+0x6017f1cc ui_event
+0xbfa801df change
+0x8e3f7210 cas_preset_bandlogo
+0x338b1254 CAS_Band_Logo_id
+0xf8a4443a get_savegame_from_controller
+0x1274e474 init_band_logo
+0x56c4d4b9 cas_band_logo_update
+0xc451f558 event
+0x404785b7 band_logo
+0xb7589619 UpdateCASModelCAP
+0x4b27f6a2 cas_editing_new_character
+0xf906d74c PopUnsafeForShutdown
+0xd43297cf false
+0xa402c808 randomize_band_logo
+0x66cc784e cap
+0x4bb2084e desc_id
+0x862ba85b CAS_Band_Logo
+0xbf7ea881 PickFromWeightedArray
+0x3cb6d8f3 band_name_logo_controller
+0x9f8b4945 cas_queue_block
+0x20d4095b Audio_UI_Text_Entry_Caps
+0xb30d9965 controller
+0x1b0509c5 savegame
+0x1da27a81 context
+0x7ee9fae9 PushUnsafeForShutdown
+0x49a73c94 SetCASAppearance
+0x99b5bcc2 cas_random_band_logo
+0xffdf4cfc cas_logo_data_dirty
+0x20d80d3b progression_band_info
+0x554c7d6f appearance
+0x4b833e64 random_index
+0x5a7ece86 menu_back
+0xb6f08f39 part
+0x95554f58 cas_override_object
+0x5cc7bf9b Name_logo
+0xd301ffdd soundevent
+

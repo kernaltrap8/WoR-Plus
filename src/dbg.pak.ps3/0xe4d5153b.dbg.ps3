@@ -1,0 +1,29 @@
+[LineNumbers]
+
+[Checksums]
+0xec6fd6ff models\car_instruments\bass\heroes\bass136_glass.qb
+0x9687f060 BRIDGE
+0x6259e1d7 Bass136_knob_Bass136_N_pickup
+0x310cc1d7 KNOB
+0x70ba81ee Bass136_knob_Bass136_N_knob01
+0xa1dc81f9 Name
+0x719ad20b bass136_glass_NodeArray_SortedIndices
+0x8058e545 MISC
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0xa423e747 Bass136_knob_Bass136_N_misc
+0x4abfd7b5 Bass136_knob_Bass136_N_bridge
+0x7f261953 Pos
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0xaf688bb6 bass136_glass_NodeArray
+0x3ff47bf4 RemovalFlags
+0xa49a1c84 Bass136_knob_Bass136_Glass
+0x385e8d74 SkinExport
+0xb7480d7e bass136_glass_NodeArray_SortedNames
+0x8de71e61 Bass136_Glass
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+

@@ -1,0 +1,1058 @@
+[LineNumbers]
+net_autolaunch_spawned 20 (0,179) (20,181) (57,183) (165,185) (200,186) (206,188) (208,190) (244,191) (280,193) (289,194) (340,195) (342,196) (344,197) (346,198) (396,200) (398,201) (432,203) (468,204) (488,205) (524,206) 
+autolaunch_goto_setlist 11 (0,210) (36,212) (140,214) (149,216) (169,217) (204,218) (256,220) (265,222) (271,223) (273,224) (275,225) 
+quit_network_game 22 (0,233) (36,234) (72,235) (108,236) (144,238) (150,242) (156,246) (162,247) (196,249) (208,251) (244,252) (262,253) (274,254) (276,255) (278,256) (296,258) (348,259) (352,260) (404,261) (406,262) (464,271) (520,272) 
+postgame_lobby_quit 21 (52,286) (88,288) (107,289) (144,290) (173,291) (175,292) (181,294) (199,295) (264,296) (266,297) (272,299) (278,300) (316,301) (368,302) (422,303) (426,304) (476,305) (530,306) (532,307) (534,308) (536,309) 
+net_clear_player_info 21 (76,322) (97,323) (120,324) (144,327) (167,328) (190,329) (213,330) (236,331) (259,332) (283,333) (306,334) (329,335) (352,336) (376,337) (424,338) (453,339) (468,341) (486,342) (498,343) (500,344) (524,345) 
+net_clear_all_remote_player_info 10 (0,354) (12,355) (14,357) (40,358) (58,359) (62,360) (85,361) (87,362) (109,363) (116,364) 
+shut_down_net_play 16 (0,372) (36,374) (72,375) (78,377) (128,381) (180,384) (216,388) (234,390) (240,391) (242,392) (248,394) (254,395) (260,397) (312,399) (364,400) (370,402) 
+select_quit_network_game 33 (68,415) (104,416) (140,417) (142,418) (180,419) (216,420) (218,421) (236,423) (242,424) (260,425) (269,426) (287,428) (336,429) (340,430) (358,431) (408,432) (412,433) (449,434) (467,435) (469,436) (471,437) (475,438) (508,440) (510,441) (514,442) (564,443) (582,444) (650,445) (670,446) (738,447) (740,448) (742,449) (744,450) 
+quit_network_game_early 13 (0,458) (13,459) (15,460) (17,461) (23,465) (41,468) (80,470) (86,471) (90,472) (108,473) (114,474) (116,475) (118,476) 
+generic_net_sync 18 (0,487) (6,488) (12,489) (14,490) (26,491) (64,492) (104,493) (113,494) (115,495) (128,496) (130,497) (132,498) (134,499) (184,500) (186,501) (195,502) (201,503) (203,504) 
+start_first_net_song 5 (0,514) (6,515) (34,516) (108,517) (110,518) 
+continue_between_net_songs 13 (0,533) (36,534) (72,535) (108,536) (160,538) (200,539) (236,540) (288,542) (292,543) (376,544) (382,545) (416,546) (418,547) 
+cancel_join_server 5 (0,555) (36,556) (42,560) (92,563) (144,564) 
+set_match_values 17 (0,573) (36,574) (42,575) (48,576) (65,577) (71,581) (103,582) (115,583) (149,584) (161,585) (163,586) (166,588) (179,589) (192,590) (207,591) (220,592) (222,593) 
+set_network_preferences 53 (0,601) (36,602) (52,605) (70,606) (104,607) (118,608) (120,609) (160,611) (177,612) (190,613) (224,615) (237,616) (273,617) (286,618) (322,619) (335,620) (337,621) (355,623) (363,624) (373,625) (409,626) (422,627) (458,628) (471,629) (509,630) (522,631) (560,632) (562,633) (566,634) (582,635) (584,636) (618,638) (652,639) (665,640) (667,641) (669,642) (704,644) (760,646) (800,648) (806,650) (841,651) (843,653) (884,654) (901,656) (922,658) (956,660) (972,661) (979,662) (982,663) (995,664) (1008,665) (1020,666) (1022,667) 
+tmr_collect 2 (28,676) (46,677) 
+console_is_net_career_client 10 (0,684) (6,686) (24,687) (33,688) (43,689) (72,690) (74,691) (76,692) (78,693) (108,695) 
+set_netgame_globals 5 (0,703) (36,704) (43,705) (61,707) (79,708) 
+cleanup_sessionfuncs 4 (0,718) (36,719) (72,720) (108,721) 
+setup_sessionfuncs 7 (0,731) (36,732) (72,734) (108,735) (144,736) (180,737) (232,738) 
+launch_game 8 (0,747) (6,749) (24,754) (30,755) (92,756) (96,757) (132,758) (134,759) 
+load_and_sync_timing 13 (28,768) (64,771) (116,774) (122,779) (172,782) (190,783) (224,784) (264,785) (268,786) (274,787) (325,788) (340,789) (342,790) 
+launch_network_game 2 (0,798) (36,801) 
+net_control_whammy_pitch_loop 14 (0,809) (36,810) (102,811) (104,813) (110,816) (123,817) (141,818) (147,821) (169,822) (200,824) (236,827) (335,828) (337,829) (372,831) 
+net_whammy_pitch_shift 30 (0,842) (18,844) (52,845) (70,846) (72,847) (114,849) (164,850) (166,851) (170,852) (193,853) (209,854) (227,855) (240,856) (262,857) (276,858) (278,859) (310,860) (340,862) (378,863) (420,864) (443,865) (492,867) (500,868) (502,869) (532,871) (570,872) (612,873) (664,875) (666,876) (668,877) 
+net_init 7 (0,885) (36,887) (72,888) (78,890) (84,891) (120,893) (126,896) 
+wait_for_dw_init 10 (0,905) (2,906) (20,907) (22,908) (24,909) (76,911) (78,912) (84,914) (90,916) (96,918) 
+add_active_controllers 12 (0,926) (6,928) (18,929) (30,930) (32,931) (58,932) (79,933) (116,934) (118,935) (120,936) (142,938) (150,939) 
+add_active_controllers_local 12 (0,947) (6,949) (18,950) (30,951) (32,952) (58,953) (84,954) (121,955) (123,956) (125,957) (147,959) (155,960) 
+update_ingame_controllers 26 (0,969) (15,972) (17,973) (19,974) (37,976) (88,977) (124,978) (160,980) (175,982) (187,984) (205,985) (218,986) (220,987) (244,988) (281,989) (303,990) (311,991) (313,992) (317,993) (354,995) (356,996) (360,997) (366,999) (368,1000) (370,1001) (372,1002) 
+start_network_game 4 (0,1010) (9,1012) (15,1013) (17,1014) 
+online_fail_song 6 (0,1023) (36,1024) (57,1026) (59,1027) (61,1028) (67,1030) 
+broadcast_received_winner_stats 4 (0,1039) (24,1041) (48,1044) (72,1045) 
+set_rich_presence_game_mode 22 (0,1053) (6,1055) (24,1057) (36,1058) (50,1059) (84,1060) (104,1061) (112,1063) (122,1064) (156,1065) (169,1066) (204,1067) (217,1068) (252,1069) (265,1070) (300,1071) (313,1072) (348,1073) (361,1074) (396,1075) (398,1076) (400,1077) 
+start_up_in_game_ads 5 (0,1086) (9,1092) (60,1097) (64,1098) (66,1102) 
+xenon_singleplayer_session_init 21 (28,1113) (37,1115) (72,1120) (108,1121) (144,1123) (153,1125) (204,1126) (206,1127) (210,1130) (220,1132) (260,1133) (278,1134) (315,1136) (348,1138) (350,1139) (354,1140) (388,1141) (424,1142) (426,1143) (428,1144) (430,1145) 
+begin_singleplayer_game 12 (0,1156) (18,1158) (27,1159) (80,1160) (132,1161) (134,1162) (136,1163) (140,1164) (192,1165) (244,1166) (246,1167) (248,1168) 
+end_singleplayer_game 5 (0,1176) (52,1178) (104,1179) (106,1180) (156,1181) 
+deinit_all_for_invite 2 (0,1190) (6,1191) 
+xenon_singleplayer_session_begin_uninit 6 (0,1199) (9,1201) (64,1202) (116,1203) (118,1204) (120,1205) 
+xenon_singleplayer_session_complete_uninit 5 (0,1213) (40,1216) (92,1217) (94,1218) (144,1220) 
+net_pausegh 6 (0,1234) (36,1235) (72,1236) (108,1238) (144,1240) (196,1241) 
+net_unpausegh 5 (0,1249) (36,1250) (112,1251) (164,1252) (200,1253) 
+create_net_popup 10 (44,1261) (50,1263) (84,1265) (91,1267) (103,1268) (116,1269) (129,1270) (141,1271) (147,1272) (149,1273) 
+destroy_net_popup 3 (0,1303) (36,1304) (42,1305) 
+net_get_character_name 10 (44,1313) (108,1315) (125,1317) (142,1318) (160,1320) (190,1321) (194,1322) (229,1323) (231,1324) (257,1328) 
+fake_invite 5 (0,1337) (18,1341) (68,1342) (70,1343) (95,1344) 
+invite_accepted 15 (0,1353) (36,1356) (117,1357) (152,1358) (154,1359) (211,1361) (229,1362) (247,1364) (336,1366) (372,1367) (390,1368) (394,1370) (460,1371) (462,1372) (474,1375) 
+do_join_invite_stuff 150 (0,1385) (60,1387) (66,1388) (75,1394) (112,1395) (148,1396) (272,1397) (308,1398) (310,1399) (312,1400) (314,1401) (352,1404) (358,1405) (384,1407) (420,1411) (433,1412) (437,1413) (450,1414) (452,1415) (475,1417) (508,1418) (514,1421) (548,1423) (554,1426) (563,1428) (612,1432) (616,1433) (668,1437) (670,1438) (676,1442) (678,1444) (696,1445) (698,1446) (718,1447) (752,1448) (754,1449) (804,1451) (806,1452) (840,1456) (846,1458) (852,1461) (870,1463) (920,1466) (922,1467) (928,1470) (948,1472) (950,1474) (952,1475) (958,1477) (964,1480) (1004,1482) (1027,1485) (1050,1486) (1056,1487) (1058,1488) (1060,1489) (1062,1490) (1096,1493) (1102,1497) (1108,1502) (1126,1504) (1160,1507) (1284,1508) (1320,1509) (1356,1510) (1392,1512) (1396,1513) (1402,1516) (1409,1518) (1421,1519) (1429,1520) (1441,1521) (1456,1522) (1462,1523) (1474,1525) (1482,1526) (1497,1527) (1499,1528) (1501,1529) (1503,1530) (1536,1531) (1538,1535) (1540,1536) (1583,1546) (1622,1548) (1624,1549) (1630,1556) (1636,1558) (1642,1562) (1652,1568) (1665,1569) (1667,1570) (1707,1571) (1728,1572) (1768,1573) (1772,1575) (1879,1576) (1916,1577) (1918,1578) (1922,1579) (2005,1580) (2042,1581) (2044,1582) (2046,1583) (2068,1584) (2075,1585) (2077,1586) (2116,1594) (2122,1596) (2256,1597) (2292,1598) (2296,1599) (2332,1605) (2334,1606) (2372,1607) (2408,1608) (2460,1609) (2464,1610) (2500,1611) (2502,1612) (2504,1613) (2506,1614) (2540,1615) (2592,1620) (2602,1622) (2622,1623) (2631,1624) (2637,1626) (2672,1627) (2674,1628) (2692,1629) (2728,1630) (2764,1631) (2770,1632) (2801,1633) (2821,1634) (2827,1636) (2860,1637) (2896,1638) (2898,1639) (2900,1640) (2902,1641) (2904,1642) (2908,1643) (2980,1645) (3116,1647) (3152,1648) (3188,1650) (3224,1652) (3226,1655) 
+invite_wait_for_existing_signin_memcard_dlc_stuff_to_complete 33 (0,1666) (100,1668) (106,1670) (108,1673) (126,1674) (128,1675) (130,1676) (264,1678) (316,1680) (318,1681) (324,1683) (326,1686) (372,1687) (374,1688) (376,1689) (386,1691) (395,1693) (532,1700) (534,1701) (536,1702) (538,1704) (672,1706) (724,1708) (726,1709) (732,1711) (734,1714) (792,1715) (794,1716) (796,1717) (944,1719) (996,1721) (998,1722) (1004,1724) 
+menu_show_gamercard_from_netid 10 (0,1733) (64,1735) (85,1737) (104,1738) (106,1739) (108,1740) (144,1742) (193,1743) (195,1744) (197,1745) 
+win_now 3 (0,1748) (72,1749) (90,1750) 
+splash_callback 8 (0,1756) (36,1757) (43,1759) (80,1760) (116,1761) (120,1762) (156,1763) (158,1764) 
+RemoveObserverBG 1 (0,1772) 
+net_disable_pause 7 (0,1781) (40,1782) (58,1783) (64,1784) (66,1785) (68,1786) (74,1788) 
+net_fail_coop_song 8 (0,1796) (36,1797) (136,1799) (142,1800) (176,1802) (212,1803) (248,1805) (284,1806) 
+set_ready_for_input 3 (0,1823) (36,1824) (72,1825) 
+set_demonware_failed 3 (0,1833) (36,1834) (72,1835) 
+set_disable_demonware_input 2 (0,1843) (36,1844) 
+online_end_song 27 (0,1852) (36,1853) (57,1856) (92,1858) (94,1859) (96,1860) (132,1862) (168,1863) (179,1864) (185,1865) (191,1866) (193,1867) (199,1869) (217,1870) (252,1871) (270,1872) (282,1874) (284,1875) (308,1876) (339,1877) (367,1878) (369,1879) (390,1880) (398,1881) (400,1882) (402,1883) (427,1885) 
+client_handle_end_song 6 (0,1894) (36,1895) (108,1896) (126,1897) (132,1899) (168,1901) 
+net_load_preferences 6 (0,1910) (104,1920) (192,1927) (296,1935) (400,1943) (488,1951) 
+new_net_player 23 (0,1968) (36,1969) (90,1970) (97,1972) (127,1979) (151,1981) (175,1982) (199,1983) (223,1984) (247,1985) (271,1986) (295,1987) (318,1988) (342,1989) (366,1990) (390,1991) (414,1992) (432,1994) (439,1995) (443,1996) (466,1998) (468,1999) (491,2001) 
+adjust_rest_of_on_stage_characters 77 (0,2010) (6,2011) (56,2012) (58,2013) (60,2014) (70,2016) (72,2017) (74,2018) (108,2020) (126,2021) (128,2022) (130,2023) (164,2024) (192,2025) (198,2026) (200,2027) (236,2028) (248,2030) (260,2031) (262,2032) (285,2033) (302,2034) (319,2035) (336,2036) (396,2037) (413,2038) (431,2039) (444,2040) (446,2041) (448,2042) (450,2043) (472,2045) (480,2046) (516,2048) (552,2049) (564,2051) (566,2052) (578,2053) (590,2054) (592,2055) (615,2056) (632,2057) (692,2058) (709,2059) (728,2060) (730,2061) (732,2062) (734,2063) (756,2065) (764,2066) (783,2069) (796,2070) (798,2071) (800,2072) (822,2074) (829,2075) (868,2077) (892,2078) (910,2080) (925,2081) (929,2082) (942,2083) (944,2084) (962,2086) (992,2088) (1026,2089) (1052,2090) (1076,2091) (1080,2092) (1104,2093) (1128,2094) (1130,2095) (1132,2096) (1136,2097) (1138,2098) (1140,2099) (1147,2101) 
+adjust_rest_of_on_stage_characters_and_instruments 61 (0,2109) (6,2115) (56,2116) (58,2118) (60,2119) (70,2121) (72,2123) (74,2124) (108,2137) (126,2138) (128,2140) (130,2141) (139,2145) (153,2147) (171,2148) (183,2149) (185,2150) (216,2151) (246,2152) (260,2153) (281,2154) (289,2155) (291,2156) (324,2164) (326,2165) (343,2166) (355,2168) (388,2169) (406,2170) (418,2171) (420,2172) (472,2173) (485,2174) (487,2175) (489,2176) (510,2177) (518,2178) (520,2179) (538,2181) (568,2182) (582,2183) (584,2184) (613,2186) (621,2187) (633,2196) (645,2197) (647,2198) (664,2199) (682,2200) (716,2202) (734,2203) (773,2208) (802,2209) (816,2210) (828,2212) (830,2214) (832,2215) (853,2217) (860,2218) (878,2220) (880,2223) 
+net_start_character_silhouette 5 (0,2234) (64,2236) (100,2238) (161,2240) (190,2241) 
+net_stop_character_silhouette 4 (0,2250) (64,2252) (100,2254) (129,2256) 
+check_for_net_appearance_arrival 12 (0,2266) (64,2267) (66,2269) (83,2271) (115,2273) (117,2274) (140,2275) (158,2276) (160,2277) (162,2278) (212,2279) (214,2280) 
+net_appearance_is_valid 16 (0,2289) (64,2290) (81,2294) (91,2296) (101,2297) (114,2298) (127,2299) (140,2300) (153,2301) (166,2302) (179,2303) (192,2304) (224,2305) (232,2306) (264,2307) (266,2308) 
+host_proceed_to_online_play 3 (0,2317) (36,2318) (42,2323) 
+SetAutoLaunchHostNetLevel 3 (0,2332) (36,2333) (72,2335) 
+SetAutoLaunchClient 3 (0,2343) (36,2344) (72,2346) 
+get_controller_type 6 (0,2354) (40,2355) (72,2356) (74,2357) (92,2359) (106,2361) 
+get_player_num_from_controller 14 (0,2422) (64,2423) (76,2425) (88,2426) (100,2427) (102,2428) (119,2429) (138,2433) (151,2434) (153,2435) (155,2436) (176,2437) (184,2438) (198,2445) 
+get_local_player_num_from_controller 12 (0,2455) (64,2456) (76,2458) (88,2464) (90,2465) (107,2466) (126,2467) (128,2468) (130,2469) (151,2471) (159,2472) (173,2474) 
+net_dummy_get_needed_search_params 18 (0,2482) (18,2493) (30,2494) (42,2495) (54,2496) (66,2497) (86,2498) (98,2499) (110,2500) (122,2501) (134,2502) (154,2503) (166,2504) (178,2505) (190,2506) (202,2507) (204,2508) (254,2510) 
+net_get_player_instrument 10 (0,2519) (64,2523) (82,2527) (94,2529) (126,2531) (147,2532) (159,2533) (161,2534) (163,2535) (178,2537) 
+net_get_player_guitar_flag 10 (0,2546) (36,2547) (100,2549) (118,2551) (135,2552) (153,2553) (184,2554) (188,2555) (220,2556) (222,2557) 
+net_get_player_cash 2 (0,2565) (32,2566) 
+net_get_player_difficulty 10 (0,2574) (64,2575) (82,2578) (100,2579) (117,2580) (121,2581) (156,2582) (168,2583) (170,2584) (184,2586) 
+get_local_players_in_game 22 (0,2594) (36,2595) (45,2596) (57,2597) (61,2598) (73,2599) (75,2600) (87,2601) (96,2602) (108,2603) (110,2604) (147,2605) (184,2606) (213,2607) (234,2608) (268,2609) (272,2610) (301,2611) (303,2612) (324,2613) (332,2614) (358,2616) 
+transfer_controller_value_for_local_player 49 (0,2624) (36,2625) (45,2626) (57,2627) (61,2628) (73,2629) (75,2630) (88,2632) (100,2633) (102,2634) (167,2635) (176,2636) (225,2637) (238,2638) (240,2639) (244,2640) (257,2641) (259,2642) (277,2644) (368,2645) (392,2646) (432,2647) (472,2648) (512,2649) (552,2650) (592,2651) (632,2652) (672,2653) (712,2654) (752,2655) (792,2656) (832,2657) (872,2658) (912,2659) (952,2660) (992,2661) (1032,2662) (1050,2664) (1068,2665) (1091,2666) (1115,2667) (1117,2668) (1119,2669) (1121,2670) (1142,2671) (1150,2672) (1168,2674) (1191,2675) (1193,2676) 
+net_choose_gamemode_from_players 11 (0,2684) (36,2685) (42,2687) (49,2688) (81,2689) (116,2690) (150,2692) (152,2694) (204,2696) (227,2697) (229,2698) 
+do_PS3_signin_state_change 25 (0,2707) (36,2708) (43,2709) (55,2713) (92,2714) (144,2715) (166,2716) (168,2717) (170,2718) (208,2720) (268,2721) (279,2722) (316,2726) (352,2727) (408,2728) (410,2729) (444,2732) (480,2733) (516,2734) (552,2735) (604,2736) (647,2739) (651,2740) (711,2741) (713,2742) 
+net_matchmaking_ask_accept_lower_difficulty 40 (0,2779) (36,2780) (72,2782) (108,2783) (110,2784) (112,2785) (128,2788) (146,2789) (180,2790) (194,2791) (196,2792) (213,2793) (245,2794) (280,2795) (282,2796) (284,2797) (320,2800) (356,2802) (373,2804) (380,2806) (392,2807) (404,2808) (416,2809) (428,2810) (434,2811) (442,2812) (444,2813) (456,2814) (468,2815) (470,2816) (472,2817) (484,2818) (496,2819) (498,2820) (500,2821) (513,2822) (515,2823) (544,2825) (596,2826) (648,2829) 
+net_matchmaking_ask_late_found_players 14 (0,2838) (36,2839) (38,2841) (92,2842) (144,2843) (196,2844) (208,2845) (227,2847) (233,2848) (235,2849) (237,2850) (239,2851) (288,2852) (290,2853) 
+net_matchmaking_ask_return 10 (0,2862) (36,2863) (72,2865) (78,2866) (80,2867) (120,2868) (138,2869) (140,2870) (176,2871) (212,2873) 
+net_matchmaking_loosen_difficulty 4 (0,2881) (36,2882) (72,2884) (79,2886) 
+net_matchmaking_check_accept_difficulty 7 (0,2894) (12,2896) (48,2898) (52,2900) (64,2901) (66,2902) (88,2904) 
+is_accepting_invite_or_sigining_out 5 (0,2912) (35,2914) (64,2915) (66,2916) (96,2917) 
+is_accepting_invite 5 (0,2926) (18,2928) (48,2929) (50,2930) (80,2931) 
+is_signing_out 5 (0,2940) (18,2942) (48,2943) (50,2944) (80,2945) 
+FlowSync_Sync_BlockingForHost 12 (0,2954) (6,2955) (15,2957) (17,2958) (26,2959) (28,2960) (30,2961) (64,2963) (116,2964) (118,2965) (120,2966) (156,2968) 
+FlowSync_Sync_BlockingForAll 21 (108,2983) (144,2984) (150,2985) (163,2987) (165,2988) (174,2989) (176,2990) (178,2991) (210,2993) (244,2995) (268,2996) (270,2997) (304,2999) (326,3000) (332,3001) (334,3002) (352,3004) (388,3005) (401,3006) (403,3007) (436,3009) 
+FlowSync_Sync_NotBlockingForHost 12 (0,3018) (36,3020) (54,3021) (88,3022) (90,3023) (113,3024) (136,3026) (154,3027) (156,3028) (158,3029) (160,3030) (162,3031) 
+FlowSync_QueryReadyToContinue 21 (0,3040) (10,3041) (44,3042) (46,3043) (58,3045) (64,3047) (82,3048) (88,3049) (90,3050) (107,3051) (125,3052) (137,3053) (139,3054) (141,3055) (159,3057) (177,3058) (179,3059) (181,3060) (183,3061) (185,3062) (193,3064) 
+FlowSync_QueryReadyToContinueAll 18 (0,3073) (13,3074) (19,3076) (37,3077) (43,3078) (45,3079) (62,3080) (80,3081) (93,3082) (95,3083) (97,3084) (115,3086) (133,3087) (135,3088) (137,3089) (139,3090) (141,3091) (149,3093) 
+FlowSync_CleanUp 15 (0,3102) (10,3103) (44,3104) (46,3105) (52,3108) (70,3109) (76,3110) (78,3111) (101,3112) (119,3114) (137,3115) (139,3116) (141,3117) (143,3118) (145,3119) 
+FlowSync_LocalCleanUp 12 (0,3128) (36,3131) (54,3132) (88,3133) (90,3134) (113,3135) (136,3137) (154,3138) (156,3139) (158,3140) (160,3141) (162,3142) 
+net_save_and_uistate_change 7 (44,3154) (50,3156) (88,3158) (123,3159) (127,3160) (157,3161) (159,3162) 
+common_start_matchmaking_setup 50 (0,3171) (36,3174) (88,3175) (124,3176) (136,3179) (138,3180) (161,3181) (183,3182) (190,3183) (234,3186) (252,3188) (282,3189) (316,3191) (334,3192) (368,3194) (370,3195) (394,3196) (417,3197) (425,3198) (427,3200) (429,3202) (431,3203) (480,3206) (503,3207) (509,3208) (532,3209) (550,3210) (562,3211) (564,3212) (604,3213) (616,3214) (634,3215) (646,3216) (648,3217) (716,3218) (728,3219) (730,3220) (732,3221) (753,3222) (761,3223) (763,3224) (781,3225) (818,3226) (820,3227) (822,3228) (844,3229) (852,3230) (854,3231) (860,3233) (866,3234) 
+lock_player_parts 33 (0,3242) (36,3243) (45,3245) (51,3246) (69,3247) (104,3248) (153,3250) (202,3251) (204,3252) (221,3253) (238,3254) (260,3255) (291,3256) (309,3257) (366,3258) (392,3259) (415,3260) (419,3261) (442,3262) (444,3263) (464,3264) (521,3265) (547,3266) (570,3267) (574,3268) (597,3269) (599,3270) (601,3271) (603,3272) (632,3273) (642,3274) (644,3275) (646,3277) 
+match_team_player_parts 54 (0,3286) (36,3287) (64,3289) (70,3291) (88,3292) (124,3293) (173,3296) (222,3297) (224,3298) (241,3299) (258,3300) (280,3301) (311,3302) (329,3303) (386,3304) (406,3305) (463,3306) (465,3307) (467,3308) (496,3309) (506,3310) (519,3313) (552,3314) (565,3316) (567,3317) (614,3319) (665,3320) (687,3321) (804,3322) (855,3323) (869,3324) (871,3325) (889,3327) (895,3328) (897,3329) (914,3330) (949,3332) (975,3333) (998,3334) (1020,3335) (1077,3336) (1134,3337) (1136,3338) (1138,3339) (1156,3342) (1158,3343) (1160,3344) (1178,3346) (1188,3347) (1190,3349) (1212,3351) (1228,3352) (1230,3354) (1232,3356) 
+update_ui_total_players 25 (0,3365) (36,3366) (42,3368) (80,3370) (116,3371) (118,3372) (152,3374) (170,3376) (204,3377) (240,3378) (259,3379) (308,3380) (314,3381) (316,3382) (320,3383) (326,3384) (376,3385) (388,3386) (425,3387) (476,3388) (482,3389) (484,3390) (486,3391) (520,3396) (538,3400) 
+net_clear_all_player_infos 6 (0,3408) (13,3409) (15,3410) (33,3411) (55,3412) (62,3413) 
+net_msg_update_joining_ui 42 (0,3421) (36,3422) (45,3423) (120,3429) (196,3434) (198,3435) (232,3436) (238,3438) (276,3440) (312,3441) (314,3442) (320,3445) (333,3448) (335,3449) (380,3450) (404,3451) (426,3452) (433,3453) (439,3455) (457,3457) (463,3458) (467,3459) (504,3460) (544,3461) (546,3462) (548,3463) (584,3465) (590,3467) (596,3469) (648,3471) (666,3474) (704,3475) (756,3476) (758,3477) (760,3478) (812,3480) (821,3482) (839,3483) (845,3486) (920,3487) (922,3488) (924,3489) 
+start_dlc_songlist_sync 2 (0,3497) (36,3498) 
+invite_to_game 45 (0,3506) (64,3508) (76,3510) (88,3511) (97,3513) (109,3514) (111,3515) (121,3517) (131,3518) (176,3519) (189,3520) (234,3521) (247,3522) (292,3523) (294,3524) (302,3526) (304,3527) (317,3528) (330,3529) (332,3530) (334,3531) (346,3533) (373,3534) (386,3535) (399,3536) (412,3537) (425,3538) (438,3539) (440,3540) (452,3541) (518,3543) (520,3545) (556,3547) (565,3548) (602,3549) (604,3550) (606,3551) (624,3552) (660,3553) (662,3554) (674,3556) (676,3557) (705,3558) (726,3559) (736,3560) 
+create_invite_sent_dialog 30 (0,3568) (64,3569) (100,3570) (102,3572) (125,3573) (127,3574) (129,3575) (180,3577) (182,3578) (189,3581) (201,3582) (213,3583) (225,3584) (241,3585) (253,3586) (274,3587) (294,3588) (296,3590) (512,3601) (530,3602) (563,3603) (565,3604) (620,3606) (632,3607) (684,3608) (740,3609) (752,3610) (788,3612) (824,3613) (826,3614) 
+test_send 6 (0,3623) (32,3624) (44,3625) (56,3626) (63,3628) (87,3630) 
+test_callback 3 (0,3638) (36,3639) (43,3640) 
+test_sequenced_msgs 2 (0,3648) (76,3649) 
+callback_test_sequenced_msgs 2 (0,3659) (23,3660) 
+test_retrieve_friends_list 3 (0,3668) (36,3671) (168,3673) 
+test_friends_callback 4 (0,3681) (36,3682) (43,3684) (180,3686) 
+print_current_net_prefs 5 (0,3696) (40,3697) (47,3698) (88,3699) (95,3700) 
+check_signin_wrapper 20 (0,3708) (7,3709) (38,3713) (112,3714) (116,3715) (192,3716) (194,3717) (200,3718) (221,3720) (256,3721) (260,3722) (269,3723) (300,3726) (376,3727) (380,3728) (456,3729) (458,3730) (464,3731) (466,3732) (468,3733) 
+debug_4player_signin 5 (0,3741) (9,3742) (44,3743) (50,3744) (52,3745) 
+print_player_net_info 26 (0,3753) (36,3754) (48,3755) (50,3756) (104,3757) (118,3758) (130,3759) (147,3760) (164,3761) (181,3762) (198,3763) (215,3764) (232,3765) (249,3766) (266,3767) (289,3768) (312,3769) (335,3770) (358,3771) (381,3772) (404,3773) (416,3774) (428,3775) (440,3776) (461,3777) (468,3778) 
+sync_host_and_client 3 (28,3787) (65,3788) (83,3789) 
+callback_motdimagepak1_loaded 2 (0,3798) (36,3800) 
+callback_motdimagepak1_unloaded 2 (0,3808) (36,3810) 
+callback_motdimagepak2_loaded 2 (0,3819) (36,3821) 
+callback_motdimagepak2_unloaded 2 (0,3829) (36,3831) 
+callback_motdimagepak3_loaded 2 (0,3840) (36,3842) 
+callback_motdimagepak3_unloaded 2 (0,3850) (36,3852) 
+callback_motd 22 (0,3861) (72,3869) (90,3871) (92,3873) (94,3874) (112,3875) (114,3877) (116,3878) (134,3879) (136,3881) (138,3882) (153,3887) (173,3891) (212,3897) (320,3903) (322,3905) (360,3932) (400,3933) (484,3934) (486,3935) (536,3936) (538,3937) 
+callback_motd_unloaded 2 (0,3946) (81,3947) 
+
+[Checksums]
+0x50700e07 scripts\game\net\guitar_net.qb
+0xb990d003 target
+0x8c5cf005 presence_online
+0xb7cb7006 ui_song_breakdown_setup_handler_scripts
+0x8e411006 b
+0x33522008 SetAutoLaunchHostNetLevel
+0x1bff900b quickplay
+0x275d100b transfer_controller_value_for_local_player
+0x7615400c net_whammy_pitch_shift
+0x44949010 difficulty
+0x915be013 temporary_netprofile_7
+0x16103016 num_8
+0x39940016 tutorial
+0xf967002a destroy_net_popup
+0x2a1c002c uistate_songlist
+0xcd0dc02d KillSpawnedScript
+0xd7b6902d restart_gem_scroller
+0x175f6036 TurnTeamTalkOff
+0x4dc74037 event_data
+0x621b703a compmega_guitar
+0x475bf03c event_handlers
+0x9775a050 msg
+0x49fdf051 menu_net_matchmaking_init
+0x4304e054 character_savegame
+0x8c2f3058 online_rockfest_vocals
+0xa895305e ResetClientsLoading
+0x4691905e net_load_preferences
+0xdd7c1061 MarketplacePersistenceFunc
+0xe6795062 button_text
+0x66898064 autolaunch_gamemode
+0x21902065 checksum
+0xb6fb1075 net_dummy_get_needed_search_params
+0xfc80507e test_retrieve_friends_list
+0xe65cd085 temporary_netprofile_6
+0x1365808f test_callback
+0xf9462090 c
+0x23bc5091 num
+0x572a9093 ui_event_remove_params
+0x51e55096 GuitarEvent_SongWon_Spawned
+0x0860e09c ui_memcard_autosave_all_players
+0x8da1f0a1 yourock_text_2
+0xe13620a8 no_sound
+0x696fe0ab number
+0x6e4590ac set_chosen_character_id
+0xf4dad0ad compmega_drum
+0x61d4d0be xenon_invite_confirm_dialog
+0x106b00c3 profanity_allowed
+0x92dba0c3 controller_idx
+0xa0a700cb online_pro_faceoff_vocals
+0x37bfd0d0 add_active_controllers
+0xe8dc80d1 AddToStringLookup
+0xf24470ea fest_mode_team_drum
+0xb7a0c0ec Controller_Lookup_Table
+0xe4f130f4 s
+0xc0f550f8 accepted_invite
+0xa02fa0f9 online_team_rockfest_guitar
+0x38fa80fe Transition_SelectTransition
+0x1da270ff create_net_popup
+0x3738e103 compmega_vocals
+0xab215108 GetFirstPlayer
+0x7031f10c params
+0x56a43111 mic_type
+0xaaf74113 PlayerInfoEquals
+0xf66ff117 in_game
+0x766ab11f party
+0x997a0121 motd_uninit
+0x8f287128 FlowSync_QueryReadyToContinueAll
+0x12f7212a deinit_all_for_invite
+0xee35a12c net_difficulty
+0x7f55813f temporary_netprofile_5
+0x73665140 CreateScreenElement
+0x2bd40147 gamertag_string
+0x5ef31148 array
+0xbb6c414b net_appearance_is_valid
+0x7df8614e p
+0xcc12115e song
+0x01dd615f DescInterface
+0xd90ca161 online_rockfest_guitar
+0x33eee163 FrontEnd
+0xff555169 ThreadSafeSetGlobalInteger
+0xbb82c16a net_player_handle
+0x99b6016a band_lobby_change_focus_submenu_all
+0x04d9716d total_award_points
+0xad5ae16d len_base
+0x6f12a16f sync_host_and_client
+0x01710171 FlowSync_Sync_NotBlockingForHost
+0xd3f4d172 dlg_z_priority
+0xcf66717b GotParam
+0x69f8e187 DynamicAdManagerCommand
+0x02a64187 ui_signin_changed_func
+0xeec9418a character_id
+0x98176190 postgame_lobby_quit
+0xa08bb195 global_name
+0x84aa91a8 net_get_player_instrument
+0x0852b1a9 temporary_netprofile_4
+0x605c71b1 online_team_rockfest_total
+0x5e9d11b2 player_num
+0xa223c1b2 band_lobby_matchmaking_update_loop
+0x765f31b6 join_in_progress_info
+0x5d0671b8 channel
+0xba0711b9 SFX_Backgrounds_New_Area
+0x174841bc a
+0x82b041bf online_team_rockfest_drums
+0xf50c31c0 online_team_rockfest_vocals
+0x6cd351c5 StartNetworkGame
+0xbebfa1c6 element
+0x6017f1cc ui_event
+0xc4c841d0 FlowSync_CleanUp
+0xd75191d7 current_transition
+0xbfa801df change
+0x589a71df UnpauseGame
+0x3b4631df IsPs3
+0xb14041e3 net_clear_player_info
+0xd16b61e6 starttime
+0xc47361ec band_lobby_strings
+0x3f93a1ef replace_handlers
+0xf58491f2 online_pro_faceoff_guitar
+0x204801f4 is_signing_out
+0xa1dc81f9 name
+0xcb5c11fa pad_option
+0x0e9e91fd RemoveTimeSyncTask
+0xb86b0202 JoinInviteServer
+0x4bfcd202 AddArrayElement
+0xc2885208 SetNewWhammyValue
+0xdb69820c data_to_send
+0xdc6c0213 FlowSync_LocalCleanUp
+0xe3707215 update_ui_total_players
+0x76d96221 online_fail_song
+0x0c57f229 GMan_StartGameModeGoal
+0x9a44422a menu_add
+0x8b60022f just
+0x29324230 GetActiveControllers
+0x60df1231 net_choose_gamemode_from_players
+0x9b434231 test3
+0x61ab3239 Ranked
+0x86452240 microphones
+0x60f6f242 GlobalName
+0x06c3f247 coop
+0x6e9a8251 fullname
+0x1d4b7251 send_local
+0x8d062260 console_id
+0x46159266 out
+0x3e04b26b gamemode
+0xa035226b presence_career
+0x5d9e3270 get_player_num_from_controller
+0x4fda4273 set_rich_presence_game_mode
+0xd1595275 deviceNum
+0xef2ba279 fadeouttime
+0xf4c26284 goals_by_player_size
+0x2b4d5284 get_settings
+0xa7a9b287 fest_mode_drum
+0xb52ff28e invite_controller
+0x339d2290 offline_party
+0x18b3b291 WaitOneGameFrame
+0x0bc942a0 net_clear_all_remote_player_info
+0x6fb972a0 controllerid
+0x11f692a6 SetPlayerInfo
+0xec4472a7 test2
+0x0cdbf2aa offline_quickplay
+0x7aad92ad is_ui_event_running
+0x95a8d2b3 test_sequenced_msgs
+0xd443a2bc off
+0x38a602bd xenon_invite_disallowed_ok
+0x25f772be xenon_invite_confirm_title
+0xe23542cc audio_kill_cutscene_audio
+0x483722d2 xenon_invite_confirm_yes
+0x7d71b2d3 is_instrument_specific
+0xb5f982d5 online_career
+0x1b49b2de SessionIsOver
+0x3f8bd2ed end_practice_song_slomo
+0x88e122f0 CreateCustomInvite
+0x460ad2f9 all_clients_are_ready
+0xfea7b302 note_streak
+0xb9337303 GMan_ShutDownGameModeGoal
+0x961df308 set_network_preferences
+0x0e9e130c for_invite
+0x4b40630d NewValue
+0x4697c311 invite_sent_container
+0xd208b317 IsMultiplayerAllowed
+0x4c0d1319 notes_hit
+0x754d231d test1
+0xe9f08321 uistate_pausemenu
+0x1ee68322 qp_score_points_stdband
+0xa11fd323 stop_party_session
+0xf0200326 continue_setlist_transition
+0xcf10a32a NET_DROP_PACKET_PERCENTAGE
+0xd4a7132e display_script
+0x4a07c332 frame
+0x819b9346 host_proceed_to_online_play
+0x77df6346 get_current_progression_award_points
+0x656f5347 respond_to_signin_changed_func
+0x24cd5348 invite_to_game
+0xa8ee7357 ScriptAssert
+0x4d9ab360 len_delta
+0x2053a36d stop_singleplayer_session
+0xb833736d action
+0x5c430371 pattern
+0xefe3f372 net_obj_id
+0x94453372 end_game_script
+0x0203b372 true
+0x5b058376 param
+0x4da4937b career
+0x68f46383 needed_guitars
+0xf2077387 GameIsOver
+0xefe37389 new_message_of_the_day
+0xbbf0138e band_lobby_end_game
+0x27dd7395 temp_net_id
+0x8c2fb395 game_msg
+0x504ce3a2 net_id
+0x6ca9a3a5 selected_index
+0xf44a53ab desc
+0xb3b813ae is_onscreen
+0xc46283ae time_remaining
+0xda3403b0 null
+0xbf8633b3 win_now
+0x1224d3b4 control
+0xdf67a3b4 net_matchmaking_ask_return
+0xfd6b13b4 Cheat_HyperSpeed
+0xb23813b5 is_accepting_invite
+0xbd7ce3b6 generic_net_sync
+0xc0fee3b8 player_index
+0xc5f953c2 button
+0xdf2063ca xenon_invite_disallowed_dialog
+0x78e773cb stats_init
+0x64c743cc uistate_gameplay
+0x7fd053cf ControlWhammyPitchShift
+0x57b303d5 xenon_singleplayer_session_init
+0xb99ae3d6 gameframes
+0xd85463d7 PS3_NON_PRIMARY_CONTROLLER_ID
+0x10c6f3db structure_name
+0xf2ace3db xenon_singleplayer_session_begin_uninit
+0x60b653db cancel_join_server
+0x4627a3de competitive
+0x400903ea connections
+0x74eb93eb message_of_the_day
+0x651533ec level
+0xc5bc93ee ScreenElementExists
+0x5ff293f1 do_join_invite_stuff
+0x0e4f13f6 vs
+0x20ef23f8 event_pause_game
+0xce6cf3fc launch_network_game
+0xe1e843fc print_player_net_info
+0x7ddd93fd num_local_controllers
+0x49e39403 AmericanWoman
+0xbbda0406 fastintro
+0xff0db407 textname
+0x9636240a temporary_netprofile_3
+0x8d92240c ui_event_exists_in_stack
+0x1e477412 set_background_download
+0x1a1ee416 new_value
+0xc3b8841d print_current_net_prefs
+0x9277f428 FormatText
+0xda81f42a signin_continue_data
+0x0c65f42b session_find_error
+0x0c51b433 stored_character_index
+0x6e2fd433 net_matchmaking_loosen_difficulty
+0xc2961436 ui_song_breakdown_competitive_setup_handler_scripts
+0x2c0b443a showGamerCard
+0x6c22c43c motd_subject_1
+0xbd09544c func
+0x958e3451 xenon_singleplayer_session_complete_uninit
+0xe11b3452 net_pause
+0x91f0e45a body_text
+0xbfecc45b goal_name
+0x6042f45c xenon_invite_confirm_no
+0x2e0b1465 flag
+0x38d59467 is_local
+0x1e93946b alias
+0x9d4c0477 force_part
+0x8320d478 game_mode
+0x949bc47b v
+0x24de1487 wait_for_blade_complete
+0xaf712489 found
+0xfe2be489 g
+0x92258496 Pref_Get
+0xe131149c temporary_netprofile_2
+0xb74ce4a3 respond_to_signin_changed
+0x5b9374a9 net_song_breakdown_countdown_time
+0xf7bce4aa fake_invite
+0x8c6bb4b0 ui_event_get_top
+0x39b5c4b0 getarraysize
+0xb2e074b7 call_it
+0x8618c4be net_update_event
+0x767a24c1 online_signin_autoload_required
+0x445114c8 NetSessionFunc
+0xdeef04cd StructureContains
+0xd6b5b4ce default_highway
+0xcb9fb4cf bass
+0xa2d8a4d1 fadeintype
+0x032314d1 goal
+0xb8e4d4d2 online_end_song
+0x12e0a4d6 disable_pause
+0xbf0f14db center
+0xc10b44e8 current_level
+0xd05254e8 has_found_players
+0x0f56b4eb ranked_info
+0x2c9894f6 chosen_character_id
+0xf8d7c4f9 GetNumPlayers
+0x395b94fa songtime_paused
+0x550824fc InviteSentInterface
+0x8da97503 primary_controller
+0xce4b5506 online_pro_faceoff_total
+0x2ca76508 online_pro_faceoff_drums
+0xb4357514 scale_step
+0x59b01514 do_PS3_signin_state_change
+0x64946516 CheckForSignin
+0x9d3fb516 focus
+0xd114f517 SetNetworkMode
+0x05d5d517 callback_motdimagepak3_unloaded
+0x7ad57518 delta_time
+0x8e82f520 num_controllers
+0xaa99c521 save
+0xdb96e524 block_menu_input
+0x0e61b525 RunScriptOnScreenElement
+0x78384526 temporary_netprofile_1
+0x0120052a callback_motdimagepak1_unloaded
+0xd9e4052c StartRendering
+0x4c87452e start_first_net_song
+0xf671452e goal_strings_by_player
+0x6722b533 d
+0x2fcd1533 silhouette
+0x76200538 net_career_song_index
+0xb40d153f select
+0x2f94c542 net_game_type_info
+0x4c29c545 RequireParams
+0x840d6547 GameMode_GetType
+0x61c9354b blue
+0xda29d555 controller_found
+0xc451f558 event
+0xb69d6568 easy
+0x6ffd656a setup_sessionfuncs
+0xaf9b956b IsRBDrum
+0x82fac56c menu
+0x2cc9b571 difference
+0xed9e3573 double_kick
+0x34a68574 dims
+0xc1b98577 LocalizedStringEquals
+0x2fca0578 options
+0xe8ba1579 primary
+0xcf6d357f begin_retrieve_friends_list
+0x56af1588 song_won
+0x1375e58b game_specific
+0x03f2058f prev_len
+0x9304e592 compmega_team
+0x38306595 start_delay
+0x67e6859a Player
+0x0f3f75b0 temporary_netprofile_0
+0x6b20e5b3 motd_init
+0x2c7815b6 band_lobby_update_button_helpers
+0xa977e5bb set_match_values
+0xf06ff5c0 set_netgame_globals
+0xe22dd5c2 lefty_flip
+0x4d9845c6 cleanup_sessionfuncs
+0xad10b5c8 get_saved_band_member
+0x568eb5ce NetFailSong
+0x91ec05e1 bl_toggle_player_menu_representation
+0xbed365ed song_breakdown_countdown_time
+0xa823c5ee continue_between_net_songs
+0x812365ef set_ready_for_input
+0x150d35f1 heading_text
+0x39b935f2 sysnotify_handle_signin_change
+0x83da35fd quit_type
+0x0722b5ff bl_private_match_ui_timeout
+0x96dfa600 motd_text
+0x8f61d602 ArrayName
+0x7bb9c604 menu_replace
+0x28f6e60c ClearGameOver
+0x2de8c60e printf
+0xed72a613 Pref_GetStruct
+0x77cfc616 PS3_invite_postion
+0xd029f619 seconds
+0x4d42e61d max_players
+0x34b5c61d RemoveAllControllers
+0x18538620 SonglistMatch
+0xc3409622 instrument
+0x824c9623 net_fail_coop_song
+0x8a4c762d song_checksum
+0x31d75630 IsHost
+0x2feba635 online_team_rockfest_bass
+0xf649d637 on
+0xaa6f4643 IsXenonOrWinDX
+0x7ee6b645 signin_continue_state
+0xd854c648 unpost_game
+0x7b027649 local_player_is_choosing_song
+0x0223a64e rich_presence_context
+0xa501464f DoesThisGetSent
+0x11926657 get_num_matchmaking_players
+0x4c7bc65b invite_failed
+0x310d665e uistate_net_setup
+0x7372c65e net_msg_update_joining_ui
+0x248f7671 GMan_PauseGoal
+0x6bef3672 SetScriptCannotPause
+0x62b79677 SetBandInfo
+0xb4503679 friends_init
+0x3065567d busy
+0x9a02768a guitars
+0x2f1fc695 alpha
+0x0f03269c quit_online_now
+0x2ba6b69c net_save_and_uistate_change
+0x1efdb6a6 shut_down_net_play
+0x0a0ba6a7 part_priority
+0x1cb2a6b0 num_players
+0x9cb106b0 presence_party_play
+0x3a2866b7 SetAutoLaunchClient
+0xe357b6bc stop_server_list
+0x966ce6c3 mic_preference
+0x019176c5 frames
+0xda5416cc xenon_invite_disallowed_title
+0x1bc296d0 private_slots
+0xebbd96dd net_matchmaking_ask_late_found_players
+0xff1496de state_device
+0x8b3006e0 connect
+0x4cb216e2 text_popup_text
+0x332816ed menu_id
+0x48446702 whammy_scale
+0xea271702 start_singleplayer_session
+0x20f5370b players_total
+0x2a33070c GameMode_GetMaxPlayers
+0x95a35711 tmr_collect
+0xf3f3c714 len
+0x74297717 local
+0x87a02720 net_num_players_data_ack
+0x6f7f2724 beginner
+0xc710f729 is_singleplayer_session
+0xaef3b72b default_loading_screen
+0x3e0f6740 uistate_band_lobby
+0xdda18741 confirm_params
+0xfcc74741 should_we_record_dynamic_ads_for_this_song
+0x2cb33744 LaunchEvent
+0xf221474c linear
+0xc774275a goals_by_player
+0x2ca2675e SetOutputLevel
+0x1b58675f sync_point_status
+0x8ccc4760 IsOldEnoughForOnline
+0x67f0d769 stats_uninit
+0x76b7b76b presence_practice
+0xbcab976e generic_event_replace
+0xce032770 inst_bass
+0x4c787770 DumpPlayerInfo
+0xe1a0477e musician_value
+0x0ed45788 Obj_SpawnScriptNow
+0x55abb78c net_career_quit_song
+0xd4c98794 title
+0x037e979a net_get_player_difficulty
+0xc9c8579b SyncAndLaunchNetGame
+0x2f5567b7 net_id_first
+0x7ef027b7 player_xuid
+0xc07787b8 fest_mode_team
+0xa5ffb7b8 g_num_lobby_local_submenus
+0x906b67ba time
+0x1804a7c4 voice
+0xd62777c5 get_savegame_from_player
+0x8b3f37c7 local_band
+0x1c8ce7c9 highway_layout
+0xe288a7cb value
+0x0c5f37cd Enable
+0xd43297cf false
+0x73b877d8 rb_drums
+0x7f3fd7da static
+0x9855d7e0 no
+0x54b387ea check_profanity
+0x0e2c57eb submenu_data
+0xddffb7f3 end_singleplayer_game
+0xdad957f5 net_autolaunch_level
+0xdaae87f8 num_local_players
+0x2660d7fd bPS3SingleSignOnCheckComplete
+0xdf4687ff g_leader_player_num
+0xde98c802 async_io_status
+0x4191f803 no_unpause
+0x50b7e804 live_settings_init
+0x83fd0806 load_z_Frathouse
+0xb9d4e80e get_fullname_of_character
+0x7f0bb814 GetSongTime
+0x4173e814 controller_type
+0xc4aa3815 net_id_second
+0x90fec815 structure
+0x732d281e Pref_Choose
+0x6df11820 test_friends_callback
+0xc195a822 create_dialog_box
+0x18cbb824 num_0
+0xf4d9a825 add_user_control_helper
+0xbc2e2828 persistent_band_refresh_changed_characters
+0x3acac82a uistate_mainmenu
+0x809a9834 j
+0x03a17838 current_song
+0xc4745838 text
+0x332dc838 invite_accepted
+0xa6e1b841 new_data
+0x5b9da842 containerelement
+0x1473a845 UnpauseSpawnedScript
+0x25209846 SE_WaitProps
+0xc256a84b diff_medium
+0x9d2d8850 z
+0x765e3856 band_member
+0x202fc857 going_to_career
+0x14e2885f SendStructure
+0x33730860 diff_easy
+0xef7af86c fest_mode
+0x023a686c adjust_rest_of_on_stage_characters
+0x02fe486c broadcast_received_winner_stats
+0x4268386d band_vs_band
+0x74fdb86d lock_player_parts
+0x5d6f386d gamertag_global
+0xf3886875 use_tilt_for_starpower
+0x129a5879 diff_expert_plus
+0x29d5d87b add_gamertag_helper
+0x4adb087f create_invite_sent_dialog
+0xa1026891 callback_motd_unloaded
+0x836f289e IsInGame
+0x7d1e889f net_clear_all_player_infos
+0x40c698af id
+0x6fcc88b2 num_1
+0x26bea8b2 dirty
+0xb3bee8b5 leave_party
+0x638408bd compmega_bass
+0x338b08c0 assign_new_primary_controller
+0xa84c38c4 recovered_dropped_players
+0x4dfba8c4 destroy_friend_feed
+0xe6cf88c4 callback_params
+0x825378c7 allow_back
+0x92c008c7 songtime
+0x2fcc88c9 signin_state_working
+0x89d918cc select_quit_network_game
+0xa65c38d1 GetSaveGameFromController
+0x6d8728d2 ready_to_continue
+0x7321a8d6 type
+0xb90a78d7 is_popup
+0x21cc38d9 ExtendCrc
+0x7ce468dd block
+0xe2bdd8de inst_vocals
+0x238ac8e1 callback_motdimagepak1_loaded
+0x24d378e4 cable_unplugged
+0x651aa8fa fest_mode_team_bass
+0x8508a8fc num_private_slots
+0x7f8c98fe index
+0x9204d901 Pref_Add
+0xba97f903 AddControllers
+0xcc3fb904 g_tmr_collect
+0x6cef5907 menu_change
+0xf6c5d908 num_2
+0xf84a290b num_extra_bassists
+0x3f1e8916 solo_highway_mode
+0xf3896918 destroy_loading_screen
+0x6e94f918 h
+0x34ac691d ONLINE_LOCKOUT_GAMEMODE
+0x981f4921 display_string_field
+0x0ad46922 controller_index
+0x6d133923 RemoveController
+0x8e29c923 fail_params
+0x52873926 offline_competitive
+0xae40f926 needed_drums
+0xeafc692e no_background
+0x3fc9d92f local_client
+0x2e86d939 ui_event_block
+0x9e59893a join_invite_fail_reason
+0x8892694c drop_player_script
+0x7f261953 pos
+0xf0f5d95a needed_microphones
+0x9751f95c game_modes
+0xe586795e uistate_play_song
+0xe7387961 net_matchmaking_check_accept_difficulty
+0xb30d9965 controller
+0x758fc96b match_uninit
+0xd9bcd96b invite_title
+0xcafc596b vocals_highway_view
+0x5e0e5973 join_in_progress
+0x3c521982 kill_gem_scroller
+0x2df8c983 net_ready_to_start
+0x83b57984 destroy
+0x1993c98e i
+0x57038992 bRet
+0x9cf0a995 invite_successful
+0x81c2e99e num_3
+0xcccc599f new_net_player
+0x7d5d29a9 SetButtonEventMappings
+0xc1fa69ab CreateCustomMessage
+0x542449ae Playlist_GetCurrentSong
+0x27e779ae clear_temp_net_id_array
+0x6f9d99b0 presence_head_to_head
+0x3c15e9b6 DestroyScreenElement
+0xd1ad39bb Cheat_HyperSpeed_Value
+0x071579c4 dont_set
+0x1b0509c5 savegame
+0xe61ce9d4 splash_callback
+0x4464b9d4 local_players
+0xadb059d6 current_band_lobby_popup
+0x97a219db continue_to_next_song
+0xa2ff29db net_get_player_cash
+0x27ef39df career_cash
+0x3b1f59e0 team
+0xc130f9e5 ScriptIsRunning
+0xb79e49e7 inst_guitar
+0xa9bb09ec get_player_infos_in_use
+0x850b09f9 DEBUG_matchmaking_early_desirable
+0xc2c5da03 MusicStudio_IsInMusicStudio
+0xb44c5a07 beta_net_game_type_info
+0x26982a07 all_buttons
+0xc9428a08 device_num
+0x89a18a0b FinalizeJoinProcessLocalOnly
+0x752f6a23 begin_singleplayer_game
+0x39ecca27 g_career_search
+0x634b2a2a BG_SFX_Area
+0x2fbb2a2b session
+0x91aa6a4b set_demonware_failed
+0xa446da4c SetOutputDestination
+0x8a18ca56 yes
+0x30e6fa59 offline_career
+0xcea42a5e trace
+0x390d5a5f focus_type
+0xa59f1a61 audio_crowd_loading_whistle
+0x036a5a67 destroy_player_drop_events
+0xea482a69 player_infos_in_use
+0x18a3aa6f OnlineSignIn
+0xdad23a77 quit_network_game_early
+0xafd20a78 start_time
+0x1fd26a7a user_control_helper_exists
+0x2a58da7a wait_count
+0x13b9da7b scale
+0x76fa7a8f ChecksumName
+0x918eba92 confirm_quit_online
+0x5adb5a92 FlowSync_Sync_BlockingForHost
+0x30f76a97 fest_mode_bass
+0x81d35a9d console_is_net_career_client
+0xb4937aa6 net_autolaunch_role
+0x1fb7faa6 start_dlc_songlist_sync
+0x215a7ab3 num_matchmaking_players
+0xac4f6ab5 found_player
+0x7cafbac3 callback_test_sequenced_msgs
+0x8a15facc qp_score_points_band
+0xddec2ace live_settings
+0x5e29bad0 log_tty
+0x99298ad7 musicstudio_mainobj
+0x2b3afad9 Playlist_SetCurrentSong
+0x865f6add setup_temp_net_id_array
+0xe0e4dae1 item
+0xea920ae1 GetNextPlayer
+0x56a1eae3 root_window
+0xbb8a6ae4 start_up_in_game_ads
+0x47e89ae7 display_params
+0x5ebe3ae8 invited_primary_controller
+0x3231faea has_active_session
+0xe4212aef competitive_rules
+0x1f773af1 is_local_client
+0x19fa5af7 spawnscriptnow
+0x58e4aaf9 match_init
+0x85a43afa match
+0xddb30b01 GMan_GetGoalsByPlayer
+0xdba76b03 wait_for_safe_shutdown
+0x33777b06 net_num_players
+0x37c84b09 destroy_dialog_box
+0x4f653b0b unblock_menu_input
+0x448aeb13 net_control_whammy_pitch_loop
+0x71cccb15 InInternetMode
+0xd1908b18 song_breakdown_competitive_id
+0x09383b1b enable_touch_strip
+0xd26f2b38 ui_event_wait_for_safe
+0xab81bb3d endtime
+0x465bcb41 pref_struct
+0xc0e96b43 from_callback
+0xdfb28b44 instruments_we_need
+0x83ebdb47 net_auto_launch
+0x04e46b4a num_guitar
+0x1d842b4c issuecue
+0xe6a23b4d band_lobby_add_menu_update_to_queue
+0xdc9d9b4e context_menus
+0xb7d03b4e found_index
+0x84abcb55 RemoveObserverBG
+0x44527b59 player_on_screen
+0x198dfb60 IsControllerInGame
+0xea053b6f require_live
+0xae02cb6f check_signin_wrapper
+0x8e10bb70 SetArrayElement
+0x4fd20b78 add_active_controllers_local
+0xe5260b7d signin_change
+0xb9992b93 obj
+0x7a26bb9d count
+0xaa9d5ba1 net_start_character_silhouette
+0x38bbfbaa client
+0x0082cbaf g_motdimagepak1_loaded
+0x8013cbb1 practice
+0x41926bbd fadeintime
+0x5a143bbd net_stop_character_silhouette
+0x05f5dbbf everyone_ready_to_continue
+0x29502bc0 UI_SFX
+0x31c78bd0 search_checksum
+0x86068bd9 callback
+0x6452bbdc GetScreenElementZPriority
+0xe9a55bdd online_pro_faceoff_bass
+0x3cbe4be2 local_player_num
+0x80c29beb ps3_signin_callback
+0x74d55bee create_loading_screen
+0x25bf4bf0 cue
+0xf1be4bff cheat_colorshuffle
+0x30d8ec02 host
+0x36648c07 num_party_members
+0x15e7cc09 online_only
+0x4d49ac0a current_menu
+0x37f1ac0e RemoveArrayElement
+0x0401dc0f user_changed
+0xd576ac18 net_matchmaking_ask_accept_lower_difficulty
+0x7d654c18 exclusive_device
+0x82117c1a wait
+0xf2242c1f invite_wait_for_existing_signin_memcard_dlc_stuff_to_complete
+0x2c0ccc1f matchmaking_difficulty_loosen_menu
+0x84e71c21 inst_drums
+0x9f23dc21 SE_SetProps
+0xf58c2c2b clear_previous_stack
+0xc4cbdc33 online_team_pro_faceoff
+0x7771ec33 FlowSync_Sync_BlockingForAll
+0x31bd7c36 playing_song
+0xb1b15c3a submenu_index
+0x1fa67c3d num_4
+0x581d2c44 net_disable_pause
+0x5e809c4b move_to_net_setlist
+0x8e0dcc4c g_motdimagepak2_loaded
+0x14483c50 voice_init
+0xb5742c5a gamertag
+0xcada6c5f get_local_in_game_player_num_from_controller
+0x307ddc61 GetControllerType
+0x74ea1c65 common_start_matchmaking_setup
+0xfc571c6b loading_transition
+0x69137c74 launch_game
+0xc99e1c77 get_local_player_num_from_controller
+0x9ab4ac7c sysnotify_handle_connection_loss
+0xf5e6dc85 not_ready_to_continue
+0x0bf50c8e fest_mode_team_guitar
+0xc33b4c8f net_permision_to_select_song
+0x5ca15c8f array_entry
+0x0a94fc92 savegame_player
+0x865dfc97 load_and_sync_timing
+0xcf721c99 calibrate_lag_enabled
+0x7fb52c9b MarketplaceBGMonitorFunc
+0x520c0c9c data
+0xc4a4fca8 band_lobby_desc_id
+0x99a23cac leader_player
+0x25cadcac GetNumPlayersInGame
+0x0e6b7cb4 LAN_MODE
+0xe924ecb7 uistate_signin
+0x2ab66cb8 display_name
+0x99f6ccbb obj_id
+0xcc5fecbc dialog_box_container
+0xb0e46cbd expert
+0x3f24dcbe get_controller_type
+0x9b4c7cc6 NO_NET_MODE
+0x2e110cc7 DoesThisGetSent2
+0xcf307ccc presence_tutorial
+0x42a7ccd2 g_motdimagepak3_loaded
+0x4adf0cd3 unfocus
+0x7676fcd5 GuitarEvent_SongFailed_Spawned
+0x5cc16cdf drum
+0x68045cdf TEMP_clear_upper_player_infos
+0x09df2cdf net_get_player_guitar_flag
+0x57227ce1 no_unpost
+0xde8ffce6 band_lobby_watchdog_all_player_appearance_change
+0xa8751ce8 recent_award_points
+0xbdc53cf2 guitar
+0x911dacfa SendEndSong
+0x670f4d02 song_failed
+0x7056ed02 RemoveParameter
+0x5c6c2d04 state
+0xe6e18d07 callback_motd
+0x94c19d0c SongAudioSetWhammy
+0x6180ed0e g_lobby_invite_flag
+0xf1a81d11 num_6
+0x28656d12 pause
+0xb7205d14 band
+0x0c616d15 fadeouttype
+0xd9e9ed16 update_ingame_controllers
+0xfae1bd21 num_bass
+0xbb048d25 diff_hard
+0x2dad1d2b total_players
+0xa7988d2c MotdInterface
+0x66a54d2d generic_event_choose
+0xa0ecdd32 NetOptions
+0x63a6cd32 compmega
+0x4577fd38 AssignAlias
+0x8cf25d39 shutdown_game_for_signin_change_flag
+0xd7418d46 has_invite_join_result_callback_completed
+0x836aed4c FailSafe_CAR_Profile
+0x7f5b3d4d array_size
+0xc906ad51 menustate
+0xf6268d5b audio_crowd_play_loading_screen_swell
+0xbd485d62 from_fail_menu
+0xed605d64 scoring_mode
+0xe9debd67 matchmaking
+0x9f7f8d7a INTERNET_MODE
+0xdc849d7a end_party_session
+0xbaebdd7f quit_network_game
+0x6bdf0d81 start_network_game
+0xa0984d83 active_controllers
+0x76ac0d84 band_lobby_display_final_matchmaking_players
+0x64dbed86 convert_offline_to_guest
+0x14f35d87 invite_msg
+0x2244fd89 wait_for_dw_init
+0x7eab3da8 main_menu_select_motd
+0x2b5b6da9 uistate_online_quit_warning
+0x38cc6dab net_group_list
+0x044d1db2 is_accepting_invite_or_sigining_out
+0x7d097db6 online_rockfest_drums
+0x5ed69db7 fest_mode_team_vocals
+0x9fe54db8 online_rockfest_total
+0xb2280dbb song_index
+0xaabbddbd presence_music_studio
+0xb5b30dc1 CharacterProfileExists
+0xb111adc3 flushallinvitesessions
+0xc562fdc9 invite_instrument
+0xe8e6adcb vocals
+0xb3a9add3 start_matchmaking
+0xefc21ddc uistate_invite_continue
+0xf82b0de1 adjust_rest_of_on_stage_characters_and_instruments
+0x8d6fcdf4 net_unpausegh
+0x4bf2ddf8 net_init
+0x9dfdddfa net_whammy_length
+0x1e749dfb ignore_camera
+0x75438dff band_lobby_drop_player
+0x228ade11 check_for_net_appearance_arrival
+0xfd13de1a base_msg
+0xc4e78e22 all
+0xea17be29 callback_motdimagepak2_unloaded
+0xee611e2b pitch_dirty
+0xfbef7e2c fest_mode_vocals
+0x69b05e2c generic
+0x27484e32 net_autolaunch_spawned
+0x393f6e42 online_menu_created
+0x0b4cee4d net_dropped_players_flag
+0xd1aa8e4e stop_scan
+0x39c46e5c does_single_player_session_exist
+0xe45e4e60 on_screen
+0x0f0afe64 set_disable_demonware_input
+0x83e5be64 get_party_members
+0xd0171e6d net_autolaunch_song
+0x4d4a9e71 spawn_player_drop_listeners
+0xc0ec3e72 net_pausegh
+0xb7ebfe75 diff_beginner
+0xbe304e86 printstruct
+0x5a7ece86 menu_back
+0x4eee0e88 confirm_script
+0x39596e8b start_gem_scroller_running
+0x20359e92 mic
+0x26cc4e94 free_server_list
+0x49e0ee96 second
+0xdef30e9b FlowSync_QueryReadyToContinue
+0x940cde9c ChecksumEquals
+0x08d82e9d AddParam
+0x5b151ea0 RemoveMatchMakingHandoffTask
+0xcfd86ea4 wait_for_start_gem_scroller_completion
+0x8842aea9 ui_event_wait
+0x33e7eeaa age_restricted
+0xa8efeeab online_song_choice_id
+0xdf3c2eaf drums
+0x41fa7eb3 yourock_text
+0x4b3e7ebe diff_expert
+0x8e1aeec0 online_quickplay
+0xa09cdec2 dont_care
+0xdb674ec3 DEMONWARE_IS_READY
+0x57d32eca players_online
+0x611eaecd net_career_gig_info_continue_for_clients
+0x7eae7ed6 net_guitar_part_info
+0xa4fa6ed9 new_state
+0x8737eeda is_network_game
+0x46991ee2 add_setlist_continue_handlers
+0xd8bcdee3 debug_4player_signin
+0x65485eea GetPlayerInfo
+0xac56deec online_to_setlist_count
+0x5de39ef1 double_kick_drum
+0xb71c3ef3 net_num_players_data_needed
+0x9fc6beff matchmaking_countdown_complete_callback
+0xad05cf02 callback_motdimagepak2_loaded
+0xfc37df05 gameframe
+0x37bf4f09 base_name
+0x0290ff12 num_songs
+0xaeccef15 fest_mode_guitar
+0x0a1b2f18 jam
+0x1ca1ff20 DEFAULT
+0xf5c5af23 get_local_players_in_game
+0x2c6a5f27 uitype
+0x93c47f28 autolaunch_goto_setlist
+0xbd276f2c g_net_leader_player_num
+0x90a59f2d IsLocallySignedIn
+0x82e71f2d menu_show_gamercard_from_netid
+0x806fff30 none
+0x57710f31 z_priority
+0xb6f08f39 part
+0xea7e9f3f LeaveServer
+0xde5d7f40 g_matchmaking_difficulty_difference
+0x3d96cf41 total_notes
+0x8ad4df43 game_checksum
+0x6c20bf54 best_run
+0xbfadbf59 band_lobby_popup_menu
+0x43df7f67 BroadcastEvent
+0x80763f67 non_matching_users
+0xe4848f6f ShowSignInUI
+0x26fc0f71 DEMONWARE_STUN_FAILED
+0xe9a1ff71 match_team_player_parts
+0x96254f72 IsArray
+0xc25b0f76 ShowSignInUI4Pane
+0xd0481f78 popup_text
+0x4942cf80 message
+0xa411ff82 dgsrecorddata_sendgameinvite
+0x5bac3f8c value_field
+0xeefcaf91 band_lobby_update_career_players
+0x8e0d5f93 net_popup_active
+0x1d4a7f96 userList
+0xde118f96 friends
+0x61afcf9c callback_motdimagepak3_loaded
+0xccc78fa1 max_local_players
+0xdec3efa6 party_id
+0xaec83fa9 client_handle_end_song
+0x0fb70faa loading_screen_type
+0xbdf6dfad song_breakdown_noncompetitive_id
+0x69d0dfaf player_device
+0xc2719fb0 parent
+0x7d0f0fbd presence_quickplay
+0x08e48fbf num_players_info
+0x64c92fc4 net_get_character_name
+0x10035fcf player_found
+0x921bbfd9 description
+0x81882fda freeplay
+0xb604ffdc g_lobby_state
+0x6e73afde primary_controller_assigned
+0x26686fe7 online_band_v_band
+0xa1da6fe9 InNetGame
+0x99bddfec online_rockfest_bass
+0x28878fec IsShutdownSafe
+0xbb5c3fee ps3_signin_complete
+0x5df5effd test_send
+

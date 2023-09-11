@@ -1,0 +1,134 @@
+[LineNumbers]
+cas_handle_disqualifications 5 (0,9) (52,11) (82,19) (84,24) (98,26) 
+get_body_specific_part_names 13 (0,31) (52,33) (81,35) (118,37) (156,39) (177,40) (198,41) (219,42) (257,44) (259,46) (261,48) (263,50) (336,52) 
+cas_disq_resolve_hat_hair 61 (0,60) (6,62) (19,64) (32,65) (65,67) (78,68) (91,69) (109,70) (113,71) (134,72) (147,73) (151,74) (163,75) (165,76) (167,77) (200,79) (213,80) (226,81) (230,82) (251,83) (264,84) (268,85) (280,86) (282,87) (284,88) (317,90) (330,91) (332,92) (350,96) (383,100) (401,102) (408,104) (420,105) (441,106) (443,107) (463,109) (470,111) (482,112) (514,113) (516,114) (520,116) (610,118) (612,120) (616,122) (661,124) (673,126) (686,129) (730,131) (737,133) (749,134) (782,135) (784,136) (790,138) (794,140) (801,142) (813,143) (834,144) (836,145) (838,147) (840,149) (842,151) 
+cas_propogate_guitar_color_to 21 (0,158) (18,160) (39,161) (100,162) (102,163) (104,164) (122,166) (143,167) (204,168) (206,169) (208,170) (226,172) (247,173) (308,174) (310,175) (312,176) (330,178) (351,179) (412,180) (414,181) (416,182) 
+cas_propogate_guitar_color_from 21 (0,186) (18,188) (39,189) (100,190) (102,191) (104,192) (122,194) (143,195) (204,196) (206,197) (208,198) (226,200) (247,201) (308,202) (310,203) (312,204) (330,206) (351,207) (412,208) (414,209) (416,210) 
+cas_propogate_hair_color 5 (0,214) (6,216) (20,218) (71,219) (101,221) 
+cas_propogate_color_to_other_parts 9 (0,225) (21,227) (60,228) (101,229) (114,230) (127,231) (129,232) (131,233) (133,234) 
+cas_propogate_color_to_other_parts_foreach 14 (0,238) (12,240) (24,241) (26,242) (49,243) (70,245) (77,248) (90,249) (103,250) (116,251) (118,252) (120,254) (141,256) (149,257) 
+cas_get_hat_hair_param 10 (0,261) (36,263) (72,264) (102,265) (140,266) (159,267) (161,268) (163,269) (165,270) (196,271) 
+cas_need_to_use_hat_hair 8 (0,276) (19,278) (52,280) (88,282) (107,283) (109,284) (111,286) (113,288) 
+cas_disq_basic_exclusions 7 (0,374) (33,376) (72,378) (109,380) (111,382) (160,385) (162,387) 
+cas_disq_reverse_exclusions_per_part 28 (0,392) (21,395) (54,397) (92,399) (119,401) (141,405) (167,406) (188,409) (228,410) (240,411) (242,412) (261,415) (263,416) (265,417) (298,419) (311,422) (409,424) (439,426) (446,428) (458,429) (491,430) (493,431) (495,433) (497,435) (499,437) (501,439) (503,441) (505,443) 
+cas_disq_basic_exclusions_per_part 18 (0,448) (27,450) (49,452) (70,454) (97,456) (176,457) (178,458) (211,460) (232,462) (328,464) (358,466) (365,468) (377,469) (410,470) (412,471) (414,473) (416,475) (418,477) 
+cas_disq_matches_change_from 19 (0,482) (27,484) (56,487) (60,489) (81,491) (98,493) (110,495) (122,496) (124,497) (147,498) (166,500) (196,501) (198,502) (219,504) (227,505) (248,507) (280,509) (282,511) (284,513) 
+cas_disq_hide_parts 49 (0,521) (36,524) (54,525) (100,526) (102,527) (139,528) (172,531) (208,532) (221,533) (256,534) (258,535) (260,536) (281,539) (314,540) (352,541) (365,542) (367,543) (369,544) (371,545) (408,548) (468,550) (480,552) (492,553) (510,554) (512,556) (558,559) (565,562) (577,563) (619,564) (621,565) (623,567) (644,569) (652,570) (654,572) (656,573) (692,577) (748,579) (760,581) (772,582) (790,583) (792,585) (799,588) (811,589) (853,590) (855,591) (876,593) (884,594) (886,596) (888,598) 
+cas_disq_get_current_hide_parts 10 (0,603) (34,605) (55,607) (93,608) (132,609) (161,610) (163,611) (165,612) (167,613) (169,615) 
+
+[Checksums]
+0x0d906325 scripts\game\cas\cas_disqualifications.qb
+0xb990d003 target
+0x8e411006 b
+0x0a23400c ClearPart
+0xdd8ec014 cas_disq_reverse_exclusions_per_part
+0x21902065 checksum
+0xf9462090 c
+0xaf6240b2 reset
+0xb5d7c0b3 GetCASAppearancePartDescID
+0x969820be base_id
+0xe4f130f4 s
+0x2c2f20fc new_hide_parts
+0x7031f10c params
+0xe5f2f10d pass_index
+0xc42ce128 ArrayContains
+0x5ef31148 array
+0xcf66717b GotParam
+0x95e17184 hide_geom
+0xb67dc19f change_to
+0x174841bc a
+0xa244b1d8 body_desc_id
+0xbfa801df change
+0x58d3021f hat hair
+0xd404e233 get_body_specific_part_names
+0xf335b287 DoNotResolve
+0x9639e2b7 foreachincas
+0x35a692c8 need_disq
+0xb59352f1 EditCASAppearance
+0xa4990308 cas_handle_disqualifications
+0x4b40630d newValue
+0xb44a530f cas_propogate_guitar_color_from
+0xf110c330 hide_parts
+0x24613344 CAS_Body
+0xa8ee7357 ScriptAssert
+0x0203b372 true
+0x4d33f46e old_hide_parts
+0xff4ad49f cas_get_hat_hair_param
+0xdc4624a7 cas_propogate_color_to_other_parts_foreach
+0x39b5c4b0 GetArraySize
+0x8c6fc4bf SetCASAppearanceMaterial
+0xdeef04cd StructureContains
+0xf6a964de hat_part
+0x23517501 hat_hair
+0xe3a6154b cas_disq_get_current_hide_parts
+0x7a95a557 t
+0x71059581 contains
+0x0d9295c1 u
+0x697df5d0 original_hair
+0x8f61d602 arrayName
+0x2de8c60e printf
+0x58ef9622 other_desc_id
+0xc07ef64e except
+0x3d92465e dont_assert
+0xb71ab660 cas_disq_basic_exclusions_per_part
+0x46a2869c targetParams
+0x377556bb GetCASAppearancePart
+0x2c8b16c7 reverse_desc_id
+0xe31366d3 cas_propogate_color_to_other_parts
+0xd45f56d6 chosen_materials
+0x270e5717 no_resolve
+0xc5e69719 CAS_Guitar_Head
+0x25321734 change_from
+0x10ea1777 cas_disq_hide_parts_list
+0xf20e9793 exclusion
+0x725387c7 CAS_Guitar_Bridges
+0xe288a7cb value
+0xd43297cf false
+0x6dae67d2 hair_desc_id
+0x90fec815 structure
+0x4bb2084e desc_id
+0x7f8c98fe index
+0x93576979 change_from_name
+0x1993c98e i
+0xdfb4d9eb other_part
+0x633e59ef CAS_Hair
+0xab221a2f CAS_Bass_Bridges
+0xe7a1ca3a cas_disq_resolve_hat_hair
+0xbf216a5d cas_current_appearance
+0x83418a6a material
+0x5b335ab6 CAS_Hat
+0x68c03af4 hair_part
+0x0b25dafc given_other_part
+0xe9ebfb12 cas_propogate_hair_color
+0x7cc18b23 HideGeom
+0x43a52b3b CAS_Hat_Hair
+0x8e10bb70 SetArrayElement
+0x90f15ba0 new_desc_id
+0xc8752ba9 orig_desc_id
+0xc7be8be0 cas_need_to_use_hat_hair
+0xdd8c0bf9 CAS_Bass_Head
+0x03daecee GetActualCASOptionStruct
+0xa0f8ecef Exclusions
+0x7056ed02 RemoveParameter
+0x83339d0b SetPart
+0x605ebd38 hat_hair_part
+0x836cfd4a body_specific_parts
+0x7f5b3d4d array_size
+0x48220d5c hat_desc_id
+0x8b648d78 cas_disq_matches_change_from
+0xf2b0edce cas_propogate_guitar_color_to
+0x2cd41dd2 hat_hair_param
+0xf625ce04 Something
+0x84339e7d ResolveGlobals
+0xc0129e7e cas_disq_hide_parts
+0x940cde9c ChecksumEquals
+0xc9bafeba ForEachIn
+0x55886ee8 reverse
+0x806fff30 None
+0xb6f08f39 part
+0x3b7e0f5b cas_disq_basic_exclusions
+0x62ba3f6a do
+0x96254f72 IsArray
+0xfe0bafaf other_parts
+0x2b1b9fe0 foreachin_name
+

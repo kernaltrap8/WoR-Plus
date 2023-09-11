@@ -1,0 +1,93 @@
+[LineNumbers]
+ui_create_debug_gamma_calibration 14 (0,13) (404,26) (440,28) (500,29) (518,31) (536,32) (559,34) (586,35) (588,36) (594,38) (596,39) (664,41) (732,42) (761,44) 
+ui_destroy_debug_gamma_calibration 5 (0,52) (6,53) (44,54) (80,55) (82,56) 
+place_arrow_relative_to_bar 21 (0,63) (12,64) (24,65) (46,67) (59,68) (96,70) (118,71) (163,74) (167,75) (187,76) (221,77) (239,78) (288,79) (290,80) (348,82) (371,84) (436,85) (438,86) (444,88) (478,89) (502,90) 
+gamma_calibration_arrow_change 20 (28,97) (50,98) (108,100) (131,102) (149,104) (177,105) (205,106) (236,107) (254,108) (256,109) (258,110) (278,111) (307,112) (336,113) (367,114) (385,115) (387,116) (389,117) (391,118) (393,119) 
+save_gamma_correction 5 (0,126) (6,127) (26,128) (69,129) (128,130) 
+reset_gamma_correction 4 (0,137) (12,138) (55,139) (61,140) 
+
+[Checksums]
+0xc5637055 scripts\guitar\menu\states\layouts\ui_debug_gamma_calibration.qb
+0xb990d003 target
+0x475bf03c event_handlers
+0xb6705044 gamma_calibration_arrow_change
+0x53b17050 reset_gamma_correction
+0x059ea070 red
+0x301dd0f9 GetGlobalTags
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0x73665140 CreateScreenElement
+0x01dd615f DescInterface
+0xcf66717b GotParam
+0x174841bc a
+0x2f6511de green
+0xbfa801df change
+0xa1dc81f9 name
+0x971a5234 UIstate_debug
+0xbcb26307 ui_destroy_debug_gamma_calibration
+0x2e276359 alias_gamma_calibration_bar
+0x5b058376 param
+0x729433aa gamma_calibration_arrow_x_pos
+0xf44a53ab desc
+0xc5f953c2 button
+0xc5bc93ee ScreenElementExists
+0xff0db407 textname
+0x9277f428 FormatText
+0xf8a4443a get_savegame_from_controller
+0x75bc3451 gamma_calibration_change_increment
+0xf56d3477 gamma_calibration_range
+0x067c1483 gamma_calibration_value_text
+0x592a6495 gamma_min_value
+0x8da97503 primary_controller
+0x9d3fb516 focus
+0x1e3e253b pad_choose
+0xc451f558 event
+0x062a4596 ScreenElementPos
+0xf59fc5cc GetGammaCorrection
+0xcea40694 default_gamma_correction_value
+0x8ec1d6d4 gamma_max_value
+0x74297717 local
+0x2cb33744 LaunchEvent
+0x406dd761 GetScreenElementDims
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0x9d2d8850 z
+0x4b33286c gamma_calibration_bar_start_x
+0x05ddd87c pad_right
+0x40c698af id
+0x7321a8d6 type
+0x7f261953 pos
+0xb30d9965 controller
+0x96cae98e alias_gamma_calibration_arrow
+0x3c15e9b6 DestroyScreenElement
+0x1b0509c5 savegame
+0xcf0b89e0 arrow_id
+0x4767da4a gamma_correction
+0xbd4c9a9e gamma_calibration_arrow_change_increments
+0x577a4abb GammaCalibrationScreen
+0xf765dac5 bar_id
+0x73e5bad0 width
+0x56a1eae3 root_window
+0x99deab27 save_gamma_correction
+0xdb51bb5f ui_create_debug_gamma_calibration
+0x77c71b72 user_options
+0x6949db75 pad_left
+0x9f23dc21 SE_SetProps
+0xb64c7c26 requested_autosave
+0x3e6e7c3b x_pos_change
+0x04fe8c71 ui_memcard_autosave
+0x520c0c9c data
+0x44a31cb5 SetGlobalTags
+0x5c6c2d04 state
+0x3773bd14 gamma_calibration_bar_width
+0x7ee0fd2a pad_back
+0xce4afdd9 GetScreenElementPosition
+0xc1b52e4c direction
+0x5a7ece86 menu_back
+0xd0944ed2 SetGammaCorrection
+0x02141f19 clean_up_user_control_helpers
+0x57710f31 z_priority
+0xc72fef80 place_arrow_relative_to_bar
+0x3bbc2f8e gamma
+0xc2719fb0 parent
+

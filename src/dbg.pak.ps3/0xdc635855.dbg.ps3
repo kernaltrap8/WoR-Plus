@@ -1,0 +1,24 @@
+[LineNumbers]
+ui_create_tutorial_band_load 3 (0,14) (6,16) (26,18) 
+ui_create_tutorial_band_load_spawned 9 (0,28) (72,29) (78,32) (102,36) (114,37) (127,38) (140,39) (153,40) (155,41) 
+
+[Checksums]
+0x82e07c5d scripts\guitar\menu\states\layouts\ui_tutorial_band_load.qb
+0x79e3f0c0 check_lefty_flip
+0x7031f10c params
+0x6017f1cc ui_event
+0xee9bc392 SpawnScriptLater
+0x4c29c545 RequireParams
+0xc451f558 event
+0xe88e660c destroy_generic_menu
+0xd4c98794 title
+0x3735f870 ui_create_tutorial_band_load
+0x6cef5907 menu_change
+0x3b53993d UIstate_tutorial_menu_skill_level
+0xd26f2b38 ui_event_wait_for_safe
+0xa4752bea ui_create_tutorial_band_load_spawned
+0x520c0c9c data
+0x5c6c2d04 state
+0xc4e78e22 all
+0xa7860f33 tutorial_header
+

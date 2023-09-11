@@ -1,0 +1,29 @@
+[LineNumbers]
+
+[Checksums]
+0xba6f1519 models\car_instruments\guitar\heroes\gtr27_nsft_acoustic.qb
+0x9687f060 BRIDGE
+0x835c5121 GTR27_NSFT_Acoustic_GTR26_Bridge_Node_02
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x4f1cf276 GTR27_NSFT_Acoustic
+0x281b33dd gtr27_nsft_acoustic_NodeArray_SortedNames
+0x8058e545 MISC
+0x4f9be566 gtr27_nsft_acoustic_NodeArray
+0xb75e75bd GTR27_NSFT_Acoustic_GTR27_NSFT_Acoustic
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0x58fd267a GTR27_NSFT_Acoustic_GTR26_Knob_Node_06
+0xc47817b3 GTR27_NSFT_Acoustic_GTR26_Misc_Node_03
+0x7f261953 Pos
+0x19ebda23 Set
+0x9c8aca43 GTR27_NSFT_Acoustic_GTR26_Pickup_Node_03
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x385e8d74 SkinExport
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+0x35d1bfd9 gtr27_nsft_acoustic_NodeArray_SortedIndices
+

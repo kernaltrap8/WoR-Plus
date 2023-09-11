@@ -1,0 +1,75 @@
+[LineNumbers]
+cas_gender_focus_change 40 (28,9) (80,11) (114,12) (126,13) (128,14) (130,15) (168,17) (204,19) (241,20) (259,21) (261,22) (263,23) (267,24) (285,25) (287,26) (289,27) (291,28) (293,29) (311,31) (315,33) (352,35) (388,36) (406,37) (424,38) (426,39) (428,40) (432,41) (450,42) (452,43) (454,44) (456,45) (458,46) (476,48) (512,49) (516,50) (552,51) (554,52) (556,53) (562,55) (606,56) 
+random_character_throttled 6 (0,65) (36,67) (48,68) (50,69) (84,71) (102,72) 
+random_character_throttled_spawned 46 (28,81) (46,83) (84,84) (136,85) (138,86) (140,87) (175,89) (193,91) (205,92) (209,93) (221,94) (223,95) (241,97) (287,98) (305,99) (323,101) (325,102) (327,103) (379,104) (383,106) (401,108) (413,109) (417,110) (429,111) (431,112) (451,114) (485,116) (539,118) (557,120) (559,121) (561,122) (612,123) (616,125) (646,127) (648,129) (650,131) (668,133) (670,134) (672,135) (678,137) (716,139) (725,140) (760,141) (762,142) (764,143) (816,145) 
+
+[Checksums]
+0x0e078f18 scripts\guitar\menu\states\layouts\cas\ui_create_character_gender.qb
+0xcd0dc02d KillSpawnedScript
+0x033e4045 cas_current_player
+0xde5b8093 GH4_CAR_Female
+0xa078e107 get_is_female_from_appearance
+0x7031f10c params
+0x0221f11b do_wait
+0xcf66717b GotParam
+0xbfa801df change
+0xa1dc81f9 name
+0x6e9a8251 fullname
+0x68a04270 cas_current_profile
+0xf6ab82f2 cas_current_savegame
+0xe185c30d avatar_type
+0x0d274333 avatar_female
+0x2e3dd36c cas_flag
+0xcb55339b Band_PlayAnim
+0xb99ae3d6 gameframes
+0x243423fd random_instruments
+0x67dcc463 CAS_Full_Body
+0x38d6748d avatar_male
+0xdeef04cd StructureContains
+0x5fbe251f genre_select
+0xb58b7593 female
+0x67e6859a player
+0x4be975bd generate_random_name
+0xc3409622 instrument
+0x03e4d68a char_type
+0x8e3bf692 cas_queue_wait
+0xc0a3e790 random_name
+0x90fec815 structure
+0xe5c2f84c is_female
+0x4bb2084e desc_id
+0x8390b87f cas_object
+0x40c698af id
+0x2bd1d90f in_cas
+0xa1fbe9b3 IsAvatarFemale
+0x1b0509c5 savegame
+0xde59f9d7 cas_get_is_female
+0xc130f9e5 scriptisrunning
+0x3329d9f4 cas_queue_add_request
+0xbf216a5d cas_current_appearance
+0xdf652a9d cas_change_current_character_gender
+0x3a5c6a9e cas_set_random_appearance
+0x27057ad6 random_character_throttled
+0x1482dae0 GetCurrentCASObject
+0x19fa5af7 SpawnScriptNow
+0x781edb13 cas_gender_focus_change
+0x20147b82 cas_current_new_char_type
+0x90f15ba0 new_desc_id
+0x98549ba4 anim
+0xc74ddbe1 generate_random_avatar
+0xbeb51c01 cas_default_instrument
+0x7cafcc07 genre
+0x82117c1a wait
+0xc50ebc25 leaving_genre_select
+0x0df47c7a generate_random_genre
+0x4eae5cb1 avatar_meta_data
+0x13c29d0c wanted_is_female
+0x554c7d6f appearance
+0xe9888dd0 avatar
+0xb344ae15 random_character_throttled_spawned
+0x05bf9e3c existing_avatar
+0xa651ae55 no_wait
+0xc3e37ed5 modify_custom_profile_fullname
+0x30e75f0c new_car_character
+0x806fff30 none
+0xaa721f56 male
+

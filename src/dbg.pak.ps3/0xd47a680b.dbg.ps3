@@ -1,0 +1,20 @@
+[LineNumbers]
+
+[Checksums]
+0xf6ed0f10 scripts\game\net\netoptions.qb
+0x1bff900b quickplay
+0x21902065 checksum
+0x61ab3239 ranked
+0x67e6859a Player
+0x1cb2a6b0 num_players
+0x1bc296d0 private_slots
+0x3a8867af buddy_array
+0xe288a7cb value
+0x18cbb824 num_0
+0x6fcc88b2 num_1
+0xf6c5d908 num_2
+0x7d1c1c0f default_network_preferences
+0x96875c0f ui_string
+0x0956ec5d default_game_type
+0xa8da5cb7 num_observers
+

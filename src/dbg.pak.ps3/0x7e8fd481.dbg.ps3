@@ -1,0 +1,52 @@
+[LineNumbers]
+create_calibrate_lag_warning_menu 22 (108,6) (114,8) (152,10) (166,11) (168,12) (175,14) (188,15) (201,16) (207,17) (215,18) (217,19) (230,20) (243,21) (255,22) (257,23) (259,24) (271,25) (284,26) (296,27) (298,28) (300,29) (302,30) 
+destroy_calibrate_lag_warning_menu 3 (0,34) (6,35) (12,36) 
+menu_calibrate_lag_warning_select_yes 14 (0,39) (6,40) (56,41) (62,42) (68,44) (74,45) (112,46) (148,47) (150,48) (188,49) (256,50) (258,51) (292,53) (298,54) 
+
+[Checksums]
+0x091dda7e scripts\guitar\menu\menu_calibrate_lag_warning.qb
+0xcd0dc02d killspawnedscript
+0xca6c80b7 create_calibrate_lag_warning_menu
+0xc86350be enable_pause
+0xcf66717b GotParam
+0xa1dc81f9 name
+0xd443a2bc off
+0x41cf52d9 audio_crowd_play_swells_during_stats_screen
+0xb0c632de destroy_calibrate_lag_warning_menu
+0x2159e31f cancel_script
+0x70e77320 cancel_func_params
+0xbd09544c func
+0x2457f44d body
+0x91f0e45a body_text
+0x3ad0247c choose_calibrate_lag
+0x12e0a4d6 disable_pause
+0x66cfd4e4 ResetScoreUpdateReady
+0x8da97503 primary_controller
+0x82166564 finalbattle_fade
+0x1ad7956a fade_type
+0x2fca0578 options
+0x7ca45634 menu_calibrate_lag_warning_select_yes
+0xbab776aa kill_intro_celeb_ui
+0xf221474c linear
+0x259a07d3 fadetoblack
+0x1d2d97d4 func_params
+0xc195a822 create_dialog_box
+0xc4745838 text
+0x73aaf8a2 audio_gameplay_fail_song_stop_sounds
+0x40c698af id
+0xeafc692e no_background
+0x2b9ab95d StopSoundsByBuss
+0xb30d9965 controller
+0xf99d5a06 fade_time
+0xab9e5a4c scriptexists
+0xa89acad5 audio_stopping_sounds_killsong_lite
+0xba68ead9 Encore_Events
+0x37c84b09 destroy_dialog_box
+0x30090b4e Surge_During_Stats_Screen
+0xec026c0b isSoundEventplaying
+0x90f8dc6f yes_func_params
+0xd6521cee generic_event_back
+0x7e149e2f nosound
+0xa997cf6a stopsoundevent
+0x69d0dfaf player_device
+

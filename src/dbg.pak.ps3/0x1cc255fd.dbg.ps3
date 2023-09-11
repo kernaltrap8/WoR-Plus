@@ -1,0 +1,11 @@
+[LineNumbers]
+ui_create_pausemenu_lefty_flip_warning 2 (0,9) (7,11) 
+ui_destroy_pausemenu_lefty_flip_warning 2 (0,21) (6,23) 
+
+[Checksums]
+0x99817922 scripts\guitar\menu\states\layouts\ui_pausemenu_lefty_flip_warning.qb
+0xc9f301f0 ui_destroy_pausemenu_lefty_flip_warning
+0x8ebaa23b create_lefty_flip_warning_menu
+0xa3688715 ui_create_pausemenu_lefty_flip_warning
+0x4b7eeb88 destroy_lefty_flip_warning_menu
+

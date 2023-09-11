@@ -1,0 +1,50 @@
+[LineNumbers]
+
+[Checksums]
+0xc43ffe07 scripts\av_presets\tb_mod_pyro.qb
+0xb0ad6043 p4
+0xcae27061 sprite
+0x723ef0aa audio_Params
+0xf5a93162 offsetX
+0x82ae01f4 offsetY
+0x64f2b228 scaleXY
+0xb7f9b256 timeRate
+0x40d7329b main
+0x5f0282d0 raw_audio_Dampening
+0x384c42d0 TB_Mat_Gradient
+0x051273c0 controls
+0xc184f404 response
+0xf5d16465 primitives
+0xc0c794cc p1
+0x59cec576 p2
+0x2ec9f5e0 p3
+0xf372e60b OG_Mat_Flare_Add
+0x7bc74623 spectrumBand
+0xd1cd1630 cosTime
+0x99a9b716 color
+0x9030a776 spectrum_Dampening
+0xed91979d responseFunc
+0xd98047ec frequency
+0x37231894 spectrum_Decay_Amount
+0x69bf38cf timeOffset
+0x189698d3 spectrum_Windowing
+0x7321a8d6 type
+0xee1dd8f6 scaleY
+0x7f261953 pos
+0xca2f098f TB_Mat_Flame_A
+0xcf494a07 frequencyOnBeat
+0x34952a27 constant
+0x8ebb3a3e brightnessModulation
+0x83418a6a material
+0x13b9da7b scale
+0xa1631a8a spectrum_Normalize
+0x73e5bad0 width
+0xf83a3ad0 sinTime
+0x0ab21af0 height
+0xff7ebaf6 angle
+0xe615ab3a waveform_Dampening
+0x797b2b45 scaleMod
+0xc42fab67 angularVel
+0x4d573d46 TB_Mod_Pyro
+0x0d53ae6a alphaModulation
+

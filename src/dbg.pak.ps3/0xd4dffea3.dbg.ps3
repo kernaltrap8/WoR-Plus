@@ -1,0 +1,17 @@
+[LineNumbers]
+
+[Checksums]
+0x537ba710 scripts\game\anim\animationdata\loops\guit\l_guit_tara_4horsemen_f_anim_data.qb
+0x27710021 guit_Tara_4horsemen_120_F
+0x2306b13d L_GUIT_Tara_4horsemen_F_anims_set
+0x937bb16d Good
+0x12e4443d Med
+0x7dd4c604 Bad
+0xda99b63b Fast
+0x2596167d Stance_A
+0xde7a971b Normal
+0x8d78c8aa guit_Tara_4horsemen_100_F
+0x23db4aea Idle
+0x2b041b48 guit_Tara_4horsemen_075_F
+0xcaf88e22 Slow
+

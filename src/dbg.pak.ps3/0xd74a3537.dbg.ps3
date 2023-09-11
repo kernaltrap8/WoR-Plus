@@ -1,0 +1,10 @@
+[LineNumbers]
+create_node_flags 3 (0,1) (36,2) (72,3) 
+
+[Checksums]
+0x70523f92 scripts\nodeflags.qb
+0xac1b4435 ls_mood_silhouette
+0x83ae9640 nodeflag_viewerlights
+0x4635599e createnodeflag
+0xfe1c9e5d create_node_flags
+

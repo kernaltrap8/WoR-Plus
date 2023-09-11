@@ -1,0 +1,399 @@
+[LineNumbers]
+z_PunkStage_Setup 4 (0,4) (64,5) (132,6) (138,7) 
+z_PunkStage_Startup 1 (0,16) 
+Z_PunkStage_SetupNodeFlags 8 (0,19) (52,21) (58,22) (92,25) (128,26) (164,27) (200,28) (236,29) 
+z_PunkStage_Crowd_Peds 9 (0,32) (36,36) (71,39) (99,42) (141,43) (143,44) (145,45) (147,46) (154,48) 
+z_PunkStage_Pyro 7 (0,469) (8,470) (18,471) (108,472) (121,473) (208,474) (210,475) 
+z_PunkStage_Performance_Changed 9 (0,478) (8,479) (18,480) (120,481) (133,482) (240,483) (253,484) (356,485) (358,486) 
+z_punkstage_camera_intro 5 (0,515) (6,517) (136,525) (142,527) (160,531) 
+Z_PunkStage_CelebIntro_TransitionDeinit 2 (0,559) (6,560) 
+Z_PunkStage_CelebIntro_FX_Setup 4 (0,563) (68,564) (104,565) (140,567) 
+Z_PunkStage_CelebIntro_FX_StandUp 4 (0,570) (6,571) (40,572) (108,573) 
+Z_PunkStage_CelebIntro_FX_UnderAwning 4 (0,576) (6,577) (40,578) (108,579) 
+Z_PunkStage_CelebIntro_FX_Entrance 5 (0,582) (6,583) (40,584) (76,585) (144,586) 
+Z_PunkStage_CelebIntro_FX_Inside 4 (0,589) (6,590) (40,591) (108,592) 
+Z_PunkStage_CelebIntro_FX_Stage 4 (0,595) (6,596) (40,597) (108,598) 
+Z_PunkStage_CelebIntro_FX_Cleanup 2 (0,601) (36,602) 
+Z_punkstage_camera_celebintro 5 (0,605) (6,606) (136,613) (142,614) (160,615) 
+Z_PunkStage_Encore_FX_Setup 2 (0,652) (68,653) 
+Z_PunkStage_Encore_FX_StartSmoke 4 (0,656) (220,667) (440,679) (476,681) 
+Z_PunkStage_Encore_FX_FeetSmoke 4 (0,684) (36,685) (72,686) (108,687) 
+Z_PunkStage_Encore_FX_KillFeetSmoke 2 (0,690) (40,691) 
+Z_PunkStage_Encore_FX_Electric 3 (0,694) (36,695) (72,696) 
+Z_PunkStage_Encore_FX_Poof 10 (0,699) (36,700) (76,702) (116,703) (156,704) (196,705) (232,707) (284,708) (320,710) (356,711) 
+Z_PunkStage_Encore_FX_CreateCornerLighting 3 (0,714) (36,715) (104,716) 
+Z_PunkStage_Encore_FX_KillCornerLighting 3 (0,719) (36,720) (104,721) 
+Z_PunkStage_Encore_FX_Brighten 28 (0,724) (36,726) (38,728) (104,729) (156,730) (224,732) (276,733) (283,734) (348,736) (400,737) (402,739) (468,740) (520,741) (588,743) (640,744) (647,745) (696,747) (764,749) (816,750) (852,752) (920,753) (956,755) (992,756) (1028,757) (1064,758) (1100,759) (1136,760) (1172,761) 
+Z_PunkStage_Encore_FX_End 2 (0,764) (6,765) 
+Z_PunkStage_Encore_FX_CreatePoof 5 (0,768) (36,769) (78,770) (112,772) (154,773) 
+Z_PunkStage_Encore_FX_CreateBodySmoke 5 (0,776) (36,777) (102,778) (136,780) (188,781) 
+Z_PunkStage_camera_encore 5 (0,784) (6,785) (136,792) (142,793) (160,794) 
+z_PunkStage_Encore_Setup 1 (0,797) 
+z_PunkStage_RestartEncore_TransitionSetup 1 (0,801) 
+z_PunkStage_Encore_TransitionEnd 1 (0,805) 
+z_PunkStage_sfx_Get_Venue_Size 2 (0,809) (32,810) 
+z_punkstage_CreateCelebIntro 3 (0,813) (36,814) (72,815) 
+z_punkstage_CelebIntroKill 3 (0,819) (36,820) (72,821) 
+z_punkstage_KillPSDoors 2 (0,825) (36,826) 
+z_punkstage_CreatePSDoors 2 (0,830) (36,831) 
+z_punkstage_HideCrowd 2 (0,835) (52,836) 
+z_punkstage_ShowCrowd 2 (0,840) (52,841) 
+
+[Checksums]
+0x0a6e5c3c zones\z_punkstage\z_punkstage_scripts.qb
+0x141e0015 CelebIntro_StandUp
+0x605c9021 Indie Rock
+0xac1d8022 color_overrides
+0x0f7e902c nullscript
+0x28955034 Modern Rock
+0x7aca8035 Z_PunkStage_Encore_FX_Brighten
+0x9575a038 TB_Global_Forest_ABorealis_3
+0x9a8bb047 spotlights_Yellow
+0x2a67d048 TB_Global_Horizon_Mist_1
+0x6ec68049 top_1
+0x35178053 TB_Global_Zoom_Tunnel_1
+0xbda4806f Z_PunkStage_CelebIntro_FX_UnderAwning
+0x059ea070 Red
+0xa47b7070 mid_2
+0x022cf075 resolution
+0xd6801087 FXID_BodySmoke01
+0xcab94088 bone
+0x9922808a CelebIntro_Entrance
+0xe8d18097 Encore_Corner
+0x43ebe09a front_4
+0x073df0ab spotlights_Blue
+0xccdd30ab power_rocker
+0x225a80b4 Starpower01
+0x599eb0ca Encore_Wind02
+0xd37c40e6 mid_3
+0x0969d0ea Z_PunkStage_GFX_FX_Encore_FeetSmoke01
+0x7d776106 Punkstage_Visualizer_Bank
+0x3b7b2106 Z_PunkStage_Encore_FX_CreateCornerLighting
+0xf0d90109 speed
+0x7031f10c params
+0xbb53d10e Starpower02
+0x4f89413d FXID_BodySmoke02
+0x9fd29151 viewport
+0x80c8e165 top_3
+0x937bb16d good
+0xc097e170 Encore_Wind01
+0xcf66717b GotParam
+0xb8b0217d num_frames
+0x071f4183 bg_viewport
+0x1590418e CameraCuts_CalcTime
+0xcc54e198 Starpower03
+0x286371ab Blues
+0xaa9491b5 New Wave
+0x5d0671b8 channel
+0xa863c1bc Blackout_Generic
+0x3d7221ca mid_1
+0xd825e1d4 rocker
+0x7e5211d8 distances
+0x2f6511de Green
+0xac1ed1e9 TB_Global_Zoom_Tunnel_2
+0x78a2b1f1 venue_moment_flags
+0xf7cfd1f3 top_2
+0x1ad0f1f3 Poor_Generic
+0x127a21f8 Crowd_Profiles
+0xa1dc81f9 name
+0xf100a205 Alternative
+0x17e7321e FOV
+0xeb22c235 Z_PunkStage_Encore_FX_KillFeetSmoke
+0x974b1249 Z_PunkStage_Encore_FX_CreateBodySmoke
+0x40b1f251 back_3
+0x7f18b25a Climax03
+0x9d11725a Z_PunkStage_Encore_FX_CreatePoof
+0xbd30325b White
+0x748ca262 Quat
+0x5768b265 Ven_Punkstage_Intro_c01
+0x2e9b826f Z_PunkStage_GFX_FX_Encore_Sparks02
+0x08304276 CelebIntro_End
+0xe7b40290 Dance
+0xe8d7a2a7 Glam Rock
+0xd443a2bc off
+0x37b6c2c7 back_2
+0x081f82cc Climax02
+0x977fe2cf remove
+0x094dd2e1 ScriptEventSyncLightshow
+0xe46a22e3 Prelude01
+0x43ce02ec exposition
+0xb24032f4 CCam_DoMorph
+0x144412f5 TOD_Proxim_Update_LightFX_Viewport
+0x944972f6 ScriptTable
+0x599cb2f9 Z_PunkStage_GFX_FX_Encore_Sparks03
+0xedbda336 SetRenderBatchLODParams
+0xd62bf342 Disco
+0x4e34d351 Intro01
+0xcfb98356 Z_PunkStage_CelebIntro_FX_Setup
+0x7d637359 Prelude02
+0x2ffb1360 Yellow
+0x0203b372 true
+0x9116d376 Climax01
+0xab96e377 Big Band
+0xaebf937d back_1
+0x77fad390 Z_PunkStage_CelebIntro_TransitionDeinit
+0x1c0b83af Encore_Start
+0x0a6443cf Prelude03
+0xb792d3d5 Z_PunkStage_GFX_FX_Encore_Sparks01
+0xbdf803e0 Pyro01
+0xfaa0b3e9 spotlights_Magenta
+0x0fcad3f8 DisableScreenFX
+0xa2b033fd uniqueID
+0xb4e103fd active
+0x33811415 front_1
+0x2ea0b41d Pyro
+0x9446f420 Z_PunkStage_GFX_FX_Encore_GroundSmoke02
+0xf3b3b42a Blackout
+0x317e342b z_PunkStage_Intro_Transition
+0xc6a0d43d Punk
+0x8d99f440 Strobe_Generic
+0xc8b6445d Rock
+0xeda26489 z_PunkStage_Pyro
+0xf9d52489 TB_Global_Blackhole_1
+0x9535248a Falling01
+0xdb00848d TB_Global_Falling_Action
+0x25e3748e Z_PunkStage_GFX_FX_CelebIntro_Steam01
+0xcff91494 Band_Lobby
+0x309db495 hide_crowd_models
+0x1eac74c6 top_4
+0xdeef04cd StructureContains
+0x0b05f4d6 SpecialCamera_PlayAnim
+0x1d5c24e6 spotlights_White
+0x6e6ee4f2 venue
+0x688ab4f5 GetUniqueCompositeObjectID
+0x7eb4d4fa Z_PunkStage_GFX_FX_Encore_ElectricSuck02
+0xaa99c521 save
+0x0c3c7530 Falling02
+0x2fcd1533 silhouette
+0xdd8f7539 front_3
+0xe7bd8540 Z_PunkStage_GFX_FX_Encore_ElectricSuck01
+0x4d18d545 mid_4
+0x61c9354b Blue
+0x194ac56a z_punkstage_KillPSDoors
+0xc638856a z_PunkStage_TRG_Geo_PSDoors
+0x82fac56c menu
+0x2f006577 z_punkstage_ShowCrowd
+0x70e16585 Industrial
+0x2119d595 z_punkstage_CelebIntroKill
+0x0d4fa59a Z_PunkStage_GFX_FX_Encore_GroundSmoke01
+0x7b3b45a6 Falling03
+0xaa8845af front_2
+0x20b835af CreateParticleSystem
+0xd81595b4 LightShow_PlaySnapshot
+0x6c78a5b6 range
+0xb8c8b5ca crowd_play_adjusting_random_anims
+0x0ce89603 z_PunkStage_sfx_Get_Venue_Size
+0xfe41960d starpower
+0x2de8c60e printf
+0x28d8460f Z_PunkStage_CelebIntro_FX_Stage
+0xd029f619 Seconds
+0x5f1f7621 Magenta
+0xb276b633 Z_PunkStage_Encore_FX_End
+0xb8e3f63d Prog Rock
+0x796e5656 z_punkstage_camera_intro
+0xc781c672 from_scriptevent
+0x4e850682 CameraCuts_WaitScript
+0xac8c3699 Country
+0x2a8e66a1 z_PunkStage_Crowd_Peds
+0xd5dab6a5 Strobe08
+0xf1c1a6b4 fallingAction
+0x913046ca z_PunkStage_poor_snapshots
+0xe06996d7 z_PunkStage_RestartEncore_TransitionSetup
+0x16b0f6e3 z_punkstage_CelebIntro_Transition
+0x981d66e8 pyro_scripts
+0x620706e8 TB_Global_Sym_Line_1
+0x8069e6f4 GP_FX_PunkStage_Encore_Poof01
+0x4e8f26f8 Z_PunkStage_CelebIntro_FX_Cleanup
+0x85d996fe z_punkstage_TRG_Geo_Camera_Performance_SING01
+0x99a9b716 color
+0x48a0271e Z_PunkStage_Encore_FX_FeetSmoke
+0x1960b74e GP_FX_PunkStage_Encore_Poof02
+0x05745750 VenueSize
+0xe26cd752 VenueInteraction
+0xc7f8275a Z_PunkStage_GFX_FX_Encore_Sparks04
+0x8f090763 spotlights_Green
+0x00c4176b attenuation
+0x5777577a Venue_ScreenFX
+0xf352d785 Reggae
+0x0ed45788 Obj_SpawnScriptNow
+0x726c4796 tension
+0x9e42c79c Z_PunkStage_Encore_FX_Poof
+0x906b67ba time
+0xd43297cf false
+0xbb0db7d3 SafeCreate
+0xded567f2 back_4
+0xe17c27f9 Climax04
+0x90fec815 structure
+0x5f468818 lin
+0xc45de82c Default_TOD_Manager
+0x7a432834 color_override_exclusions
+0x0a67c834 TB_Global_Strobe_1
+0xda1f4839 GP_FX_PunkStage_Encore_BodySmoke01
+0x0aae784c Z_PunkStage_GFX_FX_Encore_SparkSmoke02
+0x8c25e854 EngineConfig
+0x6bd5485e Transition_CameraCut
+0x3ecc6862 z_PunkStage_lightshow_mapping
+0x26bd8866 spotlights_off
+0xe76b387f Encore_End
+0xa6d2d890 Scr
+0x86ca8891 hide_all_but_rocker
+0xddec28af BONE_HEAD
+0x5f08f8bd CrowdSpots
+0x925da8cb Exposition01
+0x7321a8d6 type
+0x7da948da Z_PunkStage_GFX_FX_Encore_SparkSmoke03
+0x172e98df Silhouette01
+0xe62f48e9 Pop
+0x3cd1e8ec Southern Rock
+0x3b948900 BandManager_HideInstrument
+0x1474f917 Blues Rock
+0x3c487938 setlightmapoverlayparams
+0x19355948 Z_PunkStage_CelebIntro_FX_Entrance
+0xfca63950 CelebIntro_UnderAwning
+0x7f261953 Pos
+0xca3aa956 Black Metal
+0x41272956 velocity
+0x9977b95f anim_set
+0xecfc1969 include_global_banks
+0x0b54f971 Exposition02
+0x6c4e7971 prefix
+0xd71bb977 twist
+0x7d28697e performance
+0x66a00980 Z_PunkStage_CelebIntro_FX_StandUp
+0x37a91983 R&B
+0x83b57984 Destroy
+0x1d68e9a9 Z_punkstage_camera_celebintro
+0xd63fb9af processor
+0xb26eb9c2 snapshots
+0x392649d7 preferredID
+0x2bc1a9df Ska Punk
+0x7c53c9e7 Exposition03
+0x2051e9e7 CrowdSpots_Off
+0x93a729f6 Z_PunkStage_GFX_FX_Encore_SparkSmoke01
+0x81f2da06 Flare_Generic
+0xea310a12 International
+0xab6bca18 Strobe05
+0xfb841a1a z_PunkStage_FastIntro_Transition
+0x398cba48 medium
+0x451b0a5e z_PunkStage_Encore_Setup
+0x990c6a70 Death Metal
+0x229cda75 z_PunkStage_Pyro_Moments_Back_1
+0x9f92ba78 nodeName
+0xdc6cfa8e Strobe04
+0x263dda8e wash
+0xcd47da94 z_PunkStage_Pyro_Moments_Mid_1
+0xf7608aaa spotlights_Red
+0x5cd5eabb spotlight_snapshots
+0x137ebac2 Classic Rock
+0x1b814acd Rising04
+0xc4e56adb TB_Global_Notehit_Liteshow_1
+0xe5fa3adf intro
+0x26a7cadf Other
+0x23db4aea Idle
+0xf8641af0 Resolution02
+0xf7026af1 risingAction
+0xb886faf6 climax
+0xe1fcfb11 Z_PunkStage_SetupNodeFlags
+0x998b5b11 Pop Punk
+0x9ef37b17 z_PunkStage_Pyro_Moments_Top_1
+0xaa616b1a poor
+0x9c57bb1c z_PunkStage_Performance_Changed
+0xf0a37b23 Z_PunkStage_Encore_FX_Setup
+0x4565ab34 Strobe07
+0x3f9d0b36 Metal
+0x4fec3b3c moment01
+0x616d4b4a Resolution01
+0xab6f7b4f Z_PunkStage_Encore_FX_StartSmoke
+0x9643bb51 Z_PunkStage_Encore_FX_KillCornerLighting
+0xf51bfb59 Speed Metal
+0x89e31b62 z_PunkStage_TRG_Geo_Can
+0xe0006b71 Nu Metal
+0x979dcb71 Pop Rock
+0x75155b87 tangentWeight
+0xb9992b93 Obj
+0x32629ba2 Strobe06
+0x98549ba4 anim
+0x7e0f0ba6 z_punkstage_CreateCelebIntro
+0x8e5d1bd5 z_PunkStage_Startup
+0xd483fbdd Hardcore
+0xfe7b4bfb TB_Global_Forest_Fire_1
+0x35879c06 Experimental
+0xefc51c06 bone_camera
+0x32b38c14 CCam_WaitMorph
+0x82117c1a Wait
+0xd1120c22 Grunge
+0xee37fc22 Z_PunkStage_camera_encore
+0xaf35dc26 Tension03
+0x7deeac32 Rockabilly
+0x2d43fc42 z_PunkStage_Setup
+0xe2375c44 Exposition04
+0xb3d2dc7e Funk
+0xcc7e5c84 ambientOcclusion
+0xe6112c96 z_PunkStage_Encore_TransitionEnd
+0xad558ca7 Z_PunkStage_Visualizer_Banks
+0x0830ecaf objID
+0xd832ecb0 Tension02
+0x09bc5cb7 FXID_Poof01
+0x3cd16cbb SafeKill
+0x379bed00 flare
+0x413bbd0a Tension01
+0x90b50d0d FXID_Poof02
+0x157a8d19 Purple
+0x86407d29 prelude
+0xbf51bd3c BandManager_UnHideInstrument
+0x75a96d47 CelebIntro_Inside
+0x46feed4a Surf Rock
+0x083acd4d z_PunkStage_Ven_G_RE_Door_01
+0x4ed8fd58 hide_glitch
+0x1c724d65 LockToBone
+0x0f5c5d66 fxParam
+0xccc77d81 Z_PunkStage_CelebIntro_FX_Inside
+0xb006ed85 OutsideNode
+0x574aeda0 spotlights_Orange
+0x6fb89db9 Transitions
+0xf941ade4 exp
+0x298e1df4 changenow
+0xd126cdf6 LockTo
+0xac060e01 Strobe01
+0x69b05e2c generic
+0x81264e2f z_punkstage_HideCrowd
+0xa00a2e3e spotlights_Purple
+0xd3d8de42 z_PunkStage_Pyro_Moments_Front_3
+0x6bebbe42 Rising01
+0x6ef11e4b LightShow_SetTime
+0xb48f9e54 TB_Global_Notehit_Liteshow_4
+0xf79e3e64 z_PunkStage_Encore_Transition
+0xae0e3e6f camera_songtime
+0xbe304e86 printstruct
+0xe23a4e87 Orange
+0xf6e02e94 TB_Global_Spark_Anim_1
+0xd6f41e9a UseSnapshotPositions
+0x96ce2ea5 params_Script
+0x164d0eac Z_PunkStage_GFX_FX_Encore_ElectricFloor01
+0x2dff7ec7 Blackout01
+0x183eded1 EnableScreenFX
+0xa4dfeed4 z_PunkStage_Pyro_Moments_Front_2
+0x4d9e9efb Wash01
+0x70291f04 create
+0x09eaaf20 Z_PunkStage_Encore_FX_Electric
+0xb1eaef21 TB_Gradient_1
+0x0cf50f29 ifEmpty
+0x42086f2d Strobe03
+0xdd52af3c Hard Rock
+0xed7daf40 Small_INT
+0xd497cf41 Wash02
+0x6b291f66 Hip_Hop
+0x3dd6bf6e z_PunkStage_Pyro_Moments_Front_1
+0x85e5df6e Rising03
+0xc218cf77 lifeTime
+0x50239f97 Flare01
+0x7d194f9f CelebIntro_Start
+0xe190cfa1 Electronic
+0x350f5fbb Strobe02
+0x27771fc4 strobe
+0xa6359fcd Jazz
+0xa390ffd7 Wash03
+0xc9014fda z_punkstage_CreatePSDoors
+0x1879bfea EngineWind
+0xf2e2eff8 Rising02
+

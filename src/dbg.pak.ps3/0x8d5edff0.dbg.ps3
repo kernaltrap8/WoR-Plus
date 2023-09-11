@@ -1,0 +1,141 @@
+[LineNumbers]
+ui_create_jam 7 (0,10) (6,12) (40,14) (71,16) (89,17) (124,19) (160,21) 
+ui_destroy_jam 2 (0,31) (6,33) 
+musicstudio_create_sub_heaps 5 (0,43) (6,46) (40,47) (104,48) (110,49) 
+musicstudio_destroy_sub_heaps 4 (0,53) (36,55) (72,56) (74,57) 
+ui_init_jam 31 (0,62) (52,64) (88,69) (94,70) (100,71) (136,73) (156,75) (192,78) (198,79) (204,81) (216,83) (252,85) (404,98) (456,101) (492,102) (505,104) (518,107) (531,108) (533,109) (552,112) (578,113) (582,116) (603,119) (625,120) (627,121) (651,122) (673,123) (675,124) (697,127) (704,128) (756,131) 
+ui_deinit_jam 26 (0,141) (6,143) (44,145) (50,146) (52,147) (64,149) (70,151) (104,153) (116,156) (122,158) (128,160) (180,162) (216,164) (252,165) (288,168) (336,171) (384,172) (390,175) (396,178) (402,180) (436,183) (442,185) (476,187) (482,189) (516,191) (552,194) 
+deinit_jam_audio 12 (0,203) (6,206) (12,207) (48,209) (84,210) (120,211) (156,212) (162,215) (200,217) (202,220) (208,222) (214,223) 
+musicstudio_set_default_camera 3 (0,232) (6,234) (184,244) 
+musicstudio_destroy_default_camera 2 (0,248) (36,249) 
+
+[Checksums]
+0x6167e36c scripts\guitar\menu\states\layouts\musicstudio\ui_jam.qb
+0x6c65406e jam_view_cam_created
+0x3e043075 JamMode_Vox
+0x689fe07c template
+0xaa16108b wait_for_deferred_rendering
+0x572a9093 ui_event_remove_params
+0xbe2f80cd unload_all_song_paks
+0x1cb5a0ee enter_music_central
+0x7031f10c params
+0x9fd29151 viewport
+0xcf66717b GotParam
+0xb8b0217d num_frames
+0x071f4183 bg_viewport
+0x287d118e jamsession_unload
+0x5d0671b8 channel
+0xba0711b9 SFX_Backgrounds_New_Area
+0xbfa801df change
+0xa1dc81f9 name
+0x2efc1200 add_music_studio_player_object
+0x59861212 musicstudio_stop_menu_music
+0x17e7321e FOV
+0x748ca262 Quat
+0x11f692a6 SetPlayerInfo
+0x3417c307 MemPopContext
+0x355b930b ui_init_jam
+0xf79b1312 ImmediateMode
+0xd1bae330 keep_drumkit
+0x5b058376 param
+0x4da4937b career
+0xda3403b0 null
+0xdd6bb3d5 blendmode
+0xc5bc93ee ScreenElementExists
+0xb555f408 MemHeapExists
+0x24cc6412 musicstudio_destroy_sub_heaps
+0x3e77e412 ii
+0xbd09544c func
+0x8320d478 game_mode
+0xb74ce4a3 respond_to_signin_changed
+0x445114c8 NetSessionFunc
+0xc10b44e8 current_level
+0x4da074fd Destroy_Crowd_Models
+0xe8c7b502 musicstudio_eq_settings_flat
+0x8da97503 primary_controller
+0xe84f4505 heap_song
+0x67e6859a player
+0x3e3355a3 MemInitHeap
+0xa9d735ad KillCamAnim
+0x5ce6f5af musicstudio_destroy_all_line6_effects
+0x6e2a05c3 MusicStudio_OnExitMusicStudio
+0x000815d4 ui_create_jam
+0xb20d4601 Bass_JamMode
+0x2de8c60e printf
+0x34b5c61d RemoveAllControllers
+0x1513763c Musicstudio_Instrument_UnloadAll
+0x5492e65c music_studio_on_enter_venue
+0x03924763 destroy_bandname_viewport
+0x3a19d791 create_jam_menu
+0x28c467be technique
+0xd43297cf false
+0x9a27480d heap_size_ms_notes_vram
+0x9c69281d musicstudio_default_camera
+0xbc92d828 FrontEnd_Menu_Music
+0x27abd858 ui_event_add_params
+0xf5574860 bass_kit_mode
+0xca152868 on_enter
+0xadcc4879 MaterialProps
+0xd43eb87b heap_musicstudio_notes
+0xb651987e musicstudio_create_sub_heaps
+0xa92fd8a7 jam_room_player
+0x40c698af id
+0x7321a8d6 type
+0x6a3568fb song_prefix
+0x5e396915 song_preview_element
+0xf1a6091d destroy_jam_menu
+0x7f261953 Pos
+0x2b9ab95d StopSoundsByBuss
+0xb30d9965 controller
+0xb5c8f9b9 OG_Mat_Flare
+0x6f074a19 persistent_band_stop_and_unload_anims
+0x1dd4ca24 PlayIGCCam
+0x634b2a2a BG_SFX_Area
+0x1da27a81 context
+0x1b9bca96 MusicStudio_DestroyVisualizer
+0x56ccbabf unchecked
+0xccbb9ac6 Guitar_JamMode
+0x99298ad7 musicstudio_mainobj
+0x7ee9fae9 PushUnsafeForShutdown
+0x19fa5af7 SpawnScriptNow
+0x9ec91afc spawn_id
+0xa7450b02 load_venue_reapply_band_logo
+0x0f821b0f exit_music_studio_cleanup
+0xcb55bb11 memory_get_heap_sizes
+0x05823b3e immediate
+0x083fdb95 size
+0xd5fa3b96 tex\models\LightHousings\JOW_Flare02.dds
+0xee241bb9 TextureProperty
+0x309d1bbb _2D_Col_Tex_NoViewport
+0x695aebc4 ui_deinit_jam
+0x7d6ebbd7 musicstudio_destroy_default_camera
+0xeb970bf2 ClearCustomSong
+0xaf27ebff jam_view_cam
+0x4c04fc0c UnloadBassKit
+0xd531fc10 CreateMaterial
+0x02e58c18 add
+0x5eaaec1d ui_destroy_jam
+0xeb300c29 Play_hold
+0x6c1cdc40 musicstudio_set_default_camera
+0x0b5cfca0 DestroyMaterial
+0x012bacd6 m_samp0
+0x4ed8fd58 hide_glitch
+0xb2edcd7d interrupt_current
+0xa2a9ad7e jam_clear_clipboards
+0x11d16d9e jam_deinit_reverb
+0xbb218dbd do_jam_loading
+0x23b69dca Drums_JamMode
+0x973dcde5 heap_size_ms_notes
+0xd126cdf6 LockTo
+0x2ff4ae05 destroy_visualizer_screen_element
+0x7288be18 destroy_song_preview_menu
+0xc588eebc world
+0x58656f1d musicstudio
+0x806fff30 none
+0x5fdb3f3a MemDeleteHeap
+0x95554f58 cas_override_object
+0x81563f5a vram_size
+0x3f5acf99 MusicStudio_OnEnterMusicStudio
+0xeb117fd0 MemPushContext
+0xf6e67ff8 deinit_jam_audio
+

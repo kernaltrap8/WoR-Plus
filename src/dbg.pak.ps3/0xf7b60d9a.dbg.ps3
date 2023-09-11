@@ -1,0 +1,78 @@
+[LineNumbers]
+cas_band_logo_create_object 23 (0,19) (36,21) (104,22) (106,23) (125,25) (160,27) (167,29) (179,30) (191,31) (211,36) (232,37) (280,42) (292,43) (304,44) (317,48) (329,52) (331,54) (344,56) (356,57) (369,58) (371,59) (377,61) (424,63) 
+cas_band_logo_update 37 (1,73) (17,74) (19,75) (25,77) (76,78) (82,79) (88,80) (124,82) (164,84) (180,85) (182,86) (195,90) (210,91) (222,92) (240,93) (275,94) (288,95) (290,96) (292,97) (294,98) (312,100) (328,101) (330,102) (334,104) (352,107) (375,109) (412,110) (472,111) (474,112) (476,113) (478,115) (496,117) (502,119) (508,120) (514,121) (564,122) (624,124) 
+cas_band_logo_modelbuild 22 (28,136) (84,138) (124,141) (133,142) (145,143) (157,144) (165,145) (178,146) (190,147) (192,148) (200,149) (208,150) (220,151) (233,152) (235,153) (237,154) (239,155) (257,157) (275,158) (287,159) (305,160) (344,161) 
+
+[Checksums]
+0xe3ef21e7 scripts\game\cas\cas_band_logo.qb
+0x9dbce047 FlushAllCompositeTextures
+0x1588c059 temporary_heap
+0x7a3d505b buildscriptparams
+0xe48fd084 SwitchOffAtomic
+0xd0bc20aa default_album_cover
+0x0c7800b0 BottomUpHeap
+0x301dd0f9 GetGlobalTags
+0x7031f10c params
+0x3b14e166 cas_band_logo_create_object
+0xcf66717b GotParam
+0x4742a1a1 BandLogoObject
+0xa1dc81f9 name
+0x0cbc121f assetContext
+0x338b1254 CAS_Band_Logo_id
+0x552fa29d ModelBuilder_Build
+0x3053b2c7 CompositeObjectExists
+0x3417c307 MemPopContext
+0x299ee352 buildscript
+0xa8ee7357 ScriptAssert
+0xeeef23a4 ModelBuilder_Preload
+0x7e4813a7 LightGroup
+0x132f43e9 CreateFromDesc
+0xbc58f41f BandLogoGameObject
+0xc001242a global_storage
+0xf8a4443a get_savegame_from_controller
+0x39b5c4b0 GetArraySize
+0x56c4d4b9 cas_band_logo_update
+0xdeef04cd StructureContains
+0x719f5501 editable_jam_album_cover
+0x404785b7 band_logo
+0xa672a60c ModelBuilder_LoadAssets
+0x2de8c60e printf
+0xc3409622 instrument
+0x4c89f7c0 CAS_Band_Logo_Details
+0x45a087f6 modelbuilder_build_logo
+0x90fec815 structure
+0x4bb2084e desc_id
+0x66cc784e cap
+0x862ba85b CAS_Band_Logo
+0x3cb6d8f3 band_name_logo_controller
+0xa5a3b92d heap_cas_build
+0x09794932 skeletonName
+0x9f8b4945 cas_queue_block
+0x7f261953 pos
+0x791ed956 uniqueSkeletonPath
+0xb30d9965 controller
+0x63d4a9b2 album_art
+0x1b0509c5 savegame
+0xa58079eb SetTags
+0xffc529f4 cas
+0xfbf26b44 ModelBuilder_ProcessAssets
+0xb0712b76 band_logo_block
+0x89e1cc18 Alt_Band
+0x39038c6c BandLogoSkeleton
+0x90e07c79 async
+0x34a9acb7 use_band_logo
+0x62c11cb9 GetSingleTag
+0xb7205d14 Band
+0x42d6dd1e heap
+0x20d80d3b progression_band_info
+0x7f5b3d4d array_size
+0xf171bd59 CasBlockForComposite
+0x554c7d6f appearance
+0x7f74fec7 base_tex
+0xec089edc WaitUnloadGroup
+0x806fff30 none
+0x96254f72 IsArray
+0xeb117fd0 MemPushContext
+0xb1fe6fd5 cas_band_logo_modelbuild
+0xa534bfda CASBlockForLoading
+

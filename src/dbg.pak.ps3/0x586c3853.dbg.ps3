@@ -1,0 +1,137 @@
+[LineNumbers]
+net_counter_increment 9 (28,64) (68,67) (80,68) (82,69) (142,71) (176,73) (216,75) (252,76) (254,77) 
+net_counter_done 4 (0,88) (36,89) (72,90) (74,91) 
+net_counter_write_counters_loop_proc 19 (0,99) (2,102) (37,103) (55,105) (74,108) (78,109) (97,112) (99,113) (103,114) (121,116) (156,118) (192,119) (308,121) (327,122) (331,123) (350,125) (352,126) (354,127) (356,128) 
+net_counter_read_counters_callback 13 (0,137) (36,142) (46,145) (56,146) (92,148) (98,149) (111,150) (144,152) (180,153) (188,154) (224,156) (260,157) (262,158) 
+net_counter_write_counters_callback 2 (0,167) (36,172) 
+net_counter_update_overlay_text2 23 (0,192) (36,194) (49,196) (84,198) (97,199) (115,200) (127,201) (140,202) (158,203) (170,204) (172,205) (174,207) (197,208) (261,210) (335,211) (339,212) (401,213) (403,214) (465,215) (486,217) (494,218) (496,219) (516,221) 
+net_counter_debug_overlay 2 (0,230) (36,231) 
+net_counter_debug_overlay_create 7 (0,239) (6,241) (136,249) (336,262) (632,280) (684,286) (720,290) 
+net_counter_debug_overlay_destroy 5 (0,299) (36,300) (72,301) (74,302) (108,303) 
+net_counter_debug_overlay_loop 34 (0,311) (12,312) (14,313) (52,314) (108,315) (186,317) (224,318) (237,319) (239,320) (276,321) (300,322) (302,323) (304,324) (356,325) (378,326) (399,327) (434,328) (438,330) (451,332) (484,334) (497,335) (515,336) (548,338) (560,340) (562,341) (585,342) (635,343) (656,344) (664,345) (780,346) (782,347) (784,349) (786,350) (788,351) 
+net_counter_debug_overlay_task 3 (0,359) (6,360) (12,361) 
+
+[Checksums]
+0x33c1a44e scripts\game\net\net_counter.qb
+0x83c9e01f globalcounter_music_studio
+0xcd0dc02d KillSpawnedScript
+0xe126e035 top
+0x90ff204d success
+0x375d4090 g_net_counter_counter_name_list
+0xa86a00c0 g_net_counter_debug_overlay_enabled
+0xe8dc80d1 AddToStringLookup
+0xe4f130f4 s
+0xb12b510a SpriteElement
+0x7031f10c params
+0x69bc0126 delta
+0x73665140 CreateScreenElement
+0x1dd0416c g_net_counter_reading_counters
+0xcf66717b GotParam
+0x9c71b19e g_net_counter_quick_sleep_time
+0xbfa801df change
+0xded141ec net_counter_read_counters_callback
+0xa1dc81f9 name
+0xf97bc22c globalcounter_audio_mixer
+0x8b60022f just
+0xbd30325b white
+0x46159266 out
+0x796c727e update_counter
+0x3e766284 globalcounter_edit_instrument_guitar
+0x7d99f28d texture
+0x5df372a8 net_counter_debug_overlay
+0xb23f32ae g_net_counter_long_sleep_time
+0x5e5cc307 read_counters
+0xa74ae30d globalcounter_friend_feed_click_other
+0x45480310 checksum_name
+0x6fcf2329 g_net_counter_please_write_counters
+0x9eb6e336 spawnscript
+0xcc6033b4 globalcounter_calibrate_lag
+0xd1ba63eb globalcounter_music_store_songlist
+0xc5bc93ee ScreenElementExists
+0xd78713f9 globalcounter_friend_feed_click_ad
+0xff0db407 TextName
+0x9277f428 FormatText
+0xefd41437 net_counter_debug_overlay_create
+0xbd09544c func
+0x39b5c4b0 GetArraySize
+0x3fb4b4c3 g_net_counter_writing_counters
+0x445114c8 NetSessionFunc
+0x938f950c num_items_to_do
+0x0d5b7523 globalcounter_edit_instrument
+0x0e61b525 RunScriptOnScreenElement
+0x6722b533 d
+0x3a8ba53d globalcounter_detailed_stats
+0x06cf8547 globalcounter_friend_feed_click_motd
+0x82721557 net_counter_done
+0x7a95a557 t
+0x34a68574 dims
+0x3cfae599 net_counter_debug_overlay_destroy
+0xf061e5b3 outvar
+0xf6ce25b5 globalcounter_music_store_purchase
+0x74a6f5c2 globalcounter_edit_instrument_mic
+0xd029f619 seconds
+0xe00c361e globalcounter_tutorial
+0x229ee644 globalcounter_create_new_rocker
+0xa0a07650 globalcounter_edit_instrument_bass
+0x2f1fc695 alpha
+0x293d56aa net_counter_debug_overlay_text_id
+0x247fa6af g_net_counter_overlay_text1
+0x9e0a76ce globalcounter_leaderboard
+0x47262714 g_net_counter_debug_overlay_refresh_time
+0xbd76f715 g_net_counter_overlay_text2
+0x2f6bf72d font
+0x0fad1739 globalcounter_friend_feed_click
+0x6eebc766 globalcounter_music_store_main
+0xbc0de791 globalcounter_edit_band_lineup
+0x906b67ba time
+0x5962a7c4 num_items
+0x2bec47ca globalcounter_expand_friends_feed
+0xd43297cf false
+0xc4745838 text
+0x03aec838 net_counter_debug_overlay_loop
+0x5b9da842 ContainerElement
+0x85981897 left
+0xee51589e counter_name
+0x40c698af id
+0xe6cf88c4 callback_params
+0x7321a8d6 type
+0x7f8c98fe index
+0x823a090b read_counter
+0x3006193d globalcounter_facebook_broadcast
+0x7f261953 pos
+0x3c15e9b6 DestroyScreenElement
+0xc130f9e5 ScriptIsRunning
+0x13d0da1e DontAssertForChecksums
+0xa75e3a29 get_counter
+0x6eed3a77 net_counter_write_counters_loop_proc
+0x13b9da7b scale
+0x56a1eae3 root_window
+0x19fa5af7 SpawnScriptNow
+0x39b60b64 net_counter_debug_overlay_root_id
+0x3edd6b87 counter
+0x8b416b8f net_counter_increment
+0xb9992b93 obj
+0x86068bd9 callback
+0x3a58abf1 write_counters
+0x9009bc07 net_counter_debug_overlay_background_id
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0xde64fc3e failure
+0x16b0dc41 net_counters
+0x8cc51cb8 globalcounter_twitter_broadcast
+0xe0119d46 text2
+0xcef92d47 single_line
+0x7f5b3d4d array_size
+0xc24d0d4f globalcounter_friend_feed_click_friend
+0x598bfdb9 globalcounter_practice
+0x3f6bcdba rgba
+0x37feae40 globalcounter_edit_instrument_drum
+0xfccb7e50 net_counter_update_overlay_text2
+0xec953eec result
+0xf08f0ef3 net_counter_debug_overlay_task
+0x67b6ff1a net_counter_write_counters_callback
+0x57710f31 z_priority
+0x2fefaf84 fontgrid_text_a1
+0xc2719fb0 parent
+0x5200dfb6 TextElement
+

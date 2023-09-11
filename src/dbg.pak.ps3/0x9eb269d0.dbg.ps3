@@ -1,0 +1,181 @@
+[LineNumbers]
+ui_create_options_progression 97 (0,10) (92,11) (99,13) (111,14) (123,15) (135,16) (156,17) (164,18) (166,19) (174,20) (187,21) (189,22) (204,23) (216,24) (228,25) (230,26) (280,28) (316,31) (392,33) (468,34) (544,35) (588,37) (602,38) (608,40) (610,41) (612,42) (656,44) (670,45) (676,46) (678,47) (680,48) (700,50) (722,52) (735,53) (737,54) (750,56) (752,57) (818,59) (842,60) (861,62) (895,63) (902,65) (914,66) (926,67) (959,68) (972,69) (984,71) (997,72) (1009,73) (1011,74) (1015,75) (1033,76) (1040,77) (1052,78) (1085,79) (1097,80) (1109,81) (1142,82) (1155,83) (1167,85) (1179,86) (1181,87) (1185,88) (1219,89) (1226,91) (1238,92) (1271,93) (1283,94) (1295,95) (1328,96) (1341,97) (1353,99) (1366,100) (1378,101) (1380,102) (1416,104) (1425,105) (1427,106) (1433,107) (1439,108) (1447,109) (1459,110) (1467,111) (1480,112) (1493,113) (1495,114) (1497,115) (1499,116) (1501,117) (1526,118) (1528,119) (1530,120) (1532,121) (1554,123) (1562,124) (1568,126) (1616,128) 
+ui_destroy_options_progression 5 (0,137) (6,139) (44,141) (80,142) (82,143) 
+options_progression_setup_helpers 17 (0,152) (6,154) (26,156) (48,158) (61,159) (63,160) (129,162) (153,163) (172,165) (256,166) (258,167) (340,169) (359,171) (377,172) (460,173) (462,174) (464,175) 
+options_progression_create_new_progression 4 (76,186) (112,187) (154,191) (196,192) 
+options_progression_is_name_unique 16 (0,201) (72,203) (84,205) (86,206) (105,207) (171,208) (195,209) (213,211) (232,212) (264,213) (266,214) (268,215) (270,216) (291,217) (301,218) (332,220) 
+options_progression_save_new_progression 12 (0,229) (18,231) (68,232) (75,233) (77,234) (79,235) (125,237) (176,238) (183,239) (185,240) (187,241) (194,245) 
+options_progression_return_from_save_instrument_warning 2 (0,252) (30,254) 
+options_progression_set_savegame_progression 12 (0,262) (30,264) (96,266) (120,268) (138,269) (193,270) (199,271) (258,272) (262,273) (268,274) (274,275) (276,276) 
+options_progression_reset_savegame_progression 14 (0,285) (21,287) (56,288) (92,289) (133,290) (168,291) (174,292) (204,293) (210,295) (269,297) (273,298) (279,299) (285,301) (287,302) 
+options_progression_update_venue 2 (0,311) (6,317) 
+options_progression_show_change_progression_warning 9 (0,352) (66,354) (90,355) (97,357) (109,358) (115,359) (128,360) (130,361) (202,363) 
+options_progression_show_delete_progression_warning 10 (0,371) (66,373) (90,374) (97,376) (109,377) (115,378) (128,379) (130,380) (180,382) (275,384) 
+options_progression_show_new_progression_warning 3 (0,392) (52,397) (135,399) 
+options_progression_show_nonunique_progression_warning 9 (0,407) (24,409) (36,410) (48,411) (60,412) (72,413) (84,414) (94,415) (96,416) 
+options_progression_show_blank_progression_warning 9 (0,424) (24,426) (36,427) (48,428) (60,429) (72,430) (84,431) (94,432) (96,433) 
+options_progression_back 3 (0,441) (52,442) (58,443) 
+ui_options_progression_anim_in 2 (0,447) (36,449) 
+ui_options_progression_anim_out 2 (0,460) (36,462) 
+
+[Checksums]
+0xe1499574 scripts\guitar\menu\states\layouts\ui_options_progression.qb
+0xb990d003 target
+0xdd70901e options_controller_X
+0xacdce01f options_progression_update_venue
+0x475bf03c event_handlers
+0x059ea070 red
+0x689fe07c template
+0xe8dc80d1 AddToStringLookup
+0x3254b0ef back_script
+0xe4f130f4 s
+0x301dd0f9 GetGlobalTags
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0xfea1a119 uistate_options_change_progression_warning
+0x80fe3141 show_mainmenu_bg
+0x01dd615f DescInterface
+0xcf66717b GotParam
+0xf551c190 options_progression_setup_helpers
+0x174841bc a
+0x6017f1cc ui_event
+0x2f6511de green
+0xa1dc81f9 name
+0xc1bf4204 freeplay_check_on
+0x0f5b9256 attempt_to_add_friend_feed
+0x2edb02a9 options_progression_return_from_save_instrument_warning
+0xd443a2bc off
+0x4483c311 options_progression_show_new_progression_warning
+0x0203b372 true
+0x6ca9a3a5 selected_index
+0xf44a53ab desc
+0xc5f953c2 button
+0xe39ea3c2 is_reset
+0x215563d8 confirm_func
+0x637af3e8 options_progression_reset_savegame_progression
+0xc5bc93ee ScreenElementExists
+0xff0db407 textname
+0x9277f428 FormatText
+0x1cca942f menu_header_cont_alpha
+0xf8a4443a get_savegame_from_controller
+0xeceaf452 progression_in_use
+0x91f0e45a body_text
+0xf4456474 quickplay_choose_random_venue
+0x5b6634d4 hide
+0x1d96a4e7 options_progression_save_new_progression
+0xb52f44ef additional_focus_params
+0x8da97503 primary_controller
+0xc034850b options_progression_show_delete_progression_warning
+0x9d3fb516 focus
+0xec1cd520 continue
+0x6722b533 d
+0x6ba4353e freeplay_check_off
+0xb40d153f Select
+0x334fc543 options_progression_is_name_unique
+0x4c29c545 RequireParams
+0x61c9354b blue
+0xc451f558 event
+0x82fac56c menu
+0xe8a3d570 ui_memcard_autosave_replace
+0x8d85358f parent_id
+0x5efad5f0 options_progression_menu_id
+0x150d35f1 heading_text
+0x603845f2 UIstate_generic_dialog_box
+0x7bb9c604 menu_replace
+0xa7d7c610 choose_script
+0x9a6bd624 icon
+0xb4f1f65a alias_mainmenu_up_arrow
+0x8d5b9670 pad_script
+0x49f93684 options_progression_show_blank_progression_warning
+0x14db6709 fg_objects_1
+0xcf9bc720 ui_create_options_progression
+0xc0cab738 LockGlobalTags
+0x2cb33744 LaunchEvent
+0x78a10769 ui_options_progression_anim_in
+0xaa2b07a2 play_cameracut
+0x9dfbf7c5 main_generic
+0xd43297cf false
+0x02df87de ui_destroy_options_progression
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0x4bb2084e desc_id
+0x9d2d8850 z
+0x29d5d87b add_gamertag_helper
+0x0dcb0898 options_progression_set_savegame_progression
+0x40c698af id
+0x7321a8d6 type
+0xbe5988dd screen_id
+0x6cef5907 menu_change
+0xb30d9965 controller
+0x6c4e7971 prefix
+0x1993c98e i
+0x3c15e9b6 DestroyScreenElement
+0x1b0509c5 savegame
+0x5c3979e3 pad_square
+0x26982a07 all_buttons
+0x604efa33 helper_text
+0xcf929a45 options_progression_show_nonunique_progression_warning
+0x71d0fa66 UIStack_SpawnBoundScriptNow
+0x2c8a3a6d child_index
+0xef75ca77 mainmenu_item_id
+0x76fa7a8f checksumname
+0xa40abaa7 field
+0x56a1eae3 root_window
+0xcec57af6 ui_options_progression_anim_out
+0x19fa5af7 SpawnScriptNow
+0x44d0faff main_menu_finalize
+0xe42dbaff default_name
+0x55e88b00 reset_progression_slot
+0x28e66b14 resolved_id
+0x7d44db1a generic_blocking_execute_script
+0xf1ad5b88 NegativeSelect
+0x29502bc0 UI_SFX
+0x90436bd9 tags
+0x8ecc0bda ampzilla_anim
+0x15047bf7 menu_item_text
+0x4d49ac0a current_menu
+0x7d654c18 exclusive_device
+0x9f23dc21 SE_SetProps
+0x8fff0c90 anim_clouds
+0x520c0c9c data
+0x44a31cb5 SetGlobalTags
+0xb246bcbb options_progression_create_new_progression
+0x33ffbcc2 globaltag_checksum
+0xc823ecce SaveGameSetProgression
+0xd6521cee generic_event_back
+0x1db9dcfc mainmenu_animate
+0x7056ed02 RemoveParameter
+0x5c6c2d04 state
+0x2660cd26 additional_focus_script
+0x7ee0fd2a pad_back
+0xc906ad51 menustate
+0x678a1d9e alias_mainmenu_down_arrow
+0xb637edb3 options_progression_show_change_progression_warning
+0x9f51ddb9 options_progression_back
+0xb00b0dc0 dummy
+0x4f549dd1 menu_header_text_text
+0xc4e78e22 all
+0x69b05e2c generic
+0x15a08e38 confirm_func_params
+0xa7920e3b UIStack_CreateBoundScreenElement
+0x5a7ece86 menu_back
+0x8842aea9 ui_event_wait
+0x92313ec8 Back
+0x02141f19 clean_up_user_control_helpers
+0x3c409f20 num_savegame_progressions
+0x418baf22 mainmenu_setup_physics_elements
+0x2c6a5f27 uitype
+0x8b971f6e create_new
+0xb3137f7b progression_name
+0x4942cf80 message
+0x2a4daf8c Progression
+0x53f1df98 slot
+0x234aefa9 uistate_options_progression
+0xc2719fb0 parent
+0xb73d5fb9 SaveGameGetProgression
+0x1e141fb9 pad_params
+0x1c396fc1 mainmenu_setup_option
+0xa986bfc3 options_controller_check
+0xfee23fd3 stars
+0x34984fd9 choose_params
+

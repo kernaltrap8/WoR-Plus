@@ -1,0 +1,34 @@
+[LineNumbers]
+
+[Checksums]
+0xb15434ad models\car_instruments\guitar\schecter\gtr277_sch_synyster.qb
+0x6155204f gtr277_Sch_Synyster_I_GTR73_pickup07
+0x9687f060 BRIDGE
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0xd5446237 gtr277_Sch_Synyster_GTR277_switch01
+0x6a8a0313 gtr277_sch_synyster_NodeArray_SortedNames
+0xec4eb3bc gtr277_sch_synyster_NodeArray
+0x8058e545 MISC
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0x32edf6a5 gtr277_Sch_Synyster_GTR277_knob02
+0xabe4a71f gtr277_Sch_Synyster_GTR277_knob01
+0x46713724 gtr277_sch_synyster_NodeArray_SortedIndices
+0x7f261953 Pos
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0xa6483ad5 gtr277_Sch_Synyster_GTR277_pickup03
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x48465bf9 gtr277_Sch_Synyster_GTR277_pickup01
+0x385e8d74 SkinExport
+0x532b3e6b gtr277_Sch_Synyster
+0x84b1df33 ExportName
+0xdaac2f57 gtr277_Sch_Synyster_gtr277_Sch_Synyster
+0x382caf76 gtr277_Sch_Synyster_GTR277_pickup04
+0x64f0cf83 AttachPoint
+0xd037efa3 gtr277_Sch_Synyster_GTR277_Bridge01
+0x4f2b9fe0 gtr277_Sch_Synyster_GTR277_pickup05
+

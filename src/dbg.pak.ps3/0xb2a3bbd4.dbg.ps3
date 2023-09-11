@@ -1,0 +1,33 @@
+[LineNumbers]
+
+[Checksums]
+0x29051aca models\car_instruments\bass\ibanez\ibanez_icb_body.qb
+0x9687f060 BRIDGE
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0xf674e2bc IBANEZ_ICB_Body_IBZ_BAS_ICB_Bridge01
+0xb780b43d IBANEZ_ICB_Body_IBZ_BAS_ICB_Knob06
+0x2e89e587 IBANEZ_ICB_Body_IBZ_BAS_ICB_Knob05
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0x6e0556e6 IBANEZ_ICB_Body_IBZ_BAS_ICB_PICKUP01
+0x7ebf375c IBANEZ_ICB_Body
+0xf70c075c IBANEZ_ICB_Body_IBZ_BAS_ICB_PICKUP02
+0x40668942 ibanez_icb_body_NodeArray_SortedNames
+0x7f261953 Pos
+0x19ebda23 Set
+0xb1550a35 IBANEZ_ICB_Body_IBZ_BAS_ICB_Knob003
+0xc6523aa3 IBANEZ_ICB_Body_IBZ_BAS_ICB_Knob002
+0xc97f3aa9 Orientation
+0x5f5b6b19 IBANEZ_ICB_Body_IBZ_BAS_ICB_Knob001
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0xe8bc1be3 ibanez_icb_body_NodeArray_SortedIndices
+0x3ff47bf4 RemovalFlags
+0x385e8d74 SkinExport
+0x16debee9 IBANEZ_ICB_Body_IBANEZ_ICB_Body
+0xcf627ef1 ibanez_icb_body_NodeArray
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+0x2f319f96 IBANEZ_ICB_Body_IBZ_BAS_ICB_Knob004
+

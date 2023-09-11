@@ -1,0 +1,409 @@
+[LineNumbers]
+get_marketplace_pack_struct 78 (0,36) (64,38) (72,40) (81,41) (90,42) (92,43) (119,45) (141,47) (153,49) (174,50) (206,51) (218,52) (240,53) (252,54) (264,55) (276,56) (315,57) (327,58) (331,59) (390,60) (392,61) (396,62) (416,63) (428,64) (440,65) (452,66) (491,67) (503,68) (507,69) (577,70) (579,71) (581,72) (599,75) (665,77) (691,80) (717,81) (719,82) (745,84) (771,85) (795,87) (808,88) (812,89) (825,90) (827,91) (867,93) (875,95) (888,96) (901,97) (922,98) (943,99) (964,100) (977,101) (990,103) (1003,104) (1016,106) (1029,108) (1050,110) (1071,112) (1092,114) (1105,115) (1118,117) (1131,118) (1144,120) (1146,121) (1167,123) (1193,124) (1195,125) (1232,129) (1239,130) (1241,131) (1263,133) (1282,134) (1284,135) (1288,137) (1350,138) (1352,139) (1354,140) (1384,141) 
+music_store_pack_check_patched 15 (0,148) (64,149) (76,152) (94,153) (107,154) (109,155) (140,157) (164,159) (196,160) (198,161) (200,163) (222,165) (230,166) (232,167) (264,169) 
+music_store_pack_check_rating 15 (0,176) (64,177) (76,180) (94,181) (107,182) (109,183) (140,185) (165,187) (187,188) (189,189) (191,191) (213,193) (221,194) (223,195) (252,197) 
+get_marketplace_song_struct 143 (0,205) (64,207) (91,209) (115,210) (127,211) (148,213) (180,214) (192,215) (214,216) (226,217) (238,218) (250,219) (289,220) (301,221) (305,222) (415,223) (417,224) (421,225) (447,226) (459,227) (471,228) (483,229) (511,230) (523,231) (543,233) (569,234) (599,235) (611,236) (662,237) (664,238) (666,239) (668,240) (690,241) (702,242) (714,243) (726,244) (765,245) (777,246) (781,247) (863,248) (865,249) (867,250) (885,253) (951,255) (963,257) (984,258) (1011,261) (1029,262) (1033,263) (1045,264) (1047,265) (1060,268) (1086,269) (1108,270) (1110,271) (1123,274) (1149,275) (1171,276) (1173,277) (1186,279) (1213,280) (1244,281) (1248,282) (1278,283) (1280,284) (1293,287) (1319,288) (1341,289) (1343,290) (1356,293) (1382,294) (1404,295) (1406,296) (1419,299) (1445,300) (1467,301) (1469,302) (1482,305) (1508,306) (1530,307) (1532,308) (1545,311) (1571,312) (1593,313) (1595,314) (1608,317) (1634,318) (1656,319) (1658,320) (1671,323) (1697,324) (1719,325) (1721,326) (1734,329) (1760,330) (1782,331) (1784,332) (1792,334) (1805,335) (1826,336) (1847,337) (1868,338) (1880,339) (1892,340) (1913,342) (1926,344) (1939,345) (1952,347) (1965,349) (1986,351) (1999,352) (2012,353) (2033,355) (2054,357) (2075,359) (2096,361) (2109,362) (2122,364) (2135,366) (2148,368) (2161,369) (2174,370) (2187,371) (2200,372) (2213,374) (2226,376) (2228,377) (2249,379) (2275,380) (2277,381) (2316,385) (2323,386) (2325,387) (2347,389) (2366,390) (2370,391) (2431,392) (2433,393) (2435,394) (2439,396) (2488,397) (2490,398) (2520,400) 
+get_marketplace_import_struct 72 (0,408) (64,410) (91,412) (115,413) (127,414) (148,416) (180,417) (192,418) (203,419) (215,420) (227,421) (239,422) (251,423) (273,424) (285,425) (297,426) (309,427) (348,428) (360,429) (364,430) (453,431) (455,432) (459,433) (479,434) (491,435) (503,436) (515,437) (554,438) (566,439) (570,440) (631,441) (633,442) (635,443) (653,446) (719,448) (732,451) (758,452) (780,453) (782,454) (803,456) (841,457) (849,459) (862,460) (875,461) (888,462) (900,463) (912,464) (925,466) (938,467) (951,469) (972,471) (993,473) (1006,475) (1019,477) (1040,479) (1042,480) (1063,482) (1089,483) (1091,484) (1128,488) (1135,489) (1137,490) (1159,492) (1178,493) (1182,494) (1243,495) (1245,496) (1247,497) (1251,499) (1304,500) (1306,501) (1336,503) 
+HACK_modify_hits_string 11 (0,516) (13,517) (158,518) (164,519) (182,520) (195,521) (199,522) (212,523) (214,524) (216,525) (230,526) 
+get_marketplace_patch_struct 63 (0,534) (64,536) (91,538) (115,539) (127,540) (148,542) (180,543) (192,544) (203,545) (215,546) (227,547) (239,548) (251,549) (273,550) (285,551) (297,552) (309,553) (348,554) (360,555) (364,556) (452,557) (454,558) (458,559) (478,560) (490,561) (502,562) (514,563) (553,564) (565,565) (569,566) (629,567) (631,568) (633,569) (651,572) (717,574) (725,576) (738,577) (759,578) (780,579) (792,580) (804,581) (817,583) (830,584) (843,586) (864,588) (877,590) (879,591) (900,593) (926,594) (928,595) (964,599) (971,600) (973,601) (995,603) (1014,604) (1018,605) (1079,606) (1081,607) (1083,608) (1087,610) (1132,611) (1134,612) (1164,614) 
+music_store_get_pack_contents_strings 35 (0,623) (40,624) (42,625) (44,626) (54,628) (64,629) (76,631) (94,632) (107,633) (109,634) (140,635) (167,636) (205,637) (219,638) (257,640) (271,641) (275,642) (299,643) (337,644) (351,645) (389,647) (403,648) (407,649) (449,650) (479,652) (493,653) (522,655) (536,656) (538,657) (540,658) (542,659) (563,660) (571,661) (573,662) (599,664) 
+music_store_check_code_exists 16 (40,672) (67,674) (79,676) (97,677) (109,679) (111,680) (143,682) (164,683) (196,684) (228,685) (230,686) (232,687) (253,689) (261,690) (263,692) (292,694) 
+music_store_should_hide_item 11 (0,703) (29,705) (31,706) (33,707) (39,709) (65,710) (106,711) (136,713) (138,714) (140,715) (172,716) 
+music_store_generate_date 6 (60,725) (72,728) (102,729) (132,730) (154,731) (168,732) 
+get_songlist_filename 3 (0,741) (15,743) (42,745) 
+IsSongAvailable 59 (60,757) (66,758) (100,761) (132,762) (134,763) (144,765) (167,766) (199,769) (228,770) (230,771) (260,773) (292,774) (294,775) (314,778) (336,779) (368,780) (370,781) (388,782) (420,783) (422,784) (426,785) (438,786) (533,787) (545,788) (547,789) (565,791) (583,792) (601,793) (632,794) (634,795) (636,796) (638,797) (651,800) (667,801) (701,802) (714,803) (716,804) (734,806) (752,808) (793,810) (824,811) (826,812) (828,813) (846,816) (864,817) (896,818) (898,819) (902,821) (935,823) (953,824) (971,825) (1000,826) (1002,827) (1006,828) (1036,829) (1038,830) (1068,831) (1070,832) (1100,833) 
+IsSongSelectable 86 (44,843) (65,845) (96,846) (98,847) (116,849) (136,850) (138,851) (171,854) (216,855) (218,856) (231,859) (244,860) (277,861) (295,862) (297,863) (315,865) (360,866) (362,867) (396,870) (447,871) (476,872) (478,873) (516,876) (548,877) (550,878) (612,881) (644,883) (646,884) (656,886) (679,887) (692,891) (724,892) (746,893) (748,894) (761,897) (793,898) (815,899) (817,900) (830,903) (862,904) (884,905) (886,906) (899,909) (931,910) (953,911) (955,912) (961,916) (979,917) (1024,918) (1056,919) (1058,920) (1103,921) (1132,922) (1134,923) (1179,924) (1208,925) (1210,926) (1255,927) (1284,928) (1286,929) (1290,931) (1303,933) (1309,934) (1340,935) (1385,936) (1416,937) (1418,938) (1463,939) (1492,940) (1494,941) (1498,942) (1543,943) (1572,944) (1574,945) (1619,946) (1648,947) (1650,948) (1695,949) (1724,950) (1726,951) (1771,952) (1800,953) (1802,954) (1804,955) (1806,956) (1836,958) 
+is_part_supported 17 (0,966) (64,967) (77,969) (83,970) (93,973) (111,974) (117,975) (119,976) (136,977) (155,978) (184,979) (186,980) (204,981) (212,982) (214,983) (216,984) (248,985) 
+get_ui_song_struct_items 177 (44,997) (78,1000) (129,1001) (160,1002) (162,1003) (172,1005) (195,1006) (207,1008) (219,1009) (252,1010) (270,1011) (272,1012) (285,1019) (317,1020) (349,1022) (363,1023) (365,1024) (379,1026) (411,1027) (433,1028) (435,1029) (469,1032) (501,1034) (515,1035) (517,1036) (531,1038) (544,1043) (578,1045) (610,1047) (624,1048) (626,1049) (640,1051) (653,1056) (655,1057) (668,1060) (700,1061) (732,1062) (746,1063) (748,1064) (750,1065) (763,1068) (795,1069) (817,1070) (819,1071) (832,1073) (865,1074) (906,1075) (920,1076) (922,1077) (926,1078) (966,1079) (980,1080) (982,1081) (984,1082) (997,1085) (1029,1086) (1051,1087) (1053,1088) (1066,1091) (1098,1092) (1120,1093) (1122,1094) (1135,1097) (1167,1098) (1199,1099) (1213,1100) (1215,1101) (1217,1102) (1230,1105) (1262,1106) (1284,1108) (1318,1110) (1331,1112) (1353,1113) (1375,1114) (1393,1115) (1407,1116) (1409,1118) (1422,1121) (1454,1122) (1476,1123) (1478,1124) (1491,1127) (1523,1128) (1545,1129) (1547,1130) (1560,1133) (1592,1134) (1614,1135) (1616,1136) (1629,1139) (1661,1140) (1683,1141) (1685,1142) (1698,1145) (1730,1146) (1752,1147) (1754,1148) (1785,1151) (1817,1152) (1849,1153) (1863,1154) (1865,1155) (1867,1156) (1880,1159) (1912,1160) (1934,1161) (1936,1162) (1949,1165) (1981,1166) (2003,1167) (2005,1168) (2035,1196) (2068,1199) (2081,1200) (2094,1201) (2098,1202) (2111,1203) (2124,1204) (2142,1206) (2144,1207) (2152,1210) (2165,1211) (2178,1212) (2191,1213) (2204,1214) (2217,1215) (2230,1216) (2243,1217) (2256,1218) (2269,1219) (2282,1220) (2295,1221) (2308,1222) (2321,1223) (2334,1224) (2347,1225) (2360,1226) (2373,1227) (2386,1228) (2399,1229) (2412,1230) (2425,1231) (2438,1232) (2451,1233) (2464,1234) (2466,1235) (2498,1243) (2510,1247) (2542,1248) (2563,1249) (2565,1250) (2577,1252) (2589,1253) (2599,1255) (2631,1256) (2652,1257) (2654,1258) (2666,1261) (2700,1262) (2736,1263) (2778,1264) (2791,1265) (2793,1266) (2795,1267) (2835,1275) (2875,1276) (2915,1277) (2963,1279) (3011,1280) (3059,1281) (3107,1282) (3155,1283) (3195,1284) (3235,1285) (3237,1287) (3251,1289) 
+music_store_is_new_arrival 16 (0,1297) (36,1299) (88,1300) (129,1301) (160,1302) (162,1303) (164,1304) (200,1306) (227,1307) (269,1308) (300,1309) (302,1310) (304,1311) (306,1312) (308,1313) (340,1315) 
+music_store_get_product_code 15 (36,1325) (62,1327) (83,1328) (92,1330) (118,1331) (145,1332) (147,1333) (149,1334) (188,1336) (215,1337) (243,1338) (245,1339) (247,1341) (249,1342) (280,1343) 
+musicstore_additional_region_check 14 (0,1353) (9,1355) (48,1356) (54,1357) (60,1358) (88,1359) (120,1360) (122,1361) (165,1363) (196,1364) (198,1365) (200,1366) (202,1367) (232,1369) 
+songlist_clean_up_spawned_scripts 4 (0,1373) (36,1374) (72,1375) (108,1376) 
+songlist_unfocus_ui_elements 16 (0,1379) (36,1380) (88,1381) (90,1382) (128,1384) (180,1385) (182,1386) (220,1389) (272,1390) (274,1391) (312,1394) (364,1395) (366,1396) (404,1398) (456,1399) (458,1400) 
+create_marketplace_error_dialogue 3 (44,1409) (96,1410) (114,1411) 
+create_marketplace_error_dialogue_worker 26 (0,1415) (52,1416) (70,1419) (72,1420) (74,1421) (108,1423) (114,1425) (120,1427) (126,1429) (136,1431) (172,1432) (218,1433) (220,1434) (222,1435) (229,1437) (235,1438) (247,1439) (260,1440) (273,1441) (281,1442) (283,1443) (295,1444) (307,1445) (309,1446) (311,1447) (313,1448) 
+songlist_marketplace_error_go_back 19 (0,1456) (6,1457) (40,1459) (80,1461) (98,1462) (168,1464) (204,1465) (208,1466) (244,1467) (280,1468) (282,1469) (286,1471) (336,1472) (349,1473) (353,1474) (366,1475) (368,1476) (405,1478) (407,1479) 
+callback_marketplace_raf_setup_fail 3 (0,1487) (88,1488) (156,1489) 
+callback_marketplace_raf_get_fail 3 (0,1497) (92,1498) (160,1499) 
+callback_marketplace_retrieve_manifest_fail 3 (0,1507) (100,1508) (168,1509) 
+callback_marketplace_connecting_to_lsp_fail 3 (0,1516) (104,1517) (172,1518) 
+callback_marketplace_cdn_is_down 3 (0,1525) (76,1526) (144,1527) 
+callback_marketplace_songlist_pak_request_fail 3 (0,1534) (100,1535) (168,1536) 
+callback_marketplace_songlist_pak_download_fail 3 (0,1544) (100,1545) (168,1546) 
+callback_marketplace_market_init_settings_fail 3 (0,1554) (136,1555) (204,1556) 
+callback_marketplace_market_init_fail 3 (0,1564) (96,1565) (164,1566) 
+callback_marketplace_market_state_fail 3 (0,1574) (132,1575) (200,1576) 
+callback_marketplace_market_begin_enum_fail 3 (0,1584) (112,1585) (180,1586) 
+callback_marketplace_market_enum_validity_fail 8 (0,1594) (116,1595) (125,1596) (137,1597) (141,1598) (153,1599) (155,1600) (195,1601) 
+callback_marketplace_not_signed_in 8 (0,1609) (80,1610) (89,1611) (101,1612) (105,1613) (117,1614) (119,1615) (148,1616) 
+callback_marketplace_no_guest_account 6 (0,1624) (117,1625) (152,1626) (161,1627) (196,1628) (198,1629) 
+callback_marketplace_non_xbl_account 8 (0,1637) (121,1638) (130,1639) (142,1640) (146,1641) (158,1642) (160,1643) (178,1644) 
+callback_marketplace_connection_lost 3 (0,1652) (80,1653) (132,1654) 
+callback_marketplace_cannot_purchase_content 8 (0,1661) (108,1662) (117,1663) (129,1664) (133,1665) (145,1666) (147,1667) (165,1668) 
+callback_marketplace_region_not_supported 3 (0,1675) (84,1676) (120,1677) 
+callback_marketplace_content_list_download_failed 3 (0,1684) (80,1685) (132,1686) 
+callback_marketplace_content_list_download_timedout 3 (0,1693) (80,1694) (132,1695) 
+callback_marketplace_content_general_timedout 4 (0,1702) (96,1703) (102,1704) (136,1705) 
+callback_marketplace_detailed_description_request_failed 7 (0,1712) (10,1713) (148,1714) (150,1715) (240,1716) (246,1717) (312,1718) 
+callback_marketplace_detailed_description_retrieve_failed 7 (0,1725) (10,1726) (148,1727) (150,1728) (228,1729) (234,1730) (300,1731) 
+
+[Checksums]
+0x9974950e scripts\gel\contentsource.qb
+0xb990d003 target
+0xb124400a arrived_month
+0x1bff900b quickplay
+0x6925c012 song_props
+0x21ecd016 saved_in_globaltags
+0xba297025 CD
+0xcd0dc02d KillSpawnedScript
+0x0b599032 GHTunes
+0x45c4d038 import_legal_dialog_box
+0x2c00103d get_region_checksum
+0xd822303e network_platform_only
+0xc1101049 get_song_allowed_in_quickplay
+0x68569050 get_marketplace_pack_struct
+0x4e10b054 assert
+0x21902065 checksum
+0xa075808c source
+0xf9462090 c
+0x7f59f0a5 new_arrival
+0x47e0c0c8 callback_marketplace_content_general_timedout
+0x6a8370df g_smash_hits_import_string
+0x644fb0e6 sort_title
+0xe4f130f4 s
+0xde88b0fb bass_difficulty_rating
+0xa60e9106 song_source
+0xab215108 GetFirstPlayer
+0x7031f10c params
+0xe7ad5119 songlist_pak_filename
+0x3eff211b artist_array
+0xc42ce128 ArrayContains
+0xee4e613e is_part_supported
+0x5ef31148 array
+0xcc12115e song
+0xea23a16a song_drums_difficulty_rating
+0xcf66717b GotParam
+0xc63b91a5 enabled_songs_bitfield
+0xa3ca71b7 song_venue
+0x174841bc a
+0xc66791bc album
+0xbebfa1c6 element
+0x6017f1cc ui_event
+0x6821a1dc pack
+0x3b4631df isPS3
+0xbfa801df change
+0x62b131e2 import
+0xa1dc81f9 name
+0x4bfcd202 AddArrayElement
+0xf90b421d never_show_in_setlist
+0xe0d1522f for_bonus
+0x83c2824f name_text
+0x0be7525b musicstore_songlist_props
+0xcc9d025b error_code
+0xadcc525d callback_marketplace_content_list_download_failed
+0x21bd8264 HACK_get_marketplace_song_struct_edit
+0x7c03928c patched
+0x929a7294 should_include
+0x902bf29e FastStructureContains
+0x8012c29f SetSpawnInstanceLimits
+0x318552b0 package_props
+0x93bed2b7 arrived_year
+0x2ab132b9 g_songlist_refresh_menus
+0x196d12d1 song_title
+0x7dc5a2e0 playback_track2
+0xc2d6f322 ConvertToInteger
+0x4b17b32b callback_marketplace_detailed_description_request_failed
+0x854fa339 GetGlobalTagSongUIParams
+0xe9403354 ui_create_songlist_options
+0xa8ee7357 ScriptAssert
+0x1a166358 guitar_difficulty_rating
+0xe4ccf35a playback_track1
+0xd38db36e FastGetArraySize
+0x0203b372 true
+0x32793375 music_store_should_hide_item
+0x3862937d vocals_difficulty_rating
+0x6a052388 dev_text
+0xcc1d039c GameMode_IsCooperative
+0x716883a3 song_patched
+0x9772d3ad music_store_hub_vmenu
+0xda3403b0 null
+0x8a37f3b9 songprops
+0xd87943cb musicstore_patchlist_props
+0x10c6f3db structure_name
+0x4627a3de competitive
+0xbc8913e4 music_store_generate_date
+0x9342e3e5 gh_songlist_props
+0xc5bc93ee ScreenElementExists
+0xba724407 song_genre_list
+0xff0db407 textname
+0x8d92240c ui_event_exists_in_stack
+0x9277f428 FormatText
+0x45b84431 asset_name
+0x46aee435 global_on_disc_array_name
+0xf8a4443a get_savegame_from_controller
+0xc0fa3443 downloaded
+0xbd09544c func
+0xb47d3450 create_marketplace_error_dialogue_worker
+0x91f0e45a body_text
+0xeee5a46e IsDownloadedSongEnabled
+0x603dc46f g_music_store_truncate_track_pack_title_length
+0xa4547471 callback_marketplace_detailed_description_retrieve_failed
+0x57ae8474 callback_marketplace_cannot_purchase_content
+0x52572497 region_checksum
+0x39b5c4b0 GetArraySize
+0x77abe4c5 callback_marketplace_no_guest_account
+0xaa8f44c9 musicstore_additional_region_check
+0xdeef04cd StructureContains
+0xcb9fb4cf bass
+0x0fd694e2 patch_entry
+0xcd8fb4eb song_preview_asset_name
+0x8eedf4f1 song_bass_difficulty_rating
+0x6e6ee4f2 venue
+0x8f6374f5 song_not_found
+0x499d34fa get_marketplace_song_struct
+0x8da97503 primary_controller
+0x5d13c50a musicstudio_genre_text
+0x64946516 CheckForSignin
+0x6722b533 d
+0x4c29c545 RequireParams
+0x840d6547 GameMode_GetType
+0xbf7c754c song_album_title
+0xa4815557 props
+0xc451f558 event
+0x2aed7570 training
+0xed9e3573 double_kick
+0x2fca0578 options
+0x71059581 contains
+0x15128584 songlist_go_to_song_library_tab
+0x94e2d590 song_not_patched
+0xfddd6594 debug_music_store_show_all
+0x67e6859a player
+0x2c3ee59f music_store_is_new_arrival
+0xd76e25b1 get_marketplace_patch_struct
+0x465ab5c8 music_store_pack_check_rating
+0x212035d1 callback_marketplace_songlist_pak_request_fail
+0x8664d5ed hide_for_locale
+0xbb0e45ee product_codes
+0xbdda95f0 songlist_filename
+0x150d35f1 heading_text
+0xb23ca5fb source_txt
+0xd6869600 song_original_artist
+0x20945601 callback_marketplace_non_xbl_account
+0x230fc607 MusicStoreSongDownloadedAndPatched
+0x2de8c60e printf
+0x18538620 SongListMatch
+0x46f9a629 PrintScriptInfo
+0xb780262c cost_fraction
+0x47d9a62c song_length_float
+0x8a4c762d song_checksum
+0xc0617631 musicstore_importlist_props
+0x1dba063a musicstore_new_arrivals
+0xaa6f4643 IsXenonOrWinDX
+0xa0495649 callback_marketplace_content_list_download_timedout
+0x4296266e type_string
+0x1a5fd66f day
+0xd9cee686 songlist_request_page_when_ready
+0x168bc699 territory
+0xc3f4169a filename
+0xcdc3f6a0 back_state
+0x1cb2a6b0 num_players
+0xc0a016e0 callback_marketplace_not_signed_in
+0x92c836ee create_marketplace_error_dialogue
+0x82a296fa arrived_date
+0x7f4f5701 get_ui_song_struct_items
+0xd24f570c song_name
+0x72d7f727 musicstudio_genre
+0x05e14733 song_is_jamsession
+0x9e02a73f title_array
+0x78a4b740 Obj_GetStructureTag
+0x3e0f6740 uistate_band_lobby
+0x08aa2742 callback_marketplace_cdn_is_down
+0xc846e743 HACK_get_marketplace_pack_struct_edit
+0x2cb33744 LaunchEvent
+0x2423b74a album_img
+0xd4d3478e arrived_day
+0xd4c98794 title
+0x197af7ca song_entry
+0xe288a7cb value
+0xd43297cf false
+0x824d87e3 musicstore_all_props
+0xac82f7ed callback_marketplace_market_state_fail
+0x375467f3 music_store_check_code_exists
+0x3e7727fa IsXenon
+0x90fec815 structure
+0x19d5e819 musicstore_packlist_props
+0xc195a822 create_dialog_box
+0x3acac82a uistate_mainmenu
+0xc4745838 text
+0xe85dd840 pack_name
+0x210dc857 song_rating
+0x1b18f86d songlist_component
+0x5561c885 date
+0xb4c2b886 ScreenElementExistsSimpleID
+0x40c698af id
+0xdac558b6 music_store_get_pack_contents_strings
+0xd36b18b9 music_store_get_product_code
+0x456d28d1 struct
+0x4f2338d3 g_greatest_hits_import_string
+0x9ccb48d5 ps3_musicstore_locales_allowed
+0x7321a8d6 type
+0xa4cf88ed is_song_downloaded
+0xf8dd78f2 song_artist
+0x17e198f3 skip_scan
+0x29ad48f6 songlist_marketplace_error_go_back
+0xe685f8f6 callback_marketplace_region_not_supported
+0x6a3568fb song_prefix
+0x662ae8fe pack_entry
+0xa6c87902 FinalPrintf
+0x976e2917 jamsession
+0x8db1591f musicstudio_song_length
+0x0ad46922 controller_index
+0x023a7922 callback_marketplace_market_init_fail
+0xa589c925 IsSongAvailable
+0xeafc692e no_background
+0xe682f936 song_num_times_played
+0x8106e938 song_band_difficulty_rating
+0x5b2e7939 get_song_saved_in_globaltags
+0xb10b5942 song_genre
+0xf0f16957 get_marketplace_import_struct
+0x4316395b song_struct
+0xb30d9965 controller
+0xbe7f3967 locale
+0x6ee6196a support_part
+0xf557c96f callback_marketplace_market_enum_validity_fail
+0xd6550976 on_disc_list
+0xd27c2977 song_duration
+0xfea66978 artist
+0xb2ab3988 ui_struct
+0x0da6698d ignore_spawn_request
+0x1993c98e i
+0x3881d99f is_available_on_other_client
+0x1b0509c5 savegame
+0x1dd469c9 patch
+0x4ed039d2 callback_marketplace_market_init_settings_fail
+0x2776d9dd rating
+0x0a9ac9e9 HACK_modify_hits_string
+0x46f3f9f5 float_value
+0x11bf5a0b music_store_pack_check_patched
+0x37ee5a3d song_year
+0xab9e5a4c ScriptExists
+0x9bd97a58 g_include_debug_songs
+0xb7c6ca60 package_structs
+0x148aea6e musicstore_albumlist_props
+0x8a0eda8c callback_marketplace_raf_setup_fail
+0x3346aa96 song_stars
+0x658aaa99 pack_contents
+0xadda4aa8 original_artist
+0xf4b16ab0 management
+0x12e33ad3 patch_name
+0x26a7cadf Other
+0x519a3ae0 GetLocale
+0xea920ae1 GetNextPlayer
+0xdee72af6 song_sort_title
+0x19fa5af7 SpawnScriptNow
+0xe7d96b03 cost
+0x37c84b09 destroy_dialog_box
+0x612b7b0a WORLDWIDE
+0x71208b0f offering_id
+0x0c750b17 IsSongSelectable
+0xfc2acb3d artist_strings
+0xc8864b71 get_songlist_filename
+0xaa0e9b74 callback_marketplace_market_begin_enum_fail
+0xc2304b91 is_song_locked
+0x8013cbb1 practice
+0xd6484bc6 purchased
+0x018dfbd3 ui_create_music_store_scan_marketplace_spawned
+0xffb95bdf get_song_source
+0xa91f2be6 callback_marketplace_raf_get_fail
+0x3ca17bef MarketplaceFunc
+0x1e75cc03 album_pack_props
+0x7cafcc07 genre
+0xaefe3c08 callback_marketplace_connecting_to_lsp_fail
+0x4d49ac0a current_menu
+0x7d7a0c0a songlist_options_vmenu
+0x96875c0f ui_string
+0x163fbc21 GetLocalizedStringFromStruct
+0x87f75c2d n
+0xe8d5cc4e songlist_unfocus_ui_elements
+0x3759fc5d structure_value
+0x56abbc6a songlistfile
+0x0919ac73 title_strings
+0x520c0c9c data
+0xd7a02c9e tab_enabled
+0x25cadcac GetNumPlayersInGame
+0x1f26ccaf only
+0x2ab66cb8 display_name
+0x62c11cb9 GetSingleTag
+0x447d8cc8 year
+0x39673cc9 gh4_dlc_songlist_props
+0x4adf0cd3 unfocus
+0x098a3cdf release_year
+0x5cc16cdf drum
+0xd6521cee generic_event_back
+0x4da3ecf1 playback_track_vocals
+0xbdc53cf2 guitar
+0xd6a58d01 max_characters
+0x101d1d03 HACK_get_marketplace_import_struct_edit
+0x5c6c2d04 state
+0x9cb1cd21 g_marketplace_responding_to_error
+0x3537dd26 price
+0x0aa62d30 drums_difficulty_rating
+0xd163ad32 band_difficulty_rating
+0x5a429d33 callback_marketplace_retrieve_manifest_fail
+0x398bcd41 import_entry
+0x7f5b3d4d array_size
+0x61414d56 string
+0x3b899d5b album_pack_only
+0x8af27d76 genre_string
+0x6289dd76 max
+0xf0938d8d song_double_kick
+0x87e57d8f download
+0x63d93d97 GetNonLocalizedStringFromStruct
+0xe9ac6db1 Territory_US
+0xa271cdb2 album_title
+0xe8e6adcb vocals
+0xe2dfddcb jam_genre_list
+0xfd0e6dd7 band_instrument_setup
+0x5669cddc TruncatePackSring
+0x3a51ade4 Guitar_Hero_6_Locked
+0xb33cae1b song_vocals_difficulty_rating
+0xc4e78e22 all
+0x3cc8ae23 integer_value
+0x5c04ee27 download_songlist_props
+0x3ef48e30 num_times_played
+0x91485e3e song_guitar_difficulty_rating
+0x09bc8e47 GetTerritory
+0x4fd33e4f tag_name
+0x7a52ae53 song_downloaded
+0xf914de57 callback_marketplace_connection_lost
+0xf2b65e5e pack_list
+0xd8732e66 additional_props
+0x5a7ece86 menu_back
+0x4b05ee88 contents
+0x08d82e9d AddParam
+0xf0f28ec7 nl_string
+0x0642fed7 get_content_info
+0x8737eeda is_network_game
+0x65485eea GetPlayerInfo
+0x806fff30 none
+0xb6f08f39 part
+0x79a07f3f duration
+0x3dc8af45 song_is_locked
+0x644a3f58 packages
+0x88eacf67 code
+0x4cf06f79 import_name
+0xa513ff84 music_store_terms
+0x90c87f88 playback_track_drums
+0x835d0f90 GlobalExists
+0xa2654f9c HACK_get_marketplace_patch_struct_edit
+0x24cb8fab check_allowed_in_quickplay
+0xe2b15fb5 callback_marketplace_songlist_pak_download_fail
+0x6abbefb9 allowed_in_quickplay
+0xa1701fcf on_disc_song
+0xd0eaafd5 song_genre_string
+0x81882fda freeplay
+0x08943feb song_source_txt
+0x49ce4ff5 trunctated_string
+0x7149eff9 month
+0x587c3fff songlist_clean_up_spawned_scripts
+

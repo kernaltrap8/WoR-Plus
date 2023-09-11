@@ -1,0 +1,67 @@
+[LineNumbers]
+DisableSun 4 (0,17) (36,18) (42,19) (76,20) 
+EnableSun 4 (0,24) (36,25) (42,26) (76,27) 
+CreateLensFlare 20 (0,32) (2,33) (52,34) (228,45) (264,47) (276,48) (278,49) (285,50) (297,51) (309,52) (337,53) (365,54) (393,55) (421,56) (437,57) (449,58) (451,59) (473,60) (481,61) (532,63) 
+MaybeHideLensFlare 6 (28,84) (64,85) (71,86) (75,87) (81,88) (83,89) 
+
+[Checksums]
+0x4eed4ab1 scripts\fx\env_fx.qb
+0xe126e035 top
+0x65673073 lf_sprite_1
+0x04cbd07f Lens_Flare_Data
+0xb12b510a SpriteElement
+0x73665140 CreateScreenElement
+0x8b69515f lf_sprite_3
+0x8054f197 DisableSun
+0xfc6e61c9 lf_sprite_2
+0xbfa801df change
+0x8b60022f just
+0xd355725f CreateLensFlare
+0x7d99f28d texture
+0xa99f828e morph_time
+0xd443a2bc off
+0x43aad2dd Lens_Flare_Container
+0x8bda33dc LensFlare_Morph_In
+0xc5bc93ee ScreenElementExists
+0x620af46a lf_sprite_5
+0x39b5c4b0 GetArraySize
+0x150dc4fc lf_sprite_4
+0x2e56c52d SunBurst_Out
+0x8c049546 lf_sprite_7
+0x34a68574 dims
+0xfb03a5d0 lf_sprite_6
+0x01be1636 lf_sprite_12
+0xf649d637 on
+0x2f1fc695 alpha
+0xa2907698 SetScreenElementLock
+0x753d46c1 LensFlare_Morph_Out
+0x165c46e8 UnHideLensFlare
+0xefb0771a lf_sprite_10
+0x9160a747 Lens_Flare_Data1
+0x98b7478c lf_sprite_11
+0xd4f107cb MaybeHideLensFlare
+0x6bbcb841 lf_sprite_9
+0x5b9da842 ContainerElement
+0x85981897 left
+0xeaa2389e pos_scale
+0x40c698af id
+0x7321a8d6 type
+0x1cbb88d7 lf_sprite_8
+0x7f8c98fe index
+0x7f261953 pos
+0x13b9da7b scale
+0x56a1eae3 root_window
+0x083fdb95 size
+0x51e99bd7 flare1
+0x02e58c18 Add
+0x204f4cec DoUpdateLensFlare
+0x87f4ccff APM_abberation01
+0xbc66bd03 HideLensFlare
+0x1efd9d45 APM_abberation02
+0x7f5b3d4d array_size
+0x5a147d6c SetSunProps
+0x3f6bcdba rgba
+0x5c51feab EnableSun
+0x54628ed7 blend
+0xc2719fb0 parent
+

@@ -1,0 +1,103 @@
+[LineNumbers]
+botPlayOn 13 (0,31) (64,32) (81,34) (98,35) (133,37) (156,38) (176,40) (186,43) (204,46) (206,47) (224,49) (226,51) (228,53) 
+botPlayOff 13 (0,62) (64,63) (81,65) (98,66) (133,68) (156,69) (176,71) (186,74) (204,77) (206,78) (224,80) (226,82) (228,84) 
+setupBotController 8 (0,93) (64,94) (82,97) (110,98) (129,99) (153,101) (177,102) (179,103) 
+revertBotController 13 (0,112) (64,113) (81,115) (98,116) (129,120) (131,121) (133,122) (151,125) (184,126) (186,127) (205,129) (229,130) (231,131) 
+setBotAccuracy 6 (0,140) (72,141) (103,143) (136,144) (138,145) (162,147) 
+createBotDebugWidget 22 (0,156) (64,157) (77,159) (79,160) (81,161) (99,164) (154,166) (188,167) (206,168) (224,169) (245,171) (252,174) (265,175) (278,176) (290,177) (312,178) (325,179) (338,180) (358,181) (360,182) (378,185) (380,187) 
+GetBotDebugWidgetPos 8 (28,198) (44,200) (50,201) (67,202) (98,204) (114,205) (116,206) (130,208) 
+destroyBotDebugWidget 4 (0,217) (64,218) (119,220) (137,221) 
+updateBotDebugWidget 65 (0,230) (64,231) (119,233) (140,235) (157,238) (174,239) (191,240) (208,241) (225,242) (242,243) (259,244) (276,245) (293,246) (310,247) (331,250) (380,253) (425,254) (470,255) (488,258) (540,259) (585,260) (587,261) (599,265) (617,266) (629,267) (631,268) (643,271) (661,272) (673,273) (675,274) (687,277) (705,278) (717,279) (737,280) (749,281) (769,282) (781,283) (783,284) (795,286) (807,287) (838,288) (850,289) (862,290) (864,291) (876,294) (888,295) (906,296) (918,297) (930,298) (932,299) (939,302) (952,303) (965,304) (978,305) (991,306) (1004,307) (1017,308) (1030,309) (1043,310) (1056,311) (1069,312) (1082,313) (1095,314) (1097,315) (1099,317) 
+toggleBotDebugWidget 13 (28,326) (92,327) (104,329) (116,330) (118,332) (136,334) (159,335) (179,336) (202,337) (204,338) (222,340) (243,342) (251,344) 
+get_actual_controller 9 (28,354) (45,355) (63,356) (80,357) (94,358) (98,359) (115,360) (129,361) (131,362) 
+
+[Checksums]
+0x316c546d scripts\guitar\guitar_bots.qb
+0xf3dd1036 player_num_text
+0xa9d1604a createBotDebugWidget
+0xd8e2e09f DecimalPlaces
+0xb2e000d1 bot_mute
+0x73665140 CreateScreenElement
+0x01dd615f descinterface
+0x0949d20d touch
+0xe47e7226 bot_shift
+0xff691240 get_actual_controller
+0x46159266 out
+0xe92c6269 bot_health_target
+0x577a029e delta_bot_health_target
+0x11f692a6 SetPlayerInfo
+0xd443a2bc off
+0x92127304 whammy_value_text
+0xa8ee7357 ScriptAssert
+0xb833736d action
+0x4837e397 pos_anchor
+0xf44a53ab desc
+0xc5bc93ee ScreenElementExists
+0xff0db407 textname
+0x9277f428 FormatText
+0x7c6ab456 GetInputHandlerBotIndex
+0xe945649d strum_value_text
+0xcb9fb4cf bass
+0xfd4044db destroyBotDebugWidget
+0xbf0f14db center
+0x16e834dc delta_bot_starpower
+0x360994e9 bot_hit_percent
+0xa6f5352f offset
+0x6722b533 d
+0x4c29c545 requireParams
+0x22d7f598 revertBotController
+0x67e6859a player
+0xf649d637 on
+0xa8c4a65f mute_value_text
+0x2f1fc695 alpha
+0x56d2e6aa updateBotDebugWidget
+0x1cb2a6b0 num_players
+0xaa23a6df toggle_strum_alpha
+0xcd19d734 bot_use_health_target
+0x7499678e menu_one_alpha
+0xe5d95836 bot_strum_type
+0x9761b86b botPlayOff
+0x40c698af id
+0x7321a8d6 type
+0x35db08de star_power_amount
+0x3d485917 setupBotController
+0x7f261953 pos
+0xe4abf957 accuracy_value
+0xb30d9965 controller
+0x917569b3 bot_original_controller
+0x3c15e9b6 DestroyScreenElement
+0x04177a1d widget_id
+0xf2c11a3e alternate
+0xfff74a89 show_bot_debug_widgets
+0x76fa7a8f checksumname
+0x9e297aef whammy_data_alpha
+0x1f773af1 is_local_client
+0xb9d31b0a position
+0xae6c9b38 RetailBuild
+0xbdba6b5f botPlayOn
+0xbbeebb93 toggleBotDebugWidget
+0x300d3c0f GetBotDebugWidgetPos
+0x31bd7c36 playing_song
+0x6cbafc7c accuracy
+0x25cadcac GetNumPlayersInGame
+0x90356cb9 SetScreenElementProps
+0xbdc53cf2 guitar
+0x6e51ccff get_highway_hud_root_id
+0x0d91bd0d bot_show_debug_widget
+0x20d0ad37 bot_play
+0xffa6fd57 setBotAccuracy
+0xeca81d58 player_controller
+0xb9ecbdb0 accuracy_helper_text_text
+0xe8e6adcb vocals
+0x7a787dea sp_increase_value_text
+0x32401e17 bot_whammy
+0xc4e78e22 all
+0x7dcc1e3b delta_bot_accuracy
+0x3eeeee5e accuracy_value_text
+0x4c0d3e87 menu_shift_alpha
+0x154daed1 highway_hud_root
+0x65485eea GetPlayerInfo
+0xb6f08f39 part
+0xc2719fb0 parent
+0xe3006fc4 down
+

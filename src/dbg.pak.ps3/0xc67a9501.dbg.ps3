@@ -1,0 +1,17 @@
+[LineNumbers]
+
+[Checksums]
+0x41f95549 scripts\game\anim\animationdata\loops\guit\l_guit_chris_stillborn_anim_data.qb
+0xc39f0063 L_GUIT_Chris_Stillborn_anims_set
+0x5099a109 GUIT_Chris_Stillborn_075_M
+0x937bb16d Good
+0xf6e572eb GUIT_Chris_Stillborn_100_M
+0x12e4443d Med
+0x7dd4c604 Bad
+0xda99b63b Fast
+0x2596167d Stance_A
+0xde7a971b Normal
+0x5cecba60 GUIT_Chris_Stillborn_120_M
+0x23db4aea Idle
+0xcaf88e22 Slow
+

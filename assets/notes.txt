@@ -1,0 +1,8 @@
+# different ideas i have for WoRmod
+# DOF: 05/09/2023
+# This file is a part of the WoRmod project
+
+qb.pab file recompile ideas:
+  recompile scripts with QBc/NodeROQ, then rebuild using GH3-Toolkit and finialize with Onyxite Command Line. decrypt from EDAT to make usable on the game.
+new ui for switching between instruments while in Quickplay+:
+  find ui script that handles swapping instruments, make new ui option in pause menu for it.

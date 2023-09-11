@@ -1,0 +1,27 @@
+[LineNumbers]
+
+[Checksums]
+0x8169e474 scripts\aaaaloopchecker.qb
+0xdbfdd02f Obj_WaitMove
+0x4c21a036 Ped_RandomWaitAtNode01
+0x21d88036 igc_cycle_actor_anims
+0x15036130 WaitForEvent
+0x730ed1ae AVOIDSTATE_STOP
+0x2f3771ea GoalInit_PlayAnim
+0x18b3b291 WaitOneGameFrame
+0x9fe5936b WaitAnimWalkingFrame
+0x215d13b9 BlockingFunctions
+0x248424b8 Skater_WaitAnimFinished
+0x34bba5a8 WaitWalkingFrame
+0xfa97b79d LegacyDoMorph
+0x603ea7f3 WaitAnimFinished
+0xdaff480b WaitAnimWalking
+0xbdc4c878 Obj_WaitRotate
+0x7ce468dd Block
+0xb628a959 Obj_WaitAnimFinished
+0x7962eb9f Ped_WaitAnimFinished
+0x82117c1a Wait
+0x7109fd0a z_storyselect_loop_anims
+0xbb937f80 fadein_fadeout
+0x8b860fef DoNotAssertForInfiniteLoopsInTheseScripts
+

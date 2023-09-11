@@ -1,0 +1,208 @@
+[LineNumbers]
+ui_init_signin 7 (0,18) (36,20) (80,21) (100,23) (136,24) (172,25) (208,26) 
+ui_create_signin 18 (52,36) (88,38) (106,42) (184,43) (190,44) (192,45) (228,47) (246,48) (264,49) (266,50) (284,52) (320,53) (322,54) (372,55) (424,56) (476,57) (528,58) (546,60) 
+ui_destroy_signin 9 (44,69) (62,71) (96,73) (98,74) (116,76) (122,77) (124,78) (130,80) (164,82) 
+ui_deinit_signin 4 (0,91) (20,93) (56,94) (92,95) 
+assign_new_primary_controller 13 (0,103) (25,104) (43,105) (55,106) (57,107) (75,109) (112,111) (148,112) (150,113) (168,115) (204,116) (206,117) (243,118) 
+change_primary_controller 16 (44,129) (108,130) (126,132) (196,133) (198,137) (227,139) (276,140) (296,141) (316,144) (334,146) (368,147) (404,149) (406,153) (444,156) (450,157) (452,158) 
+ui_signin_changed_first_press 8 (0,167) (36,168) (56,170) (77,171) (112,172) (130,173) (132,174) (134,175) 
+ui_signin_changed_func 9 (0,183) (36,185) (42,188) (60,191) (66,193) (72,195) (90,196) (96,197) (98,198) 
+ui_signin_check 162 (92,209) (110,214) (197,215) (199,217) (217,219) (256,220) (274,221) (292,223) (328,224) (330,225) (332,226) (334,227) (343,238) (361,244) (400,245) (424,247) (430,248) (442,249) (462,250) (475,251) (488,252) (501,253) (515,254) (528,255) (541,256) (543,257) (545,259) (547,264) (565,268) (583,269) (596,270) (598,271) (602,272) (614,274) (616,275) (652,276) (654,277) (668,279) (704,280) (713,281) (715,282) (724,283) (760,284) (769,285) (771,286) (773,287) (785,289) (803,290) (821,291) (833,292) (835,293) (863,295) (875,296) (906,299) (915,300) (955,301) (967,302) (969,303) (971,304) (973,305) (975,306) (984,308) (1024,309) (1036,310) (1038,311) (1042,312) (1054,315) (1056,319) (1065,321) (1083,322) (1116,323) (1141,324) (1147,325) (1165,326) (1208,327) (1210,328) (1212,329) (1214,330) (1216,331) (1225,333) (1237,334) (1239,335) (1257,337) (1266,340) (1304,341) (1316,342) (1318,343) (1320,344) (1333,346) (1346,347) (1353,348) (1371,349) (1373,350) (1375,351) (1377,352) (1379,353) (1388,355) (1424,364) (1464,365) (1540,366) (1544,367) (1580,368) (1582,369) (1586,370) (1620,371) (1622,372) (1626,373) (1660,374) (1696,375) (1698,376) (1704,378) (1711,380) (1729,381) (1731,382) (1733,383) (1737,384) (1776,385) (1783,386) (1801,387) (1803,388) (1805,389) (1807,390) (1809,391) (1818,395) (1852,396) (1888,397) (1924,399) (1960,400) (2000,407) (2002,410) (2036,413) (2088,414) (2097,416) (2136,418) (2176,419) (2182,420) (2200,421) (2243,422) (2245,423) (2247,424) (2288,425) (2313,426) (2319,427) (2337,428) (2380,429) (2382,430) (2384,431) (2402,433) (2436,434) (2461,435) (2467,436) (2485,437) (2528,438) (2530,439) (2532,440) (2550,442) (2568,443) (2593,444) (2597,445) (2615,446) (2663,447) (2665,448) 
+ui_signin_process_complete 30 (28,457) (30,458) (36,462) (45,470) (47,471) (49,472) (100,473) (102,474) (120,476) (135,477) (137,478) (146,481) (164,483) (166,484) (187,485) (189,486) (191,487) (193,488) (225,491) (270,492) (288,493) (333,494) (353,495) (398,496) (400,497) (402,498) (404,499) (410,500) (416,502) (474,503) 
+ui_create_signin_complete 5 (28,512) (46,514) (80,515) (82,516) (116,519) 
+ui_destroy_signin_complete 2 (0,529) (6,532) 
+ui_create_signin_warning 6 (0,542) (20,545) (56,546) (62,548) (69,550) (75,552) 
+ui_destroy_signin_warning 4 (0,561) (20,564) (26,566) (32,567) 
+ui_signin_warning_back 9 (0,576) (36,577) (88,579) (124,580) (176,581) (212,582) (216,583) (308,584) (310,585) 
+ui_signin_warning_jam_back 7 (28,593) (47,595) (96,596) (102,597) (106,598) (112,599) (114,600) 
+ui_signin_handle_warnings 119 (0,609) (19,611) (34,613) (68,614) (86,615) (88,616) (128,618) (143,619) (145,620) (184,622) (193,624) (234,625) (318,626) (416,627) (448,628) (490,629) (574,630) (668,631) (700,632) (702,633) (713,634) (735,635) (807,636) (904,637) (936,638) (938,639) (940,640) (980,642) (989,644) (1030,645) (1048,648) (1132,649) (1228,650) (1260,651) (1262,652) (1304,653) (1388,654) (1476,655) (1508,656) (1510,657) (1521,659) (1543,660) (1627,661) (1716,662) (1748,663) (1750,664) (1752,665) (1792,667) (1801,669) (1823,670) (1895,671) (1996,672) (2028,673) (2070,674) (2142,675) (2236,676) (2268,677) (2270,678) (2274,679) (2296,680) (2368,681) (2472,682) (2504,683) (2506,684) (2508,685) (2510,687) (2519,689) (2556,690) (2578,691) (2661,692) (2756,693) (2788,694) (2790,695) (2792,696) (2794,697) (2832,700) (2859,701) (2931,702) (3028,703) (3060,704) (3062,705) (3064,706) (3100,708) (3133,709) (3205,710) (3328,711) (3360,712) (3362,713) (3403,714) (3475,715) (3572,716) (3604,717) (3606,718) (3608,719) (3644,721) (3653,723) (3693,724) (3777,725) (3876,726) (3908,727) (3910,728) (3912,729) (3939,731) (4023,732) (4132,733) (4164,734) (4166,735) (4168,736) (4195,738) (4232,743) (4250,744) (4263,745) (4265,746) (4267,747) (4363,749) (4448,750) (4480,751) (4482,752) (4512,764) 
+ui_signin_hide_glitch 4 (28,774) (46,776) (80,777) (82,778) 
+
+[Checksums]
+0xc22be8a8 scripts\guitar\menu\states\layouts\ui_signin.qb
+0x3eeae02d hard
+0xd822303e network_platform_only
+0xe833004a DemoBuild
+0xb37d8053 modify_signin_change_flags
+0xb547d07b force_mainmenu_signin
+0xf9462090 c
+0xe4f130f4 s
+0x7031f10c params
+0xf66ff117 in_game
+0x997a0121 motd_uninit
+0xb912513b boot
+0x0281513f globalarray
+0x80fe3141 show_mainmenu_bg
+0xff555169 ThreadSafeSetGlobalInteger
+0xcf66717b GotParam
+0xb8b0217d num_frames
+0x02a64187 ui_signin_changed_func
+0xea4a118e destroy_signin_complete_menu
+0xa08bb195 global_name
+0x948671a7 ui_create_signin
+0xbec501a9 success_params
+0x6017f1cc ui_event
+0x57dce1cd ui_create_signin_warning
+0xbfa801df change
+0x3b4631df IsPs3
+0x8b2261f0 IsLiveEnabled
+0xa1dc81f9 name
+0x2b4d5284 get_settings
+0xf09d028c ps3_done_signin_check
+0xb52ff28e invite_controller
+0x313e52a1 change_primary_controller
+0x11f692a6 SetPlayerInfo
+0xb9b492b1 force_signin
+0x690df2cb destroy_signin_warning_menu
+0x09bcd308 musicstore
+0x4b40630d NewValue
+0x656f5347 respond_to_signin_changed_func
+0xa8ee7357 ScriptAssert
+0xeab2436e last_start_pressed_device
+0x4da4937b career
+0xf0ee5381 uistate_signin_warning
+0x4ddf73a7 GetGameProfileSetting
+0x78e773cb stats_init
+0x57b303d5 xenon_singleplayer_session_init
+0x975f73f5 reset_savegame
+0xf75e4406 ui_destroy_signin
+0x8d92240c ui_event_exists_in_stack
+0x1a1ee416 new_value
+0xda81f42a signin_continue_data
+0x02e4143e ui_signin_warning_jam_back
+0x3c786442 ui_signin_handle_warnings
+0xbd09544c func
+0x07a0745b ui_create_signin_complete
+0x0cb7c473 default_difficulty
+0x8320d478 game_mode
+0x24de1487 wait_for_blade_complete
+0x904f749c fail_state
+0xb74ce4a3 respond_to_signin_changed
+0x445114c8 NetSessionFunc
+0x1527b4c9 alternative_primary_selected
+0x8da97503 primary_controller
+0x64946516 CheckForSignin
+0xb0ab6525 skip_signin
+0xd9e4052c startrendering
+0x6722b533 d
+0x6c525544 map
+0x4c29c545 RequireParams
+0x840d6547 GameMode_GetType
+0xa3788548 first_press
+0xc451f558 event
+0xb69d6568 easy
+0xe8ba1579 primary
+0xe54cc5ab use_online_flow
+0x6b20e5b3 motd_init
+0xd4ce25cc no_hide_glitch
+0x8f61d602 ArrayName
+0x7bb9c604 menu_replace
+0x2de8c60e printf
+0x34b5c61d RemoveAllControllers
+0xaa6f4643 IsXenonOrWinDX
+0x7ee6b645 signin_continue_state
+0x93df364a jam_update_curr_directory_listing
+0x60fcd66b reset_dlc_signin_state
+0x74297717 local
+0x67f0d769 stats_uninit
+0x161ca769 this_event
+0xc9781773 success_state
+0x5b2b87ad require_signin
+0xf77727ae XenonIsGuest
+0x171e27d5 SetPakManCurrentBlock
+0x50b7e804 live_settings_init
+0x3acac82a uistate_mainmenu
+0xa6e1b841 new_data
+0xf5493848 game_setting
+0x202fc857 going_to_career
+0xcd64785c signin_complete_callback
+0xdb61f86e IsSigninFinished
+0x37e378b6 start_checking_for_signin_change
+0x338b08c0 assign_new_primary_controller
+0xe6cf88c4 callback_params
+0x825378c7 allow_back
+0x243458c8 perform_signin
+0x2fcc88c9 signin_state_working
+0x7321a8d6 type
+0x7f8c98fe index
+0xba97f903 AddControllers
+0x0ad46922 controller_index
+0x8e29c923 fail_params
+0xb30d9965 controller
+0xdd08d990 ui_signin_check
+0xed99b9aa optional_signin
+0xc9e1f9bd ui_signin_hide_glitch
+0x1b0509c5 savegame
+0x96b619ed warnings
+0xc9428a08 device_num
+0x398cba48 medium
+0x32746a66 signin_jam_mode
+0x18a3aa6f OnlineSignIn
+0x41cccab2 UIstate_mainmenu_create
+0xddec2ace live_settings
+0x888eaada create_mainmenu_bg
+0x24544ae4 ui_paks
+0x19fa5af7 SpawnScriptNow
+0x2cfa8afb ui_memcard_single_signin
+0x37c84b09 destroy_dialog_box
+0xdcd6cb13 pakname
+0xb4759b29 sanity_check_fix_deleted_characters
+0xd26f2b38 ui_event_wait_for_safe
+0x83ebdb47 net_auto_launch
+0xb48c5b4a downloads
+0x786d4b52 uistate_signin_complete
+0xc2218b53 GameProfileSettingsFinished
+0x30334b5e first_signin_on_ps3
+0xea053b6f require_live
+0x8e10bb70 SetArrayElement
+0xb9992b93 obj
+0x891f8b9a ui_signin_changed_first_press
+0x2abffbae signin_params
+0x29502bc0 UI_SFX
+0x9ad5cbc1 StartGameProfileSettingsRead
+0xa91a9bce respond_to_signin_changed_all_players
+0xf98ccbd2 ps3_boot_warning
+0x86068bd9 callback
+0x80c29beb ps3_signin_callback
+0x15e7cc09 online_only
+0x82117c1a wait
+0x8de83c1c ui_init_signin
+0xf58c2c2b clear_previous_stack
+0x618edc3a store_respond_to_signin_changed_warning_dialog
+0x58c29c3f block_scripts
+0x14d4dc48 RefreshSigninStatus
+0x520c0c9c data
+0xcc848cd8 from_boot
+0xd6521cee generic_event_back
+0xd01d4cff gsid
+0x5c6c2d04 state
+0xc906ad51 menustate
+0x4ed8fd58 hide_glitch
+0x97c1bd73 create_signin_complete_menu
+0x044dcd88 ui_signin_warning_back
+0xde332d99 had_require_signin
+0xc4e78e22 all
+0x69b05e2c generic
+0x7b477e36 ui_signin_process_complete
+0xe53fbe44 create_signin_warning_menu
+0x87fa2e55 ui_deinit_signin
+0x24c40e79 destroy_mainmenu_bg
+0x8842aea9 ui_event_wait
+0xf7c42ec0 store_respond_to_signin_changed
+0xdce82ec8 set_audio_options_for_primary_controller
+0x92313ec8 back
+0xa4fa6ed9 new_state
+0x168b1ee8 leaderboards
+0xfc37df05 gameframe
+0x0a1b2f18 jam
+0x2c6a5f27 uitype
+0x90a59f2d IsLocallySignedIn
+0x806fff30 none
+0x2f1e8f3b ui_destroy_signin_complete
+0xe4848f6f showsigninui
+0x69d0dfaf player_device
+0x81882fda freeplay
+0x6e73afde primary_controller_assigned
+0xbb5c3fee ps3_signin_complete
+0xeb9f1ff5 ui_destroy_signin_warning
+

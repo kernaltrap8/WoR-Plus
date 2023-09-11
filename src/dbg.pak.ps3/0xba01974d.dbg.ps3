@@ -1,0 +1,31 @@
+[LineNumbers]
+
+[Checksums]
+0xe614ae87 models\car_instruments\bass\esp\bass9_esp_ax_01.qb
+0x9687f060 BRIDGE
+0x5bd89060 bass9_esp_ax_01_NodeArray_SortedIndices
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x737e9433 Bass9_ESP_AX_01_Bass9_ESP_AX_01
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0x7f261953 Pos
+0x66a98a0d Bass9_ESP_AX_01_Bass9_N_Knob01
+0x756dba12 Bass9_ESP_AX_01_Bass9_N_pickup01
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0x88a7eb21 Bass9_ESP_AX_01_Bass9_N_Knob03
+0x007c7b68 AttachType
+0xdc587b81 bass9_esp_ax_01_NodeArray_SortedNames
+0x53265ba6 AttachIndex
+0xec64eba8 Bass9_ESP_AX_01_Bass9_N_pickup02
+0xffa0dbb7 Bass9_ESP_AX_01_Bass9_N_Knob02
+0x3ff47bf4 RemovalFlags
+0x5aae3c7c Bass9_ESP_AX_01
+0x385e8d74 SkinExport
+0xed1c0e48 Bass9_ESP_AX_01_Bass9_N_Bridge01
+0x16c37e82 Bass9_ESP_AX_01_Bass9_N_Knob04
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+0x8989cfc6 bass9_esp_ax_01_NodeArray
+

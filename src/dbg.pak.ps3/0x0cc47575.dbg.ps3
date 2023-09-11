@@ -1,0 +1,31 @@
+[LineNumbers]
+
+[Checksums]
+0x45dbabb8 models\car_instruments\bass\schecter\bass_schect_030.qb
+0x9687f060 BRIDGE
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x297fc32c Bass_Schect_030
+0xbe61c602 PICKUP
+0xbb85e65d IBANEZ_ICB_Body_SCH_BAS_Knob003
+0x12b4e660 Class
+0xcc82d6cb IBANEZ_ICB_Body_SCH_BAS_Knob002
+0x558b8771 IBANEZ_ICB_Body_SCH_BAS_Knob001
+0x7f261953 Pos
+0x6ee5f9f1 bass_schect_030_NodeArray
+0x19ebda23 Set
+0x411e4a99 IBANEZ_ICB_Body_Bass_Schect_030
+0x89cc9a9f IBANEZ_ICB_Body_SCH_BAS_Knob04
+0xc97f3aa9 Orientation
+0x1109db4b bass_schect_030_NodeArray_SortedIndices
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x385e8d74 SkinExport
+0xe9ba2d89 bass_schect_030_NodeArray_SortedNames
+0xb46f3eda IBANEZ_ICB_Body_SCH_BAS_Pickup02
+0x8e7cff12 IBANEZ_ICB_Body_SCH_BAS_Bridge001
+0x84b1df33 ExportName
+0x2d666f60 IBANEZ_ICB_Body_SCH_BAS_Pickup01
+0x64f0cf83 AttachPoint
+

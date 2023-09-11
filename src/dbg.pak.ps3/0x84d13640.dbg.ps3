@@ -1,0 +1,83 @@
+[LineNumbers]
+ui_create_customize_character_outfit_accessories 108 (0,9) (7,10) (19,11) (31,12) (43,13) (55,14) (61,15) (74,16) (76,17) (112,19) (291,22) (298,24) (310,25) (322,26) (334,27) (342,28) (354,29) (381,30) (516,31) (553,32) (565,33) (577,34) (583,35) (595,36) (610,37) (616,38) (628,39) (630,40) (632,41) (639,42) (651,43) (663,44) (675,45) (683,46) (695,47) (721,48) (856,49) (893,50) (905,51) (917,52) (929,53) (935,54) (950,55) (956,56) (968,57) (970,58) (972,59) (979,60) (991,61) (1003,62) (1015,63) (1023,64) (1035,65) (1066,66) (1177,67) (1214,68) (1226,69) (1238,70) (1250,71) (1256,72) (1271,73) (1277,74) (1289,76) (1301,77) (1313,78) (1315,79) (1317,80) (1324,81) (1336,82) (1348,83) (1360,84) (1368,85) (1380,86) (1412,87) (1527,88) (1564,89) (1576,90) (1588,91) (1600,92) (1606,93) (1621,94) (1627,95) (1639,97) (1651,98) (1663,99) (1665,100) (1667,101) (1674,103) (1686,104) (1698,105) (1710,106) (1718,107) (1730,108) (1742,109) (1774,110) (1909,111) (1946,112) (1958,113) (1970,114) (1976,115) (1991,116) (1997,117) (2009,118) (2021,119) (2033,120) (2035,121) (2037,122) (2060,129) 
+ui_return_customize_character_outfit_accessories 2 (0,139) (23,141) 
+ui_destroy_customize_character_outfit_accessories 2 (0,151) (6,152) 
+hide_car_parts_accessories 8 (0,160) (6,161) (15,162) (88,163) (92,164) (168,165) (170,166) (176,167) 
+unhide_car_parts_accessories 4 (0,175) (10,176) (64,177) (66,178) 
+hide_car_parts_piercings 7 (0,191) (6,192) (80,193) (156,194) (232,195) (308,196) (314,197) 
+unhide_car_parts_piercings 4 (0,205) (10,206) (56,207) (58,208) 
+
+[Checksums]
+0x58c27860 scripts\guitar\menu\states\layouts\outfit\ui_customize_character_outfit_accessories.qb
+0x0e52f043 PushTemporaryCASAppearance
+0x85c21087 ui_create_customize_character_outfit_accessories
+0xa484d093 add_car_menu_text_item
+0xf9fd30cb CAS_Acc_Ears
+0xcf3e111d hide_car_parts_accessories
+0x95c66130 unhide_car_parts_piercings
+0x3cd9d1fc setup_cas_menu_handlers
+0xefe30239 color_wheel
+0xbf17a257 show_history
+0x80db125a hist_tex
+0x232fd268 icon_face_acc
+0xc7ce926d unhide_car_parts_accessories
+0xe65f329f create_customize_character_outfit_accessories_vmenu
+0x14aa037e UIstate_popout_select_part
+0xf9ec83b5 hide_car_parts_piercings
+0x3e65b46d AccessoriesHat
+0x6ea76472 Stance_Select_Glasses
+0x1c6a147b ui_destroy_customize_character_outfit_accessories
+0x9836251b cam_name
+0x0acc054f car_helper_text
+0x3336956b CAS_Acc_Left
+0xb9eda58b SetCASAppearancePartInstance
+0xd713b5c1 F_Fun_Torso_Bra
+0x4871b5fd RebuildCurrentCASModel
+0xe88e660c destroy_generic_menu
+0x9a6bd624 icon
+0x3f6e367e zoom_camera
+0x16480681 Stance_Select_Arm_R
+0xcdc3f6a0 back_state
+0xff1496de state_device
+0x75b2077f Shirtless
+0xd4c98794 title
+0x8dbdc7f7 AccessoriesRightArm
+0xc4745838 text
+0x4bb2084e desc_id
+0xb90a78d7 is_popup
+0x5d1698fa Stance_Select_Head
+0x4c450964 CAS_Acc_Face
+0xb30d9965 controller
+0xc19f796a part_list
+0x7732d971 Stance_Select_Hat
+0x633e59ef CAS_Hair
+0x244cc9f1 AccessoriesLeftArm
+0xff889a51 CAS_Acc_Right
+0x37ba3a84 make_generic_car_menu
+0x5b335ab6 CAS_Hat
+0x5c341ae2 ui_return_customize_character_outfit_accessories
+0x43a52b3b CAS_Hat_Hair
+0x2a9dcb5e part_instance
+0xf1ff8b68 choose_state
+0x09f3fb6f additional_deinit_script
+0x31dc7bab camera_list
+0xec473be2 Stance_Select_Arm_L
+0x7d654c18 exclusive_device
+0x0c714c3f menu_finish
+0x7d02bcc3 stance
+0xf2490d0f purchase_menu
+0xa17ccd19 CAS_Torso
+0x044d1db2 is_accepting_invite_or_sigining_out
+0x16d19dc2 choose_state_data
+0x780a1e1e is_female_char
+0xa1598eed vmenu_id
+0xb2161ef7 num_icons
+0x806fff30 none
+0x577e1f34 UIstate_cas
+0xb6f08f39 part
+0xc4e3df4a MergePartIntoTemporaryCASAppearance
+0x677e1faf ui_cas_precache
+0xe6220fc1 clothing_colorwheel
+0xe06b8ff1 additional_init_script
+0xafb01ffb icon_face_piercing
+

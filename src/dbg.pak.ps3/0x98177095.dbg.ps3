@@ -1,0 +1,695 @@
+[LineNumbers]
+ui_create_songlist_options 188 (0,118) (48,119) (84,122) (124,125) (126,126) (140,129) (158,132) (176,133) (210,134) (228,135) (230,136) (264,138) (428,148) (440,150) (453,151) (478,152) (502,153) (514,154) (572,155) (584,156) (630,157) (642,158) (684,162) (713,163) (752,167) (788,169) (792,170) (828,171) (830,172) (843,174) (858,175) (873,176) (875,177) (893,179) (913,183) (951,185) (965,186) (1003,188) (1017,189) (1035,191) (1048,193) (1061,194) (1074,195) (1087,196) (1089,197) (1107,199) (1127,200) (1172,202) (1219,205) (1232,206) (1236,207) (1254,208) (1268,209) (1270,210) (1283,212) (1304,213) (1317,214) (1319,215) (1337,217) (1361,220) (1370,221) (1382,222) (1394,223) (1423,224) (1425,225) (1457,227) (1475,228) (1477,229) (1490,232) (1514,233) (1568,234) (1581,235) (1583,236) (1585,237) (1603,239) (1612,241) (1624,242) (1636,243) (1657,244) (1659,245) (1691,247) (1709,248) (1713,249) (1737,250) (1746,251) (1758,252) (1770,253) (1791,254) (1793,255) (1825,257) (1843,258) (1869,259) (1878,260) (1890,261) (1902,262) (1923,263) (1925,264) (1957,266) (1975,267) (1984,269) (1996,270) (2008,271) (2029,272) (2031,273) (2063,275) (2081,276) (2107,277) (2160,279) (2169,281) (2181,282) (2193,283) (2214,284) (2216,285) (2248,287) (2266,288) (2268,289) (2320,292) (2342,293) (2354,295) (2372,298) (2381,300) (2383,301) (2395,302) (2408,303) (2420,304) (2422,305) (2424,306) (2435,308) (2448,309) (2450,310) (2452,311) (2454,312) (2456,315) (2474,316) (2508,317) (2510,319) (2512,320) (2564,322) (2566,323) (2568,324) (2570,325) (2574,326) (2583,328) (2595,329) (2607,330) (2628,331) (2630,332) (2662,334) (2680,335) (2698,338) (2752,340) (2774,341) (2786,343) (2804,346) (2860,347) (2869,349) (2881,350) (2893,351) (2914,352) (2916,353) (2948,355) (2966,356) (2968,357) (2970,358) (2972,359) (2974,360) (2976,361) (2978,362) (2980,363) (3024,366) (3053,367) (3216,375) (3220,376) (3256,377) (3258,378) (3300,380) (3329,381) (3368,383) (3372,384) (3408,385) (3410,386) (3417,388) (3430,389) (3443,390) (3456,391) (3458,392) (3464,395) (3512,398) 
+ui_return_songlist_options 2 (0,405) (6,406) 
+songlist_options_setup_menu 40 (28,415) (64,416) (82,417) (84,418) (120,420) (138,421) (140,422) (205,424) (218,425) (226,426) (239,427) (241,428) (256,430) (262,432) (264,433) (284,434) (297,435) (305,436) (348,437) (350,438) (365,440) (371,442) (373,443) (377,444) (390,445) (398,446) (441,447) (443,448) (458,450) (464,452) (466,453) (468,454) (508,456) (526,458) (556,459) (560,460) (578,461) (580,462) (582,463) (596,466) 
+songlist_options_create_default_user_control_helpers 6 (28,475) (34,476) (52,478) (120,479) (122,480) (188,482) 
+songlist_options_accept_name 29 (0,489) (36,493) (49,494) (51,495) (88,496) (122,497) (129,499) (141,500) (154,501) (169,502) (177,503) (179,504) (191,505) (203,506) (205,507) (207,508) (209,509) (211,511) (213,512) (235,514) (243,515) (276,517) (296,519) (305,521) (318,522) (333,523) (335,524) (383,527) (403,529) 
+songlist_options_refresh_edit_name 3 (0,536) (36,537) (72,539) 
+songlist_options_cancel_name 8 (0,546) (52,547) (76,548) (88,549) (103,550) (118,551) (120,552) (160,554) 
+ui_destroy_songlist_options 4 (0,563) (36,564) (42,567) (76,568) 
+songlist_options_create_menu_options 258 (28,577) (93,578) (124,579) (164,580) (184,581) (197,582) (217,583) (230,584) (232,585) (245,587) (258,588) (260,589) (306,591) (319,593) (333,594) (351,596) (364,597) (377,598) (379,599) (404,600) (417,602) (443,604) (465,605) (469,606) (479,607) (481,608) (491,610) (509,612) (548,614) (588,615) (597,617) (604,618) (617,619) (619,620) (641,622) (653,624) (672,626) (698,627) (711,628) (713,629) (715,630) (717,631) (743,634) (768,635) (781,636) (783,637) (785,638) (794,640) (809,641) (811,642) (829,644) (855,646) (868,647) (877,648) (892,649) (898,650) (900,651) (902,652) (904,653) (922,655) (944,656) (970,658) (985,659) (989,660) (1011,661) (1013,662) (1022,664) (1029,665) (1042,666) (1057,667) (1078,668) (1091,669) (1093,670) (1119,673) (1128,674) (1135,675) (1141,676) (1156,677) (1158,678) (1160,679) (1187,682) (1224,683) (1250,684) (1272,685) (1274,686) (1276,687) (1278,688) (1304,690) (1326,691) (1347,692) (1369,693) (1373,694) (1395,695) (1397,696) (1404,698) (1411,699) (1424,700) (1436,701) (1448,702) (1450,703) (1454,704) (1461,705) (1468,706) (1470,707) (1472,708) (1474,709) (1496,711) (1504,712) (1533,714) (1535,715) (1555,716) (1596,719) (1632,722) (1650,724) (1656,725) (1669,727) (1682,728) (1684,729) (1716,731) (1734,733) (1747,734) (1767,735) (1780,736) (1784,737) (1796,738) (1827,740) (1840,741) (1873,742) (1886,743) (1890,744) (1903,745) (1905,746) (1907,747) (1925,750) (1963,751) (1994,752) (2007,753) (2009,754) (2011,755) (2013,756) (2031,758) (2038,759) (2069,760) (2084,761) (2099,762) (2111,763) (2132,764) (2144,765) (2146,766) (2184,769) (2221,770) (2235,771) (2237,772) (2239,773) (2261,775) (2263,776) (2285,778) (2293,779) (2322,781) (2324,782) (2344,784) (2398,785) (2411,787) (2424,788) (2426,789) (2460,791) (2496,794) (2532,796) (2572,797) (2590,799) (2612,800) (2614,801) (2642,802) (2660,805) (2688,806) (2690,808) (2692,809) (2714,811) (2722,812) (2724,813) (2726,814) (2751,817) (2763,818) (2781,820) (2794,821) (2796,822) (2820,824) (2847,827) (2869,828) (2873,829) (2895,830) (2897,831) (2906,833) (2919,834) (2934,835) (2949,836) (2961,837) (3006,838) (3018,839) (3020,840) (3046,843) (3070,844) (3079,845) (3086,846) (3092,847) (3107,848) (3109,849) (3111,850) (3113,851) (3120,853) (3127,854) (3129,855) (3168,858) (3208,859) (3248,861) (3279,863) (3293,864) (3295,865) (3299,866) (3330,867) (3344,868) (3346,869) (3348,870) (3350,871) (3372,873) (3380,874) (3409,876) (3411,877) (3431,878) (3472,881) (3494,884) (3506,885) (3524,887) (3537,888) (3539,889) (3563,891) (3570,893) (3582,894) (3606,895) (3618,896) (3630,897) (3651,898) (3672,899) (3687,900) (3702,901) (3704,902) (3718,904) (3726,905) (3759,906) (3792,907) (3794,908) (3796,909) (3818,911) (3826,912) (3855,914) (3857,915) (3859,916) (3873,918) 
+allow_download_similar_songs_option 13 (0,925) (20,927) (29,929) (47,930) (77,932) (106,934) (136,935) (140,936) (172,937) (174,938) (178,939) (208,940) (210,941) 
+allow_popularity_sort_option 9 (0,948) (13,950) (26,951) (38,954) (75,956) (104,957) (108,958) (140,959) (142,960) 
+allow_stars_sort_option 7 (0,967) (6,968) (24,970) (56,971) (60,972) (92,973) (94,974) 
+songlist_options_add_item 68 (1,981) (16,982) (31,983) (50,984) (52,985) (61,986) (73,987) (85,988) (97,989) (110,990) (126,991) (138,992) (151,994) (167,995) (180,996) (193,997) (201,998) (214,999) (227,1000) (229,1001) (231,1002) (268,1004) (277,1005) (284,1006) (313,1007) (321,1008) (364,1009) (407,1010) (440,1011) (473,1012) (532,1013) (534,1014) (536,1015) (540,1020) (628,1022) (654,1023) (663,1025) (670,1026) (683,1027) (691,1028) (734,1029) (777,1030) (810,1031) (843,1032) (914,1033) (916,1034) (918,1035) (936,1037) (945,1038) (952,1039) (985,1040) (987,1041) (991,1042) (1000,1043) (1007,1044) (1040,1045) (1042,1046) (1044,1047) (1046,1048) (1053,1050) (1060,1051) (1062,1052) (1089,1054) (1119,1055) (1121,1059) (1160,1061) (1178,1062) (1180,1063) 
+songlist_options_focus 16 (28,1070) (43,1071) (80,1073) (86,1074) (100,1075) (102,1076) (120,1078) (134,1080) (146,1081) (159,1082) (171,1083) (183,1085) (196,1086) (198,1087) (240,1089) (269,1091) 
+songlist_options_unfocus 14 (28,1098) (43,1099) (80,1101) (86,1102) (100,1103) (102,1104) (120,1106) (134,1108) (146,1109) (159,1110) (171,1111) (183,1112) (196,1113) (198,1114) 
+songlist_options_import_view_focus 14 (0,1121) (40,1122) (46,1123) (60,1124) (62,1125) (76,1127) (91,1128) (106,1129) (118,1130) (130,1131) (143,1132) (145,1133) (184,1135) (213,1137) 
+songlist_options_import_view_unfocus 12 (0,1144) (40,1145) (46,1146) (60,1147) (62,1148) (76,1150) (91,1151) (106,1152) (118,1153) (130,1154) (143,1155) (145,1156) 
+songlist_options_jump_to_header 30 (60,1167) (112,1168) (120,1169) (130,1170) (143,1171) (156,1172) (183,1174) (205,1175) (209,1176) (231,1177) (233,1178) (251,1180) (264,1182) (277,1183) (290,1184) (303,1185) (329,1186) (342,1188) (366,1190) (404,1192) (422,1193) (424,1194) (426,1196) (460,1198) (496,1199) (536,1201) (596,1202) (600,1203) (626,1204) (628,1205) 
+songlist_options_sort 3 (28,1214) (46,1215) (104,1216) 
+songlist_options_save 62 (0,1223) (52,1226) (62,1227) (112,1228) (152,1229) (159,1231) (171,1232) (183,1233) (198,1234) (206,1235) (208,1236) (220,1237) (232,1238) (234,1239) (236,1240) (238,1241) (242,1242) (260,1244) (269,1246) (301,1247) (305,1248) (356,1249) (396,1250) (403,1252) (415,1253) (427,1254) (442,1255) (450,1256) (452,1257) (464,1258) (476,1259) (478,1260) (480,1261) (482,1262) (484,1263) (488,1264) (540,1265) (580,1266) (587,1268) (599,1269) (611,1270) (626,1271) (638,1272) (646,1273) (648,1274) (660,1275) (672,1276) (674,1277) (676,1278) (688,1279) (711,1280) (723,1281) (725,1282) (727,1283) (739,1284) (762,1285) (774,1286) (776,1287) (778,1288) (780,1289) (782,1290) (784,1291) 
+songlist_options_overwrite_confirm 10 (0,1298) (52,1299) (58,1301) (74,1303) (83,1305) (114,1306) (129,1307) (131,1308) (177,1310) (197,1312) 
+songlist_options_create_new_confirm 46 (0,1319) (52,1320) (58,1322) (67,1325) (85,1326) (127,1328) (133,1331) (168,1332) (188,1333) (233,1334) (292,1335) (298,1338) (311,1340) (315,1341) (328,1342) (330,1343) (360,1346) (366,1347) (378,1348) (391,1349) (403,1350) (415,1351) (427,1352) (439,1353) (454,1354) (456,1355) (460,1356) (512,1357) (552,1358) (559,1360) (571,1361) (583,1362) (598,1363) (606,1364) (608,1365) (620,1366) (632,1367) (634,1368) (636,1369) (648,1370) (671,1371) (683,1372) (685,1373) (687,1374) (689,1375) (691,1376) 
+songlist_options_select_create 12 (28,1385) (80,1386) (120,1387) (160,1389) (178,1391) (212,1392) (214,1393) (252,1395) (275,1396) (279,1397) (312,1398) (314,1399) 
+songlist_options_load 59 (0,1406) (40,1407) (92,1409) (144,1411) (196,1412) (248,1414) (284,1417) (298,1418) (332,1419) (346,1420) (369,1421) (387,1423) (428,1426) (436,1428) (491,1429) (493,1430) (506,1432) (519,1433) (525,1434) (527,1435) (568,1437) (620,1438) (633,1440) (651,1442) (664,1443) (666,1444) (699,1445) (721,1446) (747,1448) (754,1450) (775,1451) (790,1452) (805,1453) (817,1454) (869,1455) (871,1456) (873,1457) (895,1459) (903,1460) (932,1462) (934,1463) (947,1465) (949,1466) (982,1467) (1004,1468) (1030,1470) (1037,1472) (1058,1473) (1073,1474) (1088,1475) (1100,1476) (1152,1477) (1154,1478) (1156,1479) (1178,1481) (1186,1482) (1215,1484) (1217,1485) (1223,1488) 
+songlist_options_delete 53 (0,1495) (52,1497) (62,1498) (112,1499) (152,1500) (159,1502) (171,1503) (183,1504) (198,1505) (206,1506) (208,1507) (220,1508) (232,1509) (234,1510) (236,1511) (238,1512) (240,1514) (242,1515) (284,1517) (336,1519) (388,1521) (440,1522) (476,1525) (494,1527) (536,1530) (544,1532) (599,1533) (601,1534) (614,1536) (627,1537) (633,1538) (635,1539) (676,1541) (728,1542) (741,1544) (754,1545) (756,1546) (789,1547) (811,1548) (837,1550) (844,1552) (865,1553) (880,1554) (895,1555) (907,1556) (928,1557) (930,1558) (932,1559) (954,1561) (962,1562) (991,1564) (993,1565) (999,1568) 
+songlist_options_clear_query 19 (0,1575) (52,1578) (92,1579) (144,1581) (151,1582) (163,1583) (176,1584) (191,1585) (199,1586) (201,1587) (213,1588) (225,1589) (227,1590) (229,1591) (241,1592) (253,1593) (255,1594) (257,1595) (259,1596) 
+songlist_options_clear_all 7 (0,1603) (36,1604) (42,1606) (92,1608) (132,1610) (168,1612) (204,1614) 
+songlist_options_shuffle 17 (0,1625) (36,1626) (88,1628) (106,1629) (119,1630) (121,1631) (181,1632) (204,1633) (228,1635) (284,1636) (330,1637) (352,1639) (368,1640) (404,1642) (440,1643) (442,1644) (476,1646) 
+songlist_options_destroy_dialog 16 (0,1653) (6,1654) (44,1656) (80,1657) (120,1658) (172,1659) (176,1660) (206,1661) (208,1662) (212,1663) (248,1664) (300,1665) (340,1666) (342,1667) (344,1668) (350,1670) 
+songlist_options_deletion_query 20 (0,1677) (52,1678) (92,1679) (146,1681) (153,1682) (165,1683) (178,1684) (193,1685) (201,1686) (203,1687) (215,1688) (227,1689) (229,1690) (231,1691) (243,1692) (264,1693) (276,1694) (278,1695) (280,1696) (282,1697) 
+songlist_options_deletion_confirm 9 (0,1704) (64,1705) (82,1707) (101,1709) (136,1710) (138,1711) (144,1713) (180,1715) (186,1717) 
+songlist_options_load_query 25 (0,1725) (52,1726) (92,1727) (101,1729) (135,1730) (142,1731) (154,1732) (167,1733) (182,1734) (190,1735) (192,1736) (204,1737) (216,1738) (218,1739) (220,1740) (232,1741) (265,1742) (277,1743) (279,1744) (281,1745) (283,1746) (287,1748) (336,1749) (366,1751) (368,1752) 
+songlist_options_load_confirm 34 (0,1760) (64,1761) (100,1763) (106,1765) (145,1767) (152,1770) (186,1771) (188,1772) (227,1774) (234,1775) (254,1776) (304,1777) (344,1778) (350,1780) (368,1781) (420,1782) (424,1783) (476,1784) (478,1785) (485,1787) (497,1788) (510,1789) (525,1790) (533,1791) (535,1792) (547,1793) (557,1794) (569,1795) (571,1796) (573,1797) (575,1798) (579,1799) (586,1800) (588,1801) 
+songlist_options_check_relevance 61 (1,1808) (17,1809) (19,1810) (39,1811) (52,1813) (64,1815) (82,1817) (92,1818) (105,1820) (118,1821) (120,1822) (144,1823) (157,1824) (187,1827) (224,1829) (253,1830) (259,1832) (277,1833) (290,1834) (294,1835) (307,1836) (309,1837) (344,1838) (377,1839) (390,1840) (392,1841) (394,1842) (398,1843) (432,1845) (434,1846) (452,1848) (481,1849) (495,1850) (517,1851) (521,1852) (534,1853) (557,1854) (586,1856) (600,1857) (602,1858) (624,1860) (632,1861) (650,1863) (660,1864) (673,1866) (686,1867) (688,1868) (714,1869) (754,1870) (768,1871) (790,1872) (792,1873) (814,1874) (822,1875) (824,1876) (826,1877) (844,1880) (858,1881) (862,1882) (888,1883) (890,1884) 
+songlist_options_load_confirm_finish 21 (0,1891) (36,1892) (76,1894) (115,1895) (119,1896) (137,1897) (139,1898) (176,1901) (216,1902) (218,1903) (230,1905) (248,1907) (254,1908) (258,1909) (292,1910) (328,1911) (364,1912) (366,1913) (384,1916) (402,1917) (404,1918) 
+songlist_options_go_to_menu 37 (44,1928) (62,1929) (112,1930) (152,1931) (187,1932) (191,1933) (240,1934) (242,1935) (292,1937) (344,1939) (396,1940) (414,1942) (444,1943) (457,1946) (496,1948) (536,1949) (576,1950) (580,1952) (598,1953) (611,1955) (652,1957) (692,1958) (732,1959) (734,1960) (752,1963) (770,1965) (820,1966) (824,1967) (864,1968) (904,1969) (918,1970) (920,1971) (1012,1974) (1064,1975) (1116,1977) (1164,1978) (1166,1979) 
+songlist_options_back 20 (36,1988) (48,1990) (70,1992) (104,1993) (106,1994) (128,1996) (164,1997) (173,1999) (180,2000) (192,2001) (194,2002) (196,2003) (214,2005) (232,2006) (236,2007) (276,2008) (328,2009) (330,2010) (348,2012) (350,2013) 
+songlist_options_save_and_go_back 11 (36,2022) (42,2023) (60,2024) (136,2025) (140,2026) (160,2027) (205,2028) (264,2029) (270,2032) (315,2034) (317,2035) 
+songlist_options_show_more_info_toggle 13 (0,2042) (18,2043) (52,2044) (65,2045) (116,2046) (172,2051) (176,2052) (212,2053) (225,2054) (276,2055) (332,2060) (334,2061) (359,2063) 
+songlist_options_show_GHTunes_toggle 22 (0,2070) (18,2071) (52,2072) (65,2073) (116,2075) (122,2077) (126,2078) (160,2079) (173,2080) (224,2082) (232,2084) (234,2085) (246,2086) (260,2087) (272,2088) (274,2089) (276,2090) (294,2092) (296,2093) (321,2095) (356,2097) (392,2098) 
+songlist_options_generate_show_GHTunes_option_text 4 (0,2105) (68,2106) (102,2107) (116,2109) 
+allow_show_ghtunes_toggle 7 (0,2116) (6,2118) (24,2119) (56,2120) (60,2121) (92,2122) (94,2123) 
+allow_play_song_option 15 (0,2130) (18,2131) (28,2134) (60,2135) (62,2136) (82,2139) (115,2140) (144,2141) (148,2142) (184,2144) (216,2145) (220,2146) (252,2147) (254,2148) (256,2149) 
+songlist_main_options_play_song 3 (28,2158) (34,2159) (95,2161) 
+allow_add_to_playlist_option 12 (0,2168) (18,2169) (38,2172) (71,2173) (100,2174) (104,2175) (140,2177) (172,2178) (176,2179) (208,2180) (210,2181) (212,2182) 
+songlist_main_options_add_to_playlist 14 (28,2191) (40,2192) (64,2195) (82,2197) (143,2201) (163,2202) (175,2206) (195,2208) (236,2210) (303,2211) (307,2212) (368,2214) (370,2215) (372,2216) 
+songlist_main_options_remove_from_playlist 7 (28,2225) (37,2226) (55,2227) (96,2228) (98,2229) (100,2230) (161,2233) 
+allow_view_awards_option 19 (28,2242) (34,2243) (67,2244) (96,2245) (98,2246) (116,2248) (136,2250) (166,2253) (195,2255) (224,2256) (226,2257) (256,2259) (292,2261) (324,2262) (364,2263) (396,2264) (400,2265) (432,2266) (434,2267) 
+songlist_main_options_view_awards_help_page 25 (44,2277) (73,2278) (148,2280) (200,2281) (218,2282) (230,2283) (237,2284) (249,2285) (257,2286) (269,2287) (277,2288) (290,2289) (303,2290) (315,2291) (328,2292) (341,2293) (343,2294) (349,2295) (362,2296) (375,2297) (377,2298) (379,2299) (383,2300) (413,2301) (415,2302) 
+songlist_main_options_view_awards 74 (92,2315) (101,2316) (140,2317) (180,2318) (232,2319) (268,2320) (286,2321) (293,2322) (305,2323) (313,2324) (319,2325) (331,2327) (343,2328) (358,2329) (370,2330) (383,2331) (395,2332) (407,2333) (409,2334) (411,2335) (415,2336) (422,2337) (434,2338) (442,2339) (448,2340) (460,2342) (472,2343) (487,2344) (499,2345) (512,2346) (524,2347) (536,2348) (538,2349) (540,2350) (542,2351) (544,2354) (546,2355) (548,2356) (550,2357) (600,2359) (618,2361) (624,2364) (642,2365) (718,2366) (722,2367) (740,2368) (752,2369) (754,2370) (767,2373) (789,2374) (802,2375) (804,2376) (826,2378) (839,2379) (841,2380) (859,2382) (879,2383) (924,2384) (983,2385) (989,2388) (996,2390) (1008,2391) (1014,2392) (1022,2393) (1034,2394) (1040,2395) (1053,2396) (1066,2397) (1068,2398) (1070,2399) (1074,2400) (1139,2401) (1141,2402) (1143,2403) 
+songlist_song_options_smart_playlist 2 (28,2412) (64,2413) 
+songlist_main_options_download_similar 3 (28,2422) (46,2423) (102,2425) 
+allow_random_songs_option 7 (0,2432) (6,2433) (24,2435) (56,2436) (60,2437) (92,2438) (94,2439) 
+songlist_main_options_random_songs 41 (0,2446) (40,2447) (75,2448) (124,2450) (176,2452) (228,2453) (280,2455) (310,2457) (322,2460) (340,2462) (380,2465) (388,2467) (431,2468) (433,2469) (446,2471) (459,2472) (465,2473) (467,2474) (508,2476) (560,2477) (573,2479) (575,2480) (619,2481) (626,2483) (639,2484) (654,2485) (669,2486) (681,2487) (712,2488) (714,2489) (736,2491) (744,2492) (746,2493) (753,2496) (765,2497) (780,2498) (795,2499) (807,2500) (827,2501) (829,2502) (866,2504) 
+songlist_main_options_random_processing 25 (28,2513) (80,2514) (90,2517) (140,2518) (180,2519) (187,2521) (199,2522) (211,2523) (226,2524) (238,2525) (246,2526) (248,2527) (260,2528) (281,2529) (293,2530) (295,2531) (297,2532) (309,2533) (321,2534) (323,2535) (325,2536) (327,2537) (331,2540) (349,2541) (351,2542) 
+songlist_main_options_random_processing_choose 4 (28,2551) (34,2552) (40,2553) (58,2555) 
+songlist_main_options_random_processing_cancel 2 (0,2562) (6,2563) 
+songlist_main_options_generate_random_playlist 26 (28,2572) (34,2573) (44,2575) (56,2577) (92,2579) (110,2582) (144,2583) (157,2586) (159,2587) (172,2589) (174,2590) (189,2591) (218,2593) (263,2594) (300,2595) (304,2596) (325,2598) (327,2599) (357,2602) (371,2603) (375,2604) (408,2607) (410,2610) (418,2611) (436,2613) (492,2615) 
+songlist_main_options_go_to_playlist_options 2 (0,2622) (36,2623) 
+songlist_main_options_go_to_display_options 2 (0,2630) (36,2631) 
+songlist_options_keep_focus 25 (28,2640) (40,2641) (58,2642) (77,2644) (97,2645) (131,2647) (145,2648) (159,2649) (163,2650) (179,2651) (195,2652) (197,2653) (219,2658) (243,2659) (267,2660) (269,2661) (273,2663) (289,2664) (305,2665) (307,2666) (321,2668) (334,2669) (347,2670) (359,2671) (361,2672) 
+songlist_options_music_store_request_page_when_ready 19 (28,2681) (40,2682) (42,2684) (74,2685) (81,2686) (93,2687) (99,2688) (112,2689) (125,2690) (137,2691) (139,2692) (172,2694) (208,2695) (240,2697) (242,2698) (292,2700) (299,2701) (305,2703) (336,2705) 
+songlist_options_music_store_pack_CALLBACK_request_page 20 (0,2712) (18,2713) (30,2714) (32,2716) (64,2717) (71,2718) (83,2719) (96,2720) (108,2721) (129,2722) (141,2723) (143,2724) (145,2726) (147,2727) (196,2729) (203,2730) (209,2732) (213,2733) (248,2734) (250,2735) 
+songlist_options_music_store_pack_CALLBACK_request_data 44 (0,2742) (13,2744) (26,2745) (38,2747) (56,2748) (69,2749) (71,2750) (105,2751) (123,2752) (137,2753) (139,2754) (175,2755) (193,2756) (207,2757) (209,2758) (211,2759) (233,2760) (241,2761) (243,2762) (261,2764) (279,2765) (303,2766) (344,2768) (353,2771) (365,2772) (377,2773) (410,2774) (412,2775) (444,2777) (462,2778) (464,2779) (466,2780) (484,2782) (508,2783) (548,2785) (557,2788) (569,2789) (581,2790) (614,2791) (616,2792) (648,2794) (666,2795) (668,2796) (704,2798) 
+songlist_options_music_store_purchase_accepted 10 (28,2807) (64,2809) (73,2811) (91,2812) (109,2813) (170,2814) (172,2815) (176,2816) (194,2817) (196,2818) 
+songlist_options_music_store_PS3_purchase_flow 39 (28,2825) (64,2830) (116,2831) (156,2832) (158,2833) (208,2839) (408,2852) (448,2854) (488,2857) (490,2859) (528,2860) (546,2861) (580,2862) (616,2863) (652,2864) (658,2865) (660,2866) (662,2867) (668,2870) (675,2872) (688,2873) (701,2874) (703,2875) (705,2877) (707,2879) (756,2881) (763,2882) (796,2884) (832,2885) (868,2886) (874,2887) (876,2888) (880,2890) (916,2891) (952,2892) (988,2893) (994,2894) (996,2895) (998,2896) 
+songlist_options_music_store_go_to_terms 10 (28,2906) (68,2907) (92,2909) (98,2910) (110,2911) (116,2912) (129,2913) (142,2914) (155,2915) (157,2916) 
+songlist_options_music_store_preview_song 3 (28,2925) (80,2926) (98,2927) 
+songlist_options_music_store_new_view_go_back 12 (28,2936) (80,2938) (86,2939) (128,2943) (146,2945) (158,2946) (170,2947) (178,2948) (191,2949) (204,2950) (206,2951) (208,2952) 
+songlist_options_music_store_go_to_import_view 5 (0,2959) (7,2960) (19,2961) (32,2962) (34,2963) 
+songlist_options_calculate_playlist_duration 19 (0,2970) (36,2971) (56,2973) (74,2975) (87,2976) (100,2977) (102,2978) (115,2979) (157,2980) (175,2982) (206,2983) (208,2984) (230,2986) (238,2987) (248,2991) (278,2992) (296,2993) (300,2996) (302,2998) 
+
+[Checksums]
+0xf2e5cf31 scripts\guitar\menu\states\layouts\ui_songlist_options.qb
+0xb990d003 target
+0x47a8e004 my_playlists
+0x8e411006 b
+0x1bff900b quickplay
+0x58ebb015 MembFunc_Songlist_UIStack_GetRandomSongStruct
+0xab9b201b allow_download_similar_songs_option
+0xdd70901e Options_Controller_X
+0x8ea5e020 songlist_options_music_store_request_page_when_ready
+0x3db59024 g_songlist_sort_array
+0x2a1c002c UIState_songlist
+0x0b599032 GHTunes
+0x1dc12033 text_focus_color
+0x43da9033 remaining_range
+0x1b81f034 time_array
+0xd8885036 g_songlist_options_dirty
+0x475bf03c event_handlers
+0x7ed98043 g_songlist_infinite_playlist
+0x4867a044 music_store_request_preview_music
+0x0e771045 songlist_options_check_relevance
+0x9c002068 help_global_index
+0x795c006d songlist_options_select_create
+0xdff4006e songlist_only
+0x0958a06f allow_random_songs_option
+0x059ea070 red
+0x72ad9073 songlist_options_overwrite_confirm
+0x9ba23079 savegame_device
+0x367f707a menurow_ico_item_texture
+0xb6688088 g_first_empty_custom_playlist_slot
+0xa075808c source
+0xf9462090 c
+0xe9576099 autoSizeDims
+0x0a3450a2 force_add
+0xe13620a8 no_sound
+0xaf9aa0a8 cancel_text
+0x820f20ae initial_return_script
+0x016380b1 song_allowed
+0xe17f30b9 menurow_highlight_bar_dims
+0x244620b9 current_page
+0x47e0c0c8 callback_marketplace_content_general_timedout
+0xfe61d0df g_songlist_sub_item_focus_rgba
+0x954e70e9 filterspec
+0xe4f130f4 s
+0x301dd0f9 GetGlobalTags
+0x51172101 songlist_options_vmenu_spacing_between
+0x2fa20101 seek_first_data
+0x9118a105 songlist_main_options_random_processing
+0xa60e9106 song_source
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0xa3de810f songlist_go_to_music_store_tab
+0x7419e118 default_focus
+0x0c7a311b menurow_just
+0x6e09c11c songlist_sort
+0xf34b411e songlist_options_focus
+0x84b34124 songlist_options_bg_alpha
+0xb442012a load_text
+0xca1fa12d menurow_highlight_bar_alpha
+0x3611c136 GetTags
+0x0281513f GlobalArray
+0x73665140 CreateScreenElement
+0x49317141 g_music_store_sub_item_unfocus_rgba
+0xdf64b144 menurow_internal_just
+0x5ef31148 array
+0x087c5153 songlist_options_save_and_go_back
+0x475a215c songlist_options_main_cont_pos
+0xcc12115e song
+0x01dd615f DescInterface
+0x8dc3d15f songlist_options_back
+0xa6daa163 new_texture
+0x62a6a164 num_elements
+0x492d916b songlist_music_store_view_pack_songs
+0x146bd17a force_to_recommendations
+0xcf66717b GotParam
+0xbde9717c need_autosave
+0x5b43c18a total_songs_played_check
+0xb9794191 songlist_options_load_query
+0xa362019b treat_not_focusable_as_header
+0x5d0671b8 channel
+0x5309e1bb item_is_valid
+0x174841bc a
+0xc66791bc album
+0xbebfa1c6 element
+0x2e7cd1cc show_download_again
+0x6017f1cc ui_event
+0x698331d2 songlist_options_import_view_focus
+0x6821a1dc pack
+0x2f6511de green
+0xbfa801df change
+0x3b4631df IsPs3
+0xfd67f1df songlist_options_setup_menu
+0x89e8c1e0 alias_menurow_ico_item
+0x62b131e2 import
+0x035271e3 menurow_txt_item_text
+0xef7b21eb songlist_options_music_store_go_to_terms
+0x3f93a1ef replace_handlers
+0xa1dc81f9 name
+0x4bfcd202 AddArrayElement
+0xc4326204 MembFunc_Songlist_UIStack_SetupApplicableRandomIndeces
+0x0ad9820f start_index
+0xa90f7219 menu_unfocus_color
+0xda9a021c total_songs_played
+0x500eb224 Obj_GetID
+0x8b60022f just
+0xed06e245 override_array
+0x8fae8247 title_text
+0xb129e24a songlist_options_sort
+0x1d9d2250 g_songlist_requires_unblock
+0xdea5d25b header_type
+0xfd9f6261 store_only
+0x46159266 out
+0xb035d275 SongList_options
+0x9b74127c generic_scrollbar_wgt_set_resolution
+0x7d99f28d texture
+0xcd78128f pack_index
+0x0b076299 common_params
+0x40d7329b main
+0x8012c29f SetSpawnInstanceLimits
+0x69f022b5 header_text
+0x2ab132b9 g_songlist_refresh_menus
+0x17a542ba menu_refresh
+0xd443a2bc off
+0x966a52bd songlist_options_show_more_info_toggle
+0xa57182be ui_return_songlist_options
+0x6e5782c8 deletion_text
+0x0934d2d8 album_index
+0x514dd2da available_count
+0x2c7af2db option_text
+0x0f63a2dd songlist_options_clear_query
+0x169612ea songlist_options_music_store_PS3_purchase_flow
+0xd2be82f7 setsoundbussparams
+0x271f02f8 options_array_size
+0xabd622ff songlist_source_icon_alpha
+0x4b40630d NewValue
+0x2159e31f cancel_script
+0x4b17b32b callback_marketplace_detailed_description_request_failed
+0x08523337 purchase_checksum
+0xa04b9342 alias_songlist_options_smenu
+0x178fd34b import_item_text_text
+0xe9403354 ui_create_songlist_options
+0xa8ee7357 ScriptAssert
+0xee23435a back_index
+0x1662035d g_songlist_invalid_item_unfocus_rgba
+0x4313a35f MembFunc_Songlist_UIStack_GetMode
+0x09491368 custom_size
+0x0203b372 true
+0x5b058376 param
+0xb59a837a songlist_options_smenu
+0x93fe2381 songlist_options_music_store_purchase_accepted
+0x8e877382 UIState_music_store_terms
+0x6bbfa38d random_pos
+0xa222438e error
+0x2fa02395 icon_first
+0x95f13398 textureON
+0xb8efd399 header_text_override
+0xf44a53ab desc
+0xcafcc3ad g_music_store_viewing_pack_songs
+0x76e233c2 g_songlist_options_item_invalid_rgba
+0xc5f953c2 button
+0xa62203c8 Audio_UI_Text_Entry_Finish
+0x216a73d0 no_refresh
+0xb99ae3d6 gameframes
+0x215563d8 confirm_func
+0xd7fad3dd songlist_options_music_store_go_to_import_view
+0xc74673e0 songlist_clear_playlist
+0x595bc3e4 always
+0x5bad63ee main_songlist_options
+0xc5bc93ee ScreenElementExists
+0x67d2e3f0 SE_GetProps
+0xd2a923fe songlist_main_options_view_awards_help_page
+0xb72e2404 g_music_store_sub_item_focus_rgba
+0xec566405 songlist_options_load_confirm_finish
+0xff0db407 textname
+0x2aa96416 toggle_checksum
+0x9249a420 textureOFF
+0x1d944426 not_focusable
+0x9277f428 FormatText
+0x8509442a num_random_songs_array
+0xf8a4443a get_savegame_from_controller
+0x1cbf2446 alphabetical
+0xbd09544c func
+0x756f5456 key
+0xd0298456 g_music_store_item_unfocus_rgba
+0x3ec2f457 allow_view_awards_option
+0x91f0e45a body_text
+0xf680245a songlist_clear_filterspec
+0xf84de461 menurow_txt_item_rgba
+0x1e93946b alias
+0xa4547471 callback_marketplace_detailed_description_retrieve_failed
+0xc50bf475 songlist_options_load
+0x2e1e7476 back_button_script
+0x82ef848b warning_text
+0xd995b497 menu_selection_changed
+0x89f3d497 song_available_list
+0x32b9f49f play_band_lobby_complete_sfx
+0x39b5c4b0 GetArraySize
+0x924cf4b7 songlist_main_options_play_song
+0x7dd5c4be g_songlist_options_item_focus_rgba
+0x445114c8 NetSessionFunc
+0xdeef04cd StructureContains
+0xe921a4d8 scrolldown
+0xbf0f14db center
+0xf16584dc lower
+0x5d2794ea songlist_main_options_go_to_playlist_options
+0xcd8fb4eb song_preview_asset_name
+0xa5f054f4 integer
+0x8f6374f5 song_not_found
+0xbe0874f7 songlist_options_shuffle
+0xb50594f8 current_playlist
+0xd76054fd sticky_header_struct
+0x80c82503 allow_popularity_sort_option
+0x80039504 error_text
+0x9d3fb516 focus
+0xec1cd520 continue
+0x22fb8532 locked_playlists
+0x26b6e535 ease_out
+0x1e3e253b pad_choose
+0xb01bd53e random_playlist
+0xb40d153f select
+0x497e453f bypass_return_script
+0x552a2543 songlist_options_text_text
+0x74fcc545 songlist_options_create_menu_options
+0x4c29c545 RequireParams
+0x840d6547 GameMode_GetType
+0x7a95a557 t
+0xc451f558 event
+0x0808055b songlist_options_ready_to_proceed
+0x43b8855d help_context
+0x005a755e num_menu_items
+0xf5ed8562 music_name
+0x97161566 album_struct
+0xb8437568 pad_choose_params
+0xe8a3d570 ui_memcard_autosave_replace
+0x2fca0578 options
+0x0c69758a total_plays
+0x94e2d590 song_not_patched
+0xb530459a content_array
+0x8a7a05a4 songlist_item_highlight_bar_alpha
+0xf6ce25b5 globalcounter_music_store_purchase
+0x6c78a5b6 range
+0xd7ced5bf jump_title
+0xc7df15cb union_list
+0x8ef415d5 Setlist
+0x5524b5da MembFunc_Songlist_UIStack_GetListName
+0x4f9255ea ui_leaderboard_get_error_text
+0x150d35f1 heading_text
+0x603845f2 UIstate_generic_dialog_box
+0x7d0155f8 override_i
+0x8f61d602 ArrayName
+0x7bb9c604 menu_replace
+0x2de8c60e printf
+0xd029f619 seconds
+0x9a6bd624 icon
+0x8a4c762d song_checksum
+0xf649d637 on
+0xce562640 show_more_info_on_enter
+0x06192644 generate_option_text_script
+0x9232564a songlist_continue
+0xc55d3650 content_size
+0x89a4966d dont_force_quit
+0x8d5b9670 pad_script
+0x46b4e677 ghtunes_text
+0x1b1c3679 request_detailed_info
+0x356bd67b generic_scrollbar_wgt_initialize
+0x238f268e option_boolean_script
+0xa2907698 SetScreenElementLock
+0xc3f4169a filename
+0x01c5b69b playlist_name
+0x6cebf6a1 range_struct
+0xb3c926a4 songlist_main_options_remove_from_playlist
+0xebfe16b0 allow_stars_sort_option
+0x1cb2a6b0 num_players
+0x4a1256b3 playlist_songlist_options
+0xec9046c9 import_item_text_rgba
+0x90e346cf UIState_songlist_options
+0x734d06f5 start_pos
+0x7f4f5701 get_ui_song_struct_items
+0xd24d6716 sub_item_focus_rgba
+0xb3eaf72e ease_in
+0x90467732 songlist_options_create_new_confirm
+0x05e14733 song_is_jamsession
+0xb8583739 songlist_calculate_playlist_duration
+0xc8f61739 item_focus_rgba
+0xa116e73d Obj_SetIntegerTag
+0x918d573e header
+0x2cb33744 LaunchEvent
+0x9ef3e74c show_help_page
+0xc7b7c75b songlist_options_add_item
+0x092bc75f curr_header_struct
+0x8ccc4760 IsOldEnoughForOnline
+0x50b81766 UIstate_award_case
+0x2435576b total_seconds
+0x164d476d intensity
+0x152d376e locked
+0xbcab976e generic_event_replace
+0x535ee774 songlist_get_sort_key
+0x9a484777 g_songlist_show_GHTunes
+0x3db5a780 next_state_script
+0x0ed45788 Obj_SpawnScriptNow
+0xd4c98794 title
+0x8a421794 MembFunc_Songlist_UIStack_GetPopularitySortInfo
+0xb438779b import_highlight_bar_alpha
+0x4a0087ae music_setlist
+0x906b67ba time
+0x5962a7c4 num_items
+0x6c63c7c5 SetProps
+0xd43297cf false
+0x1d2d97d4 func_params
+0xc44777f3 reason
+0x3e7727fa IsXenon
+0xd48727fe UIState_os_edit_name
+0x18145807 help_index
+0xc2e6780d MembFunc_Songlist_UIStack_GetRangeStruct
+0x7c703811 songlist_options_music_store_pack_CALLBACK_request_page
+0xf6a36814 vol
+0x90fec815 structure
+0xc195a822 create_dialog_box
+0xf4d9a825 add_user_control_helper
+0x91ca282a SongList_detail
+0xcb53782a no_targeting
+0x22bdd82b accept_script
+0x809a9834 j
+0x30a4f836 pad_up
+0xc4745838 text
+0x25209846 SE_WaitProps
+0x9d2d8850 z
+0xa77d4851 allow_songlist_options_writes
+0xafce7851 seek_first
+0x6835b854 mode
+0x76274868 total_size
+0x1b18f86d songlist_component
+0xf2239871 tag_selected_index
+0x2d5b587d content_struct
+0xa2141895 passed_in_type
+0x29f1a896 GetScreenElementChildren
+0x85981897 left
+0xac120897 pivot_checksum
+0xb99c689a Songlist
+0xee51589e counter_name
+0x40c698af id
+0x43de08bd container_id
+0xc659f8c0 total_plays_check
+0x8c1b68cb songlist_options_accept_name
+0xab4628cd icon_id
+0x7321a8d6 type
+0xb90a78d7 is_popup
+0x21cc38d9 ExtendCRC
+0x947d08dd songlist_deinit_music_store
+0x0d6db8de autosave_icon
+0xa2c218e7 event_func
+0x5cf378f4 message_cont_alpha
+0xedc808f4 detailed_content_info_error
+0xf42548f8 preserve_parent
+0x7f8c98fe index
+0x19a19905 content_source_ghtunes_artist_string
+0x6cef5907 menu_change
+0x07a7490d songlist_detail_frame_2_cont_alpha
+0x9b969920 is_ready
+0xa589c925 IsSongAvailable
+0xe0223928 import_item_sub_text_rgba
+0xebc39936 custom_playlists
+0x85014940 delete_custom_playlist_slot
+0xa10ac94a content_restricted
+0x3493594b is_current_playlist_empty
+0x7f261953 pos
+0x9f2d9953 songlist_options_keep_focus
+0x0a7be964 custom
+0xb30d9965 controller
+0x1140a967 initial_return_params
+0x8c75b968 songlist_options_deletion_query
+0x543c2971 songlist_allow_music_store_toggling
+0xd27c2977 song_duration
+0xfea66978 artist
+0x5966f986 seek_checksum
+0xb2ab3988 ui_struct
+0x0da6698d ignore_spawn_request
+0x1993c98e i
+0x1cca1992 g_songlist_sort_index
+0x91de29ac no_options
+0x513ef9ae final_pos
+0x633119b5 allow_show_ghtunes_toggle
+0x3c15e9b6 DestroyScreenElement
+0xd21b69b9 calculate_duration
+0x16ea49b9 no_restricted_check
+0x1b0509c5 savegame
+0x7b78a9c5 no_focus
+0x1dd469c9 patch
+0xa26ad9e0 g_current_loaded_custom_playlist_index
+0x584cf9e9 jump
+0xa58079eb SetTags
+0xe784a9f4 song_options_struct
+0xbee3e9fe from_help_page
+0x201999ff locked_size
+0x73f8ca00 valid
+0xd154ea08 equal
+0xc9428a08 device_num
+0x1bc00a0e g_songlist_invalid_sub_item_unfocus_rgba
+0x6b000a13 universal_help_display_help_check
+0xf4ac7a35 temp
+0xfbe1fa4d songlist_change_filterspec
+0xd5614a50 unblock_events
+0x2c8a3a6d child_index
+0x62893a6f songlist_song_options_smart_playlist
+0x3fea3a74 extra_boolean_script
+0x73e2ba7e text_unfocus_color
+0x69573a7f product_long_description
+0x9e022a84 purchase_struct
+0xb8444a89 get_detailed_info
+0x080c0a8e menurow_ico_item
+0x76fa7a8f checksumname
+0x4a5f8a90 g_gbm_savegame_device
+0x862a5aa8 instrument_spinner_ui_icon_anim
+0xcd576aaf header_array
+0x990afab0 music_store_songlist_options
+0xf4b16ab0 management
+0xb56b2ab6 songlist_options_save
+0x6da42abb scrollup
+0x3f306abb is_playlist_slot_empty
+0x49291ac4 songlist_menu_wide_rule_bg_alpha
+0xa1f15ad5 menu_special_offers_select_import
+0xbf0c9ad5 challenge_tracker
+0x85179ad8 no_pivot
+0xe75d4ae1 songlist_main_options_random_processing_cancel
+0x56a1eae3 root_window
+0xec2ebaf1 import_view
+0xeb4f0af2 rr_get_time_string
+0xe42dbaff default_name
+0xa10a8b06 songlist_options_load_confirm
+0x08e8db07 SetMenuAutoRepeatTimes
+0x37c84b09 destroy_dialog_box
+0xce4f5b0c comparator
+0x28e66b14 resolved_id
+0x0c750b17 IsSongSelectable
+0x7d44db1a generic_blocking_execute_script
+0x5be8bb29 g_songlist_show_more_info
+0x33543b36 no_green_button
+0x6dfcfb39 songlist_options_create_default_user_control_helpers
+0xb2aabb3e songlist_update_source_icon_alpha
+0x8c148b4c songlist_options_generate_show_GHTunes_option_text
+0x7b8d3b52 random_song_struct
+0xb555fb5a songlist_options_calculate_playlist_duration
+0x2dab2b66 request_data
+0x8e10bb70 SetArrayElement
+0xaa7a6b71 allow_add_to_playlist_option
+0xd5a82b71 Obj_GetIntegerTag
+0x7b90fb71 header_struct
+0x9f530b7d get_first_empty_custom_playlist_slot
+0xa462eb7e g_gbm_exclusive_device
+0xd0821b82 MembFunc_Songlist_UIStack_SetMode
+0xf1ad5b88 negativeselect
+0xce9d8b8e show_GHTunes_on_enter
+0x8b416b8f net_counter_increment
+0x083fdb95 size
+0x31fceb9a alias_generic_scrollbar_wgt
+0xa37f5ba3 songlist_options_clear_all
+0x29502bc0 ui_sfx
+0xd6484bc6 purchased
+0x77c27bcc playlist_entry
+0x8e7b4bd4 songlist_item_text_text
+0x90436bd9 tags
+0x86068bd9 callback
+0x56e5cbda g_num_menu_items_with_icon
+0x40e3dbdc fill_auto_save_playlist
+0x12887bdf g_music_store_item_focus_rgba
+0x3eafbbe2 songlist_main_options_random_processing_choose
+0x3ca17bef MarketplaceFunc
+0x9feffbf7 ContentManFunc
+0x70399bfd songlist_detail_frame_1_cont_alpha
+0x7cafcc07 genre
+0x7d7a0c0a songlist_options_vmenu
+0x4d49ac0a current_menu
+0x1da5fc16 songlist_main_options_go_to_display_options
+0x7d654c18 exclusive_device
+0x82117c1a wait
+0x56f87c1e list_relevant
+0x9f23dc21 SE_SetProps
+0x0fd1ac26 pad_down
+0x87f75c2d n
+0x68ab1c32 alias_songlist_options_vmenu
+0x053afc38 songlist_options_scrollbar_wgt
+0x6721dc40 music_store
+0xae484c46 songlist_options_scrollbar_cont_alpha
+0x3dc1dc78 songlist_options_cancel_name
+0x0c17fc7d songlist_main_options_generate_random_playlist
+0x933c6c85 songlist_options_jump_to_header
+0xe0fbbc8e song_item_id
+0x520c0c9c data
+0x2b0cfca1 pad_choose_script
+0x1ee4eca6 UIstate_music_store_scan_marketplace
+0x1b3dacaa import_item_sub_text_text
+0x25cadcac GetNumPlayersInGame
+0xc2eaccae add_song
+0xde74acae remove_song
+0xf380acaf menurow_txt_item_dims
+0x0830ecaf objid
+0x44a31cb5 SetGlobalTags
+0x62c11cb9 GetSingleTag
+0xcc5fecbc dialog_box_container
+0x447d8cc8 year
+0xab744ccd allow_play_song_option
+0x4adf0cd3 unfocus
+0xfbd89cd5 Obj_KillSpawnedScript
+0xd6e7acdc cancel_func
+0x9f86aceb options_array
+0xd6521cee generic_event_back
+0xda31ccf6 bypass_return_params
+0xa4daecf7 ui_destroy_songlist_options
+0xae71bcff visibility
+0x7056ed02 RemoveParameter
+0x5c6c2d04 state
+0xfedd4d07 show_more_info
+0x6c68ed07 g_songlist_random_playlist
+0x86596d08 ToggleOn
+0x0f9cad1c songlist_options_import_view_unfocus
+0xc3945d1e item_struct
+0x7ee0fd2a pad_back
+0x66a54d2d generic_event_choose
+0x4577fd38 AssignAlias
+0x8cf25d39 shutdown_game_for_signin_change_flag
+0x7f5b3d4d array_size
+0xc906ad51 menustate
+0xc5897d52 songlist_options_music_store_pack_CALLBACK_request_data
+0x3b899d5b album_pack_only
+0xf32e8d5c display
+0xd597cd61 display_songlist_options
+0x69fb0d63 sort_key
+0xee57ad73 use_back_index
+0x6289dd76 max
+0xfe196d7b bmarv
+0x89dccd7c songlist_options_music_store_new_view_go_back
+0xe7d1adac Leaderboard
+0x16a48dbf songlist_item_remove_from_playlist
+0x74024dc4 MembFunc_Songlist_UIStack_GetPopularitySortSeekFirstData
+0x6c0bbdd1 show_GHTunes
+0xaedb0ddd sort
+0x4b09fde7 songlist_options_music_store_preview_song
+0x33df2dea music_store_purchase_content
+0xe5da5def never
+0x62dd9df1 pack_struct
+0x5f89adf4 is_a_playlist_loaded
+0x20e5ce00 songlist_options_show_GHTunes_toggle
+0x96d3ee07 g_songlist_headers
+0xe4125e10 list_name
+0xf6ed2e13 songlist_clear
+0x0a015e17 motion
+0xc4e78e22 all
+0x3cc8ae23 integer_value
+0x94526e25 request_page
+0x69b05e2c generic
+0x657bbe2c menu_focus_color
+0xc3335e34 songlist_main_options_view_awards
+0x15a08e38 confirm_func_params
+0xe5d6fe3e block_events
+0x5e684e45 children
+0xaefa2e49 next_state_params
+0x7c0ece4f g_songlist_seek_first
+0x4fd33e4f tag_name
+0x3e036e50 songlist_main_options_add_to_playlist
+0xa50b3e51 random_text
+0x7564de56 songlist_item_text_rgba
+0xf2b65e5e pack_list
+0x55e99e65 song_options_bool_array
+0x6a1fde6f UIstate_universal_help
+0x44384e76 popularity
+0xbca1ce7c songlist_options_destroy_dialog
+0xd9b7de80 songlist_main_options_download_similar
+0x5a7ece86 menu_back
+0x4b05ee88 contents
+0x411a9e8a generic_scrollbar_wgt_update_thumb_pos
+0x48330e8a songlist_item_add_to_playlist
+0xa1f9ee90 playlists
+0x940cde9c ChecksumEquals
+0x8842aea9 ui_event_wait
+0x38d6deaa songlist_options_unfocus
+0x0c86aeaf music_store_seek_override
+0x92313ec8 back
+0x0f022ecb songlist_item_sub_text_rgba
+0xd7129ed0 songlist_options_deletion_confirm
+0x287deed2 playlist
+0x11bcbee0 songlist_options_refresh_edit_name
+0x7c2b7ef1 songlist_create_default_user_control_helpers
+0xe84ddef6 menurow_txt_item_font
+0x14852f00 g_songlist_item_focus_rgba
+0xfc37df05 gameframe
+0x0290ff12 num_songs
+0x02141f19 clean_up_user_control_helpers
+0x2c6a5f27 uitype
+0xb6e79f29 songlist_options_go_to_menu
+0xf2c28f30 suppress_unavailable_songs_warning
+0x806fff30 none
+0x57710f31 z_priority
+0x62559f3a ToggleOff
+0xe2c4cf3e char_limit
+0x79a07f3f duration
+0x3dc8af45 song_is_locked
+0xb0c0af47 option_boolean_params
+0xbbde5f5a autosave_playlist
+0x0eeb1f65 songlist_main_options_random_songs
+0x88eacf67 code
+0x89eaaf80 not_equal
+0x2fefaf84 fontgrid_text_a1
+0xeba28f88 focus_index
+0xc717ef8f play_song
+0x53f1df98 slot
+0xd30bcf9f friends_feed_desc_id
+0x58286fac confirm_text
+0x69d0dfaf player_device
+0xc2719fb0 parent
+0x1e141fb9 pad_params
+0xb96e8fbd GetRandomValue
+0xcb587fbe songlist_options_delete
+0xa986bfc3 Options_Controller_Check
+0xcf5e3fcf clear_text
+0xfee23fd3 stars
+0x81882fda freeplay
+0xd301ffdd soundevent
+0xc2989fed does_custom_playlist_exist
+0xf7111ff0 g_songlist_options_item_unfocus_rgba
+0x122e8ff0 songlist_is_song_in_playlist
+0x0e13dffb end_index
+

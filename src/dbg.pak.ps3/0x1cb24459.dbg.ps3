@@ -1,0 +1,28 @@
+[LineNumbers]
+
+[Checksums]
+0xe990dd22 zones\z_riothouse\z_riothouse_tod_profiles.qb
+0x5ffed043 Z_RiotHouse_DOF_Longshot02_TOD_Manager
+0x98c1a073 Z_RiotHouse_DOF_Midshot_TOD_Manager
+0xf0e440ce Z_RiotHouse_DOF_Drummer_Stage_TOD_Manager
+0x68df40f5 nearblurend
+0xa503619d dof3
+0x916fc1bd farblurbegin
+0xa1dc81f9 Name
+0xf4dbe284 Z_RiotHouse_DOF_Midshot02_TOD_Manager
+0x6645454e nearblurbegin
+0xf649d637 on
+0x5e1ac742 Z_RiotHouse_DOF_AUDIENCE_R_TOD_Manager
+0x378bb81d Z_RiotHouse_DOF_AUDIENCE_C_TOD_Manager
+0x2dc0c85d screen_fx
+0x7321a8d6 Type
+0x01718a15 Z_RiotHouse_DOF_Vert_Front01_TOD_Manager
+0xce10bbf7 Z_RiotHouse_DOF_Generic_Stage_Shot_TOD_Manager
+0x10fb6d28 Z_RiotHouse_DOF_AUDIENCE_L_TOD_Manager
+0x33705d83 scefName
+0x494cee1b Z_RiotHouse_DOF_NoBand01_TOD_Manager
+0x29461e27 strength
+0x26f55e3a Depth_of_Field__simplified_
+0x43eade65 Z_RiotHouse_DOF_Longshot_TOD_Manager
+0x09479f52 farblurend
+

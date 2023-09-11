@@ -1,0 +1,36 @@
+[LineNumbers]
+
+[Checksums]
+0x1876b6e1 models\car_instruments\guitar\daisyrock\gtr94_dr_tomboy.qb
+0x9687f060 BRIDGE
+0x0e362079 GTR94_DR_TomBoy_GTR94_pickup01
+0xe0384155 GTR94_DR_TomBoy_GTR94_pickup03
+0x973f71c3 GTR94_DR_TomBoy_GTR94_pickup02
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0xde2ea412 gtr94_dr_tomboy_NodeArray
+0x96479423 GTR94_DR_TomBoy_GTR94_bridge01
+0x095be460 GTR94_DR_TomBoy_GTR94_pickup05
+0x7941548e GTR94_DR_TomBoy
+0x7e5cd4f6 GTR94_DR_TomBoy_GTR94_pickup04
+0x8058e545 MISC
+0x9052b5da GTR94_DR_TomBoy_GTR94_pickup06
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0x9b222833 GTR94_DR_TomBoy_GTR94_knob02
+0xec2518a5 GTR94_DR_TomBoy_GTR94_knob03
+0x7f261953 Pos
+0xada05979 gtr94_dr_tomboy_NodeArray_SortedNames
+0x022b7989 GTR94_DR_TomBoy_GTR94_knob01
+0x933419b7 GTR94_DR_TomBoy_GTR94_switch01
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x52ddcbc9 gtr94_dr_tomboy_NodeArray_SortedIndices
+0x3ff47bf4 RemovalFlags
+0x8e93fd2d GTR94_DR_TomBoy_GTR94_DR_TomBoy
+0x385e8d74 SkinExport
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+

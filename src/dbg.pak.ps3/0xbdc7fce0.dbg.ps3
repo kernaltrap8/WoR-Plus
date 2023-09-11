@@ -1,0 +1,40 @@
+[LineNumbers]
+
+[Checksums]
+0x4dbb1a83 songs\savior.mid.qb
+0xf106f00b GH6_Singer_Male_Savior_1b
+0xc2a28080 vocalist
+0x7031f10c params
+0xabcef117 GH6_Singer_Male_Savior_8
+0xa1dc81f9 name
+0x0f4d3204 savior_cameras
+0xb90c8250 savior_scripts
+0xc3309289 GH6_Singer_Male_Savior_3b
+0xeb9d12f1 savior_facial
+0x7166b360 Band_PlayFacialAnim
+0xda2ba3c8 GH6_Singer_Male_Savior_2b
+0x8c71044e GH6_Singer_Male_Savior_4b
+0xff321487 savior_localized_strings
+0x18b3859e savior_cameras_notes
+0xf12eb6ef savior_lightshow
+0x3ac1877c guitarist
+0x906b67ba time
+0x463867fb savior_anim
+0x2f2e8808 savior_anim_notes
+0x4b1b1809 GH6_Singer_Male_Savior_2
+0xbdf6f823 savior_drums_notes
+0xa6d2d890 scr
+0x3c1c289f GH6_Singer_Male_Savior_3
+0xd21249b3 GH6_Singer_Male_Savior_1
+0xe221aaec savior_crowd_notes
+0x6e965b60 bassist
+0xb4598b9c savior_crowd
+0x98549ba4 anim
+0x4c76dc10 GH6_Singer_Male_Savior_6
+0x3b71ec86 GH6_Singer_Male_Savior_7
+0xa278bd3c GH6_Singer_Male_Savior_4
+0x50ac7da4 savior_performance
+0xd57f8daa GH6_Singer_Male_Savior_5
+0x6ef11e4b LightShow_SetTime
+0xb69f7eba savior_lightshow_notes
+

@@ -1,0 +1,35 @@
+[LineNumbers]
+
+[Checksums]
+0x1d8ccfd1 models\car_instruments\guitar\daisyrock\gtr95_dr_stardust_elite.qb
+0x9687f060 BRIDGE
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0xcb28720d I_GTR95_Pickup02
+0x23ab0216 GTR95_DR_Stardust_Elite
+0x8b7ef275 gtr95_dr_stardust_elite_NodeArray_SortedNames
+0xb13132dc I_GTR93_pickup03
+0x522123b7 I_GTR95_Pickup01
+0x8058e545 MISC
+0xbe61c602 PICKUP
+0xcc45b614 I_GTR95_Pickup06
+0x12b4e660 Class
+0x045b06ec I_GTR95_Bridge2
+0x224bd738 I_GTR95_Pickup04
+0x9d525756 I_GTR95_Bridge1
+0x554ce7ae I_GTR95_Pickup05
+0xbf6cd87b gtr95_dr_stardust_elite_NodeArray_SortedIndices
+0x7f261953 Pos
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x98afdba3 gtr95_dr_stardust_elite_NodeArray
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x385e8d74 SkinExport
+0xacc31db9 I_GTR95_Misc_Switch1
+0x232cfe55 I_GTR95_Knob02
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+0xba25afef I_GTR95_Knob01
+
