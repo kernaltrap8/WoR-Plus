@@ -1,0 +1,7 @@
+1x71470
+2x71470
+3x71470
+x being a value between 1-9, A-F
+
+other offsets:
+442B930
