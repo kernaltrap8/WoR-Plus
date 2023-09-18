@@ -20,6 +20,8 @@ Project announcements:
 (25/8/2023): EBOOT strings exported, CDN/dev CDN found (still up)
 <br>
 (7/9/2023): First alpha release of WoRmod.
+<br>
+(15/9/2023): Debug menu offsets found.
 # Mod ideas
 Bugfixes:
   - Fix star power math bug when in Quickplay+ Powers mode
