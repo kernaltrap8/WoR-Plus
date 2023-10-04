@@ -1,8 +1,35 @@
-# different ideas i have for WoRmod
-# DOF: 05/09/2023
-# This file is a part of the WoRmod project
+notes - 9/6/2023
 
 qb.pab file recompile ideas:
   recompile scripts with QBc/NodeROQ, then rebuild using GH3-Toolkit and finialize with Onyxite Command Line. decrypt from EDAT to make usable on the game.
 new ui for switching between instruments while in Quickplay+:
   find ui script that handles swapping instruments, make new ui option in pause menu for it.
+
+notes - 3/10/2023
+
+script notes
+
+scripts/guitar/debug_menu_data.qb | used for most of the logic/QS for debug_menu
+
+script calls most funcs from guitar/debug_menu_funcs.qb, check there for logic.
+
+SectionInteger debug_use_screen_noise 1
+SectionInteger debug_use_motion_blur 1
+
+set these to 0 to disable the WoR specific screen effects.
+other debug SectionIntegers are also present in this file, could be used for some basic setting for WoRmod
+
+scripts/guitar/guitar.qb
+
+SectionInteger allow_controller_for_all_instruments 0 | set this to 1 to allow pads for guitar/bass/drums
+SectionInteger enable_button_cheats 1 | set to 1 by default, is reset back to 0 in memory after notcd check
+SectionInteger enable_debug_menus 1 | see above
+
+scripts/guitar/debug_menu_funcs.qb
+
+Script debug_menu_add_quickplay_stars bf1001c0 [
+	${StructInt stars = 100}$
+	...
+]
+
+change this value to give more stars using the debug menu.
