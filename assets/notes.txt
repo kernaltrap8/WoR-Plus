@@ -15,6 +15,7 @@ script calls most funcs from guitar/debug_menu_funcs.qb, check there for logic.
 
 SectionInteger debug_use_screen_noise 1 | hex value is "E1 B3 89 BA 87 9D 15 E9 00 00 00 01 31 16 65 D0", offset "331172618"
 SectionInteger debug_use_motion_blur 1 | hex value is "02 88 F2 CC 87 9D 15 E9 00 00 00 01 00 00 00 00", offset "33117262C"
+SectionInteger g_debug_highway_visible 1 | hex value is "3D DE 32 92 87 9D 15 E9 00 00 00 01 31 86 9E 5C", offset "33189C558"
 
 set these to 0 to disable the WoR specific screen effects.
 other debug SectionIntegers are also present in this file, could be used for some basic setting for WoRmod
