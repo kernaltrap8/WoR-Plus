@@ -1,0 +1,50 @@
+[LineNumbers]
+savegame_async_update_saving 39 (0,11) (6,13) (15,15) (44,16) (46,17) (64,19) (74,21) (80,23) (98,25) (144,27) (146,28) (148,30) (184,33) (190,34) (208,36) (276,41) (294,44) (312,45) (360,46) (364,47) (382,48) (428,49) (432,50) (480,51) (482,52) (484,53) (486,54) (515,56) (544,59) (584,64) (616,65) (620,66) (638,67) (724,68) (728,69) (780,72) (812,73) (814,74) (816,75) 
+
+[Checksums]
+0xe81f0135 scripts\savegame\savegame_async_saving.qb
+0x99ff500b MC_LoadTOCInActiveFolder
+0xe8e6202c usepaddingslot
+0xe833004a DemoBuild
+0xfaddc0b8 file_type
+0xcf66717b GotParam
+0x6093318e MC_SetActivePlayer
+0x5d0671b8 channel
+0xd80f11db memcard_file_name
+0xd16b61e6 starttime
+0x14284226 MC_SetActiveFolder
+0xe6177289 error_params
+0xe27152cb memcard_pre_save_progress
+0x0203b372 true
+0xa222438e error
+0x4d4b23e1 MC_EnumerateFolders
+0x595bc3e4 Always
+0x9c54c405 create_save_failed_menu
+0x979cb425 GetTrueStartTime
+0x50a3f537 savegame_async_update_saving
+0x979b85fc create_storagedevice_warning_menu
+0x2de8c60e printf
+0x55c57626 jam_file
+0x0ecd9691 userid
+0xc3f4169a filename
+0x492676a6 corrupt
+0xd43297cf false
+0x698657cf create_out_of_space_menu
+0xe2b437e8 OutOfSpace
+0xa4216845 wait_at_least_x_ms
+0x1fc908b5 bkutcher
+0x5c9b0961 jamerrorcode
+0x1b0509c5 savegame
+0xb66199f1 ErrorCode
+0x4a6d4bdf MC_HasValidStorageDevice
+0xda19ec8a create_corrupted_data_menu
+0x1fa7fc95 foldername
+0xa8ed6ccf memcard_post_save_progress
+0xddfe0db9 progress
+0x29366dd3 at_least
+0x628a4e84 memcard_content_name
+0xec953eec result
+0x3f7d9f6c savegame_async
+0x7abbcf77 SaveToMemoryCard
+0x11093fb5 filetype
+

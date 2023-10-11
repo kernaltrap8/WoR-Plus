@@ -1,0 +1,19 @@
+[LineNumbers]
+SafeCreate 6 (0,12) (15,13) (31,14) (49,15) (51,16) (53,17) 
+SafeKill 4 (0,20) (15,21) (33,22) (35,23) 
+SafeDestroy 4 (28,26) (43,27) (67,28) (69,29) 
+
+[Checksums]
+0x09b09dfe scripts\misclightutils.qb
+0x130aa125 IsInNodeArray
+0xa1dc81f9 name
+0xe4b8221b IsCreated
+0xbb0db7d3 SafeCreate
+0x83b57984 Destroy
+0xf8d6a996 Kill
+0x9bc91a5b SafeDestroy
+0x9f92ba78 nodeName
+0x3cd16cbb SafeKill
+0x70291f04 Create
+0x0cf50f29 ifEmpty
+

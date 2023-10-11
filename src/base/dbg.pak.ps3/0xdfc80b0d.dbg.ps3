@@ -1,0 +1,142 @@
+[LineNumbers]
+jam_input_rhythm 7 (60,26) (100,28) (152,29) (154,30) (166,36) (178,37) (208,40) 
+jam_input_rhythm_per_frame 60 (0,49) (14,51) (32,53) (68,55) (80,56) (120,57) (132,58) (134,59) (136,60) (168,62) (186,65) (205,67) (225,69) (243,70) (296,71) (351,72) (353,73) (375,74) (379,75) (392,76) (394,77) (414,79) (432,80) (485,81) (540,82) (542,83) (564,84) (568,85) (581,86) (583,87) (587,88) (651,89) (706,90) (708,91) (712,93) (743,97) (769,100) (773,102) (791,104) (809,105) (860,108) (896,109) (908,112) (926,113) (939,114) (941,115) (1007,117) (1029,118) (1031,120) (1035,121) (1078,123) (1080,124) (1082,125) (1084,127) (1086,129) (1116,132) (1136,135) (1142,136) (1144,137) (1170,139) 
+jam_input_stop_sound_rhythm_midi 7 (0,149) (19,152) (21,153) (23,154) (72,157) (124,159) (167,160) 
+jam_input_stop_sound_rhythm 22 (28,170) (68,172) (120,173) (122,174) (172,177) (202,180) (215,181) (217,183) (247,184) (267,187) (316,190) (318,191) (320,193) (360,196) (412,199) (414,200) (416,202) (468,204) (470,205) (513,207) (531,209) (533,212) 
+fret_noise_rhythm 8 (0,221) (36,223) (72,224) (78,225) (84,226) (90,227) (96,228) (97,229) 
+jam_calc_line_rot 9 (0,237) (18,240) (36,241) (38,243) (56,245) (88,246) (90,247) (112,249) (126,251) 
+musicstudio_rhythm_chromatic_tilt_update 16 (0,260) (16,263) (39,266) (63,267) (90,270) (92,271) (94,272) (115,275) (129,276) (159,278) (177,280) (212,281) (216,282) (252,283) (254,284) (256,285) 
+jam_input_rhythm_get_current_note 61 (0,294) (15,297) (37,298) (53,299) (75,300) (104,301) (120,304) (132,305) (145,306) (147,307) (176,308) (199,310) (211,312) (229,313) (253,314) (255,315) (257,317) (259,318) (281,320) (289,321) (328,325) (344,327) (356,328) (369,329) (371,330) (400,331) (423,333) (435,335) (453,336) (477,337) (479,338) (481,340) (483,341) (505,343) (513,344) (515,345) (552,348) (568,350) (580,351) (593,352) (595,353) (624,354) (647,356) (659,358) (677,359) (701,360) (703,361) (705,363) (707,364) (729,366) (737,367) (739,368) (776,370) (798,373) (820,376) (892,378) (954,380) (958,382) (970,383) (972,384) (998,387) 
+jam_input_rhythm_display_note 3 (0,396) (52,399) (106,402) 
+
+[Checksums]
+0x9f5128df scripts\guitar\musicstudio\instrument_input\musicstudio_rhythm_input.qb
+0x8e411006 b
+0x661d1021 jam_menu_get_lefty
+0xcbd8702c jam_input_add_player_server
+0xcd0dc02d KillSpawnedScript
+0x94a5103b ui_event_get_stack
+0xef253072 chord_pattern
+0xd0f8b08a jam_rhythm_curr_melody_note
+0xd1975098 jam_track_rootnotes
+0x5e0140a7 jam_advanced_record
+0x0e3850d1 jam_input_rhythm_display_note
+0x2fef40e1 jam_track_scaleindex
+0x7031f10c params
+0x4c0da124 chosen_scale
+0xc42ce128 ArrayContains
+0x3611c136 GetTags
+0x5ef31148 array
+0x33e69171 jam_rhythm_chord_type
+0xcf66717b gotparam
+0xbc6b118f UP
+0x174841bc a
+0x72f221c9 small_name_text
+0xbfa801df change
+0xf89771ed jam_button_patterns_chords
+0xa1dc81f9 name
+0xf5b8a227 mid_up_strum
+0x2c0792a9 chromatic
+0x44e492cf jam_fade_time
+0xb55052dd jam_sustain_rhythm
+0x4e258305 jam_active_scales
+0x1d39c359 jam_input_rhythm_strum
+0xdc5c8365 single_note_text
+0xda3403b0 NULL
+0xa4bbd3c1 instrument_controls
+0xb99ae3d6 gameframes
+0xc5bc93ee ScreenElementExists
+0x8560f402 sustain_global
+0xff0db407 textname
+0x0ea7e411 jam_input_current_rhythm_notetxt
+0x89c22419 fret_noise_rhythm
+0x9277f428 FormatText
+0x1f44d434 IsSoundPlayingByID
+0xf05b344c jam_input_current_rhythm_fullnotetxt
+0x8320d478 game_mode
+0xaf06447b enabled
+0x97834488 midi_note_velocity
+0x39b5c4b0 GetArraySize
+0xdeef04cd StructureContains
+0xec69d4d5 jam_fretboard_add_note
+0x03cc54d7 up_strum
+0x7d56a524 jam_input_stop_sound_rhythm_midi
+0x379ee530 chord_type
+0xc451f558 event
+0x1ad7956a fade_type
+0xea85f580 jam_midi_rhythm_mode
+0x71059581 contains
+0x67e6859a player
+0x879695ce chosen_scales_array
+0x584925fe jam_highway_step_recording
+0x92886608 ControllerPressed
+0xe9f3e637 sustain
+0xe90b06a4 root
+0xb2f666ca GuitarGetAnalogueInfo
+0xc5a3a6f5 gem_pattern
+0xf12f273b pattern_array
+0xe1197741 chosen_scale_index
+0xf221474c linear
+0x3730174e jam_scales_new
+0x11dab754 hold_pattern
+0xfe3b375f GetHeldPattern
+0x47375767 lefty
+0x1e4ac7e2 RightY
+0xb08a17e7 midi_note_on
+0x90fec815 structure
+0x37af2841 touch_strum
+0xd000c841 jam_track_scales_new
+0xd5f988a6 chord_held_pattern
+0x7f3698a9 show_hud
+0x40c698af id
+0xa23ff911 jam_input_spawns
+0xd7a33945 Jam_Fret_Noise_Rhythm
+0x46a9e949 stop
+0x640e4960 note_text
+0xb30d9965 controller
+0x9bf61977 select_player
+0xeb14a9b9 mid_down_strum
+0xf99d5a06 fade_time
+0x69343a09 jam_calc_line_rot
+0x75bdda5e jam_input_rhythm_per_frame
+0x13b9da7b scale
+0x79931a82 note_string
+0xd4fe0ae2 jam_input_strum_wait
+0x19fa5af7 SpawnScriptNow
+0x9ec91afc spawn_id
+0xb377fb3f jam_input_whammy
+0x3d56db61 jam_studio_element
+0x8cbefb7f rhythm_chord_types
+0x7a26bb9d count
+0xee309baf jam_input_stop_sound_rhythm
+0x8013cbb1 practice
+0x118d6bc4 line_rot
+0x82117c1a wait
+0xf3e10c2b jam_button_patterns_singles
+0x0b66ec36 jam_tilt_rhythm
+0x861d6c50 jam_input_rhythm_get_current_note
+0x76143c5c current_scale_name
+0x9838ec90 jam_button_patterns_bonus
+0x33468ca3 mute
+0xb66b3cac jam_update_falling_gem_sustain
+0x1c397cbc unique_id
+0x6733acfd scale_index
+0x024dad3b jam_input_rhythm
+0x7fc67d44 midi_note
+0x7f5b3d4d array_size
+0x7ef78d52 jam_input_current_chord
+0x61414d56 string
+0x8dcedd7c jam_last_chord
+0xb7a7ad7f current_scale
+0x9a885de7 musicstudio_rhythm_chromatic_tilt_update
+0xbd51edec spc_v_dist
+0x7cad2dff musicstudio_scale_get_note_text
+0xb0b28e7f StopSound
+0xd8611ec5 fret
+0x85ff7ed2 jam_band_container
+0x65485eea GetPlayerInfo
+0xfc37df05 gameframe
+0x5dbf7f05 note_struct
+0xe3006fc4 DOWN
+0xd301ffdd SoundEvent
+

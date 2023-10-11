@@ -1,0 +1,28 @@
+[LineNumbers]
+qbroperf_stopsong 2 (0,7) (6,8) 
+qbroperf_unloadsong 2 (0,16) (6,17) 
+postqbroperffull 5 (0,25) (57,26) (98,27) (104,28) (110,29) 
+preqbroperfquick 2 (0,37) (6,38) 
+postqbroperfquick 3 (0,46) (6,47) (12,48) 
+
+[Checksums]
+0x8c0bceec scripts\guitar\perf_debug.qb
+0xfd6db06e load_song_pak
+0x174841bc a
+0xfde40201 songqpak
+0x548cb3d4 qbroperf_unloadsong
+0xff0db407 textname
+0x9277f428 FormatText
+0x467de557 GuitarEvent_SongFailed
+0xd24f570c song_name
+0xc938c716 preqbroperfquick
+0x13d0da1e DontAssertForChecksums
+0x57574b85 unload_song_pak
+0xea088bfc qbroperf_stopsong
+0x90e07c79 async
+0xa253ecdb postqbroperfquick
+0xeb7eedd4 gh_pause_ui
+0x9d2bbf7a restore_start_key_binding
+0xfa192f8f postqbromid
+0x149b2fba postqbroperffull
+

@@ -1,0 +1,66 @@
+[LineNumbers]
+fadetoblack 41 (208,17) (244,18) (266,19) (304,20) (311,21) (323,22) (336,23) (349,24) (362,26) (375,27) (388,28) (407,29) (420,30) (432,31) (445,32) (451,33) (453,34) (457,35) (464,36) (466,37) (470,38) (488,39) (508,40) (510,41) (552,43) (592,44) (613,45) (654,46) (692,48) (735,49) (737,50) (739,51) (757,53) (779,55) (800,57) (821,58) (834,59) (836,60) (838,61) (840,62) (842,63) 
+fadetoblack_wait_and_die 3 (28,71) (50,72) (56,73) 
+igc_fadeout 3 (28,81) (62,82) (87,83) 
+igc_fadein 2 (28,91) (56,92) 
+fadeoutandin 26 (92,100) (98,101) (116,102) (151,104) (153,105) (155,106) (159,107) (165,109) (183,110) (185,111) (187,112) (189,113) (211,115) (234,116) (272,118) (278,119) (280,120) (298,122) (315,123) (317,124) (364,126) (381,128) (420,130) (426,131) (428,132) (463,134) 
+
+[Checksums]
+0xb554d8a2 scripts\game\igc\igc_utils.qb
+0xc6870028 Die
+0xb12b510a SpriteElement
+0x7031f10c params
+0x73665140 CreateScreenElement
+0xcf66717b GotParam
+0xa2d8a195 g_allow_moments
+0x9a18b1c4 disable_bg_viewport
+0x8b60022f just
+0xa8c11275 LegacyDoScreenElementMorph
+0x0c7cd27a RemoveTags
+0x7d99f28d texture
+0x681d62bb igc_fadeout
+0xd443a2bc off
+0xbcf9635d enable_bg_viewport
+0x4da4937b career
+0xc5bc93ee ScreenElementExists
+0x18f173f3 screenfader
+0xbf0f14db center
+0x0e61b525 RunScriptOnScreenElement
+0x840d6547 GameMode_GetType
+0x767a45d7 black
+0xd029f619 seconds
+0xf649d637 on
+0xd9ffc673 create_script
+0x2f1fc695 alpha
+0x4542276d initial_delay
+0x906b67ba time
+0xd43297cf false
+0x259a07d3 fadetoblack
+0x03a17838 current_song
+0x376da86a fadetoblack_wait_and_die
+0xe1e53884 waiting_to_die
+0x40c698af id
+0x7321a8d6 type
+0x7f261953 pos
+0x542449ae Playlist_GetCurrentSong
+0x40f139cb no_zwrite
+0xa58079eb SetTags
+0xb32979f7 IgnoreSlomo
+0x13b9da7b scale
+0x158ffaad fadeoutandin
+0x56a1eae3 root_window
+0x82117c1a wait
+0x62c11cb9 GetSingleTag
+0xeb7bbcca wait_time
+0x8424bd5d half_time
+0x3f6bcdba rgba
+0x1cee2dcc igc_fadein
+0xa4affdde g_using_traditional_band_setup
+0x5eb4de4a bohemianrhapsody
+0xa651ae55 no_wait
+0xb0ec7ec3 TerminateObjectsScripts
+0xb92b8ee2 kill_highways
+0x57710f31 z_priority
+0x4d657f64 delay
+0xc2719fb0 parent
+

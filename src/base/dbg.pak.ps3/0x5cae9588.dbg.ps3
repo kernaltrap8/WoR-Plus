@@ -1,0 +1,23 @@
+[LineNumbers]
+
+[Checksums]
+0x2a4a6ac8 scripts\create_a_rocker\car_fonts.qb
+0xcfcf5153 category_font_square40
+0x500e53eb fontgrid_title_a1
+0xac535435 car_font_list
+0x72ddb580 category_font_harbour
+0x9a6bd624 icon
+0x2f6bf72d font
+0xd673f72d category_font_bordello
+0x77f49808 frontend_desc
+0xc4745838 text
+0xb06be878 car_fontgrid_text_a1
+0xeffd590f font_checksum
+0x5e658954 car_fontgrid_text_a3
+0xe49a699b car_fontgrid_title_a1
+0x1af66b0b global_array
+0xcc108b97 car_char_list
+0xc1e1cea8 fontgrid_text_a3
+0xcd545ef7 clamp_uv
+0x2fefaf84 fontgrid_text_a1
+

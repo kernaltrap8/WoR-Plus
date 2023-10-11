@@ -1,0 +1,99 @@
+[LineNumbers]
+musicstudio_change_sound 57 (28,14) (68,16) (86,17) (88,18) (101,20) (116,21) (129,22) (146,23) (159,24) (161,25) (179,28) (216,29) (229,30) (231,31) (233,32) (251,35) (264,36) (266,37) (284,40) (320,41) (322,42) (330,44) (340,45) (353,46) (371,47) (401,48) (414,49) (432,50) (462,51) (475,52) (512,55) (530,57) (570,58) (588,59) (628,61) (646,63) (686,64) (704,65) (708,68) (726,70) (760,71) (778,72) (812,75) (830,76) (868,77) (886,78) (888,79) (924,80) (926,81) (939,83) (957,84) (987,85) (989,87) (1007,89) (1013,90) (1015,91) (1048,92) 
+musicstudio_change_sound_go_back 2 (0,101) (2,104) 
+musicstudio_preview_sound 6 (0,135) (18,137) (47,140) (88,142) (106,145) (135,148) 
+musicstudio_get_selected_sound 20 (0,157) (18,159) (24,161) (36,162) (44,163) (54,164) (67,165) (80,166) (93,167) (106,168) (119,169) (137,170) (150,171) (154,172) (167,173) (169,174) (182,175) (195,176) (197,177) (211,180) 
+musicstudio_get_selected_sound_focusable 13 (0,184) (18,186) (26,188) (36,189) (71,190) (100,191) (102,192) (115,193) (150,194) (180,195) (182,196) (184,197) (216,199) 
+musicstudio_get_list_checksum_sound 15 (0,214) (18,216) (30,218) (38,219) (48,220) (61,221) (73,222) (86,223) (98,224) (111,225) (123,226) (136,227) (148,228) (150,229) (164,232) 
+musicstudio_get_player_instrument 4 (0,241) (24,243) (37,244) (51,246) 
+musicstudio_play_single_note 13 (0,255) (51,258) (58,261) (71,262) (84,263) (97,264) (109,265) (121,266) (134,267) (147,268) (149,269) (200,270) (218,273) 
+
+[Checksums]
+0xbed5b8bd scripts\guitar\musicstudio\musicstudio_change_sound.qb
+0xb990d003 target
+0x73ea1059 guitar_sound
+0x9dd9205e MusicStudio_LoadedKeyboard
+0xb0ce2071 drum_kit_percussion
+0x67564079 selected
+0xfe341083 chord_dir
+0xdb161106 GetSongInfo
+0xcf05110f musicstudio_get_player_instrument
+0xcf66717b GotParam
+0xbfa801df change
+0x19c801ec musicstudio_instrument_list_keyboard
+0xc9f421fe MusicStudio_GetPlayerFromIndex
+0x922b7223 pitch_shift
+0x83c2824f name_text
+0x58d1d2a2 musicstudio_change_sound_go_back
+0xc852c2cd player_object
+0x5ffd1305 list_checksum
+0xda3403b0 null
+0xc5f953c2 button
+0xd3dc93f9 musicstudio_change_sound
+0x1d944426 not_focusable
+0x1d0a3447 musicstudio_placeholder_options
+0xbe54045d bass_sound
+0xadf43487 scrolling_menu_elements
+0x6896d490 jam_stop_sound
+0xdeef04cd StructureContains
+0xcb9fb4cf bass
+0x3b9dd4e8 percussion
+0x9d3fb516 focus
+0xbc17c534 drum_kit_index
+0x762a7597 keyboard_sound
+0x67e6859a player
+0x74de45a6 musicstudio_get_list_checksum_sound
+0x38df95b8 MusicStudioJamRoom_IsInJamRoom
+0x517cf5c8 note_velocity
+0x214595fe jam_instrument
+0xe3c07609 tilt
+0xa4bcb61d jam_current_percussion_kit
+0xc3409622 instrument
+0xc539a64f SetSongInfo
+0x540bf663 reset_percussion
+0x26146669 MusicStudio_Instrument_LoadBass
+0x99e116f7 jam_current_drum_kit
+0x2cb33744 LaunchEvent
+0x88f5a752 drum_kit_only
+0x525a7779 musicstudio_percussion_menu
+0x4af0777a load_screen
+0x9c4a07a8 MusicStudio_Instrument_LoadKeyboard
+0xd814b7b6 percussion_kit
+0x90fec815 structure
+0xef082878 standard
+0x7321a8d6 type
+0xe09c68f7 final_note_sample
+0x7f8c98fe index
+0xf3896918 destroy_loading_screen
+0xd35bb98e note_type
+0x5c4e09bd MusicStudioGhmix_IsInGHMix
+0x2d4579ee MusicStudio_Instrument_LoadGuitar
+0x891caa12 percussion_kit_index
+0x34e96a5b MusicStudio_LoadedBass
+0x79931a82 note_string
+0x2c88daa3 LoadDrumKitAll
+0x99298ad7 musicstudio_mainobj
+0x7ef14ad7 musicstudio_get_selected_sound
+0x6f0b0adf drum_kits
+0x74d05bb6 musicstudio_get_selected_sound_focusable
+0x98240be8 musicstudio_audible_scale_preview
+0x82117c1a wait
+0x90e07c79 async
+0x4adf0cd3 unfocus
+0xa3f42ce0 musicstudio_instrument_list_guitar
+0x564cfda5 MusicStudioPlayer_GetInstrument
+0xf0ec1df8 Musicstudio_LoadedSound
+0xd1f94e3a musicstudio_preview_sound
+0x49e0ee96 second
+0xbb7d3ea5 drum_kit
+0x68779ea6 find_percussion_from_base_kit
+0xa5e39eab musicstudio_play_single_note
+0x66f19ee3 jam_get_sample
+0xe230aef4 prefix_nl
+0x18b52efd add_load_screen
+0xd4249f05 musicstudio_play_sound
+0x9c1acf20 musicstudio_instrument_list_bass
+0x5cdecf29 focusable
+0x006e0f6c take_perc_from_base
+0x781b0f9d note_fret
+

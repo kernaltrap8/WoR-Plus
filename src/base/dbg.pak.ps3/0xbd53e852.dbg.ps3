@@ -1,0 +1,126 @@
+[LineNumbers]
+twitter_register 19 (1,17) (8,18) (15,19) (31,20) (44,21) (54,22) (56,23) (92,24) (99,26) (111,27) (123,28) (131,29) (144,30) (157,31) (170,32) (182,33) (227,34) (229,35) (231,36) 
+twitter_register_callback 14 (68,49) (86,50) (120,51) (133,52) (146,53) (150,54) (184,55) (197,56) (210,57) (212,58) (254,60) (318,62) (344,64) (380,66) 
+twitter_unregister 18 (1,75) (17,76) (30,77) (40,78) (42,79) (76,80) (112,82) (152,83) (154,84) (161,86) (173,87) (185,88) (193,89) (206,90) (218,91) (263,92) (265,93) (267,94) 
+twitter_unregister_callback 14 (68,107) (86,108) (120,109) (133,110) (146,111) (150,112) (184,113) (197,114) (210,115) (212,116) (252,118) (316,120) (342,122) (376,124) 
+twitter_is_registered 15 (1,133) (17,134) (30,135) (40,136) (42,137) (76,138) (83,140) (95,141) (107,142) (115,143) (128,144) (140,145) (185,146) (187,147) (189,148) 
+twitter_is_registered_callback 4 (68,160) (96,161) (122,163) (156,165) 
+twitter_post 29 (68,178) (104,179) (111,180) (144,182) (165,184) (191,185) (253,186) (255,187) (267,189) (312,190) (341,192) (350,194) (361,195) (373,196) (385,197) (393,198) (414,199) (427,200) (440,201) (453,202) (455,203) (457,204) (494,205) (507,206) (509,207) (513,208) (550,209) (563,210) (565,211) 
+twitter_post_callback 16 (68,224) (104,225) (122,227) (156,228) (187,229) (220,230) (233,231) (246,232) (250,233) (284,234) (297,235) (310,236) (312,237) (376,239) (402,241) (436,243) 
+twitter_get_info 4 (28,254) (46,255) (80,257) (94,259) 
+twitter_set_info 7 (44,271) (108,272) (126,274) (160,276) (189,277) (230,278) (273,279) 
+twitter_broadcast_is_enabled 4 (1,288) (17,289) (19,290) (48,291) 
+twitter_accepted_terms 9 (1,305) (17,306) (19,307) (37,308) (63,309) (92,310) (96,311) (128,312) (130,313) 
+twitter_check_is_registered_flag 12 (1,322) (17,323) (19,324) (32,325) (41,326) (53,327) (55,328) (67,330) (93,331) (105,332) (107,333) (115,335) 
+twitter_figure_out_can_post 17 (28,358) (64,359) (77,360) (90,361) (97,363) (109,364) (121,365) (129,366) (142,367) (154,368) (162,369) (175,370) (188,371) (201,372) (203,373) (205,374) (207,375) 
+twitter_figured_out_can_post 15 (0,382) (23,383) (32,384) (44,386) (46,387) (78,389) (96,390) (141,391) (145,392) (190,393) (192,394) (194,395) (232,397) (269,398) (271,399) 
+
+[Checksums]
+0xd9afa883 scripts\game\net\twitter.qb
+0x8e411006 b
+0x1829b014 ret
+0x0f7e902c nullscript
+0x90ff204d success
+0x478d906c twitter_get_info
+0xc50290c5 custom_text
+0x301dd0f9 GetGlobalTags
+0x7031f10c params
+0x0281513f GlobalArray
+0xcf66717b GotParam
+0x174841bc a
+0xbebfa1c6 element
+0x3b4631df IsPS3
+0xa1dc81f9 name
+0x298a0211 twitter_unregister_callback
+0x83702220 twitter_figured_out_can_post
+0xc2a51245 register_account
+0x8871124e social_networks_strip_bad_chars
+0xcc9d025b error_code
+0x8231c261 twitter_post
+0x1a996276 curr_callback
+0xfe0cb28d social_networks_animate_load
+0x4b40630d newvalue
+0xcf277333 twitter_is_registered
+0x9eb6e336 SpawnScript
+0xa5759372 post
+0x0203b372 true
+0x5b058376 param
+0x5362637c twitter_broadcast_is_enabled
+0xc8dad38a extra_callback
+0xb08db3bd post_fail
+0x10c6f3db structure_name
+0xc5bc93ee ScreenElementExists
+0xff0db407 textname
+0xadbfc416 register_fail
+0x9277f428 FormatText
+0xf8a4443a get_savegame_from_controller
+0xe9958449 twitter
+0xbd09544c func
+0x194a74b2 twitter_register_callback
+0x445114c8 NetSessionFunc
+0xdeef04cd StructureContains
+0x6ef7e4ff twitter_is_registered_callback
+0x8da97503 primary_controller
+0xb929850d did_succeed
+0x64946516 CheckForSignin
+0xdb96e524 block_menu_input
+0x6722b533 d
+0x14251541 TWITTER_UNKNOWN_ERROR
+0x4c29c545 RequireParams
+0x0b2a155f twitter_unregister
+0x4460457c unregister_success
+0x724ab5de message_struct
+0x8f61d602 arrayname
+0x2de8c60e printf
+0xd718f6ee dialog_box_desc_id
+0xad17977e post_success
+0x0ed45788 Obj_SpawnScriptNow
+0x457c1789 preset_text
+0xe288a7cb value
+0xd43297cf false
+0x90fec815 structure
+0x40c698af id
+0xe6cf88c4 callback_params
+0x7f8c98fe index
+0x0ad46922 controller_index
+0xca3db92a password
+0xe330092b twitter_text
+0xfd4c7953 accepted_terms
+0xb30d9965 controller
+0x07a1f988 username
+0x7d5d29a9 SetButtonEventMappings
+0x1b0509c5 savegame
+0x690b9a3b is_registered
+0x84ff9ae3 status
+0xddd2fb05 twitter_check_is_registered_flag
+0x4f653b0b unblock_menu_input
+0xd0939b53 register_success
+0x9fc7eb70 twitter_post_callback
+0x8e10bb70 SetArrayElement
+0x77c71b72 user_options
+0xb9992b93 obj
+0x86068bd9 callback
+0x23e14c22 extra_callback_params
+0x5656cc6a unregister_account
+0xbecb3c77 twitter_register
+0x61745c88 failed
+0x44a31cb5 SetGlobalTags
+0x133fdd45 RemoveComponent
+0x61414d56 string
+0xf331dd88 twitter_accepted_terms
+0x1efe0d97 m
+0xc4e78e22 all
+0xbe304e86 printstruct
+0x940cde9c ChecksumEquals
+0x08d82e9d AddParam
+0xb4011e9f registered
+0xec953eec result
+0xf9bbff5e out_param
+0x4942cf80 message
+0x13329fbb twitter_info
+0xbf7cafbd twitter_set_info
+0x4bd38fc7 twitter_figure_out_can_post
+0x05164fd2 g_twitter_can_post
+0xc2a78fd4 curr_callback_params
+0x07853ffd unregister_fail
+

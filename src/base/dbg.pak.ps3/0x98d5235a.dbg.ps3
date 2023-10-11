@@ -1,0 +1,281 @@
+[LineNumbers]
+guitar_support_init_crowd 3 (0,6) (6,8) (12,10) 
+guitar_support_load_anims 3 (0,19) (18,21) (24,23) 
+guitar_support_init_band 22 (28,31) (61,35) (67,40) (132,42) (176,44) (194,46) (236,47) (240,48) (288,49) (290,50) (296,53) (314,55) (348,57) (352,58) (370,59) (372,60) (424,62) (426,63) (432,64) (434,65) (440,67) (446,68) 
+guitar_support_load_song 48 (0,79) (29,81) (80,83) (99,85) (111,86) (129,87) (147,88) (196,89) (236,90) (288,92) (294,93) (344,94) (362,98) (392,99) (428,100) (432,101) (475,102) (477,103) (481,108) (532,109) (567,112) (580,113) (603,115) (652,117) (688,119) (740,121) (808,122) (810,123) (864,125) (870,127) (876,129) (894,131) (900,133) (936,134) (972,135) (985,136) (987,137) (1005,140) (1023,141) (1056,142) (1063,145) (1076,146) (1089,147) (1102,148) (1104,149) (1108,165) (1110,167) (1160,168) 
+guitar_support_load_hud 44 (0,177) (18,178) (24,179) (60,180) (78,181) (84,182) (86,183) (104,184) (108,185) (110,188) (164,190) (182,192) (188,193) (194,194) (252,195) (254,196) (272,197) (278,198) (284,199) (286,200) (304,201) (310,202) (316,203) (318,204) (336,205) (342,206) (348,207) (404,208) (406,209) (412,211) (430,213) (461,215) (479,216) (485,217) (487,218) (491,219) (497,220) (499,221) (503,222) (521,223) (527,224) (529,225) (531,226) (537,228) 
+guitar_support_init_audio 6 (0,236) (30,237) (48,238) (54,240) (60,242) (66,243) 
+guitar_support_init_venue 11 (0,251) (18,252) (36,253) (55,254) (88,255) (90,256) (92,257) (156,258) (158,259) (164,262) (170,264) 
+guitar_init_lefty_highway 4 (0,272) (17,274) (41,275) (65,276) 
+reset_all_player_scores 16 (0,285) (36,286) (72,287) (108,288) (144,289) (157,292) (159,293) (222,295) (245,296) (269,297) (336,298) (360,299) (399,300) (438,301) (460,302) (467,303) 
+guitar_support_init_players 135 (0,311) (52,313) (104,314) (156,315) (208,316) (260,317) (312,318) (364,319) (416,320) (422,322) (440,323) (492,324) (544,325) (596,326) (648,327) (700,329) (752,330) (804,331) (856,332) (908,334) (960,335) (1012,336) (1064,337) (1066,338) (1072,339) (1078,341) (1084,343) (1090,344) (1096,346) (1144,347) (1150,350) (1204,351) (1240,352) (1242,354) (1292,356) (1344,357) (1379,358) (1412,359) (1414,361) (1464,363) (1516,364) (1551,365) (1584,366) (1586,368) (1636,370) (1688,371) (1723,372) (1756,373) (1758,375) (1764,377) (1770,379) (1787,380) (1793,389) (1844,391) (1896,392) (1948,393) (2000,394) (2052,395) (2104,396) (2110,397) (2160,399) (2212,400) (2264,401) (2316,402) (2368,403) (2420,404) (2426,405) (2476,407) (2528,408) (2580,409) (2632,410) (2684,411) (2736,412) (2742,413) (2792,415) (2844,416) (2896,417) (2948,418) (3000,419) (3052,420) (3058,421) (3064,426) (3070,431) (3076,433) (3124,435) (3130,437) (3148,438) (3154,439) (3156,440) (3173,441) (3179,443) (3207,445) (3230,450) (3253,451) (3276,452) (3299,453) (3322,454) (3340,456) (3346,457) (3348,458) (3354,460) (3388,462) (3406,465) (3412,469) (3429,470) (3447,471) (3484,472) (3508,473) (3510,474) (3528,475) (3564,476) (3588,477) (3590,478) (3596,480) (3614,482) (3676,483) (3690,484) (3692,485) (3710,487) (3712,488) (3718,490) (3736,491) (3743,492) (3745,493) (3792,494) (3810,495) (3816,497) (3833,500) (3868,501) (3892,502) (3898,522) (3928,525) (3946,527) (3954,528) (3956,529) 
+set_game_system_status 9 (0,559) (36,561) (49,562) (51,563) (82,564) (128,565) (130,566) (152,567) (160,568) 
+dump_system_status 14 (0,572) (36,574) (49,575) (100,576) (134,577) (184,578) (196,579) (198,580) (222,582) (246,583) (292,584) (314,586) (322,587) (372,588) 
+update_gameplay_systems 48 (0,591) (52,592) (86,593) (99,594) (136,596) (172,597) (185,598) (197,599) (199,600) (223,602) (236,603) (248,604) (260,605) (262,606) (285,607) (304,608) (317,610) (319,611) (321,612) (343,613) (351,614) (375,616) (395,617) (441,618) (454,619) (472,621) (513,623) (547,624) (562,625) (569,626) (571,627) (575,628) (618,630) (652,631) (667,632) (674,633) (676,634) (678,635) (680,636) (702,638) (710,639) (712,640) (730,642) (736,643) (740,644) (792,645) (844,646) (846,647) 
+band_system_init 1 (0,655) 
+band_system_deinit 1 (0,660) 
+venue_system_init 4 (28,673) (64,674) (82,675) (116,676) 
+venue_system_deinit 1 (0,680) 
+crowd_system_init 4 (0,689) (44,690) (50,691) (52,692) 
+crowd_system_deinit 2 (0,695) (6,696) 
+musicmonitor_system_init 2 (0,704) (36,707) 
+musicmonitor_system_deinit 2 (0,710) (36,713) 
+stageshow_system_init 7 (0,721) (36,725) (72,727) (78,728) (84,729) (120,731) (126,733) 
+stageshow_system_deinit 3 (0,736) (36,739) (72,740) 
+
+[Checksums]
+0x30b60031 scripts\guitar\guitar_gem_support.qb
+0x8e411006 b
+0x44949010 difficulty
+0x39940016 tutorial
+0x5885302c musician1_info
+0xcd0dc02d KillSpawnedScript
+0x1a1a202f musicmonitor_system_deinit
+0x16517034 star_tilt_threshold
+0x73ea1059 guitar_sound
+0x401e5062 tap_prototype_off
+0xab4ae067 create_all_camera_lock_targets
+0x157a9068 song_start_time
+0x1213e07b get_song_drum_kit_index
+0x7cf0a08a waittime
+0xac6b90c4 guitar_support_init_players
+0xc6a9a0d8 bass_index
+0x2ec850de star_power_reset
+0xe4f130f4 s
+0x301dd0f9 GetGlobalTags
+0xa55a9100 update_gameplay_systems
+0xdb161106 GetSongInfo
+0xab215108 GetFirstPlayer
+0xcc42a109 cycle_anim
+0xfcc65109 mood
+0x7031f10c params
+0x0ed7d112 keyboard_index
+0xaaf74113 PlayerInfoEquals
+0xf66ff117 in_game
+0x154d9127 musician3_info
+0x0281513f globalarray
+0x7df8614e p
+0xc7aff15d dump_system_status
+0xcc12115e song
+0x84df7168 star_power_position
+0x7875f170 hyperspeed
+0xcf66717b gotparam
+0xc30cb192 last_noninteractive_end_time
+0x3f4b019e Base
+0x0848a19f musician4_info
+0x5d0671b8 channel
+0x174841bc a
+0xbc4601c3 step
+0xafb911c6 appended_id
+0xbfa801df change
+0xd16b61e6 starttime
+0xd9f871eb current_detailedstats_max_array
+0xa1dc81f9 name
+0xc4e311fa camera
+0xb0a221fb One_Shot_SoundEvent
+0x64eef1fd debug_show_song_name
+0x72014200 musicmonitor
+0x96354210 lefthanded_button_ups
+0xcd198224 GuitarEvent_VenueEnter
+0xf5629246 init_play_log
+0x2db5d254 GPULog_OutputFilename
+0xe5498262 apply_band_logo_to_venue
+0x46159266 out
+0xde114282 musician2_info
+0x11f692a6 SetPlayerInfo
+0xd443a2bc off
+0x57e7f2c2 current_anim
+0xc4a072c8 interactive
+0xecac22e4 LightShow_DummyLoop
+0xf302a2ec g_crowd_in_jam_mode_song_state
+0xc72c52ed get_star_power_position
+0xa4b8d2ef Audio_Crowd_OneShots_Do_Nothing
+0x4b40630d newvalue
+0x4fbc1329 active_name
+0x7dcc9333 get_current_songs_struct
+0x4d630350 musicmonitor_system_init
+0x0203b372 true
+0xb3b813ae is_onscreen
+0x6c1db3ce ResetBandInfo
+0x9da7a3e3 Load_Venue
+0x7cdb43f2 apply_scoring_attributes_for_players
+0x3e77e412 ii
+0x9277f428 FormatText
+0xbe54045d bass_sound
+0x8320d478 game_mode
+0x5dbd147c guitar_support_load_hud
+0x31f70488 guitar_support_init_venue
+0xcff91494 band_lobby
+0x39b5c4b0 GetArraySize
+0x0b17b4dc guitar_index
+0x3b9dd4e8 percussion
+0x6e6ee4f2 venue
+0x4da074fd Destroy_Crowd_Models
+0xbc17c534 drum_kit_index
+0xd0cbc53f init_script
+0x840d6547 gamemode_gettype
+0x51098560 set_game_system_status
+0x54dcb580 status_changed
+0x4599b58c reset_score
+0x762a7597 keyboard_sound
+0x67e6859a player
+0xa9d735ad KillCamAnim
+0xe22dd5c2 lefty_flip
+0xf7de45c4 create_cameracuts
+0x3b70c5cb sfx
+0xf1ba1601 actual_status
+0x8f61d602 Arrayname
+0x2de8c60e printf
+0x01486613 anim_paks_set_state
+0xa4bcb61d jam_current_percussion_kit
+0xf649d637 on
+0x1d8a865b create_movie_viewport
+0x2596167d stance_a
+0xc3f4169a filename
+0x1cb2a6b0 num_players
+0xbb6526d4 resting_whammy_position
+0xb7f966e6 audio_effects_song_quiet_reset_sfx_balance
+0x6c8386f0 menu_song_monitor
+0x99e116f7 jam_current_drum_kit
+0xd24f570c song_name
+0xa519f712 band_system_deinit
+0xbbeb271e lefthanded_gems
+0xf906d74c PopUnsafeForShutdown
+0x9e52274d systems
+0x923b6795 guitar_init_lefty_highway
+0xd814b7b6 percussion_kit
+0x906b67ba time
+0x6bdce7bc debug_menu_toggle_show_measures
+0x555917be debug_show_song_time
+0xac2b47cc stop_menu_song_monitor
+0xd43297cf false
+0x9e23a7f7 crowd_reset
+0x403697fe reset_all_player_scores
+0x9509c81d lightshow_clear_mood_override_reasons
+0x9be19825 reset_mainmenu_camera
+0xc4745838 text
+0xbd806863 load_songqpak
+0xa916786b drum_volume3
+0xeb279892 crowd_system_init
+0x4d0c08a1 Crowd_StageDiver_Hide
+0xf7b608a2 MusicStudio_Instrument_LoadAll
+0x5d2258d2 playing_missed_note
+0x7321a8d6 type
+0x21cc38d9 ExtendCRC
+0x9371e8e9 guitar_volume
+0xde1148fd drum_volume2
+0x7f8c98fe index
+0xb81b2910 guitar_support_init_audio
+0x976e2917 jamsession
+0x3d485917 setupBotController
+0x6e94f918 h
+0xdc0cc93c audio_crowd_adjust_loop_to_default
+0x47181947 drum_volume1
+0x2c801951 output_gpu_log
+0xa824c953 SFX_Background_current_Checksum
+0xb30d9965 controller
+0x840b796b crowd_system_deinit
+0xe98f8974 Progression_SetProgressionNodeFlags
+0x24d7b97f next_stance
+0xca839981 deinit_script
+0x1993c98e i
+0xf94ac9ba debug_show_song_stars
+0xd1ad39bb Cheat_HyperSpeed_Value
+0x146419f5 stoprendering
+0xc0ebfa0b menu_lightshow
+0x8bad3a30 get_resting_whammy_position
+0x6a41ca3e cache_song_end_time
+0xe67e6a4a guitar_support_load_song
+0xab9e5a4c ScriptExists
+0xce228a53 TextOutputStart
+0x1b84ca79 UpdateGuitarVolume
+0x1da27a81 context
+0x76fa7a8f checksumname
+0x2c88daa3 LoadDrumKitAll
+0x59ffaac9 persistent_band_prepare_for_song
+0x6f0b0adf drum_kits
+0xea920ae1 GetNextPlayer
+0x84ff9ae3 status
+0x7ee9fae9 PushUnsafeForShutdown
+0x23db4aea idle
+0x1f773af1 is_local_client
+0x46babaf4 Yield
+0x19fa5af7 spawnscriptnow
+0x4f53ab05 crowd
+0xf709bb06 GameEvent_VenueEnter
+0x617e2b23 AppendSuffixToChecksum
+0x2dbccb37 band_system_init
+0x05823b3e immediate
+0x265f4b59 debug_menu_toggle_show_song_name
+0x44527b59 player_on_screen
+0x99324b5f StringEquals
+0x2b644b6f current_bandname_viewport
+0x8e10bb70 SetArrayElement
+0x77c71b72 user_options
+0x10ca4b7f guitar_support_init_crowd
+0x8013cbb1 practice
+0x02dfabea guitar_support_load_anims
+0xf442dbf9 chanel
+0x02d3cc0b create_crowd_models
+0xe98cdc1a g_system_name
+0xf03f7c1e detailstats_array
+0x9f23dc21 SE_SetProps
+0x58c29c3f block_scripts
+0x55d58c52 debug_songstars_text
+0xdb830c61 LightShow_InitEventMappings
+0xfc571c6b loading_transition
+0xdfb3ac6f venue_system_deinit
+0x90e07c79 async
+0xcf721c99 calibrate_lag_enabled
+0x25cadcac GetNumPlayersInGame
+0x7d02bcc3 stance
+0x5c6c2d04 state
+0xb7205d14 band
+0x17e8ad1a debug_menu_toggle_show_song_time
+0x425f0d24 build
+0x84895d35 scoring
+0x20d0ad37 bot_play
+0x9605ed48 venue_system_init
+0x7f5b3d4d array_size
+0x16be7d67 Band_ClearAnimTempo
+0x89866d6b difficulty_setup
+0xca882d74 system_array_size
+0xa6c42d7e next_anim
+0xc5c0fd7e stageshow_system_init
+0x826a0db8 stageshow
+0x3772edc8 drum_volume4
+0xf9178dd7 detailstats_array_max
+0x139f7dfb prepare_band_for_main_menu
+0xc4e78e22 all
+0xfd2c9e38 structurename
+0xa3b56e54 bot_pattern
+0xbd360e55 backchecksumname
+0xb955fe61 LightShow_NotInGamePlay_SetMood
+0x098c7e6a restarting
+0xdb9b6e6d debug_measures_text
+0x36b2ee74 system
+0xb0b28e7f stopsound
+0xbb7d3ea5 drum_kit
+0x4b187ebb stageshow_system_deinit
+0x94542eea SuffixString
+0x65485eea GetPlayerInfo
+0x37bf4f09 base_name
+0x2b482f2d guitar_support_init_band
+0x806fff30 none
+0xb60d1f35 unhide
+0x2b277f68 end_credits
+0xbe55df87 load_song_synchronous
+0x7c601f93 SongAudioLoad
+0x68fe2f95 debug_show_measures
+0xc7b61faa setup_bg_viewport
+0x48ebffad current_detailedstats_array
+0x00ca0fb2 current_detailedstats_array_entry
+0xeb463fc2 bot_strum
+0xe4765fd5 g_system_status
+0xd12cefd7 required_status
+0x81882fda freeplay
+0xd301ffdd SoundEvent
+0x16f19fea prepare_for_pending_animpaks
+0x28b31ff1 debug_menu_toggle_show_song_stars
+0x9f121ffa SongAudioInit
+

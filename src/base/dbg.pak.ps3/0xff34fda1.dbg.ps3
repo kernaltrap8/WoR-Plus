@@ -1,0 +1,74 @@
+[LineNumbers]
+reset_whammy_matching_array 23 (0,12) (18,14) (35,15) (53,16) (74,17) (78,18) (92,19) (94,20) (100,21) (146,22) (177,23) (203,24) (221,25) (246,26) (250,27) (275,28) (277,29) (279,30) (281,31) (299,33) (317,36) (411,37) (435,39) 
+whammy_matching_hit 19 (28,43) (64,44) (98,45) (105,46) (117,47) (129,48) (141,49) (154,50) (166,51) (185,52) (204,53) (220,54) (249,55) (261,56) (273,57) (279,58) (295,59) (297,60) (348,61) 
+whammy_matching_message_wait_and_die 6 (0,64) (52,65) (58,66) (124,67) (130,68) (136,69) 
+
+[Checksums]
+0x0c2237aa scripts\guitar\guitar_whammy_matching.qb
+0x6c7e800b whammy_matching_large_gem_dims
+0x1bff900b quickplay
+0x44949010 difficulty
+0xc6870028 Die
+0x2a1fe0cc shadow_offs
+0xe8dc80d1 AddToStringLookup
+0xe4f130f4 s
+0x73665140 CreateScreenElement
+0x7df8614e p
+0x15afe158 whammy_matching_message_wait_and_die
+0xcc12115e song
+0x3382a222 get_song_prefix
+0x8b60022f just
+0x5fbaf261 wm_text
+0x11f692a6 SetPlayerInfo
+0x625022e8 whammy_matching_small_gem_dims
+0x0203b372 true
+0x4da4937b career
+0x1aa1f382 get_song_struct
+0x67e093e4 internal_just
+0xff0db407 textname
+0x9277f428 formattext
+0x8320d478 game_mode
+0xdeef04cd StructureContains
+0xcb9fb4cf bass
+0xbf0f14db center
+0x0e61b525 RunScriptOnScreenElement
+0x6722b533 d
+0x67e6859a player
+0x2f1fc695 alpha
+0x1cb2a6b0 num_players
+0x1b40170a get_difficulty_text_nl
+0xd24f570c song_name
+0x2f6bf72d font
+0xb1732782 whammy_matching_message_element
+0x906b67ba time
+0x90fec815 structure
+0xc4745838 text
+0x7b0f683d whammy_matching_colors
+0x25209846 SE_WaitProps
+0x818af862 difficulty_text_nl
+0x40c698af id
+0x7321a8d6 type
+0x6a3568fb song_prefix
+0x7f261953 pos
+0x4316395b song_struct
+0x3c15e9b6 DestroyScreenElement
+0xc6eff9c1 use_coop_notetracks
+0x13b9da7b scale
+0x76fa7a8f checksumname
+0x56a1eae3 root_window
+0x7a26bb9d count
+0x8013cbb1 practice
+0x78fc9bf9 whammy_matching_hit
+0x9f23dc21 SE_SetProps
+0x25cadcac GetNumPlayersInGame
+0xd635dd72 reset_whammy_matching_array
+0x3f6bcdba rgba
+0x8a897dd2 shadow
+0x5ae95eac current_song_whammy_matching_array
+0x65485eea GetPlayerInfo
+0x57710f31 z_priority
+0xb6f08f39 part
+0x2fefaf84 fontgrid_text_a1
+0xc2719fb0 parent
+0x5200dfb6 TextElement
+

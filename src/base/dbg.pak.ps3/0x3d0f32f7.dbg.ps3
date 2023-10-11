@@ -1,0 +1,72 @@
+[LineNumbers]
+SaveJam 23 (52,210) (88,212) (124,213) (130,214) (224,217) (242,218) (248,220) (260,221) (296,223) (332,224) (355,225) (378,226) (401,227) (424,228) (447,229) (470,230) (504,231) (540,232) (546,233) (565,235) (620,236) (654,237) (672,238) 
+load_jam_assets 34 (0,249) (12,251) (25,252) (39,254) (52,255) (70,257) (72,258) (74,259) (86,262) (98,263) (100,264) (129,265) (141,267) (153,268) (155,269) (173,270) (175,271) (177,272) (206,273) (225,274) (238,275) (240,276) (262,277) (270,278) (289,281) (326,282) (344,283) (357,284) (361,285) (395,286) (397,287) (419,289) (427,290) (441,292) 
+LoadJam 13 (52,301) (136,303) (154,306) (209,307) (243,308) (249,311) (283,313) (307,314) (325,316) (360,317) (412,319) (464,321) (516,322) 
+
+[Checksums]
+0xe012c616 scripts\guitar\musicstudio\musicstudio_on_disc_songs.qb
+0x8e411006 b
+0xfd5c4081 jam_publish_update_playback_track
+0x3176f093 UnloadPak
+0xf8f970c7 song_length
+0xe4f130f4 s
+0xdb161106 GetSongInfo
+0x5d0671b8 channel
+0x174841bc a
+0xd339723c MusicStudio_GetSongLength
+0xd5c5a262 LoadJamSessionFromPak
+0xd443a2bc off
+0x7dc5a2e0 playback_track2
+0xe4ccf35a playback_track1
+0xff0db407 textname
+0x9277f428 FormatText
+0xc0fa3443 downloaded
+0x39b5c4b0 GetArraySize
+0xf90c04bf jam_song_version
+0x94b604c8 jam_publish_update_playback_drumvocal_track
+0xe84f4505 heap_song
+0xaa99c521 save
+0x7840755b WaitUnloadPak
+0x3f0fd5c9 num_assets
+0x2de8c60e printf
+0xc539a64f SetSongInfo
+0x05c6e67e new_asset
+0x6c348693 file_id
+0x265d6696 SetSearchAllAssetContexts
+0xc3f4169a filename
+0xca6a76c9 found_for_add
+0xac3ff6d1 no_vram
+0xd24f570c song_name
+0x72d7f727 musicstudio_genre
+0xb22f476a guitar_num
+0x4e90079d jam_mode
+0x3d64a7c9 load_jam_assets
+0x0fd20807 jam_song_assets
+0x809a9834 j
+0xa8995855 SaveJamSessionToFile
+0xc24c186b num_saves
+0xf3a6d8cc example_song
+0x8db1591f musicstudio_song_length
+0x86a30952 MusicStudio_AddSong
+0xfea66978 artist
+0x1993c98e i
+0x2820e997 file_name
+0x6bd419d4 curr_save
+0x99298ad7 musicstudio_mainobj
+0x7cafcc07 genre
+0x7d571c9e file_path
+0x2ab66cb8 display_name
+0xcd948cc3 LoadJam
+0x4da3ecf1 playback_track_vocals
+0x4d883d13 song_version
+0x42d6dd1e heap
+0x9038fd33 jamname
+0x7f5b3d4d array_size
+0x0c742d63 SaveJam
+0x0d41ee62 prepend
+0x1c2dde78 filename_localized
+0x3046eeec curr_asset
+0x35460f50 LoadPak
+0x90c87f88 playback_track_drums
+0xd8580fb5 directorylisting
+

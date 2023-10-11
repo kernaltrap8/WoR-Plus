@@ -1,0 +1,11 @@
+[LineNumbers]
+ui_create_practice_warning 2 (0,9) (7,11) 
+ui_destroy_practice_warning 2 (0,21) (6,23) 
+
+[Checksums]
+0xb371724a scripts\guitar\menu\states\layouts\ui_practice_warning.qb
+0xa52941bf ui_destroy_practice_warning
+0xe76458d7 destroy_practice_warning_menu
+0x24155dda create_practice_warning_menu
+0xe8b39e1c ui_create_practice_warning
+

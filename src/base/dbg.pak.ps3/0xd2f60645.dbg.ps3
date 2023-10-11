@@ -1,0 +1,29 @@
+[LineNumbers]
+
+[Checksums]
+0xcc365e55 scripts\guitar\car_female_face_data.qb
+0xc4f52036 Bone_Lip_Upper_L
+0x7268c230 Bone_Jaw
+0xa97792e0 Bone_Lip_Upper_Corner_R
+0xcc4ab3e9 car_female_facial_bones
+0x2d0f83f3 Bone_Lip_Lower_Mid
+0x76139575 Bone_Lip_Lower_L
+0x2ffc8615 Bone_Mouth_L
+0x7c73f6cf Bone_Lip_Lower_Corner_L
+0xdd85275f car_female_facial_bone_anim_scale
+0x8c1ca816 Bone_Lip_Lower_R
+0x3d59a858 car_female_facial_scale_apply
+0x6ae858a0 gh_rocker_female_genericface_2
+0x173bb91a Bone_Tongue
+0xf3e1091a gh_rocker_female_genericface_1
+0xe916ea0f gh_rocker_female_hardrockface_2
+0x9e11da99 gh_rocker_female_hardrockface_3
+0x4d506ad0 Bone_Lip_Upper_Mid
+0xd5f3bb76 Bone_Mouth_R
+0x37b29b78 car_female_facial_scale_ignore
+0x867ccbac Bone_Lip_Lower_Corner_R
+0x701fbbb5 gh_rocker_female_hardrockface_1
+0x3efa1d55 Bone_Lip_Upper_R
+0x00754f3a gh_rocker_female_hardrockface_4
+0x5378af83 Bone_Lip_Upper_Corner_L
+

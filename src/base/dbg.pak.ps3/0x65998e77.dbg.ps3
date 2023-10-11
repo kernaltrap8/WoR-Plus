@@ -1,0 +1,63 @@
+[LineNumbers]
+ui_create_quest_band_select_power_details 34 (28,10) (50,11) (72,12) (94,13) (116,14) (138,15) (160,16) (182,17) (212,20) (219,22) (231,23) (243,24) (255,25) (285,26) (298,28) (311,29) (324,30) (337,31) (350,32) (362,34) (374,35) (386,36) (398,37) (410,38) (418,40) (431,41) (474,42) (476,43) (491,44) (503,45) (505,46) (511,47) (576,48) (628,50) 
+ui_destroy_quest_band_select_power_details 5 (0,59) (6,60) (44,61) (80,62) (82,63) 
+
+[Checksums]
+0x1ee2572b scripts\guitar\menu\states\layouts\ui_quest_band_select_power_details.qb
+0x475bf03c event_handlers
+0x059ea070 red
+0x04922074 character_name_text
+0xf29af0e1 ui_destroy_quest_band_select_power_details
+0x7031f10c params
+0x73665140 CreateScreenElement
+0x01dd615f DescInterface
+0x6a1d0173 info_desc4
+0x70aa51af power_desc2
+0xb95de3a7 background_texture
+0xf44a53ab desc
+0xc5f953c2 button
+0xc5bc93ee ScreenElementExists
+0x4ca493f7 chapter_global
+0x1e93946b alias
+0x8da97503 primary_controller
+0x8d2df56c chapter_name
+0x8451c728 character_description_text
+0xf3139771 ui_quest_get_giglist_bg
+0x9b5497a9 character_transformation_fullname
+0x57b797c1 ui_create_quest_band_select_power_details
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0x9d2d8850 z
+0xf1cac8a9 song_frame_alpha
+0x40c698af id
+0x7321a8d6 type
+0x3c15e9b6 DestroyScreenElement
+0xd61c5a21 stars_next_transform_alpha
+0x70ebba70 desc_stars
+0xe4316a72 transfrom_meter_alpha
+0xdad22ac0 career_gig_select_leader_alpha
+0x56a1eae3 root_window
+0x895dfb61 power_description_text
+0x5d7d4b61 flavor_text
+0x9015ab88 character_power2
+0x29502bc0 ui_sfx
+0x4d49ac0a current_menu
+0x7d654c18 exclusive_device
+0x67933c39 power_type_text
+0xa3002c83 QuestBandSelectPowerDetailsID
+0x62699ccf bg_texture
+0xb49dacee hero_info
+0xd6521cee generic_event_back
+0x7ee0fd2a pad_back
+0x4577fd38 AssignAlias
+0xc906ad51 menustate
+0x50b52d56 character_name_alpha
+0xcf727ddc name_nl
+0x69b05e2c generic
+0x92313ec8 Back
+0xdb76befb hero_name_nl
+0x02141f19 clean_up_user_control_helpers
+0x2c6a5f27 uitype
+0x57710f31 z_priority
+0xc2719fb0 parent
+

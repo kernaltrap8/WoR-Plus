@@ -1,0 +1,17 @@
+[LineNumbers]
+
+[Checksums]
+0xddd54dc9 scripts\game\anim\animationdata\loops\guit\l_guit_chris_strnglhld_anim_data.qb
+0xd224a009 GUIT_Chris_stranglehold_100_M
+0x937bb16d Good
+0x745873eb GUIT_Chris_stranglehold_075_M
+0x12e4443d Med
+0x7dd4c604 Bad
+0xda99b63b Fast
+0x2596167d Stance_A
+0xde7a971b Normal
+0x782d6882 GUIT_Chris_stranglehold_120_M
+0x23db4aea Idle
+0x897e3b27 L_GUIT_Chris_strnglhld_anims_set
+0xcaf88e22 Slow
+

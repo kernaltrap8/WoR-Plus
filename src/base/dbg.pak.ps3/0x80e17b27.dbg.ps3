@@ -1,0 +1,79 @@
+[LineNumbers]
+savegame_scan_all_players_for_progress_save 21 (0,8) (6,11) (18,12) (20,13) (41,15) (53,17) (55,18) (59,20) (96,22) (98,24) (100,25) (102,27) (123,29) (131,31) (168,33) (187,36) (189,38) (228,40) (259,43) (261,45) (292,48) 
+savegame_scan_for_progress_save 68 (0,58) (64,60) (73,63) (113,64) (144,65) (146,66) (148,67) (175,69) (204,70) (206,71) (215,73) (237,74) (268,75) (270,76) (272,77) (308,79) (344,80) (362,82) (380,84) (436,87) (454,88) (508,92) (544,93) (551,94) (569,96) (608,98) (641,99) (650,101) (662,102) (664,103) (755,105) (768,106) (775,108) (777,110) (779,111) (783,113) (801,116) (803,118) (840,120) (876,121) (878,122) (916,126) (925,129) (963,130) (965,131) (1020,135) (1026,136) (1044,138) (1100,140) (1136,141) (1200,143) (1206,144) (1224,146) (1236,147) (1240,148) (1252,149) (1254,150) (1256,152) (1296,155) (1332,156) (1334,157) (1338,159) (1356,177) (1358,179) (1396,183) (1428,184) (1430,185) (1449,187) 
+savegame_find_most_recent_progress 34 (0,197) (72,199) (81,201) (116,203) (134,204) (146,205) (148,206) (185,208) (236,210) (265,212) (274,214) (303,215) (305,216) (350,218) (368,219) (432,221) (438,222) (456,223) (465,225) (495,227) (497,228) (544,230) (546,231) (608,233) (614,234) (656,235) (658,237) (679,239) (687,240) (689,241) (710,243) (729,244) (731,245) (760,247) 
+savegame_add_progress_file_to_array 16 (0,257) (72,259) (108,261) (126,262) (138,263) (140,264) (163,266) (192,268) (246,270) (273,273) (303,275) (305,277) (326,279) (334,280) (336,281) (350,283) 
+savegame_get_most_recent_entry 10 (0,293) (64,295) (76,297) (94,298) (160,300) (178,301) (185,302) (213,304) (215,306) (244,308) 
+
+[Checksums]
+0xb3a90ae6 scripts\savegame\savegame_scan_progress.qb
+0x99ff500b MC_LoadTOCInActiveFolder
+0x0ebec034 MemcardController
+0xe4f130f4 s
+0x7031f10c params
+0x5ef31148 array
+0x7df8614e p
+0xcf66717b GotParam
+0x6093318e MC_SetActivePlayer
+0xff570194 found_progress
+0xbebfa1c6 element
+0xd80f11db memcard_file_name
+0xbfa801df change
+0x3b4631df IsPS3
+0x4bfcd202 AddArrayElement
+0x14284226 MC_SetActiveFolder
+0xaf13d275 MC_SetActiveStorageDevice
+0x1fafe366 progress_only
+0x3767a372 savegame_scan_all_players_for_progress_save
+0x0203b372 true
+0x8184538c max_signins
+0x18725397 sorted
+0x4ce503bc MC_SetToUseAnyStorageDevice
+0x4d4b23e1 MC_EnumerateFolders
+0xbd09544c func
+0x39b5c4b0 GetArraySize
+0x445114c8 NetSessionFunc
+0x64946516 CheckForSignin
+0xc7dcc528 most_recent
+0x6722b533 d
+0x1180c533 found_progress_userid
+0x4c29c545 RequireParams
+0x2de8c60e printf
+0xaa6f4643 IsXenonOrWinDX
+0x0ecd9691 userid
+0xc3f4169a filename
+0x492676a6 corrupt
+0x206406e9 progress_header
+0x74297717 local
+0x0d34b797 hdd
+0xf77727ae XenonIsGuest
+0xd43297cf false
+0x3e7727fa IsXenon
+0x0ad46922 controller_index
+0xb30d9965 controller
+0xf6d04971 device
+0x1993c98e i
+0x3d1a29d5 GetMemCardDirectoryListing
+0xb66199f1 ErrorCode
+0x33bc2a03 savegame_find_most_recent_progress
+0x28742ade folderlisting
+0x2535fbb9 timestamps
+0xc34f1bce savegame_add_progress_file_to_array
+0xb00a4c71 savegame_get_most_recent_entry
+0x1fa7fc95 foldername
+0x520c0c9c data
+0x7056ed02 RemoveParameter
+0x7f5b3d4d array_size
+0xe0451e11 MC_InvalidateStorageDevice
+0xc4e78e22 all
+0x628a4e84 memcard_content_name
+0xbe304e86 printstruct
+0x61e39e90 GetMaxControllerSignins
+0xec953eec result
+0x3b36cef0 folderindex
+0xed3bef0d savegame_scan_for_progress_save
+0x9d942f5b MC_SortTimestamps
+0xd8580fb5 directorylisting
+0xaf1f2fc6 is_controller_connected
+0x41296fee enumeration_success
+

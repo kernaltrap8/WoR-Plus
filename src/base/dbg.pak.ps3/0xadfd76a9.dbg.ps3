@@ -1,0 +1,93 @@
+[LineNumbers]
+Z_Visualizer_A_Tentacles_05Script 2 (0,448) (36,449) 
+Z_Visualizer_A_Tentacles_04Script 2 (0,452) (36,453) 
+Z_Visualizer_A_Tentacles_03Script 2 (0,456) (36,457) 
+Z_Visualizer_A_Tentacles_02Script 2 (0,460) (36,461) 
+Z_Visualizer_A_Tentacles_01Script 2 (0,464) (36,465) 
+Z_Visualizer_A_Tentacles_00Script 2 (0,468) (36,469) 
+Z_Visualizer_B_Tentacles_04Script 2 (0,472) (36,473) 
+Z_Visualizer_B_Tentacles_05Script 2 (0,476) (36,477) 
+Z_Visualizer_B_Tentacles_02Script 2 (0,480) (36,481) 
+Z_Visualizer_B_Tentacles_03Script 2 (0,484) (36,485) 
+Z_Visualizer_B_Tentacles_00Script 2 (0,488) (36,489) 
+Z_Visualizer_B_Tentacles_01Script 2 (0,492) (36,493) 
+
+[Checksums]
+0xad4b0919 zones\z_visualizer\z_visualizer.qb
+0x192f4072 Z_Visualizer_B_Tentacles_00
+0xef6df07f Z_Visualizer_TRG_Waypoint_Rhythm_Start
+0x24cf9091 z_visualizer_NodeArray
+0x6a6a60cc Z_Visualizer_TRG_Waypoint_Guitarist_Player2_Start
+0xe9afa0d5 Z_Visualizer_TRG_Geo_Camera_Performance_GUIT01
+0x5b3100e0 Z_Visualizer_Crowd_Billboard_01
+0x8fe0f0e0 Z_Visualizer_TRG_Geo_Camera_Performance_BASS02
+0x6e2870e4 Z_Visualizer_B_Tentacles_01
+0xef59c100 GameObject
+0xf0d90109 speed
+0x15249126 Z_Visualizer_A_Tentacles_05
+0x16e9a15a Z_Visualizer_TRG_Geo_Camera_Performance_BASS01
+0xf721215e Z_Visualizer_B_Tentacles_02
+0x70a6f16f Z_Visualizer_TRG_Geo_Camera_Performance_GUIT02
+0xacb3d19e Z_Visualizer_B_Tentacles_04Script
+0x6223a1b0 Z_Visualizer_A_Tentacles_04
+0x802611c8 Z_Visualizer_B_Tentacles_03
+0xa1dc81f9 Name
+0x9738c23b Empty
+0x2ca8a299 TriggerScript
+0x7c2552b9 CreatedAtStart
+0xc6bda2da Z_Visualizer_A_Tentacles_03Script
+0x6efaf2fe Z_Visualizer_TRG_Waypoint_Drummer_Start
+0x7e4813a7 LightGroup
+0xf9b2f3bc z_visualizer_NodeArray_SortedNames
+0x5122b3f3 Z_Visualizer_A_Tentacles_01Script
+0xfc473413 Z_Visualizer_A_Tentacles_03
+0x1e42846b Z_Visualizer_B_Tentacles_04
+0x8b400485 Z_Visualizer_A_Tentacles_02
+0xcf63e4a4 Z_Visualizer_B_Tentacles_02Script
+0x6945b4fd Z_Visualizer_B_Tentacles_05
+0xbf4d3536 LevelGeometry
+0x1249553f Z_Visualizer_A_Tentacles_01
+0x9a1f0560 Z_Visualizer_TRG_Waypoint_Guitarist_Start
+0x58fcf58d Z_Visualizer_B_Tentacles_00Script
+0x654e65a9 Z_Visualizer_A_Tentacles_00
+0xe0a335ad Z_Visualizer_TRG_Waypoint_Bassist_Start
+0x7ea855f0 Profile
+0x759e85ff Z_Visualizer_TRG_Waypoint_Vocalist_Start
+0xd253f626 z_visualizer_NodeArray_SortedIndices
+0x12b4e660 Class
+0xde7a971b Normal
+0x4c23a77e Waypoint
+0xd43297cf FALSE
+0xa56d97e0 Z_Visualizer_A_Tentacles_05Script
+0xf755b847 Z_Visualizer_A_Tentacles_00Script
+0x7321a8d6 Type
+0x7f261953 Pos
+0x60caa96e Z_Visualizer_A_Tentacles_02Script
+0x0ac4da2a Z_Visualizer_B_Tentacles_05Script
+0x5b827a51 Z_Visualizer_TRG_Waypoint_Guitarist_Player1_Start
+0x0b231a9d obj_rotX
+0xc97f3aa9 Orientation
+0x68910ac6 AbsentInNetGames
+0x4eedfae7 lod_dist1
+0x69788aed LightGroup4
+0x4f53ab05 Crowd
+0xd7e4ab5d lod_dist2
+0xe4279ba2 SuspendDistance
+0x031a9c54 Z_Visualizer_A_Tentacles_04Script
+0xb5035c66 Profile_Ven_Camera_Obj
+0x4bfb5c8b DisableShadowCasting
+0xb7b3bd86 LevelObject
+0xfe8bfe39 Z_Visualizer_B_Tentacles_01Script
+0x6b536e97 Z_Visualizer_box_00
+0xd4237eb3 Z_Visualizer_TRG_Geo_Camera_Performance_DRUM01
+0x88380edb Z_Visualizer_Sphere01
+0xce46eef1 Z_Visualizer_TRG_Geo_Camera_Performance_SING02
+0x4d2a2f09 Z_Visualizer_TRG_Geo_Camera_Performance_DRUM02
+0x6914ef10 Z_Visualizer_B_Tentacles_03Script
+0x1ca1ff20 Default
+0x806fff30 None
+0x574fbf4b Z_Visualizer_TRG_Geo_Camera_Performance_SING01
+0xf71c1f4e LightGroup3
+0xfcac6f5e Ghost
+0x801b2fd8 LightGroup2
+

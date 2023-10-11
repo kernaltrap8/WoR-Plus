@@ -1,0 +1,38 @@
+[LineNumbers]
+
+[Checksums]
+0x6ad0868a models\car_instruments\guitar\schecter\gtr71_sch_c1.qb
+0x9687f060 BRIDGE
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x371c620e gtr71_sch_c1_NodeArray
+0xe40c7239 GTR71_SCH_C1_GTR71_pickup01
+0x0a021315 GTR71_SCH_C1_GTR71_pickup03
+0xb2282345 GTR71_SCH_C1_GTR71_knob04
+0xf5a5d360 GTR71_SCH_C1_GTR71_SCH_C1
+0x7d052383 GTR71_SCH_C1_GTR71_pickup02
+0x675553a8 GTR71_SCH_C1
+0xc52f13d3 GTR71_SCH_C1_GTR71_knob05
+0x8058e545 MISC
+0xbe61c602 PICKUP
+0xe361b620 GTR71_SCH_C1_GTR71_pickup05
+0x12b4e660 Class
+0x7c7dc663 GTR71_SCH_C1_GTR71_bridge01
+0x5b4b8670 GTR71_SCH_C1_GTR71_knob02
+0x946686b6 GTR71_SCH_C1_GTR71_pickup04
+0x2c4cb6e6 GTR71_SCH_C1_GTR71_knob03
+0xc242d7ca GTR71_SCH_C1_GTR71_knob01
+0x07f23850 gtr71_sch_c1_NodeArray_SortedIndices
+0x7f261953 Pos
+0x19ebda23 Set
+0xe0071a4d GTR71_SCH_C1_GTR71_switch02
+0x173d7a82 gtr71_sch_c1_NodeArray_SortedNames
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x790e4bf7 GTR71_SCH_C1_GTR71_switch01
+0x385e8d74 SkinExport
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+

@@ -1,0 +1,68 @@
+[LineNumbers]
+TOD_Proxim_Create_LightFX 6 (0,8) (36,9) (45,11) (80,12) (82,13) (132,15) 
+TOD_Proxim_Update_LightFX 2 (0,18) (18,19) 
+toggle_default_sceenfx 2 (0,27) (6,28) 
+TOD_Proxim_Update_LightFX_Viewport 14 (60,32) (78,35) (104,38) (106,39) (129,40) (136,42) (149,43) (156,44) (158,45) (162,46) (164,47) (166,48) (168,49) (170,50) 
+TOD_Proxim_Reapply_LightFX 2 (0,53) (52,54) 
+TOD_Proxim_Apply_Default 2 (0,57) (68,58) 
+TOD_Proxim_Apply_BW_01 2 (0,61) (68,62) 
+ApplyVenueToneMap_Default 18 (0,67) (33,68) (40,69) (53,70) (65,71) (77,72) (89,73) (130,74) (132,75) (136,76) (143,77) (156,78) (168,79) (180,80) (192,81) (233,82) (235,83) (237,84) 
+Venue_ScreenFX 17 (28,111) (64,114) (100,115) (108,116) (118,117) (172,119) (516,136) (518,137) (526,142) (533,143) (546,144) (548,145) (600,146) (944,163) (946,164) (948,165) (950,166) 
+
+[Checksums]
+0x090aa9e5 scripts\engine\tod_proxims.qb
+0xcd281077 fadeout_end
+0xaa2ed131 ApplyVenueToneMap_Default
+0x21f47138 BarbarianGodray
+0x9fd29151 viewport
+0x071f4183 bg_viewport
+0xbebfa1c6 element
+0xf87711f1 TOD_Proxim_Create_LightFX
+0xa1dc81f9 name
+0xe4a7e23b LightPosition
+0x7d99f28d texture
+0x144412f5 TOD_Proxim_Update_LightFX_Viewport
+0x57525413 Object
+0xf9cad47c TOD_Proxim_Apply_BW_01
+0xc500d482 ToneMap
+0xdeef04cd StructureContains
+0x6c525544 map
+0x96fe2558 SE_Brightness
+0xcbddf58d Steps
+0xd247a5a2 BW_01_tod_manager
+0x839535b5 toggle_default_sceenfx
+0x6c78a5b6 range
+0x4203e608 ClipLightPosition
+0xf649d637 on
+0xc777a691 currentTODSettings
+0x99a9b716 Color
+0x5777577a Venue_ScreenFX
+0x906b67ba time
+0x672a27d9 ColorModulate
+0x90fec815 structure
+0xc48f082a GetPakManCurrent
+0xc45de82c Default_TOD_Manager
+0x2dc0c85d screen_FX
+0x7321a8d6 Type
+0x2e2718dd LightSource
+0x867389b5 ScreenFX_AddFXInstance
+0x539779ba Tone_Map
+0x19c949f5 TOD_Proxim_Apply_Default
+0xabbd8b51 ScreenFX_ClearFXInstances
+0xb055db84 TOD_Proxim_Reapply_LightFX
+0x049b4b84 fadeout_begin
+0x18e75c22 GetNextArrayElement
+0xcbeafc54 ExistsPakManMap
+0xf2c9ac8b pak
+0xbdea4d07 SkyColor
+0xb2222d1c DepthModulate
+0x0f5c5d66 fxParam
+0x33705d83 scefName
+0xf6a0ce36 Godray
+0x9cb87e60 InSplitScreenGame
+0x7a354e97 zones
+0x28c33ecc screenFX_FXInstanceExists
+0x647b2f09 Z_Barbarian
+0x9dfe9f0f TOD_Proxim_Update_LightFX
+0x5e737fb9 ScreenFX_UpdateFXInstanceParams
+

@@ -1,0 +1,135 @@
+[LineNumbers]
+VenueIntro_FX 14 (0,4) (36,5) (44,6) (54,7) (104,8) (117,9) (168,10) (181,11) (232,12) (245,13) (251,14) (264,15) (270,16) (272,17) 
+VenueIntro_FX_Spawn 2 (0,20) (36,21) 
+VenueIntro_FX_Cairo 7 (0,24) (36,25) (88,26) (124,27) (160,28) (212,29) (264,30) 
+VenueIntro_FX_MexicoCity 7 (0,33) (36,34) (88,35) (124,36) (160,37) (212,38) (264,39) 
+VenueIntro_FX_temp 2 (0,42) (2,43) 
+VenueIntro_FX_Subway 10 (0,46) (36,47) (88,48) (140,49) (176,50) (212,51) (280,52) (316,53) (368,54) (420,55) 
+TurnOffNodeFlags 17 (0,58) (52,59) (104,60) (156,61) (208,62) (260,63) (312,64) (364,65) (416,66) (468,67) (520,68) (572,69) (624,70) (676,71) (728,72) (780,73) (832,74) 
+TurnOffEncoreGodray 4 (0,77) (52,78) (168,86) (170,87) 
+VenueFastIntro_FX 10 (0,92) (36,93) (44,94) (54,95) (60,96) (73,97) (79,98) (92,99) (98,100) (100,101) 
+VenueFastIntro_FX_temp 2 (0,104) (2,105) 
+VenueFastIntro_FX_Cairo 4 (0,108) (36,109) (72,110) (78,111) 
+VenueFastIntro_FX_DestroyParticles 2 (0,114) (52,115) 
+VenueFastIntro_FX_Subway 7 (0,118) (36,119) (72,120) (78,121) (116,124) (122,125) (124,126) 
+VenueFastIntro_FX_MexicoCity 9 (0,129) (36,130) (42,131) (76,132) (112,133) (148,134) (184,135) (220,136) (256,137) 
+SongWon_FX 18 (0,142) (36,143) (44,144) (54,145) (88,146) (156,147) (208,148) (260,149) (312,150) (325,151) (360,152) (428,153) (480,154) (493,155) (528,156) (596,157) (648,158) (650,159) 
+CelebIntro_FX 12 (0,163) (36,164) (44,165) (54,166) (60,167) (73,168) (79,169) (92,170) (98,171) (111,172) (117,173) (119,174) 
+TurnOffCelebIntroSpotlight 2 (0,177) (64,178) 
+CelebIntro_FX_temp 2 (0,181) (2,182) 
+CelebIntro_FX_MexicoCity 6 (0,185) (36,186) (104,187) (156,188) (192,189) (260,190) 
+
+[Checksums]
+0xf30dbc2f scripts\fx\transition_fx.qb
+0xcd0dc02d killspawnedscript
+0x26f53048 LS_MOOD_FALLING
+0x022cf075 Resolution
+0xf4563075 CelebIntro_FX_temp
+0xc2a28080 vocalist
+0x225a80b4 starpower01
+0xdbafc0c2 VenueFastIntro_FX_Subway
+0x2725b0ed LS_MOOD_BLACKOUT
+0xfcc65109 mood
+0x11bdf13b LS_MOOD_STROBE
+0x9fd29151 viewport
+0x81faa173 LS_MOOD_RESOLUTION
+0x2c8b5179 Z_Subway_Pyro_Intro
+0x071f4183 bg_viewport
+0x6b7af19f z_mexicocity
+0xa1dc81f9 name
+0x2d442208 spots
+0x524d5294 z_EasterIsland
+0x43ce02ec Exposition
+0x5f5862f5 LS_MOOD_TENSION
+0x5e66e311 Z_Subway_Train01
+0x9eb6e336 SpawnScript
+0x56a71370 Z_Cairo_Pyro_moments_Mid_1
+0x0203b372 true
+0x2c5e3375 LS_MOOD_INTRO
+0x22dea3b6 CelebIntro_FX_MexicoCity
+0x7acf53ca encore
+0xc01853ea LS_MOOD_EXPOSITION
+0x87fa53ed groupID
+0x8e4c1409 LS_MOOD_CLIMAX
+0x57525413 Object
+0xf3b3b42a blackout
+0xac1b4435 LS_MOOD_SILHOUETTE
+0x64452439 Z_MexicoCity_GFX_FX_SpinnerSmoke_02
+0xbc1b445a LS_MOOD_RISING
+0xaf06447b enabled
+0x7a071492 Z_mexicocity_Pyro_special
+0xfe3fe4aa LS_MOOD_FLARE
+0xaa99c521 save
+0x1a2a2539 VenueFastIntro_FX_DestroyParticles
+0x6c525544 map
+0xfd4c7583 Z_MexicoCity_GFX_FX_SpinnerSmoke_01
+0xd81595b4 LightShow_PlaySnapshot
+0x3d0875ba VenueFastIntro_FX_Cairo
+0xfe41960d starpower
+0xd029f619 seconds
+0xd38be62f encore06
+0xf649d637 on
+0x65be063e DestroyParticlesByGroupID
+0x489d8653 Z_MexicoCity_GFX_FX_SpinnerWheel_01
+0x5bfaf663 Z_Subway
+0x544f16f2 LightShow_SetParams
+0xd58426f2 SongWon_FX
+0x8e14f6fd LS_MOOD_WASH
+0xfb95571a LS_MOOD_STARPOWER
+0x906b67ba time
+0xd43297cf false
+0xd194d7e9 Z_MexicoCity_GFX_FX_SpinnerWheel_02
+0xf9f7b824 Z_Subway_TrainIntro
+0xc48f082a GetPakManCurrent
+0xab74584a LS_MOOD_PRELUDE
+0xdbf5b85d Z_Montreux
+0x8689986e LS_MOOD_PYRO
+0x754eb882 Z_Cairo_Pyro_Intro
+0x40c698af id
+0x925da8cb Exposition01
+0x7321a8d6 Type
+0x2e2718dd lightsource
+0x2ad3e91f LS_MOOD_MENU
+0x875d2939 Z_Paris
+0x0b54f971 exposition02
+0xec8129ae VenueFastIntro_FX
+0x744b79c1 TurnOffCelebIntroSpotlight
+0x7c7539c8 Z_Cairo_Pyro_moments_Front_2
+0xc130f9e5 scriptisrunning
+0x31665a0c VenueIntro_FX_MexicoCity
+0x3851ca4d LightShow_EnableSpotlights
+0x25570a6f VenueIntro_FX_Subway
+0xe24d0a72 Z_MexicoCity_GFX_FX_StaticSpinnerSparks_01
+0x9f92ba78 nodename
+0x91a9aad2 Z_Subway_Pyro_special
+0xe5fa3adf Intro
+0x616d4b4a Resolution01
+0x7b445bc8 Z_MexicoCity_GFX_FX_StaticSpinnerSparks_02
+0x82117c1a wait
+0x940a6c30 changenodeflag
+0x9dff9c31 VenueIntro_FX_Spawn
+0xf2c9ac8b pak
+0xae16ec99 z_mexicocity_Pyro_Intro
+0x3cd16cbb safekill
+0x943f3cec VenueFastIntro_FX_MexicoCity
+0x98001d66 VenueIntro_FX_temp
+0x1c694d67 Z_Cairo_Pyro_moments_Back_2
+0x33705d83 scefName
+0x300dfd92 VenueIntro_FX
+0x652b9db9 VenuePyroFXKill
+0x9b0ffdb9 TurnOffNodeFlags
+0x8286bdbb CelebIntro_FX
+0x11d9ae22 VenueIntro_FX_Cairo
+0xf6a0ce36 Godray
+0x6ef11e4b LightShow_SetTime
+0x49e0ee96 second
+0x7a354e97 zones
+0xd6f41e9a UseSnapshotPositions
+0x28c33ecc ScreenFX_FXInstanceExists
+0x90450ed8 VenueFastIntro_FX_temp
+0x0cf50f29 ifEmpty
+0x0d591f2f z_Cairo
+0x35d60f78 zoneparticles
+0x5e737fb9 ScreenFX_UpdateFXInstanceParams
+0x78083ff4 TurnOffEncoreGodray
+

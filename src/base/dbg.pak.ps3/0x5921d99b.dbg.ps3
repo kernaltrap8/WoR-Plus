@@ -1,0 +1,31 @@
+[LineNumbers]
+
+[Checksums]
+0xa5516a0f scripts\av_presets\tb_cube_flare.qb
+0x96de6059 TB_Mat_Speaker_Blend
+0xcae27061 sprite
+0x83aad180 alpha2Modulation
+0x64f2b228 scaleXY
+0xb5aa125f fade
+0x91e07350 thickness
+0x051273c0 controls
+0xdd6bb3d5 blendMode
+0xc2de63ed beatOn
+0xc184f404 response
+0xa6f5352f offset
+0x988e5613 TB_Mat_Speaker3_Blend
+0x9dd3d6b7 TB_Cube_Flare
+0x99a9b716 color
+0x7321a8d6 type
+0x7f261953 pos
+0x83418a6a material
+0x13b9da7b scale
+0x73e5bad0 width
+0x0ab21af0 height
+0x797b2b45 scaleMod
+0xf6437c2b blendPrev
+0x4829cc7e rect
+0x3c9a4d66 color2
+0x3ef95da7 TB_Mat_Speaker2_Blend
+0x54628ed7 blend
+

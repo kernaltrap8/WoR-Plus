@@ -1,0 +1,371 @@
+[LineNumbers]
+handle_matchmaking_handoff_failed 31 (0,1) (36,2) (42,4) (67,5) (92,6) (115,7) (121,8) (127,10) (133,11) (172,15) (224,16) (226,17) (238,19) (244,31) (253,33) (265,34) (269,35) (281,36) (283,37) (290,39) (302,40) (314,41) (327,42) (333,43) (341,44) (343,45) (356,46) (368,47) (370,48) (372,49) (374,50) 
+handle_matchmaking_handoff_failed_band_lobby 4 (0,53) (36,54) (42,56) (48,57) 
+handle_matchmaking_handoff_failed_continue_band_mode 4 (0,61) (36,62) (42,65) (76,70) 
+handle_matchmaking_handoff_failed_continue_online 5 (0,88) (36,89) (42,90) (48,92) (84,94) 
+gameinvite_server_unavailable 3 (0,100) (36,101) (104,103) 
+CreateJoinRefusedDialog 4 (0,111) (52,117) (58,118) (60,119) 
+destroy_join_refuse_dialog 3 (0,124) (6,125) (12,127) 
+destroy_connection_dialog_scroller 5 (0,132) (36,133) (72,134) (74,135) (80,137) 
+spawn_player_drop_listeners 4 (0,142) (36,143) (42,144) (62,145) 
+net_ui_player_drop_listeners 4 (44,151) (80,152) (100,155) (120,156) 
+create_player_drop_events 3 (0,162) (59,163) (65,165) 
+create_end_game_events 3 (0,168) (59,169) (65,171) 
+end_game_kill_event_test 5 (0,176) (36,177) (54,178) (88,179) (90,181) 
+drop_script_spawner 6 (0,184) (18,185) (52,186) (88,187) (90,188) (122,190) 
+destroy_player_drop_events 5 (0,195) (36,196) (72,200) (108,201) (144,203) 
+default_drop_player_script 2 (0,208) (7,209) 
+default_end_game_scr 6 (0,214) (52,215) (104,216) (110,217) (116,219) (152,220) 
+drop_listener_cleanup 2 (0,229) (52,230) 
+warn_default_drop_script 9 (0,252) (36,253) (72,254) (108,255) (144,256) (180,257) (216,258) (223,260) (229,262) 
+net_popup_game_over 7 (0,267) (13,268) (47,269) (96,270) (148,271) (154,272) (156,273) 
+net_generic_drop_player 26 (28,278) (46,279) (69,282) (87,283) (105,284) (107,285) (124,287) (154,288) (177,289) (200,290) (223,291) (246,292) (269,293) (292,294) (315,295) (323,297) (333,298) (367,299) (380,300) (393,301) (427,302) (435,303) (447,304) (449,305) (479,308) (481,309) 
+common_net_player_cleanup 9 (0,312) (64,313) (87,315) (110,316) (133,317) (156,318) (179,319) (202,320) (225,321) 
+create_flaming_wait 13 (0,325) (36,326) (43,328) (55,329) (67,330) (95,331) (107,332) (120,333) (132,334) (138,335) (150,336) (152,337) (192,338) 
+show_flaming_wait 5 (0,343) (52,344) (88,345) (128,346) (130,347) 
+destroy_flaming_wait 5 (0,350) (36,351) (72,355) (108,356) (110,357) 
+net_dropped_player_recovery 166 (0,360) (36,361) (72,362) (90,363) (96,364) (120,365) (156,366) (174,367) (224,368) (236,369) (238,370) (255,372) (273,373) (301,375) (329,376) (357,377) (385,378) (413,379) (441,380) (469,381) (497,382) (525,383) (553,384) (581,385) (609,386) (637,387) (665,388) (693,389) (721,390) (749,391) (777,392) (805,393) (833,395) (861,396) (889,397) (917,398) (945,399) (973,400) (1001,401) (1029,402) (1057,403) (1085,404) (1113,405) (1141,406) (1169,407) (1197,408) (1225,409) (1259,412) (1261,413) (1278,414) (1296,415) (1331,416) (1361,418) (1389,421) (1417,422) (1445,423) (1473,424) (1501,425) (1529,426) (1557,427) (1585,428) (1613,429) (1641,430) (1669,431) (1697,432) (1725,433) (1753,434) (1781,435) (1809,436) (1837,437) (1865,438) (1893,439) (1921,441) (1949,442) (1977,443) (2005,444) (2033,445) (2061,446) (2089,447) (2117,448) (2145,449) (2173,450) (2201,451) (2229,452) (2257,453) (2285,454) (2313,455) (2337,457) (2361,458) (2385,459) (2409,460) (2433,461) (2457,462) (2481,463) (2505,464) (2529,465) (2553,466) (2577,467) (2601,468) (2625,469) (2649,470) (2673,471) (2697,472) (2721,473) (2745,474) (2769,475) (2793,477) (2817,478) (2841,479) (2865,480) (2889,481) (2913,482) (2937,483) (2961,484) (2985,485) (3009,486) (3033,487) (3057,488) (3081,489) (3105,490) (3129,491) (3153,494) (3177,495) (3201,496) (3225,497) (3249,498) (3273,499) (3297,500) (3321,501) (3345,502) (3369,503) (3393,504) (3417,505) (3441,506) (3465,507) (3489,508) (3513,509) (3537,510) (3561,511) (3585,512) (3609,514) (3633,515) (3657,516) (3681,517) (3705,518) (3729,519) (3753,520) (3777,521) (3801,522) (3825,523) (3849,524) (3873,525) (3897,526) (3921,527) (3945,528) (3947,529) (3949,530) (3983,531) (4000,532) (4002,533) (4036,534) (4058,535) (4066,536) (4068,537) (4104,538) (4106,539) 
+net_create_player_drop_message_box 42 (0,544) (36,545) (108,546) (129,548) (168,549) (175,550) (187,551) (199,552) (212,553) (228,554) (240,555) (252,556) (271,557) (273,558) (280,559) (292,560) (304,561) (316,562) (329,563) (341,564) (353,565) (365,566) (381,567) (397,568) (426,569) (438,570) (457,571) (476,572) (482,573) (511,574) (527,575) (539,576) (541,577) (760,588) (800,589) (804,590) (816,591) (862,592) (886,593) (914,594) (916,595) (918,596) 
+display_net_dropped_player_msg 20 (0,599) (36,600) (42,601) (76,602) (111,604) (124,605) (126,606) (176,607) (194,608) (196,609) (198,610) (226,611) (228,612) (263,613) (276,614) (294,616) (300,617) (302,618) (304,619) (317,621) 
+drop_client_from_character_select 13 (0,626) (36,629) (72,630) (108,631) (144,632) (180,633) (216,634) (252,635) (288,637) (324,638) (360,640) (372,641) (374,642) 
+add_dropped_player_to_dialog_box 39 (0,647) (48,648) (88,649) (101,650) (125,651) (138,652) (140,653) (180,655) (201,656) (208,657) (221,658) (233,659) (245,660) (274,661) (290,662) (309,663) (328,664) (340,665) (342,666) (360,667) (362,668) (364,669) (400,672) (460,673) (467,674) (480,675) (492,676) (505,677) (521,678) (533,679) (545,680) (564,681) (576,682) (588,683) (600,684) (602,686) (620,688) (622,689) (624,690) 
+player_drop_wait_and_kill 5 (0,693) (52,695) (104,696) (110,697) (116,699) 
+kill_if_empty 36 (0,703) (2,705) (60,706) (78,708) (116,709) (128,710) (132,711) (145,712) (147,713) (165,715) (200,716) (236,717) (292,718) (304,719) (322,720) (360,721) (372,722) (376,723) (389,724) (391,725) (409,727) (444,728) (446,729) (450,730) (492,731) (494,732) (496,733) (532,735) (568,736) (570,737) (608,738) (644,739) (646,740) (648,742) (700,744) (702,745) 
+
+[Checksums]
+0xad0eea1e scripts\game\net\net_disconnect.qb
+0xb990d003 target
+0x44949010 difficulty
+0x4fe92020 UpdatePlayerNumObjIdMapper
+0xc6870028 Die
+0xf967002a destroy_net_popup
+0xcd0dc02d KillSpawnedScript
+0xbaaa502f temp_valid_controller_type
+0xe126e035 top
+0x4304e054 character_savegame
+0xb3856057 net_party_attempted_join_result
+0xaab31060 warn_default_drop_script
+0xb9ce4069 msg_text
+0xb922906a proportional
+0xdbffd070 temp_bogus_gamertag
+0x0a810083 connection_dialog_scroller
+0xf9462090 c
+0xe2a4f0a0 NetDroppedInterface
+0x2a1fe0cc shadow_offs
+0x9c3d70de handle_matchmaking_handoff_failed_continue_band_mode
+0xe4f130f4 s
+0x1da270ff create_net_popup
+0xab215108 GetFirstPlayer
+0xb12b510a SpriteElement
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0x56a43111 mic_type
+0xf66ff117 in_game
+0xf6a49118 drop_reason
+0x4e5b511d temp_bogus_bot_play
+0x766ab11f party
+0xee35a12c net_difficulty
+0x73665140 CreateScreenElement
+0x04b5e14d end_game_kill_event_test
+0x01dd615f DescInterface
+0x7875f170 hyperspeed
+0xd3f4d172 dlg_z_priority
+0x26dcc173 temp_bogus_individual_band_score
+0xcf66717b GotParam
+0xe11c0181 cs_rotate_hilites_p2
+0xd3f97189 temp_valid_character_id
+0xeec9418a character_id
+0xa08bb195 global_name
+0x5e9d11b2 player_num
+0x174841bc a
+0x6017f1cc ui_event
+0x1fe341d2 internal_scale
+0xd87251d6 scale each line if larger
+0x006621d7 drop_net_player
+0x507e01d7 temp_valid_vocal_phrase_max_qual
+0xe7a111da net_please_wait
+0xbfa801df change
+0x0d0701e0 net_player_drop_container
+0x1e7bb1f5 shadow_rgba
+0xa1dc81f9 name
+0x96354210 lefthanded_button_ups
+0xbb96c213 temp_bogus_bot_original_controller
+0xa52bc223 is_host
+0x500eb224 Obj_GetId
+0x8b60022f just
+0xa0522240 temp_valid_net_whammy
+0x40d92263 TextBlockElement
+0x46159266 out
+0x83a2f27e new_player_num
+0x7d99f28d texture
+0x0bc942a0 net_clear_all_remote_player_info
+0x11f692a6 SetPlayerInfo
+0x17a542ba menu_refresh
+0x3053b2c7 CompositeObjectExists
+0xe4ae82ca temp_valid_is_local_client
+0xc58622e1 blue_lt
+0x42dff326 fret_anims
+0x148e335b destroy_connection_dialog_scroller
+0x75fcd361 net_career_drop_msg_timer_count
+0x94453372 end_game_script
+0xefe3f372 net_obj_id
+0x5b058376 param
+0x33ed1378 temp_bogus_vocal_streak_phrases
+0xff2d8385 temp_valid_lefty_flip
+0xb048138c temp_bogus_party_id
+0x54d91391 temp_bogus_vocal_phrase_quality
+0x4837e397 pos_anchor
+0x6768b3a2 destroy_menu
+0xb2f043a6 handle_matchmaking_handoff_failed
+0xcf4803a6 char_select_character_container_p2
+0xf44a53ab desc
+0x1e3313ab setlist_popup_z
+0x447ba3ca join_result
+0x59f0a3d7 temp_bogus_lefthanded_button_ups_flip_save
+0x468c63da band_lobby_return_from_matchmaking
+0x67e093e4 internal_just
+0x0eb163e7 dropped_player_num
+0x500e53eb fontgrid_title_a1
+0xc5bc93ee ScreenElementExists
+0x67d2e3f0 SE_GetProps
+0xbca353fa temp_valid_lefthanded_button_ups_flip_save
+0xc184f404 response
+0xff0db407 TextName
+0xbd527407 net_whammy
+0x1a1ee416 new_value
+0x56aa7417 handle_matchmaking_handoff_failed_band_lobby
+0x45590418 net_flame_message_text
+0x47a9f41c temp_bogus_part
+0xb829a41e temp_valid_character_savegame
+0x71387423 mic_connected
+0x1d944426 not_focusable
+0x9277f428 FormatText
+0x8394942f net_create_player_drop_message_box
+0xd465a448 temp_valid_vocal_phrase_quality
+0xbd09544c func
+0x91f0e45a body_text
+0x8320d478 game_mode
+0x3e84f47b spawn_script
+0x0abc448c g_cs_scroll_ready_p2
+0x95a0749e destroy_join_refuse_dialog
+0xb351a4a1 temp_valid_vocal_streak_phrases
+0x7218f4b0 failed_invite_search
+0x39b5c4b0 GetArraySize
+0x56ec54c7 fit_width
+0x445114c8 NetsessionFunc
+0x5b6634d4 hide
+0x25bcc4d8 temp_valid_party_id
+0xbf0f14db center
+0x957514e7 temp_bogus_net_id_second
+0xc87d74ed old_num_players_shown
+0x0b2584f2 temp_bogus_is_local_client
+0x044f94fb scale down if larger
+0x433904fe temp_valid_band
+0x6722b533 d
+0xf2e3a535 temp_valid_net_obj_id
+0x4c29c545 RequireParams
+0x7a95a557 t
+0xc451f558 event
+0x5fdfa561 temp_valid_fret_anims
+0x90b21564 bad_state
+0x1870556c lefthanded_gems_flip_save
+0x34a68574 dims
+0x2fca0578 options
+0xccf7d580 parent_element
+0x5756c582 ui_print_states
+0x67e6859a player
+0xe80c15a9 temp_valid_mic_connected
+0xe22dd5c2 lefty_flip
+0xf96df5cd join_mode
+0x52e415d2 message_container
+0x3db905e0 destroy_flaming_wait
+0x732d75e4 num_players_shown
+0x150d35f1 heading_text
+0x686d85f1 temp_bogus_controller
+0xe44b560b kill_if_empty
+0x2de8c60e printf
+0x5d50a615 display_net_dropped_player_msg
+0x55215617 temp_bogus_controller_type
+0xe792c618 band_lobby_clear_submenu_data
+0xd029f619 seconds
+0x46f9a629 printscriptinfo
+0x46792631 temp_bogus_band
+0xe25a2639 create_player_drop_events
+0xaa6f4643 IsXenonOrWinDX
+0xdbaf8649 temp_valid_bot_play
+0x5994c657 temp_valid_difficulty
+0x4cde2676 g_band_lobby_kill_switch
+0x2c843685 net_dropped_player_recovery
+0x2f1fc695 alpha
+0xe99af6ad common_net_player_cleanup
+0x1cb2a6b0 num_players
+0x42e9d6d3 temp_valid_part
+0x894496d9 fit_height
+0xe2be26ec old_player_num
+0x332816ed menu_id
+0xaff1d710 temp_bogus_vocal_phrase_max_qual
+0xbbeb271e lefthanded_gems
+0x9c4a0721 add_dropped_player_to_dialog_box
+0x4e0b0724 temp_valid_gamertag
+0x2f6bf72d font
+0x6575a737 temp_valid_hyperspeed
+0x3e0f6740 uistate_band_lobby
+0x151f8741 show_flaming_wait
+0x2cb33744 LaunchEvent
+0xc627674a char_select_container_p2
+0xaab0a76c drop_script_spawner
+0xddf09786 player2_present
+0x0ed45788 Obj_SpawnScriptNow
+0xd4c98794 title
+0x7ea81796 drop_message
+0xe8d767a0 default_drop_player_script
+0x126557b4 temp_valid_net_id_first
+0xd95317b4 temp_valid_individual_band_score
+0x2f5567b7 net_id_first
+0x906b67ba time
+0x1c8ce7c9 highway_layout
+0xc44777f3 reason
+0x4173e814 controller_type
+0xc4aa3815 net_id_second
+0xc195a822 create_dialog_box
+0x809a9834 j
+0xc4745838 text
+0x5b9da842 ContainerElement
+0x25209846 SE_WaitProps
+0x765e3856 band_member
+0x614f2877 drop_listener_cleanup
+0xa6d2d890 scr
+0x66326893 temp_bogus_net_whammy
+0x29f1a896 GetScreenElementChildren
+0x85981897 left
+0x40c698af id
+0xf2b0f8bb gameinvite_server_unavailable
+0xa84c38c4 recovered_dropped_players
+0x20e758d1 temp_bogus_mic_connected
+0x7321a8d6 type
+0x7ce468dd block
+0x6ed6f8e8 SetEventHandler
+0xf773b906 temp_bogus_lefthanded_gems_flip_save
+0xafb9991d temp_bogus_lefthanded_gems
+0x7594c92d individual_band_score
+0xeafc692e no_background
+0x5a76d934 alias_msg_menu
+0x8892694c drop_player_script
+0x7f261953 pos
+0x394dc956 temp_bogus_lefty_flip
+0xb30d9965 controller
+0xcafc596b vocals_highway_view
+0x2df8c983 net_ready_to_start
+0x1993c98e i
+0x1178b996 temp_valid_highway_layout
+0x5d9e599f temp_valid_net_id_second
+0x917569b3 bot_original_controller
+0x3c15e9b6 DestroyScreenElement
+0xefe589bb temp_bogus_character_id
+0x26a6a9e7 call_script
+0x250459f9 band_lobby_restart_quickmatch
+0x72e72a2b drop_player_end_game
+0xc57d4a4e temp_bogus_lefthanded_button_ups
+0x036a5a67 destroy_player_drop_events
+0xaddb1a6f temp_valid_mic_type
+0x5ded6a91 net_popup_game_over
+0x90758ac3 drop_client_from_character_select
+0x38478ad8 ready_container_p2
+0xea920ae1 GetNextPlayer
+0x56a1eae3 root_window
+0xe4212aef competitive_rules
+0x4d832aef handle_matchmaking_handoff_failed_continue_online
+0x1f773af1 is_local_client
+0x19fa5af7 SpawnScriptNow
+0x37c84b09 destroy_dialog_box
+0xa8c15b0d create_end_game_events
+0x4c411b23 net_ui_player_drop_listeners
+0x6e965b60 bassist
+0x461dbb72 default_end_game_scr
+0xddcddb87 net_message_player_dropped
+0xb9992b93 obj
+0x7a26bb9d count
+0x4f6eabd5 temp_bogus_highway_layout
+0xb15e8bdc drop_msg
+0x2fd5cbe0 net_message_player_timed_out
+0x509d0bf4 temp_valid_bot_original_controller
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0xe876bc22 occupied
+0x9efbec33 temp_valid_band_member
+0xb1b15c3a submenu_index
+0xb5742c5a gamertag
+0x6046cc83 scale_mode
+0x9ff48c84 temp_bogus_difficulty
+0x3af29c89 temp_valid_lefthanded_button_ups
+0x5c0edca1 temp_valid_vocals_highway_view
+0x25cadcac GetNumPlayersInGame
+0x0830ecaf objid
+0x4adf0cd3 unfocus
+0xa609acd7 net_message_player_quit
+0x50473cdd player_drop_wait_and_kill
+0xd6521cee generic_event_back
+0x7056ed02 RemoveParameter
+0x5c6c2d04 state
+0xb7205d14 band
+0x72cabd16 create_flaming_wait
+0x37180d2c ui_player_drop_scripts
+0x73488d2f band_lobby_get_player_submenu_index
+0xbdd7ed30 temp_bogus_net_difficulty
+0x04f44d32 temp_valid_lefthanded_gems_flip_save
+0x20d0ad37 bot_play
+0x388dcd38 Obj_SpawnScriptLater
+0x382fcd3b temp_bogus_mic_type
+0xff40dd3d msg_menu
+0xadb09d46 lefthanded_button_ups_flip_save
+0x33d63d4d g_cs_choose_ready_p2
+0x7f5b3d4d array_size
+0x76a08d5b bottom
+0xaf427d63 vocal_phrase_quality
+0xbaebdd7f quit_network_game
+0xc8767d8a vocal_streak_phrases
+0xa710bdb2 net_venue
+0x3f6bcdba rgba
+0x8a897dd2 shadow
+0xa315ede4 temp_bogus_hyperspeed
+0xa7ee5de5 is_game_over
+0xbe61edf7 temp_bogus_character_savegame
+0x6739de1b name_string
+0xc4e78e22 all
+0x85dece34 temp_bogus_vocals_highway_view
+0x7a7fce3f char_select_hilite_container_p2
+0x5e684e45 children
+0x0b4cee4d net_dropped_players_flag
+0xe45e4e60 on_screen
+0x4d4a9e71 spawn_player_drop_listeners
+0xbe304e86 printstruct
+0x49e0ee96 second
+0x92528e98 CreateJoinRefusedDialog
+0x10569ea2 temp_valid_net_venue
+0x21c15ecb debug_bl_dump_submenu_data_all
+0x65485eea GetPlayerInfo
+0x1e6ebef5 net_generic_drop_player
+0x81e70f17 temp_bogus_band_member
+0xae0dcf22 temp_valid_controller
+0x40329f25 temp_valid_lefthanded_gems
+0xad43ef28 submenu_data_index
+0x57710f31 z_priority
+0x05f7af36 net_player_drop_fail_msg_text
+0xb6f08f39 part
+0xfcb9df4e vocal_phrase_max_qual
+0xbfadbf59 band_lobby_popup_menu
+0xe3c1ff73 temp_valid_net_difficulty
+0xd0481f78 popup_text
+0x2fefaf84 fontgrid_text_a1
+0x2e79af86 temp_bogus_net_id_first
+0x38265f91 scrolling_character_select_p2
+0x8e0d5f93 net_popup_active
+0x7cc5ff98 temp_bogus_net_venue
+0xc1a4bf99 RemovePlayerFromBand
+0xdec3efa6 party_id
+0xc2719fb0 parent
+0x99bfefb2 temp_bogus_fret_anims
+0xcc298fc4 continue_script
+0x62af1fdf ChangeGlobalInteger
+0x3483efe6 temp_bogus_net_obj_id
+

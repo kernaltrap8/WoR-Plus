@@ -1,0 +1,59 @@
+[LineNumbers]
+ui_create_customize_character_outfit 65 (0,9) (7,10) (19,11) (31,12) (43,13) (49,14) (62,15) (64,16) (96,18) (282,21) (289,23) (301,24) (313,25) (325,26) (333,27) (345,28) (373,29) (472,30) (509,31) (521,32) (527,33) (539,34) (551,35) (557,36) (573,37) (589,38) (604,39) (617,40) (619,41) (626,42) (638,43) (650,44) (662,45) (670,46) (682,47) (710,48) (809,49) (846,50) (858,51) (864,52) (876,53) (888,54) (894,55) (909,56) (922,57) (924,58) (931,59) (943,60) (955,61) (967,62) (975,63) (987,64) (1015,65) (1114,66) (1147,67) (1159,68) (1165,69) (1177,70) (1189,71) (1195,72) (1210,73) (1223,74) (1225,75) (1292,81) (1315,87) 
+ui_return_customize_character_outfit 3 (0,97) (6,99) (29,100) 
+ui_destroy_customize_character_outfit 2 (0,110) (6,111) 
+
+[Checksums]
+0xd786581b scripts\guitar\menu\states\layouts\outfit\ui_customize_character_outfit.qb
+0x92ecf00b CAS_Shoes
+0x033e4045 cas_current_player
+0xa484d093 add_car_menu_text_item
+0xa0142183 CAS_node_name
+0x3cd9d1fc setup_cas_menu_handlers
+0x5176720b Stance_Select_Torso
+0x83830215 Pants
+0xefe30239 color_wheel
+0xbf17a257 show_history
+0x80db125a hist_tex
+0x2841434c cas_set_object_node_pos
+0x0a553364 Stance_Select_Pants
+0x14aa037e UIstate_popout_select_part
+0x9836251b cam_name
+0x0acc054f car_helper_text
+0x67e6859a player
+0xe88e660c destroy_generic_menu
+0x9a6bd624 icon
+0x3f6e367e zoom_camera
+0xff1496de state_device
+0x3f25f701 list_offset
+0xfedf570c icon_offset
+0x4a645786 Outfit_Torso
+0xd4c98794 title
+0x7a8017ba node
+0xc4745838 text
+0x02a4e853 ui_return_customize_character_outfit
+0xb90a78d7 is_popup
+0xb30d9965 controller
+0xdef5d9bf Accessories
+0x37ba3a84 make_generic_car_menu
+0xf1ff8b68 choose_state
+0x02d17b7c CAS_Legs
+0x31dc7bab camera_list
+0x7d654c18 exclusive_device
+0xbbbf8c22 create_customize_character_outfit_vmenu
+0x0c714c3f menu_finish
+0x3e240caf UIstate_customize_character_outfit_accessories
+0x7d02bcc3 stance
+0xf2490d0f purchase_menu
+0xa17ccd19 CAS_Torso
+0x16d19dc2 choose_state_data
+0xb7b7eddb ui_create_customize_character_outfit
+0xa5fa6e61 ui_destroy_customize_character_outfit
+0xeb307e68 Shoes
+0xa1598eed vmenu_id
+0xb2161ef7 num_icons
+0x62e64f19 Stance_Select_Shoes
+0x02141f19 clean_up_user_control_helpers
+0xb6f08f39 part
+0xe6220fc1 clothing_colorwheel
+

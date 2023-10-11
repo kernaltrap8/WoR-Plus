@@ -1,0 +1,23 @@
+[LineNumbers]
+
+[Checksums]
+0x105b4321 scripts\guitar\guitar_memcard_globals.qb
+0x0f7e902c nullscript
+0x0ebec034 MemcardController
+0x978f60e7 memcard_boot_process
+0x4623c2f3 saving
+0x0203b372 true
+0x4bbcd3f5 MemcardDoneScript
+0x5186440e MemcardJamOrDefault
+0x8da97503 primary_controller
+0x3fc9a748 MemcardSuccess
+0xd43297cf false
+0x2c9c587f ps3_autosave_warning_shown
+0x714e2a78 MemcardSigningIn
+0xdfc98acd MemcardInvalFolderOnFail
+0x320a7cd8 MemcardSavingOrLoading
+0xe9e32d65 autolaunch_jam_skip_memcard
+0xb311feea memcard_state_active
+0x1ca1ff20 default
+0x8ea00f7b MemcardRetryScript
+

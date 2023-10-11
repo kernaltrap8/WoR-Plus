@@ -1,0 +1,37 @@
+[LineNumbers]
+
+[Checksums]
+0xe9d3fdb3 scripts\av_presets\og_circles_trail_symmetry_d.qb
+0x059ea070 red
+0xfe82614d length
+0xc48391a5 radius
+0xb5aa125f fade
+0x91e07350 thickness
+0x26fff395 greenModulation
+0x051273c0 controls
+0xdd6bb3d5 blendMode
+0x07bd73e7 redModulation
+0xc184f404 response
+0xe58114db noteHit
+0xa6f5352f offset
+0x67e6859a player
+0x7bc74623 spectrumBand
+0x99a9b716 color
+0xed91979d responseFunc
+0xd98047ec frequency
+0x7321a8d6 type
+0x1c9f68d9 blend_AlphaDiffuse
+0x8d634906 gemColor
+0x7f261953 pos
+0xff46c97e deform
+0x13b9da7b scale
+0x2b489a86 circle
+0x2eeb4b09 line
+0x797b2b45 scaleMod
+0x02e58c18 add
+0xf6437c2b blendPrev
+0x1c9ddcf8 OG_Circles_Trail_Symmetry_D
+0x0d53ae6a alphaModulation
+0xab469f40 log10
+0x68e77f40 brighten
+

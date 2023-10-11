@@ -1,0 +1,18 @@
+[LineNumbers]
+RegisterAllAnimEvents 5 (0,1) (52,2) (104,3) (172,4) (240,5) 
+
+[Checksums]
+0xfa66ef8d scripts\game\anim\animeventregistration.qb
+0xb2b11084 tempo_matching
+0x927ed0bd AnimEvents_standard_downloads
+0x6b7e42db AnimEvents_TempoMatching_Downloads
+0x0203b372 true
+0xc7303564 RegisterAllAnimEvents
+0xb41f7607 RegisterAnimEvents
+0x7f37a643 AnimEvents_standard
+0x291c0759 track
+0xef082878 standard
+0xe8d7e96d AnimEvents_TempoMatching
+0x4b953b92 dormant
+0x46fade0a anim_events
+

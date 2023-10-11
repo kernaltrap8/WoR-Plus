@@ -1,0 +1,292 @@
+[LineNumbers]
+sysnotify_wait_until_safe 57 (0,22) (2,24) (15,25) (33,27) (46,28) (80,29) (82,30) (91,33) (104,34) (140,35) (142,37) (180,40) (193,41) (228,42) (264,46) (282,49) (302,52) (340,55) (346,58) (352,62) (354,64) (356,66) (358,68) (360,70) (362,73) (400,76) (413,77) (448,78) (450,80) (488,85) (501,86) (536,87) (538,89) (576,91) (589,92) (624,93) (626,95) (644,97) (680,98) (693,99) (728,100) (730,102) (732,103) (772,106) (808,107) (844,108) (857,110) (859,111) (861,112) (879,114) (912,115) (964,116) (968,117) (1004,118) (1006,120) (1008,121) (1010,122) 
+sysnotify_handle_pause_eject 4 (0,131) (36,132) (72,134) (84,136) 
+sysnotify_handle_pause_controller 70 (0,144) (6,145) (40,147) (76,148) (112,149) (148,151) (161,152) (179,154) (191,155) (193,156) (222,157) (224,158) (226,159) (247,160) (255,161) (257,162) (270,164) (300,165) (318,166) (336,168) (338,169) (340,170) (346,172) (364,173) (366,174) (368,175) (386,177) (388,180) (390,181) (408,184) (421,185) (423,186) (425,187) (427,188) (504,190) (506,191) (588,192) (624,194) (634,195) (640,196) (642,197) (720,201) (722,202) (804,203) (806,204) (896,205) (898,206) (996,207) (998,208) (1084,209) (1086,210) (1176,211) (1178,212) (1272,213) (1274,214) (1294,215) (1296,216) (1316,217) (1352,219) (1392,221) (1394,222) (1432,223) (1434,224) (1455,225) (1457,226) (1477,227) (1479,228) (1481,229) (1487,231) (1540,233) 
+sysnotify_handle_pause_console 5 (0,241) (36,242) (72,243) (108,244) (115,246) 
+sysnotify_handle_pause 76 (0,254) (36,255) (72,256) (108,257) (126,259) (128,261) (130,262) (153,264) (155,265) (157,266) (163,268) (181,269) (193,270) (195,271) (212,272) (231,273) (233,274) (235,275) (256,277) (263,278) (281,279) (283,280) (285,281) (287,282) (320,287) (326,289) (332,290) (368,293) (404,294) (413,300) (448,301) (528,302) (564,303) (566,304) (568,305) (570,307) (580,308) (616,309) (618,310) (620,311) (672,312) (679,313) (688,315) (690,316) (692,317) (694,318) (712,321) (714,322) (716,323) (734,325) (752,326) (792,327) (794,328) (796,329) (798,330) (800,331) (836,333) (838,334) (840,335) (858,337) (896,339) (944,340) (954,344) (988,345) (1024,346) (1026,347) (1028,348) (1030,349) (1034,350) (1052,351) (1136,353) (1172,354) (1208,355) (1210,356) (1212,357) (1214,363) 
+sysnotify_handle_unpause_eject 6 (0,372) (23,376) (56,377) (58,378) (92,380) (104,382) 
+sysnotify_handle_unpause_controller 28 (0,390) (36,392) (72,393) (108,394) (144,396) (162,397) (174,398) (176,399) (205,400) (218,401) (248,402) (266,403) (268,404) (270,405) (291,406) (299,407) (318,409) (320,410) (322,411) (324,412) (360,414) (378,415) (380,416) (382,417) (395,419) (397,420) (399,421) (419,425) 
+sysnotify_handle_unpause_console 5 (0,435) (36,436) (72,437) (108,438) (115,440) 
+sysnotify_handle_unpause 89 (0,448) (36,449) (72,450) (108,451) (144,453) (180,455) (186,457) (192,458) (228,460) (264,461) (287,463) (289,464) (291,465) (300,468) (302,469) (304,470) (310,472) (328,473) (404,474) (406,475) (408,476) (420,478) (422,479) (439,480) (458,481) (460,482) (462,483) (483,485) (490,486) (508,487) (520,489) (522,490) (542,491) (560,493) (566,494) (587,495) (593,496) (595,497) (597,498) (615,499) (621,500) (623,501) (625,502) (627,503) (629,504) (712,506) (748,507) (750,508) (752,509) (762,511) (764,512) (844,513) (846,514) (936,515) (938,516) (1028,517) (1030,518) (1112,519) (1114,520) (1192,521) (1194,522) (1284,523) (1286,524) (1384,525) (1386,526) (1472,527) (1474,528) (1556,529) (1558,530) (1578,531) (1584,532) (1586,533) (1606,534) (1612,535) (1648,536) (1650,537) (1670,538) (1708,539) (1710,540) (1712,541) (1732,542) (1772,543) (1774,544) (1776,545) (1778,546) (1796,549) (1872,550) (1908,551) (1910,552) 
+sys_fade_showing 5 (0,561) (36,563) (68,564) (70,565) (100,566) 
+sys_fade_ui_add 22 (0,574) (48,576) (84,578) (91,580) (103,581) (116,582) (128,583) (130,584) (134,586) (141,588) (153,589) (165,590) (177,591) (189,592) (218,593) (234,594) (250,595) (269,596) (284,597) (297,598) (299,599) (301,601) 
+sys_fade_ui_remove 5 (0,609) (56,611) (92,613) (128,614) (130,615) 
+sysnotify_handle_signin_change 155 (0,626) (132,628) (168,630) (177,632) (244,633) (246,634) (264,638) (282,639) (300,640) (336,641) (372,642) (504,643) (506,644) (508,645) (510,646) (512,647) (548,649) (571,650) (604,651) (640,653) (658,655) (676,656) (678,657) (696,659) (722,661) (756,664) (808,665) (812,667) (830,671) (832,672) (834,673) (852,676) (871,677) (904,678) (906,679) (910,680) (944,681) (946,682) (964,684) (1000,685) (1036,690) (1168,691) (1170,692) (1172,693) (1181,695) (1216,697) (1348,698) (1350,699) (1352,700) (1388,702) (1424,704) (1460,707) (1466,710) (1500,711) (1502,713) (1504,715) (1510,718) (1528,721) (1564,722) (1600,723) (1636,728) (1768,729) (1770,730) (1772,731) (1780,733) (1790,734) (1803,738) (1836,740) (1872,745) (2004,746) (2006,747) (2010,748) (2016,750) (2018,751) (2031,753) (2060,755) (2066,756) (2100,757) (2136,762) (2268,763) (2270,764) (2274,765) (2308,766) (2344,771) (2476,772) (2478,773) (2480,774) (2493,776) (2528,777) (2584,780) (2591,781) (2603,782) (2615,783) (2623,784) (2636,785) (2638,786) (2640,787) (2642,788) (2660,790) (2678,793) (2699,794) (2732,795) (2761,796) (2765,797) (2783,798) (2816,799) (2852,800) (2870,801) (2904,802) (2906,803) (2924,804) (2951,805) (2986,806) (3004,807) (3040,808) (3076,813) (3208,814) (3210,815) (3212,816) (3235,817) (3243,818) (3245,819) (3263,822) (3269,823) (3287,824) (3293,825) (3297,826) (3303,827) (3321,828) (3323,829) (3327,830) (3360,831) (3366,832) (3384,833) (3386,834) (3388,838) (3392,839) (3428,840) (3447,842) (3462,843) (3528,844) (3536,845) (3538,846) (3540,847) (3558,850) (3566,852) (3600,854) (3636,855) (3672,860) (3804,861) (3806,862) (3808,864) (3844,866) (3880,873) (4008,874) 
+sysnotify_handle_game_invite 8 (0,885) (36,887) (72,888) (108,889) (117,891) (119,892) (121,893) (128,895) 
+sysnotify_invite_cancel 3 (0,903) (6,904) (12,905) 
+sysnotify_invite_go 10 (0,913) (36,915) (54,917) (92,919) (196,920) (232,921) (234,922) (328,924) (348,925) (384,926) 
+sysnotify_invite_go2 9 (0,930) (36,931) (72,937) (79,938) (83,939) (89,940) (96,942) (98,943) (132,944) 
+cross_game_invite_accepted 2 (0,947) (36,948) 
+sysnotify_handle_connection_loss 24 (0,956) (36,958) (72,959) (108,960) (115,961) (148,962) (154,965) (188,966) (224,967) (276,969) (282,971) (316,974) (352,975) (358,977) (364,980) (370,981) (376,982) (468,983) (474,985) (480,988) (522,990) (556,991) (562,992) (568,993) 
+wait_for_sysnotify_unpause 10 (0,1019) (36,1020) (88,1022) (90,1023) (126,1024) (161,1025) (163,1026) (165,1027) (216,1029) (218,1030) 
+xboxlive_lost_connection_ui_cleanup 16 (0,1038) (12,1039) (18,1041) (52,1042) (58,1046) (64,1050) (164,1052) (216,1053) (252,1055) (288,1057) (324,1059) (360,1061) (412,1063) (480,1064) (532,1065) (534,1066) 
+sysnotify_avatar_changed 4 (28,1076) (92,1078) (99,1079) (130,1083) 
+sysnotify_avatar_changed_spawned 10 (28,1094) (30,1096) (68,1098) (108,1099) (110,1102) (112,1104) (114,1105) (164,1107) (166,1109) (184,1112) 
+sysnotify_profilesetting_changed 2 (28,1123) (65,1125) 
+clear_paused_controllers 5 (0,1134) (88,1135) (90,1136) (92,1137) (140,1139) 
+
+[Checksums]
+0x4d2d50cf scripts\engine\system_notifications.qb
+0xcac92009 KillAllMovies
+0xc6a01017 shutdown_game_for_signin_change
+0x0f7e902c nullscript
+0xcd0dc02d KillSpawnedScript
+0xe833004a DemoBuild
+0x9775a050 msg
+0x116d0084 webpresence_dump_user
+0xf9462090 c
+0x51e55096 GuitarEvent_SongWon_Spawned
+0x5edfe0b9 uistate_connection_loss
+0x0b7190c6 PushDisableRendering
+0x6f7880da should_wait
+0x9e0020da GameIsPaused
+0xb7ab30eb transition_playing
+0xe4f130f4 s
+0x61c6a105 sysnotify_handle_pause_controller
+0x1f2f2106 sysnotify_handle_game_invite
+0xab215108 GetFirstPlayer
+0xb12b510a spriteElement
+0x7031f10c params
+0xaaf74113 PlayerInfoEquals
+0xa9f6d11b pause_grace_period
+0x766ab11f party
+0xcb3e6120 tutorial_system_pausemenu_destroy
+0x73665140 CreateScreenElement
+0x5ef31148 array
+0xcc12115e song
+0xcf66717b GotParam
+0xf120417d globaltag_update_avatar_metadata
+0xa466a1a9 system_fade
+0x44c701b5 ShouldGameBePausedDueToSysNotification
+0x5d0671b8 channel
+0x174841bc a
+0xbebfa1c6 element
+0x6017f1cc ui_event
+0xbfa801df change
+0x3b4631df IsPS3
+0xa0e341f3 ui_x360_sign_in_checked
+0xb3aa71f6 g_in_loading_screen
+0xa1dc81f9 name
+0x4bfcd202 AddArrayElement
+0xeebd1203 live_connection_lost
+0xe028b211 sysnotify_handle_pause_eject
+0xa52bc223 is_host
+0x8b60022f just
+0x29602257 sysnotify_avatar_changed
+0x27f1925f g_in_tutorial
+0xa8c11275 LegacyDoScreenElementMorph
+0x2b4d5284 get_settings
+0x7d99f28d texture
+0xb52ff28e invite_controller
+0x6fb972a0 controllerid
+0x7aad92ad is_ui_event_running
+0xd443a2bc off
+0xe23542cc audio_kill_cutscene_audio
+0x192172ed cross_game
+0x94ef431e handle_signin_changed
+0x0f87d327 no_seek
+0xba52e33e gh_unpause_game
+0x656f5347 respond_to_signin_changed_func
+0xa8ee7357 ScriptAssert
+0x148e335b destroy_connection_dialog_scroller
+0x0203b372 true
+0x4da4937b career
+0x39899380 paused_for_hardware
+0x5f7bf3ac os_keyboard_spawned_script
+0x57b303d5 xenon_singleplayer_session_init
+0xb99ae3d6 gameframes
+0x60b653db cancel_join_server
+0xc5bc93ee ScreenElementExists
+0x5ff293f1 do_join_invite_stuff
+0x18f173f3 screenfader
+0x4bbcd3f5 MemcardDoneScript
+0x975f73f5 reset_savegame
+0x8d92240c ui_event_exists_in_stack
+0xf8a4443a get_savegame_from_controller
+0x8952b43e guitar_startup_async_init
+0xbd09544c func
+0x8c4a645d wait_for_sysnotify_unpause
+0xbefaa466 OnExitRun
+0x5d97e488 sysnotify_ingame_position
+0xdeb61493 uistate_song_unpause
+0xb74ce4a3 respond_to_signin_changed
+0x39b5c4b0 GetArraySize
+0x445114c8 NetSessionFunc
+0x12e0a4d6 disable_pause
+0xbf0f14db center
+0x0cf694f5 sysnotify_handle_unpause
+0x8da97503 primary_controller
+0xa613c513 CutsceneFinished
+0x64946516 CheckForSignIn
+0xdb96e524 block_menu_input
+0x6722b533 d
+0x840d6547 GameMode_GetType
+0xc4d27552 sysnotify_allow_invite
+0xc451f558 event
+0x34a68574 dims
+0x164f0595 xboxlive_lost_connection_ui_cleanup
+0x67e6859a player
+0xbb8395a4 from_system
+0x4fedd5c2 local_gamerpic_changed
+0x4d9845c6 cleanup_sessionfuncs
+0x337435d7 seek_on_unpause
+0x195905d7 remove_playr_from_party
+0x767a45d7 black
+0xa3cdf5e3 sysnotify_handle_pause
+0xdae725f2 ui_pro_success_screen_active
+0x39b935f2 sysnotify_handle_signin_change
+0x7bb9c604 menu_replace
+0x2de8c60e printf
+0xd029f619 seconds
+0x89680626 xenon_device_checked
+0xf01dd62d kill_loading_screen_if_for_invite
+0xf649d637 on
+0x2d79f64e dropped
+0x82fcf653 sysnotify_invite_go
+0x60fcd66b reset_dlc_signin_state
+0x6bef3672 SetScriptCannotPause
+0x82f87686 sys_fade_showing
+0x9001468f unloadcontent
+0x75cb7691 sysnotify_wait_in_progress
+0x2f1fc695 alpha
+0xf5ffd6a4 g_loading_screen_is_for_invite
+0x794c86b0 control_dis_paused
+0x1cb2a6b0 num_players
+0xf780a6cb celebintro
+0x042d66d1 in_sing_a_long
+0xd718f6ee dialog_box_desc_id
+0x74297717 local
+0x51922717 initing
+0xf2cc4723 g_connection_loss_dialogue
+0xa047f73b freeplay_state
+0xecffe757 PopDisableRendering
+0x4c787770 DumpPlayerInfo
+0xe89c0776 playerid
+0x6008479f dont_set_primary
+0x491ed7a7 news_feed_signin_change_cleanup
+0x906b67ba time
+0xd43297cf false
+0x259a07d3 fadetoblack
+0xdaa1b7f0 SystemUIDelayed
+0xfc67e7f5 cross_game_invite_accepted
+0x50b7e804 live_settings_init
+0x38666816 UnPauseAudio
+0x2efe1827 sysnotify
+0xe9a3c835 current_playing_transition
+0x03a17838 current_song
+0x332dc838 invite_accepted
+0x3a09583c sysnotify_invite_cancel
+0x64fb6897 sysnotify_handle_unpause_eject
+0x08ea58a5 transition
+0x40c698af id
+0x7321a8d6 type
+0xb90a78d7 is_popup
+0xd40fd8e3 wait_for_sysnotify_unpause_flag
+0x7f8c98fe index
+0x6cef5907 menu_change
+0xf3896918 destroy_loading_screen
+0x0ad46922 controller_index
+0x2ba74930 igc_playing
+0x57cb2936 facebook_figure_out_can_post
+0x2e86d939 ui_event_block
+0x030c0940 IsTrue
+0x7f261953 pos
+0xb30d9965 controller
+0x8f45e969 tutorial_paused
+0x7123296a live_connection_gained
+0x2df8c983 net_ready_to_start
+0x1993c98e i
+0x7d5d29a9 SetButtonEventMappings
+0x542449ae Playlist_GetCurrentSong
+0x3c15e9b6 DestroyScreenElement
+0x1b0509c5 savegame
+0xc130f9e5 ScriptIsRunning
+0xedcc59f0 ui_song_unpause_repause
+0xb88029ff generic_menu
+0xc9428a08 device_num
+0x0f09ca1a is_primary_controller
+0x41f87a36 uistate_null
+0x926d1a3e blade_active
+0xed85ba41 g_boot_sysnotify_wait
+0xd008ea4b SetSystemNotificationPosition
+0xcea42a5e trace
+0x036a5a67 destroy_player_drop_events
+0x2f2f6a68 invite_screenfader
+0x1da27a81 context
+0x87cd8a89 sysnotify_paused_controllers
+0x666b6a9d dialog_box_exit
+0xddec2ace live_settings
+0x12ec4ad9 original_array_size
+0x888eaada create_mainmenu_bg
+0x6deb1ae1 ignore_connection_loss
+0xea920ae1 GetNextPlayer
+0x56a1eae3 root_window
+0x3eff3ae9 reset_globaltags
+0x19fa5af7 spawnscriptnow
+0x51631afb clear_paused_controllers
+0xdba76b03 wait_for_safe_shutdown
+0x4f653b0b unblock_menu_input
+0x71cccb15 InInternetMode
+0x22673b31 gh_pause_game
+0xd26f2b38 ui_event_wait_for_safe
+0xb88d0b4a cheat_turnoffalllocked
+0x5e49cb52 signin_change_happening
+0x1f26cb91 dgsrecorddata_joingameinviteattempt
+0xb9992b93 obj
+0xe997db9f is_changing_levels
+0xe0c60bce block_input
+0xa91a9bce respond_to_signin_changed_all_players
+0x4c022bd4 sysnotify_wait_until_safe
+0xc6a96bec sysnotify_handle_unpause_controller
+0xdbe6ac09 sysnotify_avatar_changed_spawned
+0x37f1ac0e RemoveArrayElement
+0x0401dc0f user_changed
+0x82117c1a wait
+0x80447c22 in_band_lobby
+0xf58c2c2b clear_previous_stack
+0x31bd7c36 playing_song
+0x0e4a7c39 sys_fade_ui_remove
+0xc85eec51 sysnotify_profilesetting_changed
+0x9ab4ac7c sysnotify_handle_connection_loss
+0xcf721c99 calibrate_lag_enabled
+0x520c0c9c data
+0x25cadcac GetNumPlayersInGame
+0x7676fcd5 GuitarEvent_SongFailed_Spawned
+0x5c6c2d04 state
+0x9d866d1f from_sys
+0x3a37ad38 sysnotify_invite_go2
+0x8cf25d39 shutdown_game_for_signin_change_flag
+0x7f5b3d4d array_size
+0x1d909d98 sys_fade_overlay_z_priority
+0xa6403dac sys_fade_ui_add
+0x3f6bcdba rgba
+0x1e728dd5 PauseAudio
+0xc928ae29 uistate_controller_disconnect
+0x0b96ae2d above
+0x1f18ae45 no_countdown
+0x86812e72 sysnotify_handle_pause_console
+0x24c40e79 destroy_mainmenu_bg
+0x5a7ece86 menu_back
+0xbe304e86 printstruct
+0xcfd86ea4 wait_for_start_gem_scroller_completion
+0x8d5eaea6 sysnotify_handle_unpause_console
+0x8842aea9 ui_event_wait
+0x8737eeda is_network_game
+0x65485eea GetPlayerInfo
+0xd2e50eee quest_progression_is_song_transformation
+0x954f1eef pausegame
+0xfc37df05 gameframe
+0x137faf1b mark_globaltags_to_invalidate
+0x806fff30 none
+0x57710f31 z_priority
+0x1f23bf3f dont_unpause
+0xf5012f52 cutscene
+0x43df7f67 BroadcastEvent
+0x1aea8f80 is_pausable_transition
+0xfcab5f80 wait_for_unload
+0x4942cf80 message
+0x8e0d5f93 net_popup_active
+0xc2719fb0 parent
+0x4bd38fc7 twitter_figure_out_can_post
+0x81882fda freeplay
+

@@ -1,0 +1,54 @@
+[LineNumbers]
+ui_create_customize_character_body 40 (0,9) (7,11) (19,12) (31,13) (43,14) (55,15) (61,16) (74,17) (76,18) (112,20) (291,23) (324,25) (331,27) (343,28) (355,29) (367,30) (375,31) (388,32) (390,33) (392,34) (399,36) (411,37) (423,38) (431,39) (443,40) (455,41) (499,42) (662,43) (699,44) (732,45) (744,46) (756,47) (768,48) (783,49) (795,50) (814,51) (816,52) (828,53) (830,54) (853,62) 
+ui_destroy_customize_character_body 2 (0,72) (6,73) 
+
+[Checksums]
+0x7a0041a1 scripts\guitar\menu\states\layouts\cas\ui_customize_character_body.qb
+0xa484d093 add_car_menu_text_item
+0x3cd9d1fc setup_cas_menu_handlers
+0xefe30239 color_wheel
+0xbf17a257 show_history
+0x80db125a hist_tex
+0xf110c330 hide_parts
+0x24613344 CAS_Body
+0x19ff83f8 UIstate_customize_character_appearance
+0xddbaa4a9 UIstate_cas_color_edit
+0x9836251b cam_name
+0x833e251e Stance_Select_Fingernails
+0xdb07a52a Nails
+0x0acc054f car_helper_text
+0x3336956b CAS_Acc_Left
+0xe88e660c destroy_generic_menu
+0x9a6bd624 icon
+0xf088f626 ui_destroy_customize_character_body
+0x3f6e367e zoom_camera
+0xcdc3f6a0 back_state
+0xff1496de state_device
+0xd9daa74b UIstate_customize_character_proportions
+0xa4c5d762 part_materials
+0xd4c98794 title
+0x77f49808 frontend_desc
+0xa2df7834 ResolveBodySpecificPartInAppearance
+0xc4745838 text
+0x4bb2084e desc_id
+0x00f28922 CAS_Physique
+0xb30d9965 controller
+0xff889a51 CAS_Acc_Right
+0x37ba3a84 make_generic_car_menu
+0x94958abc icon_size
+0xf1ff8b68 choose_state
+0x5e0f3b9f customize_body_vmenu
+0x31dc7bab camera_list
+0x32daac06 Fingernails
+0x7d654c18 exclusive_device
+0x955fcc38 ui_create_customize_character_body
+0x0c714c3f menu_finish
+0x7d02bcc3 stance
+0x16d19dc2 choose_state_data
+0x89814e5d fingernail_colorwheel
+0xa1598eed vmenu_id
+0xb2161ef7 num_icons
+0x771cdf0a num_states
+0xb6f08f39 part
+0x677e1faf ui_cas_precache
+

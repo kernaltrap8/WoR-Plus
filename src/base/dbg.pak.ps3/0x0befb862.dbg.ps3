@@ -1,0 +1,72 @@
+[LineNumbers]
+ps3libvoiceapioverlay 5 (0,17) (10,19) (12,20) (14,21) (20,23) 
+ps3libvoiceapioverlay_create 9 (0,33) (6,35) (132,44) (332,57) (524,72) (716,87) (908,102) (1144,120) (1196,144) 
+ps3libvoiceapioverlay_destroy 4 (0,152) (36,153) (72,154) (74,155) 
+ps3libvoiceapioverlay_loop 35 (0,160) (2,161) (56,163) (58,164) (60,165) (112,167) (148,174) (188,175) (201,176) (203,177) (232,178) (234,179) (272,183) (312,184) (325,185) (327,186) (356,187) (358,188) (396,192) (436,193) (449,194) (451,195) (475,197) (477,198) (516,216) (568,217) (624,218) (692,219) (696,220) (752,221) (820,222) (822,223) (824,225) (876,232) (878,234) 
+ps3libvoiceapioverlay_thread 3 (0,239) (6,240) (12,241) 
+
+[Checksums]
+0x03d2a5bc scripts\game\net\ps3_net.qb
+0xe126e035 top
+0xc56aa075 ps3libvoiceapioverlay_pump
+0x6999e08b ps3libvoiceapioverlay_container_pos
+0xb12b510a SpriteElement
+0x73665140 CreateScreenElement
+0xcf66717b GotParam
+0xfc9fc1d4 ps3libvoiceapioverlay_flags_id
+0x3b4631df IsPs3
+0x8b60022f just
+0xcd8db242 ps3libvoiceapioverlay_text_scale1
+0xbd30325b white
+0xc180725f ps3libvoiceapioverlay_title_id
+0x7d99f28d texture
+0x1b3ac2e7 ps3libvoiceapioverlay
+0xf73a7391 ps3libvoiceapioverlay_status_id
+0xa3d123e1 ps3libvoiceapioverlay_thread
+0xc5bc93ee ScreenElementExists
+0x5484e3f8 ps3libvoiceapioverlay_text_scale2
+0xbd09544c func
+0x0571649c ps3libvoiceapioverlay_oktodisplay
+0x445114c8 NetSessionFunc
+0x0e61b525 RunScriptOnScreenElement
+0x34a68574 dims
+0x4b2705cb ps3libvoiceapioverlay_text_font
+0x082a7610 ps3libvoiceapioverlay_root_id
+0xd3c70615 ps3libvoiceapioverlay_background_id
+0xd029f619 seconds
+0x2aa31666 is_ps3libvoiceapioverlay_done
+0x2f1fc695 alpha
+0x2f6bf72d font
+0x906b67ba time
+0x1804a7c4 voice
+0xd43297cf false
+0xc4745838 text
+0x5b9da842 ContainerElement
+0x85981897 left
+0x40c698af id
+0x7321a8d6 type
+0x0d6698ed ps3libvoiceapioverlay_destroy
+0x7f261953 pos
+0x3c15e9b6 DestroyScreenElement
+0x13b9da7b scale
+0x56a1eae3 root_window
+0x84ff9ae3 status
+0xb9992b93 obj
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0x29e2ec48 ps3libvoiceapioverlay_just
+0xfc220c76 ps3libvoiceapioverlay_loop
+0x90356cb9 SetScreenElementProps
+0xcef92d47 single_line
+0x3f6bcdba rgba
+0xf4fabe45 flags
+0x670dee70 ps3libvoiceapioverlay_text_color2
+0x3476cea8 info
+0x57710f31 z_priority
+0x2ca7df6e ps3libvoiceapioverlay_info_id
+0x2fefaf84 fontgrid_text_a1
+0x1d278f99 ps3libvoiceapioverlay_create
+0xc2719fb0 parent
+0x5200dfb6 TextElement
+0xfe04bfca ps3libvoiceapioverlay_text_color1
+

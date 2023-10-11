@@ -1,0 +1,682 @@
+[LineNumbers]
+set_focus_color 21 (0,152) (36,153) (65,154) (96,155) (125,156) (127,157) (129,159) (133,160) (168,161) (170,162) (172,163) (208,165) (228,166) (246,167) (280,168) (282,169) (284,171) (286,172) (319,174) (350,175) (352,177) 
+set_unfocus_color 21 (0,184) (36,185) (65,186) (96,187) (125,188) (127,189) (129,191) (133,192) (168,193) (170,194) (172,195) (208,197) (228,198) (246,199) (280,200) (282,201) (284,203) (286,204) (319,206) (350,207) (352,209) 
+reset_focus_colors 3 (0,216) (31,217) (62,218) 
+retail_menu_focus 24 (0,225) (36,226) (57,227) (75,228) (112,230) (125,231) (150,232) (152,233) (179,235) (216,236) (256,237) (258,238) (260,239) (264,240) (300,241) (340,243) (346,244) (364,245) (366,246) (386,248) (424,249) (476,250) (478,251) (480,252) 
+retail_menu_unfocus 20 (0,259) (36,260) (57,261) (75,262) (112,264) (125,265) (150,266) (168,267) (170,268) (220,270) (222,271) (226,272) (260,273) (300,275) (306,276) (324,277) (360,278) (362,279) (405,281) (407,282) 
+new_menu 141 (1,289) (14,290) (27,291) (39,292) (51,293) (67,294) (79,295) (92,296) (104,297) (123,298) (142,299) (154,300) (166,301) (178,302) (180,303) (201,305) (224,306) (226,307) (228,308) (249,309) (272,310) (274,311) (276,312) (283,317) (295,318) (308,319) (321,320) (334,321) (347,322) (360,323) (373,324) (375,325) (393,327) (399,329) (401,331) (440,333) (447,334) (459,335) (472,336) (484,337) (500,338) (512,339) (541,340) (554,341) (567,342) (573,343) (589,344) (617,345) (619,346) (621,347) (628,349) (640,350) (653,351) (666,352) (682,353) (695,354) (708,355) (721,356) (727,357) (740,359) (753,360) (766,361) (768,363) (804,365) (833,366) (835,367) (872,368) (908,369) (910,370) (948,371) (984,372) (986,373) (1024,375) (1060,376) (1062,377) (1100,379) (1115,380) (1117,381) (1136,383) (1143,384) (1156,385) (1169,386) (1171,387) (1178,388) (1191,389) (1204,390) (1206,391) (1208,392) (1244,394) (1264,396) (1276,399) (1278,400) (1300,402) (1321,403) (1378,404) (1421,405) (1434,407) (1463,411) (1490,413) (1502,414) (1520,415) (1522,416) (1583,417) (1595,419) (1675,421) (1716,423) (1723,425) (1735,426) (1748,427) (1761,428) (1774,429) (1803,430) (1816,431) (1835,432) (1843,433) (1856,434) (1869,435) (1915,436) (1961,437) (2007,438) (2053,439) (2055,440) (2057,441) (2059,442) (2080,444) (2088,445) (2090,446) (2092,447) (2108,448) (2110,449) (2148,452) (2166,453) (2179,454) (2181,455) (2220,457) (2238,458) (2251,459) (2253,460) (2265,463) (2271,464) (2273,465) 
+destroy_menu 7 (28,473) (64,474) (85,475) (103,476) (105,477) (111,478) (113,479) 
+options_change_tilt_star_power 32 (0,549) (17,550) (35,551) (53,553) (76,554) (118,555) (131,556) (168,557) (191,558) (195,559) (244,560) (246,561) (250,562) (273,563) (315,564) (328,565) (364,566) (387,567) (391,568) (440,569) (442,570) (444,571) (480,573) (505,574) (509,575) (518,576) (524,577) (558,578) (583,579) (585,580) (587,581) (589,582) 
+options_change_touch_strip_option 32 (0,589) (17,590) (35,591) (53,593) (76,594) (118,595) (131,596) (168,597) (191,598) (195,599) (244,600) (246,601) (250,602) (273,603) (315,604) (328,605) (364,606) (387,607) (391,608) (440,609) (442,610) (444,611) (480,613) (505,614) (509,615) (518,616) (524,617) (558,618) (583,619) (585,620) (587,621) (589,622) 
+options_change_vocal_star_power_tap 24 (0,630) (17,632) (35,633) (53,635) (76,636) (118,637) (131,638) (180,639) (184,640) (207,641) (249,642) (262,643) (312,644) (314,645) (352,647) (377,648) (381,649) (390,650) (396,651) (430,652) (455,653) (457,654) (459,655) (461,656) 
+options_change_vocals_mic_enhancement 32 (28,666) (62,670) (76,671) (94,673) (136,675) (149,676) (184,677) (220,678) (243,679) (247,680) (296,681) (298,682) (302,683) (344,685) (357,686) (392,687) (428,688) (451,689) (455,690) (504,691) (506,692) (508,694) (544,696) (569,697) (573,698) (582,699) (588,700) (622,701) (647,702) (649,703) (651,704) (653,705) 
+create_menu_backdrop 16 (88,712) (124,713) (160,714) (162,715) (292,724) (299,727) (311,728) (323,729) (335,730) (348,731) (361,732) (377,733) (393,734) (412,735) (425,736) (427,737) 
+destroy_menu_backdrop 4 (0,744) (36,745) (72,746) (74,747) 
+fit_text_convert_legacy_params_props 3 (0,755) (18,756) (34,758) 
+fit_text_convert_legacy_params 32 (0,765) (18,766) (31,767) (35,768) (48,769) (50,770) (68,772) (104,773) (117,774) (121,775) (156,776) (169,777) (171,778) (208,780) (221,781) (260,782) (273,783) (277,784) (284,785) (310,789) (336,790) (362,791) (388,792) (445,794) (458,796) (460,797) (463,799) (476,800) (489,801) (502,802) (515,803) (517,804) 
+fit_text_in_rectangle 15 (72,812) (112,813) (148,814) (150,815) (157,817) (171,819) (184,820) (197,821) (210,822) (223,823) (235,824) (237,825) (276,827) (306,828) (308,829) 
+set_user_control_color 3 (100,837) (118,838) (180,839) 
+clean_up_user_control_helpers 10 (0,846) (36,847) (72,848) (74,849) (112,851) (148,852) (150,853) (212,855) (276,856) (282,858) 
+user_control_helper_get_buttonchar 106 (1,865) (17,866) (19,867) (28,869) (64,870) (66,871) (72,873) (81,876) (102,877) (114,878) (126,879) (128,880) (130,881) (168,883) (178,884) (188,885) (200,886) (236,888) (248,889) (250,890) (288,892) (300,894) (318,895) (330,897) (332,898) (334,899) (347,900) (359,901) (396,903) (408,904) (410,905) (448,907) (460,909) (478,910) (490,912) (492,913) (494,914) (507,915) (519,916) (556,918) (568,919) (570,920) (608,922) (620,924) (622,925) (635,926) (647,927) (684,929) (696,930) (698,931) (736,933) (748,935) (750,936) (763,937) (775,938) (812,940) (824,941) (864,942) (876,943) (878,944) (916,946) (928,947) (930,948) (943,949) (955,950) (968,951) (980,952) (1016,954) (1028,955) (1068,956) (1080,957) (1082,958) (1120,960) (1132,961) (1134,962) (1147,963) (1159,964) (1196,966) (1208,967) (1248,968) (1260,969) (1262,970) (1300,972) (1312,973) (1314,974) (1327,975) (1339,976) (1352,977) (1364,978) (1377,979) (1389,980) (1402,981) (1414,982) (1427,983) (1439,984) (1452,985) (1464,986) (1477,987) (1489,988) (1502,989) (1514,990) (1516,991) (1520,992) (1532,993) (1534,994) (1550,996) 
+should_use_all_buttons 2 (0,1003) (32,1005) 
+pulsate_helper_pill 24 (28,1012) (92,1013) (144,1014) (212,1016) (214,1017) (235,1018) (249,1019) (261,1020) (274,1021) (276,1022) (298,1023) (319,1024) (333,1025) (345,1026) (358,1027) (360,1028) (382,1029) (386,1030) (388,1031) (390,1032) (394,1033) (396,1034) (398,1035) (400,1036) 
+get_controller_or_gamertag_text_name 19 (28,1045) (70,1047) (79,1049) (100,1051) (119,1052) (132,1054) (134,1055) (136,1056) (140,1058) (176,1061) (227,1063) (248,1065) (302,1067) (306,1068) (319,1069) (321,1070) (323,1072) (325,1074) (339,1076) 
+add_gamertag_helper 43 (28,1084) (68,1085) (70,1086) (72,1087) (88,1089) (104,1090) (140,1091) (158,1093) (171,1094) (189,1098) (208,1100) (225,1101) (233,1104) (243,1105) (255,1106) (268,1107) (280,1108) (293,1109) (305,1110) (313,1111) (325,1112) (327,1113) (331,1114) (352,1116) (364,1117) (387,1118) (399,1119) (403,1120) (409,1121) (435,1122) (447,1123) (451,1124) (463,1125) (465,1126) (467,1127) (469,1128) (487,1131) (529,1132) (579,1133) (581,1134) (583,1136) (585,1137) (587,1138) 
+gamertag_helper_update 18 (0,1147) (13,1148) (55,1149) (57,1150) (70,1151) (79,1152) (100,1153) (119,1154) (132,1156) (134,1157) (136,1158) (138,1159) (158,1161) (200,1162) (202,1163) (204,1164) (256,1166) (258,1167) 
+add_user_control_helper 139 (60,1175) (69,1176) (104,1177) (106,1178) (144,1180) (151,1181) (163,1182) (175,1183) (187,1184) (203,1185) (219,1186) (235,1187) (254,1188) (273,1189) (292,1190) (304,1191) (316,1192) (328,1193) (340,1194) (352,1195) (365,1196) (367,1197) (371,1198) (395,1199) (397,1200) (436,1203) (444,1204) (465,1205) (486,1206) (507,1207) (528,1208) (549,1209) (551,1210) (555,1211) (563,1212) (576,1213) (589,1214) (591,1215) (593,1216) (632,1218) (668,1219) (675,1220) (687,1221) (699,1222) (711,1223) (744,1224) (756,1225) (772,1226) (785,1227) (798,1228) (805,1229) (807,1230) (864,1232) (868,1233) (886,1235) (904,1236) (958,1240) (962,1241) (1006,1242) (1008,1243) (1010,1244) (1028,1246) (1047,1247) (1084,1250) (1098,1251) (1132,1252) (1150,1254) (1169,1255) (1183,1256) (1216,1257) (1262,1259) (1264,1260) (1266,1261) (1306,1263) (1308,1264) (1321,1266) (1339,1267) (1353,1268) (1355,1269) (1392,1272) (1423,1273) (1456,1274) (1458,1275) (1460,1276) (1467,1294) (1480,1295) (1493,1296) (1505,1297) (1529,1298) (1541,1299) (1557,1300) (1570,1301) (1583,1302) (1596,1303) (1609,1304) (1622,1305) (1629,1306) (1642,1307) (1644,1308) (1662,1311) (1700,1312) (1727,1313) (1741,1314) (1753,1315) (1766,1316) (1768,1317) (1770,1318) (1774,1319) (1812,1320) (1832,1321) (1859,1322) (1873,1323) (1885,1324) (1898,1325) (1911,1326) (1913,1327) (1915,1328) (1917,1329) (1919,1330) (1921,1331) (1923,1332) (1925,1333) (1938,1335) (1976,1338) (1990,1339) (2034,1340) (2050,1341) (2094,1342) (2096,1343) (2100,1344) (2114,1345) (2158,1346) (2202,1347) (2204,1348) (2206,1349) (2224,1351) (2242,1353) (2244,1354) (2258,1356) 
+add_super_user_control_helper 21 (120,1372) (156,1373) (169,1374) (171,1375) (178,1377) (191,1378) (204,1379) (217,1380) (230,1381) (243,1382) (251,1383) (263,1384) (275,1385) (288,1386) (300,1387) (302,1388) (304,1389) (322,1390) (340,1392) (370,1393) (372,1394) 
+helper_pill_overriden_parent_watcher_script 10 (0,1403) (6,1411) (8,1412) (58,1414) (92,1415) (96,1416) (132,1417) (134,1418) (184,1420) (186,1422) 
+show_user_control_helpers 4 (0,1432) (36,1434) (76,1435) (78,1436) 
+hide_user_control_helpers 4 (0,1441) (36,1443) (76,1444) (78,1445) 
+user_control_helper_change_text 15 (0,1454) (72,1455) (116,1458) (137,1460) (151,1461) (164,1462) (166,1463) (179,1465) (193,1467) (237,1468) (281,1469) (283,1470) (287,1471) (320,1472) (322,1473) 
+user_control_destroy_helper 6 (0,1481) (64,1482) (108,1485) (129,1487) (147,1488) (149,1489) 
+user_control_helper_exists 8 (0,1497) (64,1498) (108,1501) (129,1503) (160,1504) (164,1505) (196,1506) (198,1507) 
+user_control_helper_get_index 18 (0,1515) (64,1516) (108,1519) (129,1521) (164,1523) (176,1524) (194,1526) (207,1527) (209,1528) (236,1529) (250,1530) (252,1531) (274,1533) (282,1534) (284,1535) (288,1536) (324,1537) (326,1538) 
+user_control_helper_reorder 13 (0,1546) (72,1547) (116,1550) (137,1552) (155,1553) (192,1555) (228,1556) (232,1557) (268,1558) (270,1559) (274,1560) (308,1561) (310,1562) 
+scroll_ticker_text 113 (1,1570) (13,1571) (25,1572) (41,1573) (60,1574) (72,1575) (84,1576) (96,1577) (108,1578) (131,1579) (154,1580) (166,1581) (178,1582) (190,1583) (219,1584) (231,1585) (233,1586) (328,1588) (335,1589) (347,1590) (360,1591) (373,1592) (386,1593) (399,1594) (445,1595) (458,1596) (471,1597) (484,1598) (497,1599) (510,1600) (512,1601) (530,1603) (544,1604) (550,1605) (566,1606) (579,1607) (581,1608) (583,1609) (601,1611) (619,1612) (640,1613) (644,1614) (680,1615) (682,1616) (704,1618) (717,1619) (735,1621) (749,1622) (751,1623) (769,1625) (783,1626) (811,1628) (813,1629) (815,1630) (838,1632) (863,1635) (881,1636) (899,1637) (901,1638) (903,1639) (911,1640) (948,1642) (1044,1645) (1051,1646) (1064,1647) (1076,1648) (1089,1649) (1102,1650) (1148,1651) (1161,1652) (1174,1653) (1187,1654) (1200,1655) (1213,1656) (1215,1657) (1233,1659) (1247,1660) (1253,1661) (1269,1662) (1282,1663) (1284,1664) (1286,1665) (1304,1667) (1350,1668) (1376,1670) (1389,1672) (1391,1673) (1417,1674) (1443,1675) (1490,1677) (1504,1678) (1516,1680) (1553,1681) (1590,1682) (1594,1683) (1631,1684) (1668,1685) (1670,1686) (1687,1688) (1732,1691) (1744,1692) (1790,1693) (1815,1694) (1828,1695) (1832,1696) (1878,1697) (1903,1698) (1916,1699) (1918,1700) (1922,1701) (1924,1702) (1926,1703) (1928,1704) 
+ui_frazz_something 8 (0,1717) (2,1718) (69,1719) (126,1720) (132,1721) (224,1722) (230,1723) (232,1724) 
+ui_frazzmatazz 10 (0,1732) (2,1733) (109,1734) (224,1735) (265,1736) (271,1737) (316,1738) (322,1739) (372,1740) (374,1741) 
+ui_frazzmatazz_02 10 (0,1743) (2,1744) (109,1745) (224,1746) (265,1747) (271,1748) (316,1749) (322,1750) (372,1751) (374,1752) 
+ui_frazzmatazz_03 7 (0,1754) (2,1755) (81,1756) (110,1757) (116,1758) (168,1759) (170,1760) 
+ui_alphaflight 6 (0,1768) (2,1769) (135,1770) (164,1771) (170,1772) (172,1773) 
+ui_alphablink 7 (0,1782) (2,1783) (68,1784) (120,1785) (188,1786) (240,1787) (242,1788) 
+ui_alphablink_02 7 (0,1791) (2,1792) (68,1793) (120,1794) (188,1795) (240,1796) (242,1797) 
+ui_pulse 7 (0,1799) (2,1800) (68,1801) (120,1802) (188,1803) (240,1804) (242,1805) 
+ui_pulse2 9 (0,1808) (2,1809) (68,1810) (120,1811) (188,1812) (240,1813) (292,1815) (344,1817) (346,1819) 
+ui_pulse3 7 (0,1822) (2,1823) (68,1824) (120,1825) (188,1826) (240,1827) (242,1828) 
+ui_pulse4 7 (0,1831) (2,1832) (68,1833) (120,1834) (188,1835) (240,1836) (242,1837) 
+ui_pulse5 7 (0,1840) (2,1841) (68,1842) (120,1843) (188,1844) (240,1845) (242,1846) 
+ui_pulse6 7 (0,1849) (2,1850) (68,1851) (120,1852) (188,1853) (240,1854) (242,1855) 
+ui_ff_loading_pulse 7 (0,1858) (2,1859) (68,1860) (120,1861) (188,1862) (240,1863) (242,1864) 
+ui_meter_pulse 7 (0,1867) (2,1868) (68,1869) (120,1870) (188,1871) (240,1872) (242,1873) 
+ui_band_lobby_pulse 8 (0,1878) (36,1879) (38,1880) (88,1881) (140,1882) (192,1883) (244,1884) (246,1885) 
+ui_band_lobby_leader_pulse 8 (0,1888) (36,1889) (38,1890) (88,1891) (140,1892) (192,1893) (244,1894) (246,1895) 
+ui_song_stars_earned_pulse 11 (28,1900) (46,1901) (59,1902) (61,1903) (109,1905) (134,1906) (182,1907) (207,1908) (255,1909) (280,1910) (332,1911) 
+ui_jerky 13 (0,1914) (64,1916) (70,1917) (132,1918) (138,1919) (200,1920) (206,1921) (272,1922) (278,1923) (344,1924) (350,1925) (416,1926) (422,1927) 
+ui_jerky2 13 (0,1932) (68,1934) (74,1935) (140,1936) (146,1937) (212,1938) (218,1939) (284,1940) (290,1941) (356,1942) (362,1943) (428,1944) (434,1945) 
+ui_winnericon 12 (0,1948) (52,1949) (148,1950) (154,1951) (248,1952) (254,1953) (348,1954) (354,1955) (448,1956) (454,1957) (548,1958) (554,1959) 
+ui_winnericon_team 11 (0,1962) (52,1963) (132,1964) (138,1965) (232,1966) (344,1967) (350,1968) (444,1969) (450,1970) (544,1971) (550,1972) 
+ui_winnericon_team_session 12 (0,1975) (52,1976) (148,1977) (154,1978) (248,1979) (254,1980) (348,1981) (354,1982) (448,1983) (454,1984) (548,1985) (554,1986) 
+ui_jerky_team1 18 (0,1989) (36,1991) (116,1992) (122,1993) (184,1994) (236,1995) (316,1996) (322,1997) (384,1998) (390,1999) (452,2000) (458,2001) (524,2002) (530,2003) (596,2004) (602,2005) (668,2006) (674,2007) 
+ui_jerky_team2 18 (0,2012) (36,2014) (116,2015) (122,2016) (184,2017) (236,2018) (316,2019) (322,2020) (384,2021) (390,2022) (452,2023) (458,2024) (524,2025) (530,2026) (596,2027) (602,2028) (668,2029) (674,2030) 
+ui_jerky_team_session1 14 (0,2035) (36,2037) (116,2038) (122,2039) (184,2040) (236,2041) (316,2042) (322,2043) (416,2044) (422,2045) (516,2046) (522,2047) (616,2048) (622,2049) 
+ui_jerky_team_session2 14 (0,2060) (36,2062) (116,2063) (122,2064) (184,2065) (236,2066) (316,2067) (322,2068) (416,2069) (422,2070) (516,2071) (522,2072) (616,2073) (622,2074) 
+ui_flicker1 7 (0,2085) (2,2086) (52,2087) (58,2088) (108,2089) (114,2090) (116,2093) 
+ui_flicker2 7 (0,2096) (2,2097) (52,2098) (58,2099) (108,2100) (114,2101) (116,2104) 
+ui_flicker3 7 (0,2106) (2,2107) (52,2108) (58,2109) (108,2110) (114,2111) (116,2114) 
+ui_flicker4 7 (0,2118) (2,2119) (52,2120) (58,2121) (108,2122) (114,2123) (116,2126) 
+ui_scale_transform_meter 7 (0,2129) (80,2131) (132,2132) (212,2133) (264,2134) (344,2135) (396,2136) 
+ui_rotate_scale 9 (0,2140) (2,2141) (84,2142) (136,2143) (220,2144) (272,2145) (356,2146) (408,2147) (410,2148) 
+ui_rotate_scale_02 9 (0,2151) (2,2152) (84,2153) (136,2154) (220,2155) (272,2156) (356,2157) (408,2158) (410,2159) 
+ui_rotate_scale_03 9 (0,2162) (2,2163) (84,2164) (136,2165) (220,2166) (272,2167) (356,2168) (408,2169) (410,2170) 
+ui_song_stars_total 12 (0,2174) (36,2175) (38,2176) (148,2177) (200,2178) (312,2179) (364,2180) (476,2181) (528,2182) (640,2183) (692,2184) (694,2185) 
+ui_song_stars_total_02 13 (0,2188) (36,2189) (88,2190) (90,2191) (200,2192) (252,2193) (364,2194) (416,2195) (528,2196) (580,2197) (692,2198) (744,2199) (746,2200) 
+ui_rotate 8 (0,2208) (2,2209) (68,2211) (152,2212) (204,2213) (288,2214) (340,2215) (342,2217) 
+rock_power_challenge_anim 14 (0,2219) (2,2221) (48,2222) (54,2223) (132,2224) (138,2225) (216,2226) (222,2227) (300,2228) (306,2229) (384,2230) (390,2231) (440,2232) (442,2233) 
+ui_alphablast 7 (0,2243) (2,2244) (99,2245) (206,2246) (235,2247) (241,2248) (243,2249) 
+ui_alphablast_02 7 (0,2252) (2,2253) (99,2254) (206,2255) (235,2256) (241,2257) (243,2258) 
+ui_alphablast_03 7 (0,2260) (2,2261) (99,2262) (206,2263) (235,2264) (241,2265) (243,2266) 
+ui_herkyjerky 11 (0,2274) (2,2275) (169,2276) (276,2277) (391,2278) (444,2279) (450,2280) (524,2281) (611,2282) (628,2283) (630,2284) 
+ui_shakey 7 (0,2292) (2,2293) (149,2294) (178,2295) (184,2296) (236,2297) (238,2298) 
+ui_shakey_02 7 (0,2301) (2,2302) (149,2303) (178,2304) (184,2305) (236,2306) (238,2307) 
+ui_shakeytime 10 (56,2310) (58,2311) (200,2312) (271,2313) (313,2314) (319,2315) (336,2316) (365,2317) (371,2318) (373,2319) 
+ui_roto 8 (0,2328) (2,2329) (109,2330) (180,2331) (221,2332) (227,2333) (276,2334) (278,2335) 
+ui_sheen 37 (28,2338) (34,2340) (40,2341) (53,2343) (66,2344) (92,2345) (118,2346) (152,2347) (188,2348) (206,2350) (213,2352) (225,2353) (238,2354) (250,2355) (263,2356) (279,2357) (292,2358) (311,2359) (323,2360) (335,2361) (351,2362) (367,2363) (379,2364) (391,2365) (393,2366) (409,2368) (425,2369) (441,2370) (443,2372) (505,2374) (518,2375) (602,2377) (615,2378) (699,2380) (712,2381) (764,2383) (766,2384) 
+ui_anim_sheen_pill_simple 47 (0,2389) (6,2390) (12,2391) (34,2393) (56,2394) (63,2396) (75,2397) (88,2398) (100,2399) (116,2400) (135,2401) (154,2402) (166,2403) (178,2404) (194,2405) (206,2406) (218,2407) (220,2408) (257,2411) (294,2412) (310,2413) (366,2415) (422,2416) (459,2417) (471,2419) (483,2420) (495,2421) (497,2423) (556,2425) (569,2426) (628,2427) (695,2428) (713,2429) (731,2430) (787,2431) (800,2432) (859,2435) (872,2436) (931,2437) (998,2438) (1016,2439) (1034,2440) (1090,2441) (1103,2442) (1120,2444) (1137,2445) (1139,2446) 
+sheen_highlight 50 (0,2450) (6,2452) (12,2453) (34,2455) (56,2456) (63,2458) (75,2459) (88,2460) (100,2461) (116,2463) (128,2464) (147,2465) (159,2466) (171,2467) (187,2468) (203,2469) (215,2470) (227,2471) (229,2472) (245,2475) (290,2476) (335,2477) (380,2478) (425,2479) (470,2480) (515,2481) (531,2482) (547,2483) (549,2485) (600,2486) (673,2488) (686,2489) (759,2491) (772,2492) (845,2494) (858,2495) (931,2497) (944,2498) (1017,2500) (1030,2501) (1103,2505) (1116,2506) (1178,2508) (1191,2509) (1264,2511) (1277,2512) (1350,2514) (1363,2515) (1412,2517) (1414,2519) 
+sheen_highlight_bottom 36 (0,2523) (6,2525) (12,2526) (34,2528) (56,2529) (63,2531) (75,2532) (88,2533) (100,2534) (116,2535) (128,2536) (147,2537) (166,2538) (178,2539) (190,2540) (206,2541) (222,2542) (234,2543) (246,2544) (248,2545) (264,2548) (280,2549) (325,2550) (350,2551) (352,2554) (404,2555) (466,2560) (479,2561) (541,2563) (554,2564) (616,2566) (629,2567) (691,2569) (704,2570) (756,2575) (758,2577) 
+ui_translate_left 8 (0,2586) (2,2587) (108,2588) (232,2589) (238,2590) (360,2592) (366,2593) (368,2596) 
+ui_translate_right 9 (0,2598) (2,2599) (108,2600) (232,2601) (238,2602) (360,2604) (366,2605) (416,2607) (418,2608) 
+anim_bling_horizontal_02 26 (60,2613) (62,2614) (108,2615) (154,2616) (171,2617) (179,2618) (189,2619) (231,2620) (244,2621) (286,2622) (299,2623) (341,2624) (349,2625) (391,2626) (393,2627) (410,2629) (438,2630) (476,2631) (516,2633) (579,2635) (585,2636) (648,2637) (654,2638) (717,2639) (723,2640) (725,2641) 
+anim_bling_small 26 (60,2646) (62,2647) (108,2648) (154,2649) (171,2650) (179,2651) (189,2652) (231,2653) (244,2654) (286,2655) (299,2656) (341,2657) (349,2658) (391,2659) (393,2660) (410,2662) (438,2663) (476,2664) (516,2666) (579,2668) (585,2669) (648,2670) (654,2671) (717,2672) (723,2673) (725,2674) 
+anim_bling_small_002 26 (76,2678) (78,2679) (124,2680) (170,2681) (187,2682) (195,2683) (205,2684) (247,2685) (260,2686) (302,2687) (315,2688) (357,2689) (365,2690) (407,2691) (409,2692) (426,2694) (454,2695) (492,2696) (532,2698) (595,2700) (601,2701) (664,2702) (670,2703) (733,2704) (739,2705) (741,2706) 
+AC_threshold_glints_b 36 (0,2714) (6,2716) (12,2717) (34,2719) (56,2720) (63,2722) (75,2723) (88,2724) (100,2725) (116,2726) (128,2727) (147,2728) (166,2729) (178,2730) (190,2731) (206,2732) (222,2733) (234,2734) (246,2735) (248,2736) (264,2739) (280,2740) (325,2741) (350,2742) (352,2745) (404,2746) (466,2751) (479,2752) (541,2754) (554,2755) (616,2757) (629,2758) (691,2760) (704,2761) (756,2766) (758,2768) 
+AC_threshold_glints_a 50 (0,2772) (6,2775) (12,2776) (34,2778) (56,2779) (63,2781) (75,2782) (88,2783) (100,2784) (116,2786) (128,2787) (147,2788) (159,2789) (171,2790) (187,2791) (203,2792) (215,2793) (227,2794) (229,2795) (245,2798) (290,2799) (335,2800) (380,2801) (425,2802) (470,2803) (515,2804) (531,2805) (547,2806) (549,2808) (600,2809) (673,2811) (686,2812) (759,2814) (772,2815) (845,2817) (858,2818) (931,2820) (944,2821) (1017,2823) (1030,2824) (1103,2828) (1116,2829) (1178,2831) (1191,2832) (1264,2834) (1277,2835) (1350,2837) (1363,2838) (1412,2840) (1414,2842) 
+ui_anim_sheen_AC 47 (0,2848) (6,2849) (12,2850) (34,2852) (56,2853) (63,2855) (75,2856) (88,2857) (100,2858) (116,2859) (135,2860) (154,2861) (166,2862) (178,2863) (194,2864) (206,2865) (218,2866) (220,2867) (257,2870) (294,2871) (310,2872) (366,2874) (422,2875) (459,2876) (471,2878) (483,2879) (495,2880) (497,2882) (556,2884) (569,2885) (628,2886) (695,2887) (713,2888) (731,2889) (787,2890) (800,2891) (859,2894) (872,2895) (931,2896) (998,2897) (1016,2898) (1034,2899) (1090,2900) (1103,2901) (1120,2903) (1137,2904) (1139,2905) 
+
+[Checksums]
+0x6984d71d scripts\guitar\guitar_menu.qb
+0x84040004 ui_rotate_scale_03
+0x8e411006 b
+0x4706f012 white220
+0x220f3012 user_control_helper_get_index
+0x50c1001a blingY
+0xdd70901e Options_Controller_X
+0x64ff9024 ticker_alpha
+0x45d02031 ui_meter_pulse
+0xe126e035 top
+0xadc6703c gh4_unfocus_greyish
+0x475bf03c event_handlers
+0x4e03c041 zdebug
+0xb0ad6043 p4
+0x7fb95054 mixer_icon_drums
+0x0d87a060 focus_color
+0x33f8c060 pos_MB
+0x93f60062 r
+0x059ea070 red
+0x27543071 SE_FitToDims
+0x49c9207b p2_purpley
+0xc3d3907e default_event_handlers
+0x27c6308c blingX
+0xf3033092 ui_rotate_scale_02
+0x9a2e9095 set_focus_color
+0x3c96b0a8 AC_threshold_glints_a
+0x1d8130b6 text_right
+0x8d2ee0c9 preserve_aspect_ratio
+0x2a1fe0cc shadow_offs
+0xb7db40d2 minwidth
+0xc7aa50d5 p5
+0x4b9700dd texture_end
+0xf1bb60f3 grey100
+0xe4f130f4 s
+0x301dd0f9 GetGlobalTags
+0x655e0101 GH5_gold_md
+0x44714104 pad_L3
+0x99941105 md_violet_grey
+0xcbe90108 ticker_font
+0xb12b510a spriteElement
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0x3c1a8111 start_y_scale
+0xa59fe112 AC_threshold_glints_b
+0x122d0119 destroy_generic_backdrop
+0xe1f4711f relative_scale
+0x2ae3f121 pos_LB
+0xf8f76128 anim_bling_small
+0x73665140 CreateScreenElement
+0x70ee3149 E_SetProps
+0x7df8614e p
+0x0e5c814f red175
+0xf0462150 fit content if larger
+0x5e1dc153 white230
+0x945ed158 user_control_destroy_helper
+0xcc12115e song
+0x01dd615f DescInterface
+0xa6daa163 new_texture
+0xc204116d menu_unfocus
+0x5ea3016f p6
+0xcf66717b GotParam
+0x3b6fa19f override_struct
+0x6d8e11a8 first
+0x27e681ad should_use_all_buttons
+0x761771b1 new_menu
+0x40af31b1 ui_pulse
+0x5e9d11b2 player_num
+0x5d0671b8 channel
+0x2c66a1ba helper_description_text
+0x174841bc a
+0x1ec6e1bf pure_white
+0x7a41c1c8 pulsate_helper_pill
+0x52a501c9 fit_text_convert_legacy_params_props
+0x2f0861d1 gamertag_helper_pill_ID
+0x634801da setlist_orange
+0x2f6511de green
+0xbfa801df change
+0x3b4631df IsPS3
+0x848321e4 get_gamertag
+0xfef4e1e8 unlocked
+0x1e7bb1f5 shadow_rgba
+0xa1dc81f9 name
+0x29a431f9 p7
+0x981c91fe create_generic_backdrop
+0xb107a212 brown_unfocus
+0x7bd4e213 helper_pill_end_L_texture
+0x970a9218 mixer_icon_guitar
+0xa90f7219 menu_unfocus_color
+0xd5f4e223 ui_frazzmatazz_02
+0x500eb224 Obj_GetID
+0x3174522c buttonchar
+0x8b60022f just
+0xe0d1522f for_bonus
+0x29324230 GetActiveControllers
+0x57e00232 ui_ff_loading_pulse
+0x736b223b mic_enhancement
+0x6704e23e p1_orangey
+0x4c19324a use_shadow
+0x1e26724b cream2
+0xbd30325b white
+0x46159266 out
+0x4de5a27f texture_body
+0x7d99f28d texture
+0x75309290 white200
+0x8012c29f SetSpawnInstanceLimits
+0x11f692a6 SetPlayerInfo
+0xb856e2ae gold
+0xa2f3d2b5 ui_frazzmatazz_03
+0xd443a2bc off
+0x487662c7 ui_song_stars_total_02
+0xccf312c9 on_left
+0x1d7ac2ce ui_jerky_team1
+0x196d12d1 song_title
+0xa94b02d9 ui_scale_transform_meter
+0xabf312ef x_dim
+0xa112f2f3 touch_check
+0xa55aa2fd songlist_focus_orangeish
+0x3ea45306 alpha_off
+0x88495311 ui_rotate_scale
+0x96d45334 dark_red3
+0x27aee33f grey64
+0xf4474351 RT
+0x4fcc1353 lt_plum
+0xa8ee7357 ScriptAssert
+0x2ffb1360 yellow
+0xba44a361 ui_jerky
+0x83a51364 element_height
+0x0203b372 true
+0x84739374 ui_jerky_team2
+0x5b058376 param
+0x73853377 ui_song_stars_total
+0x8eee937a vocal_star_power_tap_save
+0xb7d2e37c ui_band_lobby_leader_pulse
+0x199f8389 creamy_grey
+0x3815b38f text_rgba
+0x4837e397 pos_anchor
+0x9109a39b scrollid
+0x565ea39b spacing
+0x278023a0 cream
+0xe1d363a2 dark_red2
+0x6768b3a2 destroy_menu
+0xa76003a8 helper_pill_end_dims
+0xf44a53ab desc
+0xda3403b0 null
+0x1564a3b5 mixer_icon_vox
+0xc5f953c2 button
+0xc4ec93c9 ui_anim_sheen_AC
+0xff6ed3cb gh5_focus_yellowish
+0x6c2ba3d1 white210
+0xb2aa73d5 options_change_touch_strip_option
+0x10c6f3db structure_name
+0x67e093e4 internal_just
+0x85b2c3e6 Menu_SetItemIndex
+0x468803e6 sheen_highlight
+0xc37153ec check
+0xc5bc93ee ScreenElementExists
+0x67d2e3f0 SE_GetProps
+0x21e793f3 ui_sheen
+0xf2ae23f4 user_control_pill_text_color
+0x38506401 menu_backdrop
+0xff0db407 textname
+0x6fe2f40a ticker_just
+0xce47d40b ticker_text_id_1
+0xb11ff412 ui_herkyjerky
+0x9198f41c fill_rgba
+0x9277f428 FormatText
+0xd7793438 helper_description_rgba
+0x900ec43a blueish_grey
+0xf8a4443a get_savegame_from_controller
+0xbd09544c func
+0x4086e45d g_num_scrolling_texts
+0xde374470 pos_LT
+0xe83e447e on_l3
+0x7798a48d element_dims
+0x4b4e14ab spacing_between
+0x39b5c4b0 GetArraySize
+0x8ccc94b6 grey150
+0x545e74b9 format_globaltag_song_checksum
+0xc8af34c3 brick
+0x445114c8 NetSessionFunc
+0xc0c794cc p1
+0xdeef04cd StructureContains
+0xcb9fb4cf bass
+0xe921a4d8 ScrollDown
+0xf77614d8 ResolveScreenElementId
+0xbf0f14db center
+0x0bee74e5 grey50
+0xf2d844ed ui_jerky2
+0xa5f054f4 Integer
+0x8da97503 primary_controller
+0xd7c8250d long_band_text
+0x9d3fb516 focus
+0xdbd93529 rock_power_challenge_anim
+0xae3b752b num_tiers
+0xc72c7531 pos_MT
+0xa3428532 set_user_control_color
+0x6722b533 d
+0x26b6e535 ease_out
+0x1e3e253b pad_choose
+0x2769c545 violet_focus
+0x4c29c545 RequireParams
+0xa88e754a circle_gradient_64
+0x61c9354b blue
+0x84cb354d ticker_text_with_space_length
+0xf627f551 GH6_gold
+0x8ab65562 pink2
+0x40de9572 set_unfocus_color
+0x34a68574 dims
+0x8b002574 tilt_check
+0x59cec576 p2
+0x07855578 auto_dims
+0x05f7858b sys_fontgrid_text_a6_fire_sys_fontgrid_text_a6_fire
+0xab62d58b options_change_vocals_mic_enhancement
+0x67e6859a player
+0x532745a6 pill_text_rgba
+0x964e85b0 add_super_user_control_helper
+0x574e85b1 ticker_text_id_2
+0xc4ff55b3 alpha_on
+0x23a4e5c2 Obj_SpawnScript
+0xd176f5cd use_tilt_for_starpower_save
+0x767a45d7 black
+0x2ec9f5e0 p3
+0x0093f600 RB
+0x7fb7f601 dark_red5
+0x6d771601 randrotB
+0x2de8c60e printf
+0x49538615 menu_backdrop_container
+0xd029f619 seconds
+0x3f814629 helper_button_texture
+0xed3c362c setlist_prefix
+0x8a4c762d song_checksum
+0x1a090632 ui_translate_left
+0xf649d637 on
+0xf21c063d pinkish_red
+0xaa6f4643 IsXenonOrWinDX
+0xa0b6d64c StringLength
+0x09626656 menu_subhead
+0x6158365a sheen_time
+0x9f4b266a helper_pill_body_dims
+0xa3c3266d pos1
+0xa8bc366e ticker_rgba2
+0x0c939671 menu_focus
+0x6bef3672 SetScriptCannotPause
+0x6aa8d676 x_scale
+0xea86767b default_menu_focus_color
+0x9495c67b blingPos
+0x649cb685 anim_bling_small_002
+0x07f67688 old_font
+0x2f1fc695 alpha
+0x08b0c697 dark_red4
+0x1a702697 randrotC
+0x0983b69a caption
+0x82e666a2 text_left
+0xb09c56a9 lt_violet_grey
+0x38ed26ab g_controller_unplugged_dialog_up
+0x157ef6ae ticker_x_scale
+0x3d6736d3 helper_pill_rgba
+0x332816ed menu_id
+0x0e4b86f6 blueish_grey2
+0xbc7316fe override_parent
+0x5760c702 current_scrollmenu
+0x99a9b716 color
+0x2adff72a hide_user_control_helpers
+0x2f6bf72d font
+0xb3eaf72e ease_in
+0x4403372f mixer_icon_bass
+0xda103733 default_colors
+0x92478752 metaRemapEnableAuto
+0xe787d761 menu_pos
+0x406dd761 GetScreenElementDims
+0xa523e764 factor_start_scale
+0x1136c768 menu_parent
+0x340d5768 sheen_highlight_bottom
+0x73e95773 gh51_purple_lt
+0x6d82377f user_control_pill_color
+0xa748d781 gh5_focus_white
+0x84f3f782 ui_shakeytime
+0x0ed45788 Obj_SpawnScriptNow
+0x0fcc278f unfocus_color
+0xd93f47ac metaRemapEnable
+0xc832e7b7 long_ticker_text_length
+0xf9e477b9 GetLocalGamerTag
+0x906b67ba time
+0xf47e47bb randrotA
+0x2c0ac7c0 ui_frazz_something
+0x6c63c7c5 SetProps
+0xd62777c5 get_savegame_from_player
+0xe288a7cb value
+0xd43297cf false
+0x43e447d0 IsChecksum
+0x31b567d4 ticker_rgba1
+0x3aca77d7 pos2
+0xf31f37df ticker_pos
+0x66f197e6 use_all_controllers
+0x30d8f7ec bg_rgba
+0xa366c7ef isGuitarController
+0x7152d7fb update_gamertag
+0x1abec7ff fit_text_in_rectangle
+0x130ef802 vmenu
+0x4db1a802 ui_alphablast_02
+0xea95e808 ui_pulse5
+0x0f42880c audio_set_microphone_EQ
+0x90fec815 structure
+0x57380820 flesh
+0xf4d9a825 add_user_control_helper
+0x91a4c826 relative
+0x30a4f836 pad_up
+0xc4745838 text
+0x5b9da842 ContainerElement
+0xcc91e842 str_len
+0x25209846 SE_WaitProps
+0x9d2d8850 z
+0xd20e6857 ticker_shadow_rgba
+0x6f31c85f alias_helper_button
+0x435a8871 helper_pill_id
+0x9d6d6874 ticker_space
+0xdb616875 tier
+0xf3886875 use_tilt_for_starpower
+0x29d5d87b add_gamertag_helper
+0x05ddd87c pad_right
+0xfaa4187d tier_checksum
+0x70d22880 g_disconnect_quit_warning_shown
+0x2edf3885 ticker_z_priority
+0x6337188b buttonchar1
+0x1972788c gh4_jam_orangeish
+0x3ab69894 ui_alphablast_03
+0x29f1a896 GetScreenElementChildren
+0x85981897 left
+0x9d92d89e ui_pulse4
+0x40c698af id
+0xab4628cd icon_id
+0x917678d0 fire_font
+0x07ec08d2 retail_menu_focus
+0x7321a8d6 type
+0x21cc38d9 ExtendCRC
+0xe88a38e6 gamertag_helper_update
+0xf62618fa controller_text
+0x9354a8fc audio_ui_band_lobby_sfx_logic
+0x7f8c98fe index
+0x7528b908 gh5_unfocus_peru
+0xfa97590a yellow_lt
+0xd2530913 ui_alphablast
+0xa030c917 options_change_tilt_star_power
+0x878ea91d ps3_caption
+0x0ad46922 controller_index
+0xa589c925 IsSongAvailable
+0x91e9a92c helper_pill_super_body
+0x43a7692d allow_wrap
+0xfa3e4931 buttonchar2
+0xae243942 ui_alphablink
+0x7f261953 pos
+0x1bf0695d show_user_control_helpers
+0xb30d9965 controller
+0x6c4e7971 prefix
+0x89a4a98c reset_focus_colors
+0xf901898d gold2
+0x1993c98e i
+0xdfa6a99d icon_texture
+0xb64129af user_control_container
+0x739cb9b2 ui_pulse6
+0x3c15e9b6 DestroyScreenElement
+0xf2b8c9ba reorder_index
+0x1b0509c5 savegame
+0x49f509d4 randtime
+0x384ce9d6 reddish_grey
+0xd4d2c9df LB
+0x1cb4c9e8 destroy_menu_backdrop
+0xa58079eb SetTags
+0x064af9f0 ui_winnericon_team
+0xb32979f7 ignoreslomo
+0x26982a07 all_buttons
+0x99329a08 helper_button_text
+0xfc9b6a0d ui_song_stars_earned_pulse
+0x318f3a0f custom_setlist_continue_helper
+0x7b820a11 only_if_larger_x
+0x0bc06a21 CastToInteger
+0x28ee8a3b element_pos
+0x84298a3c vscrollingmenu
+0x02806a46 helper_pill_menu_dims
+0x83418a6a material
+0x18b97a6b font_size
+0x6086aa70 start
+0xddfbba79 dark_red
+0x1fd26a7a user_control_helper_exists
+0x13b9da7b scale
+0x2b489a86 circle
+0x0c853a87 only_if_larger_y
+0x76fa7a8f checksumname
+0x14e68a94 user_control_helper_change_text
+0x08a53a96 tiername
+0x9a6d8aa5 start_x_scale
+0xb79a8aad g_menu_colors
+0xf4b16ab0 management
+0x6da42abb ScrollUp
+0x73e5bad0 width
+0x047d8ad7 online_fill_rgba
+0x601e1adc dark_orange
+0x56a1eae3 root_window
+0x4b358aeb right
+0xc9287aee GetScreenElementProps
+0x19fa5af7 SpawnScriptNow
+0x43b1faf9 ticker_text_with_space
+0x85a43afa match
+0x4991ab08 gh4_focus_brownish
+0x4bfabb14 use_backdrop
+0x28e66b14 resolved_id
+0xae695b15 ui_flicker4
+0x09383b1b enable_touch_strip
+0xb4f61b21 on_choose
+0x871adb23 new_index
+0xcf3abb45 assignment
+0x96933b5f y_dim
+0xadbaab66 gh5_unfocus_grey
+0xedddbb68 GetEnterButtonAssignment
+0x10b23b70 dk_violet_grey
+0x77c71b72 user_options
+0x6949db75 pad_left
+0x50994b7b retail_menu_unfocus
+0x05c16b8a enable_touch_strip_save
+0x1272cb91 starburst_32
+0xb9992b93 obj
+0x92e66bab brown
+0xd0d2dbac alert_red
+0x0a767baf pos_RT
+0x29502bc0 UI_SFX
+0x970ffbce strumbar
+0xd2df5bd5 khaki
+0xdd4cabd6 child
+0xd76c8bd7 grey182
+0x21b10bdc anim_bling_horizontal_02
+0x1fd67bf0 helper_pill_end_R_texture
+0xc0f58bf0 g_memcard_state_active
+0xb14cdbf5 ui_band_lobby_pulse
+0x70799bfa ui_alphaflight
+0x4d49ac0a current_menu
+0x5aad6c16 LBRB
+0x7d654c18 exclusive_device
+0x02e58c18 add
+0x82117c1a wait
+0x8addac1f smooth
+0x9f23dc21 SE_SetProps
+0x80447c22 in_band_lobby
+0x0fd1ac26 pad_down
+0xee205c2a ui_winnericon_team_session
+0x09a7dc2e end_pos
+0xfda27c32 maxradius
+0xd6445c38 newindex
+0xb5742c5a gamertag
+0x8cb62c5d dk_violet_bar
+0xcada6c5f get_local_in_game_player_num_from_controller
+0xb91b2c68 p8
+0x1d743c75 options_change_vocal_star_power_tap
+0x124ebc88 tierlist
+0x20067c8e LT
+0xed164c92 ui_translate_right
+0xba5bbc99 starting_pos
+0xe9f40ca2 menu_venue_bg
+0x107d0ca4 Audio_Options
+0x3fb0bcaa ui_rotate
+0x1d9adcad get_song_title
+0x0830ecaf objid
+0x44a31cb5 SetGlobalTags
+0x31fb9cb5 helper_pill_overriden_parent_watcher_script
+0x62c11cb9 GetSingleTag
+0x90356cb9 SetScreenElementProps
+0xf8ab2cca burnt_orange
+0x257f6cd2 fit_minor
+0xd9848cd3 chocolate
+0x4adf0cd3 unfocus
+0x35fdecd6 isVertical
+0x5cc16cdf drum
+0xe7c2ece1 fit_major
+0xd6521cee generic_event_back
+0x7a4f1cf2 position_children
+0x91919cf3 helper_pill_super_end
+0xc94a7cf5 default_menu_unfocus_color
+0x3a6ebcfa multi
+0x7e5cfcfc ticker_parent
+0xce1c1cfe p9
+0x7056ed02 RemoveParameter
+0x86596d08 ToggleOn
+0x8be00d09 PAD_LEFT_RIGHT
+0xcc283d0c maxtime
+0xc7af9d12 on_right
+0xb309fd1a ticker_y_scale
+0x2b3c0d24 ui_frazzmatazz
+0x7ee0fd2a pad_back
+0x03f64d3d ui_pulse3
+0x24b76d3f user_control_helper_reorder
+0xcfdbdd43 mintime
+0x7f5b3d4d array_size
+0xc906ad51 menustate
+0x61414d56 string
+0x76a08d5b bottom
+0xa6b11d5f generate_helper_pill_id
+0x7785fd6d no_wrap
+0x1539cd6d fit_text_convert_legacy_params
+0x6289dd76 max
+0x4825ed79 create_menu_backdrop
+0xa0984d83 active_controllers
+0xaf3edd9b light_grey
+0x3c536da0 vocals_mic_enhancement_save
+0x74f17dab ui_pulse2
+0x2cfbddad keep_ar
+0x30b00db3 helper_pill_body_texture
+0x5d98fdb4 ui_roto
+0x3f6bcdba rgba
+0xa8398dbd lt_violet_bar
+0xccdfddc2 y_scale
+0x1d053dc4 scroll_ticker_text
+0x5cc6adc9 burnt_red
+0xe8e6adcb vocals
+0x8a897dd2 shadow
+0x92d31ddb metaRemapDeviceToUse
+0x27576dec IsDrumController
+0x7fb07e0d vmenuid
+0x499f6e0d effect
+0x0a015e17 motion
+0xed344e1b rot_angle
+0x20f6ae1d ticker_text
+0x470afe20 ui_flicker2
+0xc4e78e22 all
+0xd39c8e29 pink
+0x69b05e2c generic
+0x657bbe2c menu_focus_color
+0x6b44ee3b ui_shakey
+0xcf7b4e3e ps3_override_buttons
+0x6cabfe3f ui_winnericon
+0x5e684e45 children
+0xeb53ae47 frame_rgba
+0xb7c7ce49 element_width
+0x21e6fe57 middle_pos
+0x45134e64 songs
+0x78b88e6d vocal_star_power_tap
+0x831cbe6e ticker_y
+0x2a49ce73 minradius
+0xbe304e86 printstruct
+0xe23a4e87 orange
+0x31e83e95 ui_alphablink_02
+0x94cb1e9d MenuElement
+0x08d82e9d AddParam
+0x30dd7eb1 params_struct
+0x300dceb6 ui_flicker3
+0xbb566ec3 another_button
+0xf5569ec3 ui_jerky_team_session1
+0x92313ec8 back
+0x54628ed7 blend
+0xb7822ed8 song_count
+0x8737eeda is_network_game
+0xa6bbbee7 keep dims
+0x65485eea GetPlayerInfo
+0xf41b8ef8 ticker_x
+0xfea2cefe pos_RB
+0xfc37df05 gameframe
+0xe9035f0f ui_shakey_02
+0x02141f19 clean_up_user_control_helpers
+0x2c6a5f27 uitype
+0x806fff30 none
+0x62be1f30 IsObjectScript
+0x57710f31 z_priority
+0x51bbef33 maxwidth
+0xb6f08f39 part
+0x62559f3a ToggleOff
+0x55364f47 long_ticker_text
+0x56a96f5b gh4_jam_yellowish
+0x968c1f66 light_brown
+0x96254f72 IsArray
+0x0028ff78 dk_violet_red
+0x6c5fcf79 ui_jerky_team_session2
+0x2eb3ff83 kill_oldest
+0x2fefaf84 fontgrid_text_a1
+0xde03af9a ui_flicker1
+0xc2719fb0 parent
+0x5200dfb6 TextElement
+0x1b7fdfb9 ui_anim_sheen_pill_simple
+0xb96e8fbd GetRandomValue
+0xa986bfc3 Options_Controller_Check
+0xb07cefc3 get_controller_or_gamertag_text_name
+0x7a166fca old_caption
+0x3b040fcb force_pad_button
+0xb8e9cfd8 user_control_helper_get_buttonchar
+0xd3ebbfe5 tomato
+0x4e42cfe7 pill_rgba
+0x49b9ffeb filter_light_on
+

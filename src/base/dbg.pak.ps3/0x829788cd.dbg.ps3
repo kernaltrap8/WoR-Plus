@@ -1,0 +1,30 @@
+[LineNumbers]
+
+[Checksums]
+0xa8c9ea25 scripts\guitar\autoscreen_data.qb
+0x0813001a custom_condition
+0x341490b5 autoscreen_types
+0x98316159 band_failed
+0xed098163 num_captures
+0x3fea11bb autoscreenshot_band_failed_condition
+0xbebfa1c6 element
+0x3a856248 song_condition
+0x6166f3ad script_name
+0xbed80563 disable_bots
+0x1485d569 threshold
+0xc3f4169a filename
+0x1cb2a6b0 num_players
+0x906b67ba time
+0x422977bc condition
+0x2b464852 logic
+0x1fc09883 used_star_power
+0x7321a8d6 type
+0x35db08de star_power_amount
+0x9f3c4a33 ten_second_mark
+0xf8509b99 required_players
+0xc706fc5e equals
+0x92be3d33 star_power_used
+0x23805d68 player_info_condition
+0x652abe29 got_star_power
+0x7b30bee4 greater_than
+

@@ -1,0 +1,54 @@
+[LineNumbers]
+
+[Checksums]
+0xc549a516 scripts\av_presets\tb_global_blackhole_1.qb
+0xcae27061 sprite
+0x833950cc outerRadius
+0xcfa6a0fa clearColor
+0xfe82614d length
+0xf5a93162 offsetX
+0xc48391a5 radius
+0x82ae01f4 offsetY
+0xb7f9b256 timeRate
+0xb5aa125f fade
+0x384c42d0 TB_Mat_Gradient
+0xdbbaf32d radiusScale
+0x91e07350 thickness
+0x051273c0 controls
+0xdd6bb3d5 blendMode
+0xc2de63ed beatOn
+0xc184f404 response
+0x5472542b traceLength
+0xf5d16465 primitives
+0xf9d52489 TB_Global_Blackhole_1
+0xa6f5352f offset
+0xf372e60b OG_Mat_Flare_add
+0x7bc74623 spectrumBand
+0xd1cd1630 cosTime
+0x99a9b716 color
+0xed91979d responseFunc
+0xd98047ec frequency
+0x8d2c287f innerRadius
+0x7321a8d6 type
+0x7f261953 pos
+0xff46c97e deform
+0x515e298e diffuse
+0x34952a27 constant
+0x8ebb3a3e brightnessModulation
+0x83418a6a material
+0x13b9da7b scale
+0x2b489a86 circle
+0x73e5bad0 width
+0xf83a3ad0 sinTime
+0x0ab21af0 height
+0x797b2b45 scaleMod
+0xc42fab67 angularVel
+0x02e58c18 add
+0xae1fcc20 viewport_Params
+0xf6437c2b blendPrev
+0x6dac4cd9 hypotrochoid
+0xea0e7dee srcMulDstPlusDst
+0x28749e08 alphaFromGray
+0x54628ed7 blend
+0x68e77f40 brighten
+

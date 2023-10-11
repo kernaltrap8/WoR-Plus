@@ -1,0 +1,34 @@
+[LineNumbers]
+
+[Checksums]
+0x4c195d84 models\car_instruments\guitar\esp\gtr9_esp_ax.qb
+0x9687f060 BRIDGE
+0x9cafd137 gtr9_esp_ax_NodeArray_SortedIndices
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0xc2e433ea GTR4_Bridgewhammy_NODE_GTR9_Knob001
+0x8058e545 MISC
+0x5be38567 GTR4_Bridgewhammy_NODE_GTR9_Pickup001
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0x3f597861 gtr9_esp_ax_NodeArray_SortedNames
+0xcc3208ff gtr9_esp_ax_NodeArray
+0x7f261953 Pos
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0xa4222b34 GTR4_Bridgewhammy_NODE_GTR9_Pickup03
+0x7ece2b40 GTR4_Bridgewhammy_NODE_GTR9_Bridge
+0x007c7b68 AttachType
+0xd3251ba2 GTR4_Bridgewhammy_NODE_GTR9_Pickup02
+0x53265ba6 AttachIndex
+0x9cfe5bf3 GTR4_Bridgewhammy_GTR9_ESP_AX
+0x3ff47bf4 RemovalFlags
+0x4bd3bc1e GTR9_ESP_AX
+0xddc22ca1 GTR4_Bridgewhammy_NODE_GTR9_Knob02
+0x385e8d74 SkinExport
+0x4d418e01 GTR4_Bridgewhammy_NODE_GTR9_Pickup05
+0x3a46be97 GTR4_Bridgewhammy_NODE_GTR9_Pickup04
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+0x785f6fc7 GTR4_Bridgewhammy_NODE_GTR9_Switch
+

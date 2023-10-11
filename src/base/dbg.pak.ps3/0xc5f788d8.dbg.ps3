@@ -1,0 +1,339 @@
+[LineNumbers]
+musicstudio_skip_next_note_forward 3 (0,11) (6,13) (40,14) 
+musicstudio_skip_next_note_backward 3 (0,18) (6,20) (40,21) 
+musicstudio_skip_next_note 19 (28,25) (55,27) (79,29) (89,31) (99,32) (105,33) (118,34) (124,35) (137,36) (143,37) (156,38) (162,39) (168,40) (174,41) (180,42) (182,43) (186,45) (206,47) (208,48) 
+musicstudio_track_design_get_state 7 (0,57) (12,59) (25,60) (43,62) (72,63) (74,64) (104,66) 
+musicstudio_track_design_get_active 7 (0,70) (12,72) (25,73) (43,75) (72,76) (74,77) (104,79) 
+musicstudio_skip_closest_note 13 (0,83) (12,86) (36,87) (72,89) (90,90) (124,91) (128,92) (172,94) (196,96) (200,97) (220,99) (222,100) (224,102) 
+musicstudio_note_edit_mode_deinit 2 (0,106) (36,108) 
+musicstudio_note_edit_enable_whammy_skip 3 (0,112) (12,115) (36,116) 
+musicstudio_toggle_pattern_is_active 6 (0,120) (44,122) (76,123) (80,124) (112,125) (114,126) 
+musicstudio_clear_pattern 5 (0,130) (44,132) (79,133) (85,134) (87,135) 
+musicstudio_toggle_pattern 13 (0,139) (12,141) (25,142) (68,144) (104,145) (122,146) (152,147) (154,148) (160,150) (162,151) (180,153) (186,154) (188,155) 
+musicstudio_toggle_pattern_set_default_velocity 18 (0,159) (12,162) (25,163) (68,165) (87,167) (110,169) (128,171) (153,172) (166,173) (182,174) (184,175) (188,177) (213,178) (226,179) (239,180) (241,181) (276,184) (278,185) 
+musicstudio_toggle_pattern_name_text 3 (0,189) (18,191) (32,192) 
+musicstudio_toggle_pattern_update_name_text 17 (0,196) (12,198) (25,199) (44,201) (78,202) (112,203) (116,204) (155,205) (194,206) (196,207) (208,209) (220,210) (222,211) (250,212) (290,213) (312,214) (320,215) 
+musicstudio_toggle_pattern_get_name_text 10 (0,219) (44,221) (63,222) (92,223) (96,224) (128,225) (130,226) (134,227) (164,228) (166,229) 
+musicstudio_preview_closest_drum_note 53 (0,238) (12,240) (29,241) (72,243) (84,245) (97,246) (110,247) (122,249) (143,250) (160,251) (162,252) (180,254) (219,255) (258,256) (297,257) (301,258) (340,259) (379,260) (418,261) (420,262) (456,264) (470,265) (472,266) (508,268) (547,269) (576,271) (599,272) (612,273) (625,274) (638,275) (650,276) (673,277) (680,278) (684,279) (696,280) (708,281) (710,282) (739,284) (778,285) (801,287) (830,288) (853,289) (866,290) (879,291) (892,292) (904,293) (927,294) (934,295) (936,296) (958,298) (966,299) (968,300) (970,302) 
+musicstudio_preview_closest_note 48 (0,306) (12,308) (25,309) (68,311) (104,313) (118,314) (120,315) (156,317) (170,318) (172,319) (208,321) (222,322) (224,323) (260,325) (274,326) (276,327) (316,329) (329,330) (331,331) (354,334) (380,335) (401,338) (417,339) (443,341) (461,342) (499,343) (503,344) (532,345) (534,346) (536,347) (538,349) (557,351) (570,352) (583,353) (595,354) (608,355) (622,356) (635,358) (642,361) (680,363) (740,364) (778,365) (812,366) (850,367) (852,368) (854,369) (856,370) (858,372) 
+musicstudio_preview_closest_note_set_last_pitch 7 (0,376) (46,379) (87,381) (100,384) (129,385) (142,386) (144,387) 
+musicstudio_update_velocity_name_text 7 (0,396) (12,398) (25,399) (68,401) (74,402) (103,403) (105,404) 
+musicstudio_velocity_name_text 7 (0,408) (44,410) (78,411) (92,412) (96,413) (128,414) (130,415) 
+musicstudio_update_expressive_type_name_text 7 (0,424) (12,426) (25,427) (68,429) (74,430) (103,431) (105,432) 
+musicstudio_expressive_type_name_text 7 (0,436) (44,438) (94,439) (108,440) (112,441) (144,442) (146,443) 
+musicstudio_change_expressive_type 7 (0,447) (12,449) (25,450) (68,452) (104,453) (134,456) (136,457) 
+musicstudio_get_selected_expressive_type 6 (0,461) (44,463) (58,464) (62,465) (92,466) (94,467) 
+musicstudio_preview_expressive_type 2 (0,471) (18,473) 
+musicstudio_get_list_checksum_expressive_type 2 (0,477) (32,480) 
+musicstudio_update_chord_name_text 11 (0,489) (12,491) (25,492) (68,494) (86,495) (92,496) (121,497) (125,498) (131,499) (133,500) (135,501) 
+musicstudio_chord_name_text 11 (0,505) (44,507) (62,508) (112,509) (116,510) (166,511) (168,512) (182,513) (186,514) (216,515) (218,516) 
+musicstudio_change_chord 7 (0,520) (12,522) (25,523) (68,525) (104,526) (134,529) (136,530) 
+musicstudio_get_selected_chord 6 (0,534) (44,536) (58,537) (62,538) (92,539) (94,540) 
+musicstudio_preview_chord 2 (0,544) (18,546) 
+musicstudio_get_list_checksum_chord 7 (0,550) (44,553) (62,554) (92,555) (94,556) (96,557) (128,559) 
+musicstudio_update_strum_type_name_text 8 (0,568) (12,570) (25,571) (68,573) (74,574) (80,575) (121,576) (123,577) 
+musicstudio_strum_type_choose_script 13 (0,581) (12,583) (25,584) (68,586) (86,588) (99,589) (103,590) (116,591) (118,592) (154,594) (160,595) (166,596) (168,598) 
+musicstudio_strum_type_get_active 12 (0,602) (12,604) (25,605) (33,607) (43,608) (72,609) (85,610) (104,611) (136,612) (138,613) (140,614) (172,616) 
+musicstudio_strum_type_name_text 24 (0,620) (12,622) (25,623) (68,625) (76,627) (86,628) (98,629) (116,630) (128,631) (130,632) (164,634) (178,635) (191,636) (210,637) (222,638) (240,639) (252,640) (254,641) (288,643) (302,644) (304,645) (306,646) (308,648) (340,650) 
+musicstudio_update_note_name_text 8 (0,659) (12,661) (25,662) (68,664) (74,665) (80,666) (121,667) (123,668) 
+musicstudio_note_name_text 13 (0,672) (12,674) (25,675) (68,677) (99,678) (128,679) (130,680) (160,682) (194,683) (208,684) (212,685) (244,686) (246,687) 
+musicstudio_note_get_active 9 (0,691) (12,693) (25,694) (68,696) (99,697) (128,698) (130,699) (132,700) (164,702) 
+musicstudio_chromatic_get_note_text 8 (0,706) (72,708) (84,710) (97,711) (109,713) (132,714) (186,715) (212,717) 
+musicstudio_get_selected_chromatic_note 7 (0,721) (12,724) (25,725) (68,727) (98,728) (100,729) (114,731) 
+musicstudio_notes_get_list_size 22 (0,735) (12,737) (25,738) (40,740) (58,741) (74,742) (76,743) (88,745) (96,746) (106,747) (128,748) (141,749) (154,750) (167,751) (179,752) (191,753) (193,754) (226,755) (248,756) (256,757) (258,758) (272,760) 
+musicstudio_preview_note 3 (0,764) (18,766) (48,767) 
+musicstudio_change_note 8 (0,771) (18,773) (30,775) (43,776) (88,778) (136,779) (166,782) (168,783) 
+musicstudio_notes_get_name_text 17 (0,787) (12,789) (25,790) (43,792) (73,793) (94,795) (128,796) (150,797) (158,799) (168,800) (212,801) (298,802) (300,803) (308,804) (378,805) (380,806) (394,808) 
+musicstudio_notes_get_string_fret_from_index 30 (0,815) (64,817) (76,819) (89,820) (104,822) (122,823) (138,824) (140,825) (152,827) (165,828) (173,829) (183,831) (202,833) (225,834) (247,835) (249,836) (262,837) (275,838) (288,839) (300,840) (302,841) (331,842) (364,843) (386,844) (390,845) (392,846) (394,847) (402,848) (404,850) (430,852) 
+musicstudio_note_sound_design_get_state 10 (0,861) (12,864) (25,865) (37,867) (55,868) (68,869) (88,870) (101,871) (103,872) (117,875) 
+musicstudio_track_has_notes_get_active 6 (0,884) (44,886) (76,887) (80,888) (112,889) (114,890) 
+musicstudio_edit_drum_velocity_name_text 3 (0,899) (42,901) (56,902) 
+musicstudio_edit_drum_velocity_update_name_text 11 (0,906) (39,908) (78,909) (117,910) (129,912) (141,913) (143,914) (205,915) (245,916) (267,917) (275,918) 
+musicstudio_edit_drum_get_name_text 18 (0,922) (44,924) (63,925) (91,926) (114,928) (144,929) (180,930) (226,932) (240,933) (244,934) (276,935) (278,936) (282,937) (312,938) (314,939) (318,940) (348,941) (350,942) 
+musicstudio_edit_drum_velocity_init 3 (0,953) (18,955) (52,956) 
+musicstudio_edit_drum_velocity_choose 2 (0,960) (18,962) 
+musicstudio_drum_velocity_change_value_confirm 6 (0,971) (12,973) (25,974) (43,976) (73,977) (75,978) 
+musicstudio_drum_velocity_change_value 13 (0,982) (39,984) (51,987) (64,988) (108,990) (137,992) (172,993) (197,995) (222,996) (236,997) (271,1000) (289,1002) (291,1004) 
+musicstudio_drum_velocity_get_curr_value 7 (0,1008) (44,1010) (67,1011) (97,1012) (132,1013) (146,1015) (148,1016) 
+musicstudio_drum_velocity_get_value_bounds 4 (0,1020) (12,1022) (24,1023) (50,1025) 
+musicstudio_drum_velocity_preview 6 (0,1029) (12,1031) (25,1032) (43,1034) (87,1035) (89,1036) 
+musicstudio_edit_drum_perc_toggle_name_text 3 (0,1045) (42,1047) (56,1048) 
+musicstudio_edit_drum_perc_toggle_get_active 10 (0,1052) (44,1054) (63,1055) (92,1056) (96,1057) (128,1058) (130,1059) (134,1060) (164,1061) (166,1062) 
+musicstudio_edit_drum_perc_toggle_update_name_text 12 (0,1066) (39,1068) (78,1069) (117,1070) (129,1072) (141,1073) (143,1074) (171,1075) (233,1076) (297,1077) (319,1078) (327,1079) 
+musicstudio_drum_perc_toggle 16 (0,1083) (12,1086) (25,1087) (38,1088) (55,1089) (100,1092) (112,1094) (140,1095) (153,1096) (155,1097) (203,1099) (209,1100) (244,1103) (246,1104) (264,1106) (300,1107) 
+musicstudio_edit_drum_perc_get_name_text 15 (0,1112) (44,1114) (63,1115) (75,1117) (101,1118) (114,1119) (116,1120) (162,1122) (176,1123) (180,1124) (212,1125) (214,1126) (218,1127) (248,1128) (250,1129) 
+musicstudio_velocity_change_value 7 (0,1139) (12,1142) (25,1143) (68,1145) (104,1147) (134,1150) (136,1152) 
+musicstudio_velocity_get_curr_value 4 (0,1156) (44,1158) (58,1159) (60,1160) 
+musicstudio_velocity_get_value_bounds 4 (0,1164) (12,1166) (24,1167) (50,1169) 
+musicstudio_velocity_up_down 3 (0,1173) (18,1176) (48,1179) 
+musicstudio_velocity_preview 6 (0,1183) (12,1185) (25,1186) (43,1188) (73,1189) (75,1190) 
+musicstudio_velocity_add_subtract_update_note 12 (0,1199) (12,1202) (25,1203) (59,1206) (95,1207) (125,1210) (184,1213) (198,1214) (211,1215) (223,1216) (225,1217) (227,1218) 
+musicstudio_velocity_add_10 9 (0,1222) (44,1225) (50,1227) (71,1228) (90,1231) (104,1232) (106,1233) (136,1235) (138,1237) 
+musicstudio_velocity_subtract_10 11 (0,1241) (12,1244) (25,1245) (68,1247) (74,1249) (95,1250) (114,1253) (128,1254) (130,1255) (160,1257) (162,1259) 
+
+[Checksums]
+0x7a0680cb scripts\guitar\musicstudio\musicstudio_note_edit.qb
+0x8e411006 b
+0xc37fa00a MusicStudioHighway_Reinit
+0xcd0dc02d KillSpawnedScript
+0xc776e048 root_index
+0xe6795062 button_text
+0x059ea070 red
+0x67564079 selected
+0xfe341083 chord_dir
+0xd4ad9084 musicstudio_default_strum_velocity
+0xf9462090 c
+0xd1975098 jam_track_rootnotes
+0x718fd09c musicstudio_note_edit_mode
+0x169cf0aa musicstudio_clear_pattern
+0xc573f0b8 MusicStudioGhmix_GetClosestNote
+0x2bcde0c8 drum_velocity
+0xe4f130f4 s
+0xddb8c0f9 curr_velocity
+0xe12a20fa kick
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0x6276b11a pad
+0x13d1211f musicstudio_toggle_pattern_update_name_text
+0x0ad75133 musicstudio_track_design_get_state
+0x4155b15c notetracker_whammy_set_fast_forward
+0x22bbf162 MusicStudioMenu_SetChangeValueState
+0x7e2f9166 musicstudio_get_list_checksum_chord
+0x9a74316e jam_tracks
+0xcf66717b GotParam
+0xe59eb18b musicstudio_velocity_get_curr_value
+0xff2811b0 jam_input_drum_strum
+0xbd2891b5 MusicStudioPlayer_EnableWhammyRewind
+0x5d0671b8 channel
+0x174841bc a
+0xbed851be toggle_pattern
+0x2f6511de green
+0xbfa801df change
+0xa1dc81f9 name
+0x225461fd musicstudio_edit_drum_velocity_name_text
+0x5ea0e211 loop
+0x424fd224 track_checksum
+0xcc28e232 notetracker_whammy_set_rewind
+0xa43a8232 musicstudio_edit_drum_velocity_choose
+0xf3faa23e MusicStudioPlayer_GetPlayerIndex
+0x35de824e musicstudio_notes_get_list_size
+0x83c2824f name_text
+0xb336b24f musicstudio_edit_drum_get_name_text
+0x0809225a expressive_type
+0xe384025a MusicStudio_LoadedBass_IsKeyboard
+0x92f59269 musicstudio_note_get_active
+0xb5fb4273 musicstudio_velocity_add_10
+0x121f6278 musicstudio_get_selected_expressive_type
+0x8cf92284 musicstudio_update_strum_type_name_text
+0xdfc14291 musicstudio_stop_scrub_note
+0x1dcf5299 clear_pattern
+0x2601f2e2 MusicStudioPlayer_GetController
+0x1acc2305 ghmix_nowbar
+0x5ffd1305 list_checksum
+0x0103630a musicstudio_toggle_pattern
+0x6065332e musicstudio_preview_closest_drum_note
+0x80f83335 octave
+0xbfb16339 warning
+0xcbf69346 musicstudio_strum_type_name_text
+0xbf206350 musicstudio_change_expressive_type
+0x2ffb1360 yellow
+0x08da6361 low_velocity
+0x5c430371 pattern
+0x0203b372 true
+0x3a9a9375 jam_num_frets_rhythm_1
+0xbba91375 change_value_state
+0x5b058376 param
+0x40a44384 musicstudio_velocity_up_down
+0x13c8e3bc musicstudio_note_sound_design_state
+0xc5f953c2 button
+0x687153c7 sound_index
+0xc01ce3cc musicstudio_velocity_change_value
+0x4d9da3e3 jam_num_frets_rhythm_0
+0xc5bc93ee ScreenElementExists
+0xb4e103fd active
+0xff0db407 textname
+0x1a1ee416 new_value
+0xe1b01422 musicstudio_edit_drum_velocity_color_index
+0x9277f428 FormatText
+0xc1ef1459 musicstudio_skip_next_note_backward
+0x1718745b full_note_num
+0x9daff467 drum_name_array
+0x4df1047c list_size
+0xfbed047d musicstudio_notes_get_name_text
+0x265904a0 MusicStudioGhmix_UpdateNote
+0x0ac414a9 musicstudio_expressive_types
+0xd56fa4aa button_array
+0x39b5c4b0 GetArraySize
+0xaae494c7 drum_perc
+0xdeef04cd StructureContains
+0x3b9dd4e8 percussion
+0xf7d4e502 drum_toggle_perc
+0x881f9524 musicstudio_toggle_pattern_name_text
+0x379ee530 chord_type
+0x6722b533 d
+0x4c29c545 RequireParams
+0x61c9354b blue
+0x9c462559 ghmix_menu
+0x3fd7255f musicstudio_drum_velocity_preview
+0x64151563 musicstudio_update_expressive_type_name_text
+0x2bbe5564 musicstudio_note_name_text
+0xd1907573 musicstudio_toggle_pattern_set_default_velocity
+0x064ea57a new_velocity
+0x26dd6588 musicstudio_change_note
+0x67e6859a player
+0xe22dd5c2 lefty_flip
+0x517cf5c8 note_velocity
+0xb029f5c8 bend
+0x1d51f5da low_bound
+0xa16d85ea musicstudio_note_track_design_drums_state
+0x214595fe jam_instrument
+0x2de8c60e printf
+0x8e62e613 cymbal
+0xfa49c620 musicstudio_skip_next_note
+0xc3409622 instrument
+0x52141624 musicstudio_state
+0xac2fb644 musicstudio_velocity_add_subtract_update_note
+0xdc4ea68f high_velocity
+0xe90b06a4 root
+0x56c756ba musicstudio_velocity_preview
+0x48cb36e0 musicstudio_ghmix
+0x301176e2 note_time
+0xc6c716ff new_perc
+0x3912b71c drum_name
+0x4c82d738 musicstudio_update_note_name_text
+0xd92d4739 musicstudio_change_chord
+0xeefae73a no_scrub
+0xf12f273b pattern_array
+0xba2b773d last_pitch
+0x6f856754 musicstudio_note_track_design_state
+0x11dab754 hold_pattern
+0x07c61755 drum_pad_array
+0x291c0759 track
+0x47375767 lefty
+0x0ed45788 Obj_SpawnScriptNow
+0xf1bbd78f musicstudio_drum_velocity_change_value
+0x2a79f79a musicstudio_note_edit_mode_deinit
+0x429ff7a2 musicstudio_menu_update_button_text
+0x906b67ba time
+0x0c5f37cd enable
+0xd43297cf false
+0xdde5c7eb note_pattern
+0x760807ec MusicStudio_GetMainPlayerIdIndex
+0x84b5c7f6 playerid_index
+0x90fec815 structure
+0xfae6581e music_studio_update_note_text
+0xc396583b musicstudio_lead_available_notes_array
+0x717da83e musicstudio_note_edit_enable_whammy_skip
+0x6835b854 mode
+0x12e4085f musicstudio_notes_get_string_fret_from_index
+0x1f7e685f musicstudio_drum_velocity_get_curr_value
+0x33b34893 jam_get_sample_checksum
+0x476c98a6 musicstudio_scale_get_note_num
+0x40c698af id
+0x04dc78af note_type_text
+0x7321a8d6 type
+0xa4ef98e8 bend_from_last_note
+0xe09c68f7 final_note_sample
+0x86b128f8 musicstudio_preview_closest_note_set_last_pitch
+0x7f8c98fe index
+0x88948914 musicstudio_edit_drum_perc_get_name_text
+0x7164293d curr_bend
+0x568c8947 musicstudio_show_popup_warning
+0xef759949 musicstudio_toggle_pattern_is_active
+0xd5513954 musicstudio_velocity_name_text
+0x41272956 velocity
+0x640e4960 note_text
+0xb30d9965 controller
+0x9bf61977 select_player
+0xd35bb98e note_type
+0xaf3bc99d drum_pattern_array
+0xbbfbf9bc hihat
+0x88eb69cb curr_bend_struct
+0xe66a19d8 musicstudio_expressive_type_name_text
+0x8b3a79f3 MusicStudio_SetLastPitch
+0xf5f5f9fb musicstudio_edit_drum_perc_toggle_update_name_text
+0xebddea0d alias_ghmix_highway
+0x0bc06a21 CastToInteger
+0xcdd85a2a note_expressive_type
+0x8a93ca2d musicstudio_skip_next_note_forward
+0x0e40ca4c color_index
+0xb486aa67 musicstudio_edit_drum_perc_toggle_name_text
+0x13b9da7b scale
+0x79931a82 note_string
+0x04167a88 musicstudio_strum_type_choose_script
+0xc9724aab jam_special_chords
+0xcf57bac7 musicstudio_preview_closest_note
+0x564e3acc musicstudio_note_sound_design_get_state
+0x99298ad7 musicstudio_mainobj
+0xdb089afa musicstudio_preview_chord
+0xfabe7afd note_drum_perc_array
+0x9863db05 musicstudio_change_value_velocity
+0x97a49b0b show_flats
+0xc1197b1a musicstudio_skip_closest_note
+0x1a9c3b29 note_index
+0x0b63fb2c musicstudio_edit_drum_perc_toggle_get_active
+0xa2d32b3c musicstudio_track_has_notes_get_active
+0x47759b4b musicstudio_strum_type_get_active
+0x8cbefb7f rhythm_chord_types
+0x2b891b83 musicstudio_note_sound_design_drums_state
+0x161ecba4 musicstudio_update_velocity_name_text
+0x0ef16bdc musicstudio_note_sound_design_rhythm_state
+0xce2e8be5 musicstudio_get_selected_chromatic_note
+0x5739cc00 note_chord_type
+0x49268c40 musicstudio_velocity_subtract_10
+0xbd563c41 note_drum_velocity_array
+0x6e93ac4b musicstudio_preview_note
+0xf8578c73 musicstudio_velocity_get_value_bounds
+0xdf4fdc7a guitar_sound_edit
+0x2f9eec84 curr_value
+0x84da6cae musicstudio_play_sound_get_buss
+0x500b6cbb musicstudio_get_list_checksum_expressive_type
+0xae7cacbf musicstudio_edit_drum_velocity_update_name_text
+0xadb2acd8 loop_pitch
+0x38ec5cd9 sample_checksum
+0xf9204ce4 musicstudio_toggle_pattern_get_name_text
+0xe20c1cf8 musicstudio_drum_velocity_get_value_bounds
+0x6733acfd scale_index
+0x137b9d30 type_text
+0x7f5b3d4d array_size
+0x61414d56 string
+0x35923d79 snare
+0xefe90d87 musicstudio_preview_expressive_type
+0xf8fa3d8c main_player
+0x0c0a1d8e musicstudio_track_design_get_active
+0x564cfda5 MusicStudioPlayer_GetInstrument
+0x7f9fadb6 musicstudio_drum_velocity_change_value_confirm
+0x79047dbf musicstudio_drum_perc_toggle
+0x27576dec IsDrumController
+0x7cad2dff musicstudio_scale_get_note_text
+0xb9368e06 musicstudio_update_chord_name_text
+0xff66ce0a musicstudio_edit_drum_velocity_init
+0x74009e17 musicstudio_get_selected_chord
+0xc4e78e22 all
+0xc1b52e4c direction
+0x0fd58e5f color_pattern
+0xdf36ee80 expressive_struct
+0xe23a4e87 orange
+0xd1b1aec4 ghmix_warning_closest_note_fail_1
+0xd8611ec5 fret
+0x92313ec8 back
+0x38554ec8 curr_bend_name
+0xf8e08ee5 tom1
+0x65485eea GetPlayerInfo
+0x9a440f03 available_notes_array
+0xd4249f05 musicstudio_play_sound
+0x35a47f1d musicstudio_chromatic_get_note_text
+0x58656f1d musicstudio
+0x83474f1d musicstudio_bass_available_notes_array
+0x806fff30 none
+0x4ae9ff3f alias_ghmix_menu
+0xdb8caf5b musicstudio_chord_name_text
+0xd2067f5b high_bound
+0x61e9df5f tom2
+0x06aa6f60 drum_pattern
+0xd0b0bf63 buss
+0x781b0f9d note_fret
+0x1a94bfc6 MusicStudioGhmix_MoveHighway
+0xb1e42fcb GetCustomNote
+0xffd61ff2 MusicStudio_GetCurrMainPlayer
+

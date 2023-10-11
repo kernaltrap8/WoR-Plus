@@ -1,0 +1,36 @@
+[LineNumbers]
+ui_create_jam_publish_genre 15 (0,9) (152,19) (166,21) (178,22) (180,23) (187,24) (218,25) (231,26) (252,27) (254,28) (275,29) (283,30) (289,33) (356,34) (424,35) 
+ui_destroy_jam_publish_genre 3 (0,45) (6,49) (12,50) 
+
+[Checksums]
+0xb717f61c scripts\guitar\menu\states\layouts\musicstudio\ui_jam_publish_genre.qb
+0x059ea070 red
+0x2f6511de green
+0x83c2824f name_text
+0x3b6f431b ui_destroy_jam_publish_genre
+0xf44a53ab desc
+0xc5f953c2 button
+0xfe3b3452 add_generic_musicstudio_menu_text_item
+0x39b5c4b0 GetArraySize
+0xb8437568 pad_choose_params
+0xe88e660c destroy_generic_menu
+0xa7d7c610 choose_script
+0x4686163a make_generic_menu
+0x0afde6d2 musicstudio_menu_sound_scripts
+0xd4c98794 title
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0x9d2d8850 z
+0x1993c98e i
+0x146419f5 StopRendering
+0x8a644a6b pad_back_params
+0xbe347ae7 jam_publish_genre_vmenu
+0x74fd2b96 ui_create_jam_publish_genre
+0x7cafcc07 genre
+0x2b0cfca1 pad_choose_script
+0x7f5b3d4d array_size
+0xe2dfddcb jam_genre_list
+0x7e149e2f nosound
+0xa1598eed vmenu_id
+0x02141f19 clean_up_user_control_helpers
+

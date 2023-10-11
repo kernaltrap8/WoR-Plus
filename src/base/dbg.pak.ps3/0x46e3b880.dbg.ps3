@@ -1,0 +1,60 @@
+[LineNumbers]
+rafoverlay 2 (0,11) (36,12) 
+rafoverlay2 3 (0,15) (92,18) (98,22) 
+rafoverlay_create 7 (0,32) (6,34) (152,43) (352,57) (604,73) (900,92) (952,98) 
+rafoverlay_destroy 4 (0,106) (36,107) (72,108) (74,109) 
+rafoverlay_loop 21 (0,114) (2,115) (40,121) (92,125) (128,128) (168,129) (181,130) (183,131) (207,133) (209,134) (213,141) (264,143) (300,146) (340,147) (353,148) (355,149) (379,151) (381,152) (383,154) (432,160) (434,162) 
+rafoverlay_task 3 (0,167) (6,168) (12,169) 
+
+[Checksums]
+0xbdb31fdc scripts\game\net\net_raf.qb
+0xe126e035 top
+0xb12b510a SpriteElement
+0x7031f10c params
+0x73665140 CreateScreenElement
+0xcf66717b GotParam
+0xd32941d8 rafoverlay_task
+0xc553e1f4 rafoverlay_background_id
+0x8b60022f just
+0xbd30325b white
+0x7d99f28d texture
+0x70fd3292 rafoverlay2
+0x9eb6e336 spawnscript
+0xc016d3d8 rafoverlay_title_id
+0xc5bc93ee ScreenElementExists
+0xe41f243e getrafoverlayinfo
+0xbd09544c func
+0x8ffc0458 RAF
+0x445114c8 NetSessionFunc
+0x0e61b525 RunScriptOnScreenElement
+0x34a68574 dims
+0xd029f619 seconds
+0xf649d637 on
+0x7fc796f9 rafoverlay_create
+0x20088713 rafoverlay_loop
+0x2f6bf72d font
+0x45faf751 rafoverlay_root_id
+0xd43297cf false
+0xc4745838 text
+0x5b9da842 ContainerElement
+0x85981897 left
+0x40c698af id
+0x7321a8d6 type
+0x7f261953 pos
+0x40b619ac rafoverlay_destroy
+0x3c15e9b6 DestroyScreenElement
+0x13b9da7b scale
+0x5571aa9f rafoverlay_text_id
+0x56a1eae3 root_window
+0xb9992b93 obj
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0xdc05ec70 setrafoverlaymode
+0x97c61d37 rafoverlay
+0xcef92d47 single_line
+0x3f6bcdba rgba
+0x57710f31 z_priority
+0x2fefaf84 fontgrid_text_a1
+0xc2719fb0 parent
+0x5200dfb6 TextElement
+

@@ -1,0 +1,115 @@
+[LineNumbers]
+cas_drum_stick_bake_transforms 108 (0,7) (68,9) (75,10) (81,16) (115,17) (123,18) (133,19) (151,20) (171,22) (191,23) (195,24) (215,26) (235,27) (237,28) (250,29) (300,30) (318,31) (368,32) (388,34) (408,35) (412,36) (464,37) (484,39) (504,40) (506,41) (519,43) (532,44) (545,45) (558,46) (565,47) (578,49) (591,50) (604,51) (617,52) (624,53) (637,55) (650,56) (663,57) (676,58) (683,59) (696,61) (709,62) (722,63) (735,64) (742,65) (755,67) (768,68) (781,69) (794,70) (801,71) (814,73) (827,74) (840,75) (853,76) (860,77) (873,79) (880,80) (893,82) (900,83) (913,85) (926,86) (939,87) (952,88) (959,89) (972,91) (985,92) (998,93) (1011,94) (1018,95) (1031,97) (1038,98) (1051,100) (1064,101) (1077,102) (1090,103) (1097,104) (1110,106) (1123,107) (1136,108) (1149,109) (1156,110) (1169,112) (1182,113) (1195,114) (1208,115) (1215,116) (1228,118) (1241,119) (1248,120) (1261,122) (1274,123) (1281,124) (1294,126) (1301,127) (1314,129) (1321,130) (1334,132) (1341,133) (1349,135) (1367,136) (1387,138) (1407,139) (1411,140) (1431,142) (1451,143) (1453,144) (1455,145) (1509,146) 
+NewFemale_Drumstick_Offset 10 (0,156) (52,157) (70,158) (90,160) (110,161) (114,162) (134,164) (154,165) (156,166) (159,167) 
+Arthas_Drumstick_Offset 10 (0,175) (52,176) (70,177) (90,179) (110,180) (114,181) (134,183) (154,184) (156,185) (159,186) 
+DemiGod_Drumstick_Offset 10 (0,193) (52,194) (70,195) (90,197) (110,198) (114,199) (134,201) (154,202) (156,203) (159,204) 
+NewMale_Drumstick_Offset 10 (0,211) (52,212) (70,213) (90,215) (110,216) (114,217) (134,219) (154,220) (156,221) (159,222) 
+Axel_Drumstick_Offset 10 (0,228) (52,229) (70,230) (90,232) (110,233) (114,234) (134,236) (154,237) (156,238) (159,239) 
+Casey_Drumstick_Offset 10 (0,246) (52,247) (70,248) (90,250) (110,251) (114,252) (134,254) (154,255) (156,256) (159,257) 
+Clive_Drumstick_Offset 10 (0,264) (52,265) (70,266) (90,268) (110,269) (114,270) (134,272) (154,273) (156,274) (159,275) 
+Eddie_Drumstick_Offset 10 (0,282) (52,283) (70,284) (90,286) (110,287) (114,288) (134,290) (154,291) (156,292) (159,293) 
+Izzy_Drumstick_Offset 10 (0,300) (52,301) (70,302) (90,304) (110,305) (114,306) (134,308) (154,309) (156,310) (159,311) 
+Johnny_Drumstick_Offset 10 (0,318) (52,319) (70,320) (90,322) (110,323) (114,324) (134,326) (154,327) (156,328) (159,329) 
+JohnnyCash_Drumstick_Offset 10 (0,336) (52,337) (70,338) (90,340) (110,341) (114,342) (134,344) (154,345) (156,346) (159,347) 
+ShirleyManson_Drumstick_Offset 10 (0,354) (52,355) (70,356) (90,358) (110,359) (114,360) (134,362) (154,363) (156,364) (159,365) 
+Judy_Drumstick_Offset 10 (0,372) (52,373) (70,374) (90,376) (110,377) (114,378) (134,380) (154,381) (156,382) (159,383) 
+Lars_Drumstick_Offset 10 (0,390) (52,391) (70,392) (90,394) (110,395) (114,396) (134,398) (154,399) (156,400) (159,401) 
+Minotaur_Drumstick_Offset 10 (0,408) (52,409) (70,410) (90,412) (110,413) (114,414) (134,416) (154,417) (156,418) (159,419) 
+Midori_Drumstick_Offset 10 (0,425) (52,426) (70,427) (90,429) (110,430) (114,431) (134,433) (154,434) (156,435) (159,436) 
+Pandora_Drumstick_Offset 10 (0,443) (52,444) (70,445) (90,447) (110,448) (114,449) (134,451) (154,452) (156,453) (159,454) 
+FrankenRocker_Drumstick_Offset 10 (0,461) (52,462) (70,463) (90,465) (110,466) (114,467) (134,469) (154,470) (156,471) (159,472) 
+Avatar_Drumstick_Offset 9 (0,479) (18,480) (38,482) (58,483) (62,484) (82,486) (102,487) (104,488) (107,489) 
+
+[Checksums]
+0x1e437026 scripts\create_a_rocker\car_drum_stick_transforms.qb
+0x3968b038 gh_rocker_2009_1
+0x986a208d gh_rocker_FrankenRocker_1
+0xe4f130f4 s
+0x0e58e117 mydebug
+0x01637137 gh_rocker_FrankenRocker_2
+0xa1e3a15f ShirleyManson_Drumstick_Offset
+0xa061e182 gh_rocker_2009_2
+0xced5b19a Arthas_Drumstick_Offset
+0x766441a1 gh_rocker_FrankenRocker_3
+0x4a6281b5 Johnny_Drumstick_Offset
+0x5d0671b8 channel
+0x61e081da Obj_BakeTransform
+0xc16e0265 Midori_Drumstick_Offset
+0x9d21e2c8 gh_rocker_female
+0x9af342d1 gh_rocker_Midori_1
+0xe26872fb gh_rocker_male
+0x12c9f332 gh_rocker_Casey_4
+0x03fa136b gh_rocker_Midori_2
+0x8aaa83a2 GH_Rocker_ShirleyManson_1
+0x36e553eb gh_rocker_lars_4
+0x74fd23fd gh_rocker_Midori_3
+0xe800d402 gh_rocker_FrankenRocker_4
+0x296b34b0 material_index
+0x175024e7 gh_rocker_NewMale_1
+0xc503e50a Pandora_Drumstick_Offset
+0x8e59755d gh_rocker_NewMale_2
+0x440d85c3 Clive_Drumstick_Offset
+0xfbaa5607 gh_rocker_Casey_2
+0x46e8660d Judy_Drumstick_Offset
+0x2de8c60e printf
+0x82e5d621 Lars_Drumstick_Offset
+0xa881c648 gh_rocker_lars_3
+0xea99b65e gh_rocker_Midori_4
+0x8cad6691 gh_rocker_Casey_3
+0xb3ee5692 Axel_Drumstick_Offset
+0x59f986b3 Skeleton_GetSkeletonName
+0x553ea6db NewFemale_Drumstick_Offset
+0xdf86f6de gh_rocker_lars_2
+0xf0df66de NewMale_Drumstick_Offset
+0x468fa764 gh_rocker_lars_1
+0xa6b6c767 gh_rocker_minotaur_1
+0x8811977c Avatar_Drumstick_Offset
+0x675f7794 Minotaur_Drumstick_Offset
+0x62a307bd gh_rocker_Casey_1
+0x4df35809 gh_rocker_Clive_3
+0xd941983a Casey_Drumstick_Offset
+0xc1a9489a gh_rocker_JohnnyCash_CAR
+0x3af4689f gh_rocker_Clive_2
+0x7d53f8ae gh_rocker_Judy_1
+0xcfc728e1 gh_rocker_Johnny_4
+0xe45aa914 gh_rocker_Judy_2
+0xa3fd3925 gh_rocker_Clive_1
+0x09794932 skeletonname
+0x7f261953 pos
+0xc656b953 Izzy_Drumstick_Offset
+0xb21c2962 FrankenRocker_Drumstick_Offset
+0x935d9982 gh_rocker_Judy_3
+0xacfef985 gh_rocker_Eddie_4
+0x5ac4f9b5 gh_rocker_Pandora_4
+0xb93bc9f2 gh_rocker_Izzy_4
+0x4d55ca22 gh_rocker_Axel_1
+0x83418a6a Material
+0x1fd39a88 DemiGod_Drumstick_Offset
+0xc1221a8b GH_Rocker_Avatar
+0xc97f3aa9 orientation
+0xa35bab0e gh_rocker_Axel_3
+0x1234fb7e cas_drum_stick_bake_transforms
+0xd45c9b98 gh_rocker_Axel_2
+0xc4a06c16 gh_rocker_Pandora_3
+0xe7308c1f geom
+0x0d390c21 gh_rocker_Judy_4
+0x329a6c26 gh_rocker_Eddie_3
+0x275f5c51 gh_rocker_Izzy_3
+0x640e4c64 JohnnyCash_Drumstick_Offset
+0xbfaddc6e gh_rocker_Johnny_1
+0xb3a75c80 gh_rocker_Pandora_2
+0x459d5cb0 gh_rocker_Eddie_2
+0x50586cc7 gh_rocker_Izzy_2
+0xdc940d0a gh_rocker_Eddie_1
+0x2aae0d3a gh_rocker_Pandora_1
+0x51a3bd42 gh_rocker_Johnny_3
+0xf5827d5c Eddie_Drumstick_Offset
+0xc9513d7d gh_rocker_Izzy_1
+0xd397cdaa gh_rocker_Clive_4
+0x26a48dd4 gh_rocker_Johnny_2
+0xbe304e86 printstruct
+0x3d3f3ead gh_rocker_Axel_4
+0xb6f08f39 part
+0x46761f96 GH_Rocker_DemiGod_1
+0x4a6e9ff6 GH_Rocker_Arthas_1
+

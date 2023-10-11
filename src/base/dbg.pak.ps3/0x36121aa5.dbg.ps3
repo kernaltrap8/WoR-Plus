@@ -1,0 +1,33 @@
+[LineNumbers]
+
+[Checksums]
+0x26e5b5d9 models\car_instruments\guitar\heroes\gtr1b_nvsft_sk8gtr.qb
+0x9687f060 BRIDGE
+0xab7100bc GTR1B_Nvsft_Sk8Gtr_GTR1B_Nvsft_Sk8Gtr
+0xd11a40d5 gtr1b_nvsft_sk8gtr_NodeArray
+0xa7c560e1 GTR1B_Nvsft_Sk8Gtr_GTR1B_Nvsft_Knob01
+0x3ecc315b GTR1B_Nvsft_Sk8Gtr_GTR1B_Nvsft_Knob02
+0x111121a4 GTR1B_Nvsft_Sk8Gtr
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0xa62d8414 GTR1B_Nvsft_Sk8Gtr_GTR1B_pickup01
+0x4823e538 GTR1B_Nvsft_Sk8Gtr_GTR1B_pickup03
+0x8058e545 MISC
+0xa0d15550 gtr1b_nvsft_sk8gtr_NodeArray_SortedNames
+0x1f2d1578 gtr1b_nvsft_sk8gtr_NodeArray_SortedIndices
+0x3f24d5ae GTR1B_Nvsft_Sk8Gtr_GTR1B_pickup02
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0x5f0878a2 GTR1B_Nvsft_Sk8Gtr_GTR1B_Nvsft_Bridge01
+0x7f261953 Pos
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x41b88c46 GTR1B_Nvsft_Sk8Gtr_GTR1B_Nvsft_Misc02
+0x385e8d74 SkinExport
+0xd8b1ddfc GTR1B_Nvsft_Sk8Gtr_GTR1B_Nvsft_Misc01
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+

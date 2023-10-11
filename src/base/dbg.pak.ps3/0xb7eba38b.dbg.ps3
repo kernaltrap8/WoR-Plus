@@ -1,0 +1,17 @@
+[LineNumbers]
+
+[Checksums]
+0x614a560d scripts\game\anim\animationdata\loops\guit\l_guit_ivy_bleedme_f_anim_data.qb
+0xc8ad105f L_GUIT_Ivy_BleedMe_F_anims_set
+0x8414b091 guit_Ivy_BleedMe_100_F
+0x937bb16d Good
+0x22686373 guit_Ivy_BleedMe_075_F
+0x12e4443d Med
+0x7dd4c604 Bad
+0xda99b63b Fast
+0x2596167d Stance_A
+0xde7a971b Normal
+0x2e1d781a guit_Ivy_BleedMe_120_F
+0x23db4aea Idle
+0xcaf88e22 Slow
+

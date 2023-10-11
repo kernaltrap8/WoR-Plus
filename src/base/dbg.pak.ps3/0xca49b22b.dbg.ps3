@@ -1,0 +1,74 @@
+[LineNumbers]
+create_practice_warning_menu 21 (28,6) (34,8) (49,10) (55,12) (61,14) (68,16) (81,17) (94,18) (100,19) (108,20) (110,21) (122,22) (136,23) (148,24) (150,25) (152,26) (164,27) (176,28) (178,29) (180,34) (182,35) 
+destroy_practice_warning_menu 2 (0,39) (6,40) 
+practice_warning_menu_select_practice 12 (0,43) (6,44) (12,46) (18,47) (52,48) (88,50) (164,52) (170,55) (208,57) (248,58) (250,59) (270,64) 
+practice_warning_menu_select_practice_mode 8 (0,67) (6,69) (12,71) (32,73) (68,74) (104,76) (110,77) (200,79) 
+practice_warning_menu_select_practice_current_section 11 (0,82) (6,83) (40,85) (46,87) (52,89) (64,91) (91,94) (121,96) (141,98) (176,99) (182,101) 
+
+[Checksums]
+0xc4c54782 scripts\guitar\menu\menu_practice_warning.qb
+0x7031f10c params
+0x6017f1cc ui_event
+0xbfa801df change
+0xd9ba22b2 reset_targets
+0x703112b8 from_in_game
+0x749fa2e7 no_render
+0x7edf6317 InitPracticeCurrentSection
+0x7dcc9333 get_current_songs_struct
+0x284c234c came_to_practice_from
+0xeab2436e last_start_pressed_device
+0xa6bad3b8 practice_warning_menu_select_practice_mode
+0x64c743cc uistate_gameplay
+0xc5bc93ee ScreenElementExists
+0xbd09544c func
+0x958e3451 xenon_singleplayer_session_complete_uninit
+0x91f0e45a body_text
+0x8320d478 game_mode
+0x82ef848b warning_text
+0x12e0a4d6 disable_pause
+0x66cfd4e4 ResetScoreUpdateReady
+0xc10b44e8 current_level
+0xaa6954e9 practice_warning_menu_select_practice_current_section
+0x97ab5522 practice_return_venue
+0xc451f558 event
+0x06af955e quickplay_unload_challenges
+0x2fca0578 options
+0x7bb9c604 menu_replace
+0x12e3e657 practice_warning_menu_select_practice
+0xbab776aa kill_intro_celeb_ui
+0x906b67ba Time
+0x6c63c7c5 SetProps
+0x1d2d97d4 func_params
+0xb257d7d7 Default_SongLost_Transition
+0xc195a822 create_dialog_box
+0xc4745838 text
+0x03a17838 current_song
+0x3f58c840 uistate_select_song_section
+0x57074860 dialog_box_vmenu
+0x73aaf8a2 audio_gameplay_fail_song_stop_sounds
+0x40c698af id
+0xe76458d7 destroy_practice_warning_menu
+0xeafc692e no_background
+0x2b9ab95d StopSoundsByBuss
+0x3c521982 kill_gem_scroller
+0x542449ae Playlist_GetCurrentSong
+0xa274ea28 practice_restart_song
+0xa89acad5 audio_stopping_sounds_killsong_lite
+0xba68ead9 Encore_Events
+0xff037ad9 time_offset
+0x19fa5af7 SpawnScriptNow
+0x37c84b09 destroy_dialog_box
+0xf41d7c72 StopSongStarCalculation
+0x520c0c9c data
+0xa5a99cd4 practice_return_state
+0xd6521cee generic_event_back
+0x670f4d02 song_failed
+0x5c6c2d04 state
+0x24155dda create_practice_warning_menu
+0x7e149e2f nosound
+0xe5d6fe3e block_events
+0xa377ee84 songname
+0x6d502edd setup_practice_mode
+0x806fff30 none
+0x69d0dfaf player_device
+

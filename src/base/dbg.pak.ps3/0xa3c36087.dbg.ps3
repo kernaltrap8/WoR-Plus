@@ -1,0 +1,128 @@
+[LineNumbers]
+sanity_check_unlocks 45 (28,31) (46,32) (48,33) (50,34) (100,36) (131,38) (162,39) (182,41) (202,42) (222,43) (240,46) (258,48) (271,50) (273,51) (301,53) (323,55) (331,56) (364,58) (377,59) (412,61) (430,62) (452,63) (465,64) (467,65) (500,67) (518,68) (540,69) (553,70) (555,71) (588,73) (606,74) (628,75) (641,76) (643,77) (661,80) (796,81) (798,82) (816,84) (908,85) (910,86) (948,88) (988,89) (1053,90) (1092,91) (1132,92) 
+sanity_check_unlocks_set 2 (28,102) (51,104) 
+sanity_check_unlocks_set_check_cas_items 18 (0,112) (36,114) (54,115) (92,116) (115,118) (117,120) (119,121) (137,122) (176,123) (194,125) (196,127) (198,128) (216,129) (252,130) (270,132) (272,134) (274,135) (276,136) 
+sanity_check_find_outfit_preset_struct 11 (44,147) (56,149) (69,151) (71,152) (103,153) (122,155) (151,156) (153,157) (175,159) (183,160) (212,162) 
+sanity_check_reward_unlock_outfit_preset 18 (28,173) (38,176) (79,178) (122,180) (126,182) (162,184) (164,186) (219,188) (255,191) (347,192) (351,193) (387,195) (475,196) (479,197) (511,198) (529,199) (531,200) (533,202) 
+sanity_check_is_cas_piece_unlocked 10 (44,214) (77,216) (116,218) (146,220) (181,222) (212,223) (214,224) (216,226) (218,228) (248,230) 
+sanity_check_preset_pieces_unlocked 10 (60,242) (87,244) (122,246) (152,248) (186,252) (308,254) (344,255) (346,257) (348,259) (350,261) 
+sanity_check_reward_unlock_cas_texture 11 (28,273) (64,275) (159,276) (163,277) (199,279) (293,280) (297,281) (329,282) (347,283) (349,284) (351,286) 
+sanity_check_unlocks_fill_outfits 5 (28,296) (64,298) (94,300) (112,301) (114,303) 
+sanity_check_unlocks_fill_cas_items 4 (28,313) (60,315) (106,317) (108,319) 
+sanity_check_guitar_preset_unlock 17 (60,332) (73,334) (85,335) (87,337) (111,339) (138,341) (172,343) (184,345) (186,346) (188,348) (190,350) (212,352) (220,353) (260,355) (335,357) (337,359) (392,362) 
+sanity_check_unlocks_set_check_cas_items_foreach 22 (44,375) (74,377) (110,380) (205,381) (209,382) (245,384) (341,385) (345,386) (377,387) (395,388) (397,389) (399,391) (409,393) (419,394) (432,395) (473,396) (486,398) (499,399) (540,400) (548,402) (554,403) (556,405) 
+sanity_check_unlocks_fill_cas_items_foreach 9 (44,416) (80,418) (110,420) (140,422) (158,423) (160,425) (196,427) (219,429) (221,431) 
+sanity_check_foreach_cap_textures 4 (0,439) (36,441) (59,443) (61,445) 
+sanity_check_foreach_preset_layers 4 (0,453) (36,455) (59,457) (61,459) 
+sanity_check_foreach_mask 9 (0,467) (36,469) (72,470) (108,472) (138,473) (156,474) (158,475) (160,477) (162,478) 
+sanity_check_unlock_build_rewards_array 51 (28,488) (38,490) (51,492) (53,493) (122,495) (156,497) (169,498) (187,500) (200,501) (202,502) (225,503) (243,505) (257,506) (275,508) (288,509) (290,510) (314,511) (349,513) (372,515) (390,517) (403,518) (421,520) (423,521) (447,523) (479,525) (517,527) (519,529) (541,531) (549,532) (551,533) (553,535) (575,537) (583,538) (585,539) (607,541) (615,542) (617,543) (621,545) (656,547) (669,548) (671,550) (697,552) (729,554) (767,556) (769,558) (791,560) (799,561) (801,563) (814,565) (821,567) (835,569) 
+
+[Checksums]
+0x48d51511 scripts\game\debug\car_unlock_sanity_check.qb
+0x8e411006 b
+0x0f7e902c nullscript
+0x4e10b054 assert
+0x02ca505f preset_layers
+0xa8c5f088 sanity_check_unlocks
+0xe4f130f4 s
+0x7031f10c params
+0xc42ce128 ArrayContains
+0x5ef31148 array
+0x7df8614e p
+0xcf66717b GotParam
+0xa08bb195 global_name
+0x174841bc a
+0xbebfa1c6 element
+0x16dde1c8 rewards
+0x0aff51d8 q
+0xbfa801df change
+0x673961ee outfit_preset
+0xa1dc81f9 name
+0x4bfcd202 AddArrayElement
+0xe1e6f20d sanity_check_is_cas_piece_unlocked
+0x7d99f28d texture
+0xd4de628f entry
+0x902bf29e FastStructureContains
+0x4eb272d8 cab_factory_presets
+0x93c402f4 outfits
+0xaf12f32a MangleChecksums
+0xa8ee7357 ScriptAssert
+0x2d05b35d sanity_check_guitar_preset_unlock
+0x5372b367 sanity_check_foreach_cap_textures
+0xd38db36e FastGetArraySize
+0x5c430371 pattern
+0x0203b372 true
+0x583b037a sanity_check_preset_pieces_unlocked
+0xd1bba3d0 cap_textures
+0x1a440439 sanity_check_unlocks_fill_outfits
+0x39b5c4b0 GetArraySize
+0xdeef04cd StructureContains
+0x881484e1 CAS_Full_Bass
+0x1809f4e2 found_preset
+0x71059581 contains
+0xb58b7593 female
+0xe34815fe g_e3_demo_flow
+0x2de8c60e printf
+0xac34a614 award_point_progression
+0xbb885625 g_outfit_locked_items
+0xfba40626 mangled_id
+0x630cc62a sanity_check_unlocks_fill_cas_items_foreach
+0xa1d7f6d7 CAS_Bass_Body
+0x799206ef sanity_check_unlocks_set
+0x901b46f9 CAS_Full_Guitar
+0x152d376e locked
+0x5eba677f car_pieces
+0x1966b785 sanity_check_reward_unlock_outfit_preset
+0xd43297cf false
+0x921067e1 cas_pieces
+0x90fec815 structure
+0xeac8381a car_presets_outfit
+0x3e338834 quest_first
+0x809a9834 j
+0x7230384d reward_type
+0x4bb2084e desc_id
+0xf76358a1 g_all_cas_texture_locked_items
+0xf79da8a2 k
+0x3a8c18d3 cas_textures
+0x0d4e88d4 quest_array
+0x7321a8d6 type
+0xf8f11957 g_cas_texture_locked_items
+0x1993c98e i
+0xffc529f4 cas
+0x09314a00 g_all_outfit_locked_items
+0x5ed06a21 preset_struct
+0xd9464a36 sanity_check_unlocks_set_check_cas_items_foreach
+0xb9bd6a37 CAS_Guitar_Body
+0xf7f53aa6 quest_array_size
+0x839b2ad5 master_editable_list
+0x5327cba3 sanity_check_unlocks_set_check_cas_items
+0xd42e2bad unlocks
+0x1cb8abc3 sanity_check_foreach_mask
+0x37f1ac0e RemoveArrayElement
+0x9dfe3c10 sanity_check_reward_unlock_cas_texture
+0x5f6cfc7a sanity_check_unlock_build_rewards_array
+0x80903ccf mask
+0x51737cec g_all_cas_locked_items
+0x03daecee GetActualCASOptionStruct
+0x7056ed02 RemoveParameter
+0x39491d12 cas_texture
+0x7f5b3d4d array_size
+0xf00a1d67 sanity_check_unlocks_fill_cas_items
+0x088aed69 this_desc_id
+0xce859e15 sanity_check_find_outfit_preset_struct
+0xba1c9e54 cag_factory_presets
+0x1ed31e5b num_quest_slots
+0x9fd04e75 g_sanity_check_preset_pieces_assert
+0xbe304e86 printstruct
+0xc9bafeba ForEachIn
+0x112e2ee2 iteration
+0xb6f08f39 part
+0xaa721f56 male
+0x76a86f58 g_cas_locked_items
+0x574dbf60 sanity_check_foreach_preset_layers
+0x62ba3f6a do
+0x835d0f90 GlobalExists
+0xbe6c6fb8 rewards_array
+0xae1f2fe2 chapter_unlocks
+0xe0aadfea quest_progression_unlocks
+

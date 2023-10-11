@@ -1,9 +1,0 @@
-[LineNumbers]
-z_in_game_Setup 1 (0,7) 
-z_in_game_Deinit 1 (0,19) 
-
-[Checksums]
-0xa3ac9dc8 zones\z_in_game\z_in_game_scripts.qb
-0x6f072542 z_in_game_Setup
-0xf806ca54 z_in_game_Deinit
-

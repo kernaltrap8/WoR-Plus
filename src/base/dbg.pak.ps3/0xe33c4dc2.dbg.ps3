@@ -1,0 +1,36 @@
+[LineNumbers]
+ui_create_pausemenu_change_difficulty_warning 2 (0,9) (7,11) 
+ui_destroy_pausemenu_change_difficulty_warning 2 (0,21) (6,23) 
+create_pausemenu_change_difficulty_warning 20 (0,32) (6,34) (21,36) (28,38) (40,39) (53,40) (59,41) (67,42) (69,43) (81,44) (95,45) (107,46) (109,47) (111,48) (123,49) (145,50) (157,51) (159,52) (161,53) (163,54) 
+pausemenu_change_difficulty_warning_yes 4 (0,63) (6,64) (40,65) (83,66) 
+
+[Checksums]
+0x68f336fb scripts\guitar\menu\states\layouts\ui_pausemenu_change_difficulty_warning.qb
+0x44949010 difficulty
+0xe13620a8 no_sound
+0xe62ef0e6 ui_create_pausemenu_change_difficulty_warning
+0xeab2436e last_start_pressed_device
+0xbd09544c func
+0x91f0e45a body_text
+0x12e0a4d6 disable_pause
+0x2fca0578 options
+0xbab776aa kill_intro_celeb_ui
+0x1d2d97d4 func_params
+0xc195a822 create_dialog_box
+0xc4745838 text
+0xeafc692e no_background
+0x1698b97a pausemenu_change_difficulty_warning_yes
+0x72fa9ac0 create_pausemenu_change_difficulty_warning
+0x37c84b09 destroy_dialog_box
+0x520c0c9c data
+0xd6521cee generic_event_back
+0x7056ed02 RemoveParameter
+0x5c6c2d04 state
+0x66a54d2d generic_event_choose
+0x3b87ad98 pausemenu_change_difficulty_confirm_ok
+0xe22d5dec UIstate_pausemenu_change_difficulty_confirm
+0x7e149e2f nosound
+0x37bf4f09 base_name
+0x69d0dfaf player_device
+0x8d128ff5 ui_destroy_pausemenu_change_difficulty_warning
+

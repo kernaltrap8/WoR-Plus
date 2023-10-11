@@ -1,0 +1,87 @@
+[LineNumbers]
+ui_create_musicstudio_ghmix_song 20 (28,9) (164,18) (200,20) (260,23) (299,25) (345,26) (357,29) (369,30) (393,31) (416,34) (453,37) (467,40) (480,41) (492,42) (494,43) (496,45) (576,48) (594,51) (636,54) (672,57) 
+ui_destroy_musicstudio_ghmix_song 6 (0,67) (6,70) (12,73) (48,76) (54,79) (60,81) 
+musicstudio_show_pattern_name 6 (0,90) (60,97) (98,98) (122,99) (124,100) (126,101) 
+musicstudio_hide_pattern_name 6 (0,105) (60,108) (98,109) (122,110) (124,111) (126,112) 
+musicstudio_update_pattern_name_text 9 (0,116) (76,118) (136,120) (194,122) (219,123) (231,126) (279,127) (304,128) (306,130) 
+ui_init_musicstudio_ghmix_song 1 (0,140) 
+ui_deinit_musicstudio_ghmix_song 1 (0,150) 
+
+[Checksums]
+0x4d56c9b6 scripts\guitar\menu\states\layouts\musicstudio\ui_musicstudio_ghmix_song.qb
+0x8e411006 b
+0xb14a2075 pattern_name_text
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0xf66ff117 in_game
+0x73665140 CreateScreenElement
+0xcc12115e song
+0x01dd615f DescInterface
+0x174841bc a
+0xa1dc81f9 name
+0xc9f421fe MusicStudio_GetPlayerFromIndex
+0x106a2246 from_track
+0x11f692a6 SetPlayerInfo
+0xc852c2cd player_object
+0x5b058376 param
+0xf44a53ab desc
+0xff0db407 textname
+0x9277f428 FormatText
+0xa3f33484 ui_init_musicstudio_ghmix_song
+0xd829e531 num_patterns_text
+0x4c29c545 RequireParams
+0x9c462559 ghmix_menu
+0x2b0d155f MusicStudioGhmix_GetNumUserPatterns
+0x67e6859a player
+0x0947b5ab jam_recording_check_disconnect
+0x23a4e5c2 Obj_SpawnScript
+0xf9b3e63e category
+0x7c6f6666 tip_alpha
+0x2f1fc695 alpha
+0x48cb36e0 musicstudio_ghmix
+0xbf9d46f7 musicstudio_ghmix_show_inst_tabs
+0x99a9b716 color
+0x0ed45788 Obj_SpawnScriptNow
+0x1a767793 MusicStudio_GetMainPlayerController
+0x906b67ba time
+0xc700d7c6 alias_pattern_name_cont
+0x760807ec MusicStudio_GetMainPlayerIdIndex
+0x84b5c7f6 playerid_index
+0x9015f803 num_user_patterns
+0x431c0867 sub_category
+0x64e43895 musicstudio_hide_pattern_name
+0x40c698af id
+0x2142e8c3 musicstudio_force_drum_track
+0x16ecc8c4 ui_create_musicstudio_ghmix_song
+0x7321a8d6 type
+0xcc1078d6 musicstudio_update_pattern_name_text
+0x7f261953 pos
+0xb30d9965 controller
+0x3c15e9b6 DestroyScreenElement
+0x317f7a5c musicstudio_show_pattern_name
+0x6af98a66 MusicStudioMenu_SetState
+0x99298ad7 musicstudio_mainobj
+0x56a1eae3 root_window
+0x37c84b09 destroy_dialog_box
+0x1f5cbb2a animate
+0xe2d81b34 musicstudio_show_nowbar
+0x08a31b42 musicstudio_reinit_in_game_players
+0x07479bca tip_text
+0x7176ebe8 ghmix_song_transport_state
+0x9f23dc21 Se_SetProps
+0x287e5c5f ui_destroy_musicstudio_ghmix_song
+0xda099c5f musicstudio_ghmix_song_deinit
+0xfcb57c7c musicstudio_saved_patterns_max
+0x01917c99 ui_deinit_musicstudio_ghmix_song
+0x5c6c2d04 state
+0xc4e78e22 all
+0x8525fe7d MusicStudioMenu_Init
+0x1ba66ea1 song_mode
+0xc416fef4 get_pattern_name_text
+0x02141f19 clean_up_user_control_helpers
+0x4ae9ff3f alias_ghmix_menu
+0x6d8b7f52 pattern_name_cont
+0xc2719fb0 parent
+0x21102fbc musicstudio_ghmix_song_init
+0x8e798ff9 show_user_text
+

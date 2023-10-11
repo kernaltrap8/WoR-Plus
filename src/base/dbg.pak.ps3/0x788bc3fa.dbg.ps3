@@ -1,0 +1,38 @@
+[LineNumbers]
+ui_create_debug_atvi_color_calibration 4 (0,10) (296,21) (325,23) (392,25) 
+ui_destroy_debug_atvi_color_calibration 5 (0,34) (6,35) (44,36) (80,37) (82,38) 
+
+[Checksums]
+0xbbbfbe3b scripts\guitar\menu\states\layouts\ui_debug_atvi_color_calibration.qb
+0xb990d003 target
+0x475bf03c event_handlers
+0x059ea070 red
+0x7031f10c params
+0x73665140 CreateScreenElement
+0x01dd615f DescInterface
+0xf44a53ab desc
+0xc5f953c2 button
+0xc5bc93ee ScreenElementExists
+0x9d3fb516 focus
+0x2cb33744 LaunchEvent
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0x9d2d8850 z
+0x40c698af id
+0x7321a8d6 type
+0x8011d8d6 ui_destroy_debug_atvi_color_calibration
+0x3c15e9b6 DestroyScreenElement
+0x85253a59 ATVIColorCalibrationScreen
+0x56a1eae3 root_window
+0x29502bc0 ui_sfx
+0xd6521cee generic_event_back
+0x7ee0fd2a pad_back
+0xc906ad51 menustate
+0x69b05e2c generic
+0xea8a5e33 ui_create_debug_atvi_color_calibration
+0x92313ec8 back
+0x02141f19 clean_up_user_control_helpers
+0x2c6a5f27 uitype
+0x57710f31 z_priority
+0xc2719fb0 parent
+

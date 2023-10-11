@@ -1,0 +1,8 @@
+[LineNumbers]
+
+[Checksums]
+0x8a992aba scripts\game\net\net_settings.qb
+0x9a172b23 net_use_int
+0x167a2f32 net_diff_threshold
+0xfd6dcf40 net_ragdoll_update_time
+

@@ -1,0 +1,31 @@
+[LineNumbers]
+
+[Checksums]
+0x0e9f5818 scripts\game\modes\challenges\qp_sustain_time\qp_sustain_time.qb
+0x6c3200c7 constants
+0x4a562119 round_direction
+0xa1dc81f9 name
+0x491d8236 g_qp_sustain_time_core
+0x0c335260 round_to_nearest
+0x9afd4334 qp_sustain_time_info
+0x1eac535e qp_sustain_time_display_seconds_conversion
+0xcf050595 required_modifier
+0x34ce06c4 desc_txt
+0x08f83721 quickplay_challenge
+0x997e7758 leaderboard_metric_string
+0x232b4818 calculated_targets
+0xafe0587f title_string
+0x13bae990 score_converion_script
+0x16447994 song_complete
+0xc3b3aa1c qp_whammy_time_info
+0x26549a1f units_txt
+0x7336db76 challenge_output_grade_marks
+0xcb474bce whammy
+0x520c0c9c data
+0x5ea10ca0 percent_targets
+0x5e233cc7 target_value
+0x6d11ed74 goal_type
+0xf5b0ff05 SONGSTAT_SUSTAIN_TIME
+0x806fff30 none
+0xe3006fc4 down
+

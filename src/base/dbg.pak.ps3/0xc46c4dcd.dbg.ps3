@@ -1,0 +1,31 @@
+[LineNumbers]
+
+[Checksums]
+0x3ab2938a models\car_instruments\bass\esp\bass64_f405.qb
+0x9687f060 BRIDGE
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0xebb90298 bass64_f405_NodeArray_SortedIndices
+0xdd6b25ba bass64_f405_NodeArray_SortedNames
+0x98f905fa newtamaTriple_Bass64_F405
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0x3befe867 newtamaTriple_Bass64_N_bridge
+0x7f261953 Pos
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0x71804ab3 newtamaTriple_Bass64_N_Knob04
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x81ad8ca7 bass64_f405_NodeArray
+0x13d5fd4d Bass64_F405
+0x385e8d74 SkinExport
+0x01eabe3c newtamaTriple_Bass64_N_Knob01
+0x92842e56 newtamaTriple_Bass64_N_pickup01
+0xefe4df10 newtamaTriple_Bass64_N_Knob03
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+0x98e3ef86 newtamaTriple_Bass64_N_Knob02
+0x0b8d7fec newtamaTriple_Bass64_N_pickup02
+

@@ -1,0 +1,77 @@
+[LineNumbers]
+toggle_debug_overlay 10 (0,10) (18,11) (56,14) (96,15) (98,16) (102,17) (140,20) (180,21) (182,22) (184,23) 
+create_debug_overlay 20 (0,30) (2,32) (20,33) (22,34) (24,35) (76,37) (78,38) (91,41) (128,42) (146,43) (159,44) (161,45) (163,46) (170,49) (182,50) (194,51) (220,52) (232,53) (245,54) (247,55) 
+destroy_debug_overlay 2 (0,62) (36,63) 
+update_debug_overlay 60 (188,82) (222,84) (256,87) (290,90) (324,93) (358,96) (392,99) (426,102) (460,105) (496,107) (509,108) (522,109) (535,110) (548,111) (561,112) (574,113) (587,114) (600,115) (613,116) (615,117) (633,119) (646,120) (658,121) (671,122) (673,123) (677,124) (716,127) (718,128) (736,130) (770,132) (804,133) (838,134) (872,135) (906,136) (940,137) (974,138) (1008,139) (1042,140) (1076,141) (1110,142) (1144,143) (1157,145) (1169,146) (1182,147) (1195,148) (1208,149) (1221,150) (1234,151) (1247,152) (1260,153) (1273,154) (1286,155) (1299,156) (1312,157) (1325,158) (1327,159) (1331,160) (1372,163) (1374,164) (1376,165) 
+
+[Checksums]
+0x525e0e54 scripts\game\debug_overlay\debug_overlay.qb
+0xe035203d players_in_game
+0xba22004f controller_3_queue_size_text
+0x6e1e9088 controller_1_queue_size_text
+0x229b30a6 destroy_debug_overlay
+0xd9295137 leader_text
+0x73665140 CreateScreenElement
+0x01dd615f DescInterface
+0x174841bc a
+0x1f76e1c7 num_ads_downloaded_text
+0xa1dc81f9 name
+0xb4e5126d num_feed_items_text
+0x890992d7 update_debug_overlay
+0xd2d5d3aa num_motd_downloaded
+0xf44a53ab desc
+0xc5bc93ee ScreenElementExists
+0xff0db407 TextName
+0x9277f428 FormatText
+0x760a1437 create_debug_overlay
+0xc906b486 debug_overlay_goals_alpha
+0xfe2be489 g
+0x0dc714e1 c0_queue_size
+0x8da97503 primary_controller
+0x3a6a850c show_goals
+0x0a1c1528 leader
+0x64790585 num_feed_items
+0xc61a25aa competitive_rules_text
+0xc3c1a5bd news_feed_overlay_alpha
+0xf20825d5 debug_news_feed_alpha
+0x96dfa600 motd_text
+0x7a59c611 c3_queue_size
+0x2e282623 friend_msg_text
+0xfd950667 boot_movie_done
+0x2f1fc695 alpha
+0x16a7f6b9 hints
+0x521af6d1 friend_msg
+0xa787275e num_ads_downloaded
+0x25d1275f players_in_game_text
+0xd45fb7eb ads_text
+0x39136852 num_MOTDs_downloaded_text
+0xe8fb2869 game_mode_text
+0x9662588e c1_queue_size
+0x40c698af id
+0x7321a8d6 type
+0xbfe62923 rock_record_text
+0x3c15e9b6 DestroyScreenElement
+0x51cc89cb g_debug_overlay_on
+0x813609df ads
+0xdbd799eb party_text
+0xe3498a56 primary_controller_text
+0xe1fc8a7e c2_queue_size
+0x55f09a93 motd
+0x7c092ae1 net_leader
+0x56a1eae3 root_window
+0x3d84cb0c controller_2_queue_size_text
+0x9ab07c04 controller_4_queue_size_text
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0x05de5c3c rock_record
+0xecd56c7c game_session_text
+0xf6ec8c81 net_leader_text
+0xf05b7d19 active_goals_text
+0x067f9d4f debug_overlay
+0xdef9fded hints_text
+0xfc37df05 gameframe
+0x835d0f90 GlobalExists
+0xc2719fb0 parent
+0x6435cfee toggle_debug_overlay
+0xd1f91fef goals_text
+

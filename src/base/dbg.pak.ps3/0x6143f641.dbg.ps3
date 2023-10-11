@@ -1,0 +1,153 @@
+[LineNumbers]
+
+[Checksums]
+0x1fbc74ad scripts\guitar\gh4_songlist.qb
+0x605c9021 Indie Rock
+0xb92a102c dlc263
+0x28955034 Modern Rock
+0x4e3f4041 dlc271
+0x21902065 checksum
+0xcd32e08d vocals_scroll_speed
+0xce2d20ba dlc262
+0x393870d7 dlc270
+0xde88b0fb bass_difficulty_rating
+0x57247100 dlc261
+0xa031216d dlc273
+0xa1cf2192 artist_text_by
+0x20234196 dlc260
+0xaa9491b5 New Wave
+0xa1dc81f9 name
+0xd73611fb dlc272
+0xf100a205 alternative
+0xb8b232a0 thin_fretbar_16note_params_low_bpm
+0x7c0922c3 dlc251
+0x1a166358 guitar_difficulty_rating
+0xe5007379 dlc252
+0x3862937d vocals_difficulty_rating
+0x920743ef dlc253
+0x79600415 dlc308
+0xb07be42a dlc288
+0xbe47d435 dlc267
+0x46507438 overall_song_volume
+0xc6a0d43d Punk
+0x49528458 dlc275
+0xc8b6445d Rock
+0x0e673483 dlc309
+0xc940e4a3 dlc266
+0xc77cd4bc dlc289
+0x3e55b4ce dlc274
+0x181044d6 mono_drums
+0x5049b519 dlc265
+0x607b3554 dlc318
+0xa960d56b dlc298
+0xed9e3573 double_kick
+0xa75ce574 dlc277
+0x274e858f dlc264
+0xb58b7593 female
+0x692195af vocals_pitch_score_shift
+0x177c05c2 dlc319
+0xd05bd5e2 dlc276
+0xde67e5fd dlc299
+0x3c515601 dlc329
+0xb8e3f63d Prog Rock
+0x0c63d64c dlc254
+0x6749e668 singer
+0x4b566697 dlc328
+0xac8c3699 Country
+0x7b64e6da dlc255
+0x92aa3758 gh4_songlist_props
+0xe26db760 dlc256
+0xd4c98794 title
+0x0a6517c1 thin_fretbar_8note_params_high_bpm
+0x956a87f6 dlc257
+0xb9cda801 dlc284
+0x2ba17810 cents
+0x70d6483e dlc304
+0x87c31853 dlc316
+0x4ed8f86c dlc296
+0x40e4c873 dlc279
+0xceca9897 dlc285
+0x07d178a8 dlc305
+0x109a68b0 Heavy Metal
+0xf0c428c5 dlc317
+0x37e3f8e5 dlc278
+0xe62f48e9 Pop
+0x3cd1e8ec Southern Rock
+0x39dfc8fa dlc297
+0x9ed82912 dlc306
+0x1474f917 Blues Rock
+0x57c3c92d dlc286
+0x59fff932 dlc269
+0xa0d69940 dlc294
+0xfea66978 artist
+0x7d28697e performance
+0x69cd797f dlc314
+0xe9df1984 dlc307
+0x2ef8c9a4 dlc268
+0x20c4f9bb dlc287
+0xc10199c5 boss
+0xd7d1a9d6 dlc295
+0x1eca49e9 dlc315
+0x35e71a2a dlc325
+0x05d59a67 dlc258
+0xf0af6a8c thin_fretbar_16note_params_high_bpm
+0xadda4aa8 original_artist
+0x42e02abc dlc324
+0x137ebac2 Classic Rock
+0x69b69aca Boss_Zakk_Props
+0xb5f57ad1 dlc336
+0x72d2aaf1 dlc259
+0xdbe97b06 dlc327
+0x998b5b11 Pop Punk
+0x3f9d0b36 Metal
+0x2cfc2b6b dlc335
+0xe0006b71 Nu Metal
+0x979dcb71 Pop Rock
+0x3c46cb83 Boss_Ted_Props
+0xacee4b90 dlc326
+0x5bfb1bfd dlc334
+0x7cafcc07 genre
+0xbea06c18 dlc280
+0xd1120c22 Grunge
+0x77bb8c27 dlc300
+0x80aedc4a dlc312
+0x49b53c75 dlc292
+0xc9a75c8e dlc281
+0x00bcbcb1 dlc301
+0x7df21cbe thin_fretbar_8note_params_low_bpm
+0x447d8cc8 year
+0xf7a9ecdc dlc313
+0x3eb20ce3 dlc293
+0xf40a5d06 countoff
+0x99b5ed0b dlc302
+0x6831cd0b drum_solo
+0x0aa62d30 drums_difficulty_rating
+0xd163ad32 band_difficulty_rating
+0x50ae0d34 dlc282
+0x46feed4a Surf Rock
+0xa7bb5d59 dlc290
+0x6ea0bd66 dlc310
+0xeeb2dd9d dlc303
+0x27a93da2 dlc283
+0xe7d1adac leaderboard
+0xa271cdb2 album_title
+0xd0bc6dcf dlc291
+0x19a78df0 dlc311
+0x328ade33 dlc321
+0xc59f8e5e dlc333
+0x458deea5 dlc320
+0xbb7d3ea5 drum_kit
+0x78cadea7 artist_text
+0xb298bec8 dlc332
+0xdc84bf1f dlc323
+0x806fff30 none
+0xdd52af3c Hard Rock
+0x79a07f3f duration
+0xaa721f56 male
+0x6b291f66 hip_hop
+0x2b91ef72 dlc331
+0xdd452f83 gh4_songlist
+0xab838f89 dlc322
+0x6abbefb9 allowed_in_quickplay
+0x5c96dfe4 dlc330
+

@@ -1,0 +1,96 @@
+[LineNumbers]
+GameEvent_GetLastUsedMicType 17 (0,21) (36,29) (72,32) (85,33) (103,34) (115,35) (117,36) (146,38) (165,40) (200,42) (202,43) (223,46) (231,47) (233,48) (235,49) (241,53) (260,54) 
+GameEvent_CalibrateBegin 4 (0,59) (6,65) (24,66) (30,69) 
+GameEvent_CalibrateEnd 10 (0,76) (18,82) (24,83) (46,84) (80,85) (84,86) (96,87) (98,88) (116,89) (122,92) 
+GameEvent_VenueEnter 9 (0,99) (18,101) (36,107) (42,110) (48,113) (66,114) (100,116) (102,118) (104,119) 
+GameEvent_VenueExit 10 (0,125) (18,127) (36,133) (42,135) (64,136) (82,137) (88,140) (124,143) (126,144) (128,145) 
+GameEvent_SongBegin 29 (0,151) (36,154) (45,155) (63,156) (69,157) (71,158) (88,159) (106,160) (127,161) (160,162) (190,163) (204,164) (206,165) (208,166) (234,169) (257,170) (259,171) (277,173) (285,174) (287,175) (305,176) (352,183) (358,185) (392,187) (410,189) (464,192) (470,196) (472,198) (508,200) 
+GameEvent_SongWon 6 (0,206) (6,208) (24,210) (30,217) (32,219) (68,221) 
+GameEvent_SongFailed 5 (0,227) (18,229) (24,236) (26,238) (60,240) 
+GameEvent_SongRetry 5 (0,246) (18,248) (24,255) (26,257) (60,259) 
+GameEvent_SongAborted 5 (0,265) (18,267) (24,274) (26,276) (60,278) 
+GameEvent_GigBegin 1 (0,284) 
+GameEvent_GigWon 1 (0,296) 
+GameEvent_GigFailed 1 (0,308) 
+GameEvent_GigRetry 1 (0,320) 
+GameEvent_GigAborted 1 (0,332) 
+
+[Checksums]
+0x0789ff57 scripts\game\gameevents.qb
+0x6dc26038 dgsrecorddata_songwon
+0xe11ff055 item_player
+0x526900b0 dgsrecorddata_calibratebegin
+0x877170e7 g_gameevent_in_song
+0xab215108 GetFirstPlayer
+0xaaf74113 PlayerInfoEquals
+0x5ef31148 array
+0xcf66717b GotParam
+0x69f8e187 DynamicAdManagerCommand
+0xbebfa1c6 element
+0xbfa801df change
+0xd16b61e6 StartTime
+0xa1dc81f9 name
+0x4bfcd202 AddArrayElement
+0x46159266 out
+0xe6f31292 g_gameevent_in_venue_starttime
+0x11f692a6 SetPlayerInfo
+0xf2ecb2e5 dgsrecorddata_songaborted
+0xf2be833b GameEvent_GetLastUsedMicType
+0x0203b372 true
+0xc31a237f dgsrecorddata_songfailed
+0x0f2ef3ed GameEvent_GigFailed
+0x2beaf3fa GameEvent_SongBegin
+0x487e440c dgsrecorddata_venueenter
+0x979cb425 GetTrueStartTime
+0xbd09544c func
+0xec21745d GameEvent_GigAborted
+0x8320d478 game_mode
+0x39b5c4b0 GetArraySize
+0x4105d4f9 dgsrecorddata_venueexit
+0xb8ec9515 GameEvent_CalibrateBegin
+0x67e6859a player
+0xb4a5359d GMan_SendCallbackToAllGoals
+0xd28ab59f dgsrecorddata_trace
+0xf2a425bd webpresence_update_play_records
+0x464545dc dgsrecorddata_calibrateend
+0xb761f690 flushalldebugimpressioncounters
+0x07f796ad GetNullChecksum
+0x690256ed g_gameevent_lastusedmictype_array
+0x7f8f370c GameEvent_SongRetry
+0x97367795 Vocals_GetMicType
+0x906b67ba time
+0x5962a7c4 num_items
+0xd43297cf false
+0x4a4f7821 suffix
+0xca39c82d webpresence_setup_play_records
+0xb4d3e87d GameEvent_GigBegin
+0x618fe886 specific_mic_type
+0xe69bc8ca GameEvent_VenueExit
+0x7f8c98fe index
+0xc2bf7974 GameEvent_GigWon
+0x7323e97c x
+0xac5c19e6 g_gameevent_calibration_time
+0xe0e4dae1 item
+0xea920ae1 GetNextPlayer
+0x1f773af1 is_local_client
+0xf709bb06 GameEvent_VenueEnter
+0xd8112b3f dgsrecorddata_songretry
+0xee4feba4 GameEvent_SongWon
+0x12862c04 GameEvent_SongAborted
+0x7c6ddc75 GameEvent_SongFailed
+0xe0b62c8b GameEvent_GigRetry
+0xea864c9e g_gameevent_in_venue_time
+0x25cadcac GetNumPlayersInGame
+0xdc988cbb g_gameevent_in_venue
+0xa8751ce8 recent_award_points
+0x7f5b3d4d array_size
+0x91a8fdac GameEvent_CalibrateEnd
+0xe8e6adcb vocals
+0xaadfee19 temparray
+0xf5bf1e69 g_gameevent_calibration_starttime
+0x00fdee8a nullchecksum
+0x65485eea GetPlayerInfo
+0xb6f08f39 part
+0x8c74efc9 dgsrecorddata_songbegin
+0x81882fda freeplay
+

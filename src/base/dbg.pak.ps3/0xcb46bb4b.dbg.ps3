@@ -1,0 +1,35 @@
+[LineNumbers]
+
+[Checksums]
+0x10bd21c3 models\car_instruments\guitar\prs\gtr179_prs_swamp.qb
+0x941ec004 gtr179_prs_swamp_NodeArray_SortedNames
+0x9687f060 BRIDGE
+0xf423f0a8 GTR179_PRS_Swamp_GTR179_N_misc
+0x6bf260c9 GTR179_PRS_Swamp_GTR179_N_pickup01
+0xf2fb3173 GTR179_PRS_Swamp_GTR179_N_pickup02
+0x310cc1d7 KNOB
+0x85fc01e5 GTR179_PRS_Swamp_GTR179_N_pickup03
+0xa1dc81f9 Name
+0x1b989446 GTR179_PRS_Swamp_GTR179_N_pickup04
+0x943b74ad GTR179_PRS_Swamp_GTR179_PRS_Swamp
+0x6c9fa4d0 GTR179_PRS_Swamp_GTR179_N_pickup05
+0x8058e545 MISC
+0xf596f56a GTR179_PRS_Swamp_GTR179_N_pickup06
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0x4eeca855 GTR179_PRS_Swamp
+0x7f261953 Pos
+0x559189a3 gtr179_prs_swamp_NodeArray
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0xb386eab0 GTR179_PRS_Swamp_GTR179_N_Knob02
+0x2a8fbb0a GTR179_PRS_Swamp_GTR179_N_Knob01
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x108aed51 GTR179_PRS_Swamp_GTR179_N_Bridge
+0x385e8d74 SkinExport
+0x419fde2c gtr179_prs_swamp_NodeArray_SortedIndices
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+

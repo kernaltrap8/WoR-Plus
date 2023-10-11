@@ -1,0 +1,105 @@
+[LineNumbers]
+autolaunch_for_screenshot 23 (28,7) (59,9) (69,11) (79,12) (92,13) (105,14) (118,15) (131,16) (144,17) (157,18) (170,19) (183,20) (196,21) (209,22) (222,23) (235,24) (248,25) (256,26) (292,27) (294,28) (300,30) (336,31) (354,33) 
+autolaunch_for_screenshot_spawned 39 (0,36) (25,38) (51,41) (73,42) (80,43) (82,44) (108,46) (160,47) (212,48) (264,49) (316,50) (318,51) (325,53) (327,55) (340,58) (362,59) (372,60) (401,61) (414,62) (416,63) (429,64) (458,65) (471,66) (473,67) (486,68) (514,69) (544,70) (557,71) (559,72) (567,73) (604,74) (606,75) (624,79) (660,80) (719,81) (721,82) (723,83) (772,85) (774,86) 
+autoscreen_capture 17 (28,90) (30,92) (36,93) (88,95) (124,97) (130,98) (168,99) (186,100) (220,101) (256,102) (260,103) (278,104) (312,105) (314,106) (364,108) (370,110) (378,111) 
+autoscreen_check_player_info_condition 11 (0,120) (26,122) (47,123) (76,124) (78,125) (82,126) (103,127) (132,128) (134,129) (136,130) (168,132) 
+autoscreen_check_any_player_met_condition 32 (0,136) (6,138) (24,140) (56,141) (58,142) (80,144) (102,145) (112,147) (152,148) (165,151) (167,152) (196,153) (218,155) (228,157) (238,158) (257,159) (288,160) (290,161) (303,162) (322,163) (352,164) (354,165) (367,166) (386,167) (416,168) (418,169) (426,170) (449,171) (451,172) (473,174) (481,175) (512,177) 
+autoscreen_check_all_players_met_condition 39 (0,181) (6,183) (24,184) (56,185) (58,186) (80,188) (116,189) (138,191) (160,192) (170,194) (210,195) (223,198) (236,199) (238,200) (262,201) (291,202) (313,204) (323,206) (333,207) (352,208) (374,209) (376,210) (389,211) (408,212) (430,213) (432,214) (445,215) (464,216) (486,217) (488,218) (496,219) (532,220) (534,221) (556,223) (564,224) (583,226) (612,227) (614,228) (644,230) 
+autoscreen_check_song_condition 8 (0,239) (26,241) (32,242) (57,243) (88,244) (90,245) (92,246) (124,248) 
+autoscreenshot_band_failed_init 5 (0,257) (52,259) (104,260) (156,261) (208,262) 
+autoscreenshot_band_failed_condition 19 (0,265) (6,267) (24,269) (56,270) (58,271) (71,273) (84,274) (86,275) (103,276) (138,278) (150,280) (172,281) (174,282) (196,284) (204,285) (222,287) (252,288) (254,289) (284,291) 
+
+[Checksums]
+0x31b68f98 scripts\guitar\autoscreen.qb
+0x0813001a custom_condition
+0xa8b46035 autoscreen_name
+0x341490b5 autoscreen_types
+0x7031f10c params
+0xa5aa6117 less_than
+0xed098163 num_captures
+0xa585017f setup_4_player_bot
+0x5d0671b8 channel
+0x3fea11bb autoscreenshot_band_failed_condition
+0xa766e1be ScreenShot
+0xbebfa1c6 element
+0xbfa801df change
+0x589a71df UnpauseGame
+0xa1dc81f9 name
+0xb81db218 autoscreenshot_band_failed_init
+0x3a856248 song_condition
+0x46159266 out
+0x11f692a6 SetPlayerInfo
+0xd443a2bc off
+0x325bf2bd lars
+0x9eb6e336 SpawnScript
+0xc45ca345 autoscreen_check_song_condition
+0xa8ee7357 ScriptAssert
+0x0203b372 true
+0x6166f3ad script_name
+0x10c6f3db structure_name
+0x39b5c4b0 GetArraySize
+0xdeef04cd StructureContains
+0xcb9fb4cf bass
+0xfd4044db destroyBotDebugWidget
+0xd0cbc53f init_script
+0x7a95a557 t
+0xbed80563 disable_bots
+0x1485d569 threshold
+0x67e6859a player
+0xbcd745af autolaunch_for_screenshot
+0x2de8c60e printf
+0xf649d637 on
+0xc3f4169a filename
+0x1cb2a6b0 num_players
+0x6999a70f toggle2d
+0x987d27ba num_players_passed
+0x906b67ba time
+0x422977bc condition
+0xe288a7cb value
+0xd43297cf false
+0x7f0bb814 GetSongTime
+0x90fec815 structure
+0x1988e847 take_screen
+0x2b464852 logic
+0x7321a8d6 type
+0x872998fa is_dead
+0x97642907 part2
+0x7323e97c x
+0x1993c98e i
+0xe0631991 part3
+0x5f15c9a7 autoscreen_check_any_player_met_condition
+0x28d819ce num_dead_players
+0xa7505a30 autolaunch_for_screenshot_spawned
+0xfff74a89 show_bot_debug_widgets
+0x74e07aa9 condition_script
+0x19fa5af7 SpawnScriptNow
+0x05f52b6d autolaunch
+0xf8509b99 required_players
+0x82117c1a wait
+0x87f75c2d n
+0x7e078c32 part4
+0xc706fc5e equals
+0x25cadcac GetNumPlayersInGame
+0x5cc16cdf drum
+0xbdc53cf2 guitar
+0x69f93d01 l
+0x7abf8d05 autoscreen_check_player_info_condition
+0x20d0ad37 bot_play
+0x14b98d41 hide_analog_options
+0x7f5b3d4d array_size
+0x23805d68 player_info_condition
+0xa30e1da8 autoscreen
+0xe8e6adcb vocals
+0xe8b81df0 autoscreen_capture
+0x08d82e9d AddParam
+0x30dd7eb1 params_struct
+0x7b30bee4 greater_than
+0x65485eea GetPlayerInfo
+0xec953eec result
+0x954f1eef PauseGame
+0xfc37df05 gameframe
+0x806fff30 none
+0xb6f08f39 part
+0x330e7fc9 viewer_taking_screenshot
+0x29204ff9 autoscreen_check_all_players_met_condition
+

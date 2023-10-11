@@ -1,0 +1,226 @@
+[LineNumbers]
+ui_init_options_facebook 2 (0,15) (76,17) 
+ui_create_options_facebook 145 (28,30) (34,31) (41,33) (53,34) (65,35) (77,36) (104,37) (119,38) (134,39) (155,40) (157,41) (169,42) (178,43) (190,44) (192,45) (216,46) (260,48) (296,49) (298,50) (327,52) (345,55) (365,58) (385,59) (407,60) (429,61) (439,63) (448,64) (461,65) (474,66) (489,67) (491,68) (509,70) (576,71) (580,72) (593,73) (627,74) (629,75) (641,77) (648,79) (660,80) (668,81) (674,82) (686,83) (699,84) (712,85) (727,86) (739,87) (751,88) (764,89) (776,90) (784,92) (791,93) (798,94) (805,95) (812,96) (814,97) (833,99) (835,100) (848,101) (860,103) (867,104) (883,105) (885,106) (909,109) (923,112) (942,115) (960,116) (974,117) (976,118) (994,120) (1060,121) (1064,122) (1098,123) (1100,124) (1112,126) (1119,128) (1131,129) (1139,130) (1145,131) (1157,132) (1170,133) (1183,134) (1198,135) (1210,136) (1233,137) (1245,138) (1258,139) (1270,140) (1279,142) (1291,144) (1310,145) (1312,146) (1325,147) (1337,148) (1353,149) (1360,150) (1362,151) (1386,154) (1492,162) (1505,166) (1518,167) (1531,168) (1546,169) (1555,171) (1568,172) (1581,173) (1594,174) (1604,175) (1608,176) (1618,177) (1636,178) (1651,179) (1694,180) (1704,181) (1706,182) (1749,183) (1759,184) (1761,185) (1792,186) (1807,187) (1809,188) (1813,189) (1828,190) (1859,191) (1869,192) (1871,193) (1873,194) (1875,195) (1882,197) (1895,198) (1908,199) (1920,200) (1927,201) (1929,202) (1939,206) (1949,207) (1964,208) (1966,209) (2056,226) (2062,229) (2081,231) (2276,235) (2278,237) (2476,242) (2494,245) 
+ui_destroy_options_facebook 6 (0,254) (6,256) (12,257) (48,259) (84,260) (86,261) 
+ui_return_options_facebook 4 (0,269) (36,270) (43,271) (76,272) 
+ui_options_facebook_add_helper_text 7 (28,280) (48,281) (116,282) (135,284) (200,286) (202,288) (268,290) 
+ui_options_facebook_choose_register 17 (0,300) (22,302) (44,303) (80,305) (120,306) (122,307) (160,309) (166,310) (216,311) (218,312) (225,314) (238,315) (251,316) (263,317) (284,318) (297,320) (299,321) 
+ui_options_facebook_did_register 29 (28,332) (34,334) (52,336) (93,340) (141,341) (165,342) (171,343) (183,344) (195,345) (208,346) (210,347) (214,348) (248,349) (324,350) (360,355) (384,356) (390,357) (396,358) (408,359) (420,360) (433,361) (441,362) (443,368) (455,369) (467,370) (469,371) (471,372) (473,373) (475,374) 
+ui_options_facebook_choose_unregister 12 (0,383) (12,385) (24,386) (48,387) (54,388) (66,389) (79,390) (92,391) (104,392) (150,393) (162,394) (164,395) 
+ui_options_facebook_did_unregister 22 (28,406) (46,407) (87,408) (135,409) (159,410) (165,411) (177,412) (189,413) (202,414) (204,415) (208,416) (244,417) (320,418) (332,423) (356,424) (362,425) (374,426) (386,427) (399,428) (411,429) (413,430) (415,431) 
+ui_options_facebook_choose_test_post 12 (0,440) (36,442) (76,443) (116,444) (156,445) (158,446) (200,448) (207,450) (220,451) (232,452) (264,453) (266,454) 
+ui_options_facebook_did_post 44 (76,468) (82,470) (104,472) (126,473) (144,475) (180,477) (187,478) (199,479) (212,480) (220,481) (222,482) (234,483) (246,484) (248,485) (250,486) (256,487) (258,488) (262,489) (306,490) (313,491) (326,492) (338,493) (370,494) (372,495) (376,496) (417,498) (465,499) (472,500) (484,501) (497,502) (505,503) (507,504) (519,505) (531,506) (533,507) (535,508) (541,509) (543,510) (545,511) (547,512) (584,514) (636,515) (638,516) (667,518) 
+ui_options_facebook_accept_username 4 (0,527) (52,529) (86,531) (92,533) 
+ui_options_facebook_accept_password 4 (0,542) (52,544) (86,546) (92,548) 
+ui_options_facebook_back_and_refresh 8 (0,557) (6,559) (42,560) (48,561) (52,562) (58,563) (60,564) (96,566) 
+ui_options_facebook_choose_privacy_policy 2 (0,575) (108,580) 
+ui_options_facebook_cancel_edit_name 3 (0,589) (52,591) (58,593) 
+ui_options_facebook_check_settings 29 (28,602) (41,604) (80,605) (98,606) (111,607) (113,608) (135,610) (157,611) (188,613) (207,614) (209,615) (211,616) (235,618) (241,619) (253,620) (297,621) (309,622) (317,623) (319,624) (331,625) (343,626) (345,627) (347,628) (360,629) (381,630) (393,631) (395,632) (397,633) (399,634) 
+facebook_add_text_item 18 (28,645) (35,646) (37,647) (49,648) (61,649) (74,650) (76,651) (112,653) (147,654) (149,655) (188,657) (202,658) (215,659) (277,660) (341,661) (343,662) (345,663) (359,665) 
+
+[Checksums]
+0x03261bfd scripts\guitar\menu\states\layouts\ui_options_facebook.qb
+0xb990d003 target
+0x0f7e902c nullscript
+0xe08a4037 email_prompt
+0x475bf03c event_handlers
+0x8de4d057 g_facebook_string
+0x9ee18058 facebook_get_info
+0x059ea070 red
+0xc6d23071 menurow_highlight_bar_pos
+0x689fe07c template
+0x67c46080 ui_create_options_facebook
+0xe17f30b9 menurow_highlight_bar_dims
+0xb68c90bf facebook_post
+0x02f6f0ce options_facebook_vmenu
+0x16e840ea cancel_confirm
+0x6b574107 censored_text
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0x73665140 CreateScreenElement
+0x7df8614e p
+0x01dd615f DescInterface
+0x2bf5d16a ui_return_options_facebook
+0x46967175 os_kb_flags
+0xcf66717b GotParam
+0x3eb181a1 options_facebook
+0x8c6c61bc ps3_password_input
+0x1ed4a1bf ui_options_facebook_did_post
+0x2f6511de green
+0xbfa801df change
+0xcd8881e0 menurow_txt_item_fit_width
+0xb1f251e2 accept_params
+0x47d481ec default_color_scheme
+0xa1dc81f9 name
+0x5f2c4217 title_header
+0x8fae8247 title_text
+0xbd30325b white
+0xcc9d025b error_code
+0x7d99f28d texture
+0xfe0cb28d social_networks_animate_load
+0x17a542ba menu_refresh
+0x10f902ff password_prompt
+0xe19d0319 name_entry_email_characters
+0x2159e31f cancel_script
+0x4380f321 page_head_text
+0x4d8f232f username_text
+0xa8ee7357 ScriptAssert
+0x2ffb1360 yellow
+0xccb3f389 g_facebook_nologo_string
+0xf44a53ab desc
+0x877f13b3 ui_options_facebook_add_helper_text
+0xc5f953c2 button
+0x48efe3d2 no_show_history
+0x215563d8 confirm_func
+0xc5bc93ee ScreenElementExists
+0xff0db407 textname
+0x892cd41f f
+0x1d944426 not_focusable
+0x9277f428 FormatText
+0xf8a4443a get_savegame_from_controller
+0xbd09544c func
+0x91f0e45a body_text
+0xf84de461 menurow_txt_item_rgba
+0x1e93946b alias
+0x85f74487 g_options_facebook_temp_info
+0xc5e4e494 ui_options_facebook_choose_register
+0x8c6bb4b0 ui_event_get_top
+0xf67194b9 ui_options_facebook_choose_unregister
+0x8da97503 primary_controller
+0xe8249503 ui_options_facebook_did_unregister
+0xb929850d did_succeed
+0x1bd3850e g_options_facebook_did_register
+0x9d3fb516 focus
+0xec1cd520 continue
+0xb40d153f select
+0xc451f558 event
+0x6962b564 ui_options_facebook_accept_password
+0x2fca0578 options
+0x102585a5 e
+0x0d9295c1 u
+0xa4fef5c6 ui_options_facebook_accept_username
+0x020f45d3 ui_social_networks_setup_continue
+0x767a45d7 black
+0x724ab5de message_struct
+0x7ad735e9 is_social_share
+0x150d35f1 heading_text
+0x603845f2 UIstate_generic_dialog_box
+0xa4b375f3 retry_on_fail
+0x2de8c60e printf
+0xa7d7c610 choose_script
+0x46c49652 ui_options_facebook_choose_privacy_policy
+0x95741693 pad_option2
+0x53e3d6b9 no_accept
+0xed6776e8 facebook_add_text_item
+0x533bf6e9 ui_options_facebook_check_settings
+0x332816ed menu_id
+0xd718f6ee dialog_box_desc_id
+0xe6149702 focusable_params
+0x948b371f facebook
+0x2cb33744 LaunchEvent
+0x60d3374b ui_options_facebook_choose_test_post
+0xbcab976e generic_event_replace
+0x62770775 is_censored
+0x0ed45788 Obj_SpawnScriptNow
+0xd4c98794 title
+0x1d2d97d4 func_params
+0xe33597e8 social_networks_hide_load
+0xd48727fe UIstate_os_edit_name
+0x3d075816 \Ltruncate
+0xc195a822 create_dialog_box
+0xf4d9a825 add_user_control_helper
+0x22bdd82b accept_script
+0xc4745838 text
+0x23109842 name_entry_number_characters
+0x9f7b7843 network
+0x16b06850 xenon_email_input
+0x9d2d8850 z
+0x29d5d87b add_gamertag_helper
+0x40c698af id
+0xe6cf88c4 callback_params
+0x7321a8d6 type
+0xb90a78d7 is_popup
+0xbe5988dd screen_id
+0x52896903 valid_characters
+0xca3db92a password
+0xeafc692e no_background
+0xb30d9965 controller
+0x6c4e7971 prefix
+0x07a1f988 username
+0x396a8997 ui_options_facebook_cancel_edit_name
+0x3c15e9b6 DestroyScreenElement
+0xec9579b8 g_social_networks_required_prefix
+0xf2dfb9eb add_generic_menu_up_down_sound_handlers
+0xc9428a08 device_num
+0x604efa33 helper_text
+0xb1c85a58 ui_options_facebook_back_and_refresh
+0xef75ca77 mainmenu_item_id
+0x79425aa5 social_networks_get_censored_text
+0x3bf88ac7 name_entry_upper_characters
+0x888eaada create_mainmenu_bg
+0x56a1eae3 root_window
+0x84ff9ae3 status
+0xc16dbaec uncensored_text
+0x97699af0 xenon_password_input
+0xe42dbaff default_name
+0x37c84b09 destroy_dialog_box
+0x28e66b14 resolved_id
+0xf1ff8b68 choose_state
+0xb6c42b92 UIstate_privacy_policy
+0x34c46ba4 facebook_check_is_registered_flag
+0x29502bc0 UI_SFX
+0x90436bd9 tags
+0x86068bd9 callback
+0x15047bf7 menu_item_text
+0x7d654c18 exclusive_device
+0x9f23dc21 SE_SetProps
+0x67a72c43 facebook_register
+0x55953c8a social_networks_get_error_string
+0x75834c95 name_entry_lower_characters
+0x520c0c9c data
+0xf380acaf menurow_txt_item_dims
+0x62c11cb9 GetSingleTag
+0x0c441cc3 item_text
+0x4adf0cd3 unfocus
+0xac85ecd6 message_id
+0xcc848cd8 from_boot
+0xd6e7acdc cancel_func
+0xd6521cee generic_event_back
+0x361a9cef social_networks_string_contains_prefix
+0x5c6c2d04 state
+0x7ee0fd2a pad_back
+0x66a54d2d generic_event_choose
+0x4577fd38 AssignAlias
+0xcf1d0d4b text_color
+0xc906ad51 MenuState
+0x61414d56 string
+0xed90ada1 item_id
+0xf003cda9 test_update
+0x69ec7dbf alias_social_menu
+0x69b05e2c generic
+0x15a08e38 confirm_func_params
+0x59ddde4c UIstate_options_game_setup
+0x24c40e79 destroy_mainmenu_bg
+0xbe304e86 printstruct
+0x8842aea9 ui_event_wait
+0x92313ec8 Back
+0xf767ced3 error_string
+0xd0887ee5 social_networks_tester_mode
+0x37bf4f09 base_name
+0x02141f19 clean_up_user_control_helpers
+0x2a5ebf23 ui_destroy_options_facebook
+0x2c6a5f27 UIType
+0x57710f31 z_priority
+0xe2c4cf3e char_limit
+0x0d81ff47 g_social_networks_required_prefix2
+0xe8615f62 ui_options_facebook_did_register
+0x56215f73 password_text
+0x09289f8a ui_init_options_facebook
+0xadb72fa0 facebook_unregister
+0x00ebffa3 ps3_alphabet_input
+0xc2719fb0 parent
+0x1c396fc1 mainmenu_setup_option
+0x9f992fc2 social_networks_get_message
+0x27dbcfcb exit_func
+0x34984fd9 choose_params
+

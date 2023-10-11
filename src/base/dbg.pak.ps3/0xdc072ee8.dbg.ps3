@@ -1,0 +1,17 @@
+[LineNumbers]
+
+[Checksums]
+0xe696c15d scripts\game\anim\animationdata\loops\guit\l_guit_morgan_4horse_m_anim_data.qb
+0x4768e022 Guit_Morgan_4Horsemen_075_M
+0x937bb16d Good
+0xe11433c0 Guit_Morgan_4Horsemen_100_M
+0x12e4443d Med
+0x7dd4c604 Bad
+0xda99b63b Fast
+0x2596167d Stance_A
+0xde7a971b Normal
+0x23db4aea Idle
+0x4b1dfb4b Guit_Morgan_4Horsemen_120_M
+0xcaf88e22 Slow
+0xebb98ecf L_GUIT_Morgan_4Horse_M_anims_set
+

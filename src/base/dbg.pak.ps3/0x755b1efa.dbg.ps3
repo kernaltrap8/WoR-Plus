@@ -1,0 +1,67 @@
+[LineNumbers]
+z_credits_Mesh02Script 2 (0,1) (40,2) 
+z_credits_TRG_Geo_AmpzillaScript 2 (0,5) (6,6) 
+z_credits_Object01Script 2 (0,9) (40,10) 
+z_credits_TRG_Geo_AmpzillaSoftScript 2 (0,340) (6,341) 
+
+[Checksums]
+0x060880b1 zones\z_credits\z_credits.qb
+0x5ea90017 z_credits_TRG_Waypoint_Bassist_Start
+0xef59c100 GameObject
+0xf0d90109 speed
+0xdd3cc1be z_credits_NodeArray_SortedIndices
+0x827de1f6 z_credits_NodeArray
+0xa1dc81f9 Name
+0x22293225 z_credits_TRG_Geo_Ampzilla
+0x9738c23b Empty
+0x2ca8a299 TriggerScript
+0x7c2552b9 CreatedAtStart
+0xfeaba384 Periph
+0x7e4813a7 LightGroup
+0x22f0a3c1 z_credits_Mesh02
+0x5e94d558 z_credits_TRG_Waypoint_Vocalist_Start
+0x7ea855f0 Profile
+0x12b4e660 Class
+0x17095697 z_credits_TRG_Geo_Camera_Performance_GUIT02
+0x714606a2 z_credits_TRG_Geo_Camera_Performance_BASS01
+0xe84f5718 z_credits_TRG_Geo_Camera_Performance_BASS02
+0xde7a971b Normal
+0x8e00072d z_credits_TRG_Geo_Camera_Performance_GUIT01
+0xd0f0c744 z_credits_TRG_Waypoint_Drummer_Start
+0x4c23a77e Waypoint
+0xd43297cf FALSE
+0x30e018b3 z_credits_TRG_Geo_Camera_Performance_SING01
+0x7321a8d6 Type
+0x2a8588f1 z_credits_TRG_Geo_Camera_Performance_DRUM02
+0xa9e94909 z_credits_TRG_Geo_Camera_Performance_SING02
+0xb38cd94b z_credits_TRG_Geo_Camera_Performance_DRUM01
+0x7f261953 Pos
+0xd286397b z_credits_TRG_Waypoint_Guitarist_Start
+0x7db5ea08 VolumeLightGroup
+0x7c242a0b Obj_RotY
+0x2aec7a7b z_credits_TRG_Geo_AmpzillaSoftScript
+0x7feb4a96 z_credits_TRG_Geo_AmpzillaSoft
+0xc97f3aa9 Orientation
+0x68910ac6 AbsentInNetGames
+0xfddf8ae7 z_credits_Mesh02Script
+0x4eedfae7 lod_dist1
+0x69788aed LightGroup4
+0xd7e4ab5d lod_dist2
+0x87695b6a z_credits_NodeArray_SortedNames
+0x958c0b76 Profile_Ven_Ampzilla_Obj
+0xe4279ba2 SuspendDistance
+0xc7302bc0 z_credits_TRG_Geo_AmpzillaScript
+0xb5035c66 Profile_Ven_Camera_Obj
+0x4bfb5c8b DisableShadowCasting
+0x286a8d26 Model
+0x4610ed3e z_credits_ampzilla
+0xb7b3bd86 LevelObject
+0xdcb06e23 z_credits_TRG_Geo_Camera_Intro
+0x1ca1ff20 Default
+0x806fff30 None
+0xe5c2ff4b z_credits_Object01
+0xf71c1f4e LightGroup3
+0xfcac6f5e Ghost
+0x71d52f7c z_credits_Object01Script
+0x801b2fd8 LightGroup2
+

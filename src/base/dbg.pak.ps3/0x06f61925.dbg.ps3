@@ -1,0 +1,97 @@
+[LineNumbers]
+EnableNewObjViewer 20 (0,25) (18,27) (52,28) (54,29) (72,31) (108,32) (110,33) (148,35) (200,36) (372,45) (374,46) (412,48) (448,49) (450,50) (500,52) (668,61) (690,62) (715,63) (757,64) (1024,77) 
+EnableObjViewer 162 (0,81) (18,83) (52,84) (54,85) (72,87) (108,88) (110,89) (148,91) (200,92) (372,101) (374,102) (412,104) (448,105) (450,106) (500,108) (668,117) (690,118) (715,119) (757,120) (764,121) (776,122) (788,123) (800,124) (813,125) (825,126) (837,127) (866,128) (885,129) (898,130) (900,131) (922,132) (929,133) (941,134) (953,135) (965,136) (978,137) (990,138) (1002,139) (1031,140) (1050,141) (1063,142) (1065,143) (1087,144) (1094,145) (1106,146) (1118,147) (1130,148) (1143,149) (1155,150) (1167,151) (1196,152) (1215,153) (1228,154) (1230,155) (1252,156) (1259,157) (1271,158) (1283,159) (1295,160) (1308,161) (1320,162) (1332,163) (1361,164) (1380,165) (1393,166) (1395,167) (1417,168) (1424,169) (1436,170) (1448,171) (1460,172) (1473,173) (1485,174) (1497,175) (1526,176) (1545,177) (1558,178) (1560,179) (1582,180) (1589,181) (1601,182) (1613,183) (1625,184) (1638,185) (1650,186) (1662,187) (1691,188) (1710,189) (1723,190) (1725,191) (1747,192) (1754,193) (1766,194) (1778,195) (1790,196) (1803,197) (1815,198) (1827,199) (1856,200) (1875,201) (1888,202) (1890,203) (1912,204) (1919,205) (1931,206) (1943,207) (1955,208) (1968,209) (1980,210) (1992,211) (2021,212) (2040,213) (2053,214) (2055,215) (2077,216) (2084,217) (2096,218) (2108,219) (2120,220) (2133,221) (2145,222) (2157,223) (2186,224) (2205,225) (2218,226) (2220,227) (2242,228) (2249,230) (2261,231) (2273,232) (2285,233) (2298,234) (2310,235) (2322,236) (2351,237) (2370,238) (2383,239) (2385,240) (2407,241) (2414,242) (2426,243) (2438,244) (2450,245) (2463,246) (2475,247) (2487,248) (2516,249) (2535,250) (2548,251) (2550,252) (2572,253) (2579,254) (2591,255) (2603,256) (2615,257) (2628,258) (2640,259) (2652,260) (2681,261) (2700,262) (2713,263) (2715,264) 
+UpdateObjViewer 36 (0,281) (18,283) (47,284) (76,285) (105,286) (134,287) (163,288) (192,289) (221,290) (250,291) (279,292) (308,293) (337,294) (366,295) (372,297) (376,298) (428,299) (480,300) (532,301) (584,302) (636,303) (688,304) (740,305) (792,306) (844,307) (896,308) (948,309) (1000,310) (1002,312) (1040,314) (1061,315) (1088,316) (1101,317) (1103,320) (1105,321) (1107,322) 
+DisableNewObjViewer 7 (0,327) (36,328) (72,329) (74,330) (112,332) (148,333) (150,334) 
+DisableObjViewer 43 (0,338) (36,339) (72,340) (74,341) (112,343) (148,344) (150,345) (188,347) (224,348) (226,349) (264,351) (300,352) (302,353) (340,354) (376,355) (378,356) (416,357) (452,358) (454,359) (492,360) (528,361) (530,362) (568,363) (604,364) (606,365) (644,366) (680,367) (682,368) (720,369) (756,370) (758,371) (796,372) (832,373) (834,374) (872,375) (908,376) (910,377) (948,378) (984,379) (986,380) (1024,381) (1060,382) (1062,383) 
+
+[Checksums]
+0x7719dc36 scripts\debugger\view_object.qb
+0x89125000 PolyStat1
+0x0f044001 MouseRotationLeftRightFactor
+0x721ed02e view_obj_text12
+0xfe156096 PolyStat0
+0xe89310b0 EnableObjViewer
+0x9d6f80fa low_def_object_viewer_globalscale
+0x9c10b102 view_obj_text10
+0xb12b510a SpriteElement
+0xc7171127 MouseRotationUpDownFactor
+0x671c312c PolyStat3
+0x73665140 CreateScreenElement
+0x3e98e175 hide_ai_debug
+0xcf66717b GotParam
+0xeb178194 view_obj_text11
+0x101b01ba PolyStat2
+0xbfa801df change
+0xa1dc81f9 name
+0x8b60022f just
+0xbd30325b white
+0x40d92263 TextBlockElement
+0x7f5ca27e UpdateObjViewer
+0x7d99f28d texture
+0xd443a2bc off
+0x3053b2c7 CompositeObjectExists
+0xe3fa22fc line_spacing
+0x606b1350 view_obj_text8
+0xd9746362 Agent
+0x6c165398 MouseYOffsetUpDownFactor
+0x176c23c6 view_obj_text9
+0x67e093e4 internal_just
+0xc5bc93ee ScreenElementExists
+0xd88ff400 viewer_text_display_block
+0x8e7f9419 PolyStat5
+0xf978a48f PolyStat4
+0xbf0f14db center
+0x24495505 ObjType
+0x6071f535 PolyStat7
+0xf79b854b hi_def_object_viewer_globalscale
+0x34a68574 dims
+0x1776c5a3 PolyStat6
+0x194845d3 EnableNewObjViewer
+0xa2907698 SetScreenElementLock
+0xd4c416fb pos0
+0x2f6bf72d font
+0x9467672e Agent_UpdateViewed
+0x3fa9974a DisableNewObjViewer
+0x981ae80d object_viewer_yoffset
+0x87c9d832 PolyStat9
+0xc4745838 text
+0x5b9da842 ContainerElement
+0x935ab858 debug
+0xab425877 view_obj_ai
+0x85981897 left
+0xf0cee8a4 PolyStat8
+0x40c698af id
+0x7321a8d6 type
+0x7f261953 pos
+0x512c9956 default_obj_viewer_display
+0x3c15e9b6 DestroyScreenElement
+0x80befa4e view_obj_text2
+0x13b9da7b scale
+0x2bffeaa3 ContainsComponent
+0xe1cfead5 DynamicAdViewer
+0xf7b9cad8 view_obj_text3
+0x56a1eae3 root_window
+0x7786aaf0 object_viewer_num_lines
+0x9fbdeb38 DefaultViewer
+0xd5d63b56 posoffset
+0x69232bb6 highdefviewer
+0xf2b8ebd4 ObjectViewer
+0x80a9cbf3 default_viewer_modules
+0x19b7abf4 view_obj_text1
+0xf6b47c2a ObjName
+0x0830ecaf ObjID
+0x90356cb9 SetScreenElementProps
+0xd5441cbe object_viewer_globalscale
+0xaa367cd1 DisableObjViewer
+0x3f6bcdba rgba
+0x94baadc4 view_dot
+0x87d33e57 view_obj_text6
+0xf0d40ec1 view_obj_text7
+0x084baf3e obj_viewer_anchor
+0x4438df74 MouseZoomFactor
+0x69dd5f7b view_obj_text4
+0xc2719fb0 parent
+0x5200dfb6 TextElement
+0x1eda6fed view_obj_text5
+

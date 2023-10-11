@@ -1,0 +1,1 @@
+Unknown [1c000000000000000000009c0000000000000000]Script ui_create_rockout 0x50dffac2 [	:i $create_menu_backdrop$${StructQBKey texture = rockout_bg}$	:i $spawnscriptnow$${StructQBKey rockout_add_goal}$	:i endfunction]Script ui_destroy_rockout 0x47d89455 [	:i $destroy_rockout_game$	:i $spawnscriptnow$${StructQBKey rockout_remove_goal}$	:i endfunction]

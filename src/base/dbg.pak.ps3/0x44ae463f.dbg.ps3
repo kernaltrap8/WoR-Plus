@@ -1,0 +1,122 @@
+[LineNumbers]
+make_fixed_menu 43 (184,12) (191,14) (203,15) (216,16) (229,18) (300,19) (313,20) (326,21) (328,22) (342,24) (349,26) (361,27) (374,28) (387,29) (400,31) (412,32) (441,33) (443,34) (450,37) (462,38) (475,39) (488,40) (504,42) (575,43) (588,44) (607,45) (620,47) (628,49) (666,50) (704,51) (717,52) (760,53) (762,54) (770,55) (783,56) (795,57) (807,58) (820,59) (833,60) (855,61) (868,62) (870,63) (872,64) 
+destroy_fixed_menu 9 (28,73) (49,75) (62,76) (100,77) (121,78) (134,79) (136,80) (138,81) (140,82) 
+fixed_menu_reset_tags 5 (28,86) (42,88) (54,89) (66,90) (68,91) 
+add_fixed_menu_item 46 (200,113) (213,114) (220,116) (232,117) (245,118) (258,120) (277,121) (290,122) (298,124) (324,125) (350,126) (376,127) (378,128) (390,130) (398,131) (410,132) (423,133) (425,134) (427,135) (440,137) (476,139) (483,140) (495,141) (508,142) (520,143) (533,145) (546,146) (561,147) (574,149) (587,150) (589,151) (591,152) (628,153) (635,154) (647,155) (660,156) (672,157) (685,159) (698,161) (711,162) (723,163) (725,164) (727,165) (756,167) (791,169) (807,171) 
+fixed_menu_item_focus 8 (0,179) (6,180) (40,182) (85,183) (87,184) (121,186) (178,187) (180,188) 
+fixed_menu_item_unfocus 8 (0,197) (6,198) (40,200) (85,201) (87,202) (121,204) (174,205) (176,206) 
+finish_fixed_menu 19 (44,215) (57,216) (76,218) (97,219) (99,220) (126,222) (144,224) (156,226) (158,227) (190,228) (203,230) (222,231) (243,233) (273,234) (298,235) (300,236) (321,238) (329,239) (372,241) 
+fixed_menu_scroll 26 (28,250) (41,253) (84,255) (120,257) (132,258) (136,259) (148,260) (150,261) (172,263) (190,265) (211,266) (213,267) (232,269) (244,270) (246,271) (273,273) (303,275) (333,277) (350,279) (382,281) (395,283) (413,285) (420,286) (422,287) (424,288) (467,292) 
+fixed_menu_reposition 46 (28,301) (41,303) (57,305) (96,306) (114,307) (139,308) (143,309) (168,310) (170,311) (172,312) (204,314) (252,315) (281,317) (302,318) (314,320) (316,321) (328,322) (340,323) (367,324) (380,325) (393,326) (430,327) (468,328) (486,329) (499,330) (503,331) (516,332) (518,333) (520,334) (522,335) (544,337) (562,339) (584,340) (586,341) (608,343) (627,345) (649,346) (651,347) (683,349) (736,351) (763,352) (795,354) (848,356) (875,357) (896,359) (904,360) 
+fixed_menu_morph 9 (28,369) (92,370) (105,372) (117,374) (119,375) (151,376) (206,378) (227,380) (235,381) 
+fixed_menu_item_morph 10 (28,390) (92,391) (98,393) (111,394) (123,396) (142,397) (163,398) (193,399) (195,400) (263,402) 
+
+[Checksums]
+0x9ddeaa1f scripts\engine\menu\menu_fixed.qb
+0xb990d003 target
+0xf3619024 next_show
+0xc6870028 Die
+0x0f7e902c nullscript
+0xb8a24035 add_fixed_menu_item
+0x475bf03c event_handlers
+0xdd938080 total_items
+0xb12b510a SpriteElement
+0x7031f10c params
+0x3611c136 GetTags
+0x73665140 CreateScreenElement
+0xcf66717b GotParam
+0xbc6b118f up
+0x5ea0e211 loop
+0xa90f7219 menu_unfocus_color
+0x8b60022f just
+0xbd30325b white
+0xf0c26262 shown
+0x7d99f28d texture
+0xb2f04294 pos_mod
+0x5a8c82db focus_script
+0xeb68a31a fixed_menu_item_morph
+0x19b43382 next_index
+0x192bc3a2 pad_back_script
+0xc5bc93ee ScreenElementExists
+0xf77614d8 ResolveScreenElementID
+0xbf0f14db center
+0x9d3fb516 focus
+0x0e61b525 RunScriptOnScreenElement
+0x1e3e253b pad_choose
+0x4c29c545 RequireParams
+0x6c9c3557 text_pos
+0xb8437568 pad_choose_params
+0x34a68574 dims
+0x1ae5f578 fixed_menu_reposition
+0x455485ef dir
+0xd029f619 seconds
+0x9a6bd624 icon
+0x81972686 child_dims
+0x2f1fc695 alpha
+0x6a94d6b2 fixed_menu_item_unfocus
+0x6a3b36b5 unfocus_script
+0x764e66e5 fixed_menu_item_focus
+0xcdf126fe show
+0xa6b26722 fixed_menu_reset_tags
+0x2f6bf72d font
+0x2cb33744 LaunchEvent
+0x906b67ba time
+0x6c63c7c5 SetProps
+0x91a4c826 relative
+0x30a4f836 pad_up
+0xc4745838 text
+0x5b9da842 ContainerElement
+0x12223870 fixed_menu_scroll
+0x40c698af id
+0x985398b2 prev_index
+0x43de08bd container_id
+0x7321a8d6 type
+0xca26a8d9 make_fixed_menu
+0x7f8c98fe index
+0x7f261953 pos
+0x1993c98e i
+0xdc719997 icon_pos
+0xb67e39ca finish_fixed_menu
+0xa58079eb SetTags
+0xd9456a25 scroll_time
+0x13b9da7b scale
+0xf1fb2ade child_anchor
+0x56a1eae3 root_window
+0x4b358aeb right
+0xc9c30b12 focus_params
+0x28e66b14 resolved_id
+0x65c6cb91 shown_rows
+0x29502bc0 ui_sfx
+0xdd4cabd6 child
+0x90436bd9 tags
+0x4d49ac0a current_menu
+0x7d654c18 exclusive_device
+0x82117c1a wait
+0x0fd1ac26 pad_down
+0x06009c30 destroy_fixed_menu
+0x2b0cfca1 pad_choose_script
+0x90356cb9 SetScreenElementProps
+0x4adf0cd3 unfocus
+0xcae07ce9 fixed_menu_morph
+0xd6521cee generic_event_back
+0x02ec5d0d alpha_mod
+0x7ee0fd2a pad_back
+0xc906ad51 menustate
+0x3f6bcdba rgba
+0xaadc6df0 prev_show
+0xe310cdff fixed_menu
+0xc4e78e22 all
+0x69b05e2c generic
+0x657bbe2c menu_focus_color
+0x63e7deac child_height
+0x92313ec8 back
+0xa2a5defe local_id
+0x2c6a5f27 uitype
+0x5cdecf29 focusable
+0xf974bf7c unfocus_params
+0x2fefaf84 fontgrid_text_a1
+0xc2719fb0 parent
+0x5200dfb6 TextElement
+0xe3006fc4 down
+0xdb92effa current_index
+

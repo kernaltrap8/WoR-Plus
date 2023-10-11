@@ -1,0 +1,33 @@
+[LineNumbers]
+ui_create_options_mic_binding_warning 22 (0,9) (12,11) (52,15) (66,16) (68,17) (75,19) (88,20) (101,21) (107,22) (115,23) (117,24) (129,25) (143,26) (155,27) (157,28) (159,29) (171,30) (233,31) (245,32) (247,33) (249,34) (251,35) 
+ui_destroy_options_mic_binding_warning 2 (28,46) (34,48) 
+
+[Checksums]
+0xf4673cb4 scripts\guitar\menu\states\layouts\ui_options_mic_binding_warning.qb
+0x0f7e902c nullscript
+0xcf66717b GotParam
+0x6017f1cc ui_event
+0xbd09544c func
+0x2457f44d body
+0x91f0e45a body_text
+0x8da97503 primary_controller
+0xc451f558 event
+0x2fca0578 options
+0x7bb9c604 menu_replace
+0x0d8b37cf from_pause_menu
+0x1d2d97d4 func_params
+0xc195a822 create_dialog_box
+0xc4745838 text
+0xd0f9c874 ui_destroy_options_mic_binding_warning
+0xeafc692e no_background
+0xb30d9965 controller
+0x37c84b09 destroy_dialog_box
+0xec299b83 complete_script
+0x520c0c9c data
+0xd6521cee generic_event_back
+0x5c6c2d04 state
+0x7e149e2f nosound
+0x8457ee78 uistate_mic_binding
+0xfb5fdf65 ui_create_options_mic_binding_warning
+0x69d0dfaf player_device
+

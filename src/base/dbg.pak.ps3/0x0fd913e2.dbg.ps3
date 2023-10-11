@@ -1,0 +1,54 @@
+[LineNumbers]
+qp_power_score_points_score_watcher_update 2 (0,96) (50,97) 
+qp_power_score_star_watcher_update 3 (0,105) (36,106) (86,107) 
+
+[Checksums]
+0xee5f303a scripts\game\modes\challenges\qp_power_score_points\qp_power_score_points.qb
+0xa075808c source
+0x6c3200c7 constants
+0x4696d0cf current_value
+0x7031f10c params
+0x4a562119 round_direction
+0x365aa16a float
+0x15052188 tools
+0xa1dc81f9 name
+0xf048523d SONGSTAT_MAX_SCORE
+0x0c335260 round_to_nearest
+0xd21e4278 valid_sections
+0x3930d3c3 pending_grade
+0x032314d1 goal
+0x9982e501 goal_id
+0x0dff4546 vars
+0x7c8a1570 projected_song_stars
+0xc93eb57e static_targets
+0x67e6859a player
+0xc21515bd previous_progress
+0xb5c0e648 qp_power_score_points_score_watcher_update
+0x043c9671 playerinfo
+0x34ce06c4 desc_txt
+0x08f83721 quickplay_challenge
+0x997e7758 leaderboard_metric_string
+0x40867793 current_progress
+0x232b4818 calculated_targets
+0xac71f87b single_play_only
+0xafe0587f title_string
+0xcd66c8ae score
+0x7321a8d6 type
+0x922f78f9 var
+0x16447994 song_complete
+0xc17a8a06 var_watcher
+0x452f9a08 qp_power_score_points_info
+0x0bc06a21 CastToInteger
+0xb56efa5d var_updated
+0x7336db76 challenge_output_grade_marks
+0x520c0c9c data
+0x5ea10ca0 percent_targets
+0xf0165caf player_data
+0xc2130cc6 section_base_value
+0x5e233cc7 target_value
+0x607e8d15 GMan_SetData
+0x6d11ed74 goal_type
+0xc827ae88 checkpoints
+0x5b4a2fbe qp_power_score_star_watcher_update
+0xe3006fc4 down
+

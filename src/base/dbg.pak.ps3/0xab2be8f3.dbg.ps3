@@ -1,0 +1,55 @@
+[LineNumbers]
+session_stats_reset 9 (0,37) (6,39) (18,40) (30,42) (32,43) (55,45) (78,46) (100,48) (108,49) 
+session_stats_update_scores 35 (0,67) (72,68) (84,71) (96,72) (108,73) (110,74) (125,76) (154,79) (183,80) (215,84) (237,86) (239,87) (257,91) (296,94) (308,95) (312,97) (327,98) (329,99) (349,102) (388,104) (400,105) (404,107) (419,108) (421,109) (441,112) (456,113) (458,114) (480,118) (493,122) (510,126) (533,127) (557,130) (581,131) (602,133) (610,134) 
+session_stats_get_player_stats 6 (0,144) (64,145) (81,147) (98,148) (115,149) (141,151) 
+print_session_stats 18 (28,174) (102,175) (152,176) (158,178) (164,179) (195,182) (269,183) (343,184) (345,185) (347,186) (349,188) (366,189) (383,190) (400,191) (496,193) (514,195) (522,196) (596,197) 
+
+[Checksums]
+0xcd604c5c scripts\game\modes\competitive_session_stats.qb
+0x8e411006 b
+0xf9462090 c
+0xab215108 GetFirstPlayer
+0x7c98213e GetBandInfo
+0xd691518b point_award
+0x5621019c session_points_1st
+0x5d0671b8 channel
+0x174841bc a
+0x99c69267 session_stats_update_scores
+0xc2eab26a two_teams
+0x25a6733d session_stats_reset
+0x15d0033d band_result
+0xb6bcc3bd session_points_2nd
+0x78933472 current_band
+0xd361d4a6 bands
+0x39b5c4b0 GetArraySize
+0x5109f4d7 session_points_3rd
+0x6722b533 d
+0x4c29c545 RequireParams
+0x67e6859a player
+0x0fa1c602 earned_last_song
+0x2de8c60e printf
+0xcbf2162e band_num
+0x62b79677 SetBandInfo
+0x1cb2a6b0 num_players
+0x453b86c7 TeamModeEquals
+0xcd66c8ae score
+0x1993c98e i
+0xe4e499c8 print_session_stats
+0x411dfa10 session_points_earned_last_song
+0x121bcade GetBandsStatus
+0xea920ae1 GetNextPlayer
+0xb72e7b8f session_points
+0x083fdb95 size
+0xb9d44c2f team_mode
+0x7bf7ec66 player_session_points
+0x0ad66c67 order
+0x25cadcac GetNumPlayersInGame
+0xb7205d14 band
+0x09019d2e session_points_default
+0x7f5b3d4d array_size
+0xa8910d9d session_stats_get_player_stats
+0xc4e78e22 all
+0xb8357e7c current_rank
+0xaf2dfeb5 last_score
+0x65485eea GetPlayerInfo
+

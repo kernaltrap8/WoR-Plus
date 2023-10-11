@@ -1,0 +1,48 @@
+[LineNumbers]
+
+[Checksums]
+0xace2c367 scripts\guitar\musicstudio\drumkit\musicstudio_drumkit_structs.qb
+0xd4c9c094 latinpercussion
+0x81f160f8 noisepercussion
+0xe12a20fa kick
+0x4ddd3173 percussion_drum_kits
+0xfd7541ec custom_drum_kit_name_text
+0x94b66211 bigroomrock
+0x83c2824f name_text
+0xe7b40290 dance
+0x066ce2c9 practicepercussion
+0x551b72e3 percussion_id
+0xa45a82e8 brazilianpercussion
+0xa060c2ed CustomKit
+0xf8c592f3 electropercussion
+0x6c7ae354 classicrockpercussion
+0x6820138f bigroompercussion
+0x5c0ea3ca dancepercussion
+0xc5b6a447 classicrock
+0xd29964d9 indianpercussion
+0xf49c656e modernrockpercussion
+0x8e62e613 cymbal
+0x6522078b heavyrockpercussion
+0x17fc97ae g_practice_percussion_kit
+0x40c698af id
+0xf277291d ignore
+0xd741194e fusion
+0xbbfbf9bc hihat
+0x743329bf heavyrock
+0x025669d6 noise
+0xa123fa07 hiphop
+0x407c9a67 modernrock
+0x6f0b0adf drum_kits
+0x2f968b03 electro
+0x3f9d0b36 metal
+0x2afe5b58 metalpercussion
+0xdd526bfd standardpercussion
+0x50c9ac73 hiphoppercussion
+0x35923d79 snare
+0xb53d0e0f string_id
+0x76b48e74 standardrock
+0xf8e08ee5 tom1
+0x61e9df5f tom2
+0xff37cfc4 custom_perc_kit_name_text
+0x2cab7fe0 fusionpercussion
+

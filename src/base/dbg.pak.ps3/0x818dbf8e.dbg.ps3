@@ -1,0 +1,35 @@
+[LineNumbers]
+
+[Checksums]
+0x041ca5a7 models\car_instruments\guitar\mcswain\gtr12_mcswain_minferno.qb
+0x92685002 GTR11_McSwain_Carved_GTR12_Misc_Node_01
+0x9687f060 BRIDGE
+0x93bef0ec GTR12_McSwain_MInferno
+0x28bbf160 GTR11_McSwain_Carved_GTR12_McSwain_MInferno
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x646662db GTR11_McSwain_Carved_GTR12_Pickup_Node_01
+0xb23cc329 gtr12_mcswain_minferno_NodeArray_SortedIndices
+0xfd6f3361 GTR11_McSwain_Carved_GTR12_Pickup_Node_02
+0x8a6803f7 GTR11_McSwain_Carved_GTR12_Pickup_Node_03
+0xe78ec4fe GTR11_McSwain_Carved_GTR12_Knob_Node_02
+0x7e879544 GTR11_McSwain_Carved_GTR12_Knob_Node_01
+0x8058e545 MISC
+0xbe61c602 PICKUP
+0x140c9654 GTR11_McSwain_Carved_GTR12_Pickup_Node_04
+0x12b4e660 Class
+0x630ba6c2 GTR11_McSwain_Carved_GTR12_Pickup_Node_05
+0x8d05c7ee GTR11_McSwain_Carved_GTR12_Pickup_Node_07
+0x0cb7c92f GTR11_McSwain_Carved_GTR12_Bridge_Node_01
+0x7f261953 Pos
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x33ef5c00 gtr12_mcswain_minferno_NodeArray
+0x385e8d74 SkinExport
+0x2287af10 gtr12_mcswain_minferno_NodeArray_SortedNames
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+

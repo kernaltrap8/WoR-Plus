@@ -1,0 +1,237 @@
+[LineNumbers]
+BandMember_Sillhouette 38 (88,15) (124,22) (193,23) (201,26) (211,27) (286,28) (299,29) (373,30) (386,31) (459,32) (472,33) (545,34) (547,35) (563,37) (565,38) (567,39) (583,41) (585,42) (587,43) (595,45) (605,46) (643,48) (686,50) (699,51) (737,53) (780,55) (793,56) (831,58) (874,60) (887,61) (925,63) (968,65) (981,66) (1019,68) (1062,70) (1070,71) (1101,73) (1103,74) 
+BandMember_Sillhouette_TurnOnFlare 9 (0,81) (7,83) (20,84) (32,85) (44,86) (73,87) (102,88) (114,89) (116,90) 
+BandMember_Sillhouette_FlareColor 9 (0,94) (7,96) (20,97) (32,98) (44,99) (73,100) (86,101) (98,102) (100,103) 
+BandMember_Sillhouette_TurnOffFlare 14 (0,107) (36,109) (105,110) (121,113) (123,114) (125,115) (132,117) (145,118) (157,119) (169,120) (198,121) (227,122) (239,123) (241,125) 
+testtargetmove 3 (0,129) (40,130) (112,131) 
+BandMemberMoments_Pyro 95 (76,140) (112,142) (120,143) (130,144) (205,145) (218,146) (292,147) (305,148) (378,149) (391,150) (464,151) (466,152) (482,154) (484,155) (486,156) (499,158) (507,159) (517,160) (538,161) (559,162) (580,163) (601,164) (609,166) (619,167) (709,168) (722,169) (734,170) (742,171) (755,172) (768,173) (781,174) (794,175) (807,176) (819,177) (832,178) (834,180) (836,181) (849,182) (851,183) (864,184) (885,185) (906,186) (927,187) (948,188) (956,190) (966,191) (1056,192) (1069,193) (1081,194) (1089,195) (1102,196) (1115,197) (1128,198) (1141,199) (1154,200) (1166,201) (1179,202) (1181,203) (1183,204) (1196,205) (1198,206) (1211,207) (1232,208) (1253,209) (1274,210) (1295,211) (1303,213) (1313,214) (1403,215) (1416,216) (1428,217) (1436,218) (1449,219) (1462,220) (1475,221) (1488,222) (1501,223) (1513,224) (1526,225) (1528,226) (1530,227) (1543,228) (1545,229) (1558,230) (1579,231) (1600,232) (1608,234) (1618,235) (1696,236) (1709,237) (1787,238) (1800,239) (1802,240) (1815,241) (1817,242) 
+BandMember_Sillhouette_Pyro_Flames 35 (0,246) (22,247) (44,248) (70,249) (104,254) (183,255) (216,256) (295,257) (344,258) (380,259) (459,260) (508,261) (544,263) (623,264) (656,265) (735,266) (784,267) (820,268) (899,269) (917,271) (952,273) (1031,274) (1064,275) (1143,276) (1192,277) (1228,278) (1307,279) (1340,281) (1419,282) (1452,283) (1531,284) (1580,285) (1616,286) (1695,287) (1697,288) 
+MomentFX_PyroLights 7 (0,293) (36,294) (104,295) (134,299) (171,302) (220,306) (257,308) 
+MomentFX_ModulatePyroLights 5 (0,312) (40,313) (57,314) (100,315) (140,316) 
+MomentFX_PyroLights_Enable 2 (0,319) (18,320) 
+MomentFX_PyroLights_Disable 2 (0,323) (18,324) 
+BandMember_Sillhouette_Pyro_Sparks 59 (0,329) (36,333) (118,334) (152,335) (234,336) (284,337) (320,338) (402,339) (436,340) (518,341) (552,342) (634,343) (684,344) (720,345) (802,346) (836,349) (918,350) (952,351) (1034,352) (1084,353) (1120,354) (1202,355) (1236,356) (1318,357) (1352,358) (1434,359) (1484,360) (1520,361) (1602,362) (1620,364) (1656,366) (1738,367) (1772,368) (1854,369) (1904,370) (1940,371) (2022,372) (2056,373) (2138,374) (2172,375) (2254,376) (2304,377) (2340,378) (2422,379) (2456,382) (2538,383) (2572,384) (2654,385) (2704,386) (2740,387) (2822,388) (2856,389) (2938,390) (2972,391) (3054,392) (3104,393) (3140,394) (3222,395) (3224,396) 
+CrowdSpots 46 (92,408) (128,410) (141,411) (151,412) (153,414) (233,415) (248,417) (330,418) (417,419) (501,420) (547,421) (570,422) (574,423) (576,425) (578,426) (628,427) (650,428) (652,429) (664,431) (682,434) (684,435) (686,436) (699,438) (701,440) (725,441) (782,443) (820,445) (828,446) (841,447) (863,449) (885,450) (906,451) (927,452) (929,453) (931,454) (984,458) (1097,460) (1130,462) (1168,464) (1176,465) (1197,466) (1218,467) (1220,468) (1222,469) (1244,470) (1252,471) 
+CrowdSpots_DoVertexSpotRotation 10 (0,475) (2,476) (36,477) (38,478) (40,479) (53,480) (83,481) (113,482) (164,483) (166,484) 
+CrowdSpots_ColorandIntensity 33 (0,487) (8,489) (18,490) (45,491) (66,492) (79,493) (106,494) (127,495) (140,496) (167,497) (188,498) (201,499) (228,500) (249,501) (262,502) (289,503) (310,504) (323,505) (350,506) (371,507) (379,508) (381,509) (383,510) (397,512) (410,513) (423,514) (436,515) (449,516) (462,517) (464,518) (483,520) (496,521) (498,522) 
+CrowdSpots_Off 42 (0,525) (36,526) (49,527) (59,528) (61,529) (141,530) (156,532) (238,533) (325,534) (409,535) (455,536) (478,537) (482,538) (484,540) (486,541) (536,542) (558,543) (560,544) (572,546) (590,548) (592,549) (594,550) (607,552) (609,553) (633,554) (671,556) (679,557) (691,558) (712,559) (733,560) (735,561) (737,562) (790,564) (822,566) (860,568) (868,569) (889,570) (910,571) (912,572) (914,573) (936,574) (944,575) 
+MomentFX_SingleFrontSpot 14 (44,585) (80,593) (145,599) (161,601) (163,602) (165,603) (179,605) (205,606) (231,607) (233,608) (252,609) (288,610) (341,611) (343,612) 
+MomentFX_SingleFrontSpot_Off 10 (0,615) (36,616) (101,621) (117,623) (119,624) (121,625) (135,627) (161,628) (187,629) (189,630) 
+BandMemberSillhouette_GetOffset 9 (0,639) (12,641) (54,642) (67,643) (79,644) (118,645) (131,646) (153,647) (194,648) 
+BandMemberMoments_SetDarkSnapshot 2 (0,652) (68,655) 
+
+[Checksums]
+0x2d7644ab scripts\fx\moment_fx.qb
+0x486f502e BMFlames_01
+0x059ea070 red
+0xc2a28080 vocalist
+0x2ec0409c frontright
+0xbf6fe09d pyrotype
+0xdc9890b3 venueflare
+0xe8dc80d1 AddToStringLookup
+0xc87d30d5 BMFlames_12
+0xc1cd70d5 BMSparks_1112
+0x08d690ea BMSparks_1092
+0xe4f130f4 s
+0xc828d100 LightVolume_SetParams
+0xa6613102 BMFlames_03
+0xf0d90109 Speed
+0x7031f10c params
+0x7580010d callback_Script
+0x1a146119 enablelight
+0x7b29c11c plumeTime
+0x990af12a GP_P_MomentSmoke_01
+0xe520d134 flarecolor
+0x066df14d front_vector
+0x7df8614e p
+0x5174616f BMFlames_11
+0xd1660194 BMFlames_02
+0xd8d64194 BMSparks_1102
+0x11cda1ab BMSparks_1082
+0xbd1051d9 light_objects_entry
+0x2f6511de green
+0x3b8011e6 startnode
+0xa1dc81f9 name
+0x267351f9 BMFlames_10
+0xe4b8221b IsCreated
+0xe401f256 newtime
+0xbd30325b white
+0x3904c27d lightvolume_getParams
+0x4d5ba280 MomentFX_PyroLights_Disable
+0x7037c291 Venue_BM_Flare
+0xd3a9d2e2 pos4
+0x48fad2e2 GP_FX_Pyro_BaseFlashes_01
+0xe3ada306 Z_Subway_GFX_BM_Sill_Flare_Frontright
+0xeae02316 BMSparks_1122
+0x4a07c332 frame
+0x9eb6e336 spawnscript
+0x4570735d drummer
+0x2ffb1360 yellow
+0x0203b372 true
+0x1764037a ProjectorColor
+0x227773c3 newHotspotIntensity
+0x8fb663d7 MomentFX_PyroLights_Enable
+0x1e73c3dd backleft
+0xa49823e3 backcenter
+0x87fa53ed groupID
+0xa2b033fd uniqueID
+0x6b363427 BandMember_Sillhouette_TurnOffFlare
+0x9277f428 FormatText
+0x4f029437 BMFlames_05
+0xabcd0455 GP_FX_FSC_FrontFlash_01
+0xbe87c46e CrowdSpots_DoVertexSpotRotation
+0x2bfc2486 objectname
+0x3805a4a1 BMFlames_04
+0x39b5c4b0 GetArraySize
+0x6a5634d3 LHcolor
+0x03de34d4 frontspot
+0x0e6954e0 vertexspot
+0x688ab4f5 GetUniqueCompositeObjectID
+0xc0e9050b VScolor
+0xa10cf51b BMFlames_07
+0xaa99c521 save
+0x6c525544 map
+0x61c9354b blue
+0x5dbbc55f testtargetmove
+0xc647f569 BMSparks_09
+0x21376570 GP_FX_FirePlume_Attach_01
+0xd60bc58d BMFlames_06
+0xd0759594 Venue_RotatingLights_VSs
+0x8732d59d GP_FX_GroundSparks_InsideGlow_01
+0x20b835af CreateParticleSystem
+0xd81595b4 LightShow_PlaySnapshot
+0x767a45d7 black
+0xd7ea05ea direction_vector
+0xb140c5ff BMSparks_08
+0x84ec6600 Obj_MoveToPos
+0x2de8c60e printf
+0x459b0610 BandMemberMoments_SetDarkSnapshot
+0xd029f619 seconds
+0x346fe63a BandMember_Sillhouette_TurnOnFlare
+0xcacd2652 BandMember_Sillhouette_FlareColor
+0xa3c3266d pos1
+0x08e2467a MomentFX_SingleFrontSpot_Off
+0xb6b91685 smoke
+0xb654b69e Moment_PyroLight
+0xac2266dc HotspotIntensity
+0x7f495700 BandMemberSillhouette_GetOffset
+0xc756a708 GP_FX_FirePlume_Bottom_Attach_01
+0x99a9b716 Color
+0xc1830739 MomentFX_PyroLights
+0x4dcd4741 pos3
+0x3ac1877c guitarist
+0xbbadc77f BMSparks_109
+0xf9c15787 bandmember
+0xd1adb79b Obj_GetOrientationVectors
+0xe491b7a4 vector
+0x906b67ba time
+0x785e57c7 Obj_LockToObject
+0x3aca77d7 pos2
+0x3d19c7e7 pyropos
+0xccaaf7e9 BMSparks_108
+0x89ff6813 LifeRange
+0x46b4d81c BMFlames_09
+0xeec86822 VolumeColor
+0x6ddb5846 myspeed
+0x7074a85c SetLightDirection
+0x21ffd86e BMSparks_07
+0x31b3e88a BMFlames_08
+0x68f278a8 Venue_RotatingLights_LHs
+0x5f08f8bd CrowdSpots
+0xf395f8e4 flarepos
+0x56f8e8f8 BMSparks_06
+0x9d1b8940 CallScriptOnNode
+0xcff1b942 BMSparks_05
+0x7f261953 Pos
+0xf958d972 disablelight
+0x1993c98e i
+0xf06569ac glowTime
+0x218459bb lightwaittime
+0xdda7c9be backright
+0xb2d2f9c1 BM_SilhouetteFlares_Sub_BackLeft
+0x887e79cd BandMember_Sillhouette
+0xc08ba9cf frontleft
+0xb8f689d4 BMSparks_04
+0xdcd2a9d4 object_id
+0x392649d7 preferredID
+0x2051e9e7 CrowdSpots_Off
+0x7c242a0b Obj_Roty
+0x4c116a1a GP_FX_GroundSparks_Big_03
+0x71393a1e newProjectorIntensity
+0x29757a20 BandMember_Sillhouette_Pyro_Sparks
+0xe5c2ba42 SetLightIntensityOverTime
+0x56875a48 BandMember_Sillhouette_Pyro_Flames
+0x83418a6a material
+0x5c9e4a77 newflarepos
+0x9f92ba78 nodename
+0x5c15ea78 BMSparks_107
+0x179a6a85 m_psPass0MaterialColor
+0x3b165a8c GP_FX_GroundSparks_Big_02
+0x76fa7a8f checksumname
+0xc1320a9b valid_lights_list
+0x1fe79aa9 pyropos4
+0x96064ac0 newvolumeDensity
+0xfb35aacf startcolor
+0xff7ebaf6 Angle
+0x2b42daf8 CrowdSpots_ColorandIntensity
+0x846cdb02 ChangePassColor
+0xdcd6cb13 pakname
+0x64d92b40 light_objects
+0x84e3eb48 MomentFX_ModulatePyroLights
+0xea4e4b49 endcolor
+0x60141b5c SetLightColor
+0x6e965b60 bassist
+0x07ed7b8a LightVolume_SetFollowTargetName
+0xd95f9b98 GP_FX_SparkFountain_FrontGlow_01
+0x827b0bf7 bandmemberpos
+0x82117c1a wait
+0xd1874c1a BMSparks_11
+0x848ffc61 timemultiplier
+0x26921c77 BMSparks_03
+0xa6807c8c BMSparks_10
+0x0830ecaf objID
+0xa2487cc3 EnableRotate
+0x8944ccd7 GP_FX_DragonFire_Glow_Attach_01
+0x51952ce1 BMSparks_02
+0x01049d09 front
+0xe90aad2d Obj_GetPosition
+0x047ebd3c housing
+0x7f5b3d4d array_size
+0xc89c7d5b BMSparks_01
+0x9655bd64 BMSparks_1072
+0xf1837d6d MomentFX_SingleFrontSpot
+0x488e1da0 BMSparks_12
+0xb00b0dc0 dummy
+0x9ee93dd5 GetPakManCurrentName
+0x661d4dfd newerpyrolightpos
+0xac060e01 Strobe01
+0xac6d7e0c BMSparks_111
+0x54415e15 ApplyPositionOffset
+0x6f8d6e26 pyropos1
+0xd1be5e3e ProjectorIntensity
+0xe7d69e66 Z_punkstage_gfx_testtarget
+0xdf7ede84 Z_punkstage_gfx_LH_FrontSpot01
+0x7a354e97 zones
+0xdb6a4e9a BMSparks_110
+0xd6f41e9a UseSnapshotPositions
+0x96ce2ea5 params_Script
+0x9211ded6 volumeDensity
+0x6f6c5eeb IntensityMultiplier
+0xd5686eef parameter
+0xfc37df05 gameframe
+0xc0aedf05 relAngles
+0x81830f0a pyropos3
+0x1ca1ff20 default
+0xde415f26 flames
+0x2bcf5f34 Align
+0xa1b37f4e sparks
+0xf3819f57 MomentSmoke_01
+0xc218cf77 LifeTime
+0x35d60f78 zoneparticles
+0x75de1f8b lightcolor
+0xf6843f9c pyropos2
+0xb566ef9f BandMemberMoments_Pyro
+0xc7a8efa7 moveLight
+0x35642fb6 BMSparks_112
+0xac502fc9 bottomTime
+

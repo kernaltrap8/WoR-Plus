@@ -1,0 +1,78 @@
+[LineNumbers]
+create_restart_warning_menu 28 (84,5) (90,7) (128,9) (143,10) (145,11) (151,13) (169,14) (181,15) (185,16) (197,17) (199,18) (206,19) (219,20) (232,21) (238,22) (251,23) (259,24) (261,25) (274,26) (287,27) (299,28) (301,29) (303,30) (315,31) (327,32) (329,33) (331,34) (333,35) 
+destroy_restart_warning_menu 2 (0,39) (6,40) 
+restart_warning_select_restart 58 (28,43) (46,48) (80,49) (116,50) (134,51) (168,52) (170,53) (196,54) (213,55) (239,56) (260,57) (283,58) (285,59) (289,60) (311,61) (334,62) (336,63) (338,64) (340,65) (363,66) (371,67) (373,68) (375,69) (381,71) (399,72) (405,73) (407,74) (413,76) (452,79) (461,80) (479,81) (489,82) (524,83) (526,84) (528,85) (530,86) (532,87) (538,89) (544,91) (562,92) (568,93) (570,94) (572,95) (624,97) (630,100) (636,101) (642,102) (732,106) (750,110) (784,111) (786,112) (820,114) (838,115) (872,116) (876,117) (882,118) (916,119) (918,120) 
+
+[Checksums]
+0xee85ce90 scripts\guitar\menu\menu_restart_warning.qb
+0x39940016 tutorial
+0x3a85201b UseFourLaneHighway
+0xaf6240b2 reset
+0x792250c3 restart_warning_select_restart
+0xab215108 GetFirstPlayer
+0xaaf74113 PlayerInfoEquals
+0xd3f4d172 dlg_z_priority
+0xcf66717b GotParam
+0xbfa801df change
+0x70e77320 cancel_func_params
+0xeab2436e last_start_pressed_device
+0x64c743cc uistate_gameplay
+0x57b303d5 xenon_singleplayer_session_init
+0x8cc663d7 create_restart_warning_menu
+0xbd09544c func
+0x91f0e45a body_text
+0x8320d478 game_mode
+0x12e0a4d6 disable_pause
+0x66cfd4e4 ResetScoreUpdateReady
+0x840d6547 GameMode_GetType
+0xc451f558 event
+0xaf9b956b IsRBDrum
+0x2fca0578 options
+0x67e6859a player
+0xb4a5359d GMan_SendCallbackToAllGoals
+0xaa6f4643 IsXenonOrWinDX
+0xbab776aa kill_intro_celeb_ui
+0x1cb2a6b0 num_players
+0x74297717 local
+0x1d2d97d4 func_params
+0x4a4f7821 suffix
+0xc195a822 create_dialog_box
+0xc4745838 text
+0x14e1087a restore_player_part_settings
+0x73aaf8a2 audio_gameplay_fail_song_stop_sounds
+0x7321a8d6 type
+0xeafc692e no_background
+0x69731944 is_current_song_a_jam_session
+0xea37494b four_lane_highway
+0x2b9ab95d StopSoundsByBuss
+0xb30d9965 controller
+0x146419f5 stoprendering
+0xa274ea28 practice_restart_song
+0x444afa51 career_restart_song
+0xa89acad5 audio_stopping_sounds_killsong_lite
+0xba68ead9 Encore_Events
+0xea920ae1 GetNextPlayer
+0x19fa5af7 SpawnScriptNow
+0xe11d1b08 callback_data
+0x37c84b09 destroy_dialog_box
+0xbb003b4b tutorial_system_pausemenu_restart_lesson
+0x1cbb3b59 song_retry
+0x8013cbb1 practice
+0x31bd7c36 playing_song
+0xa5b01cac unknown_drum_type
+0x25cadcac GetNumPlayersInGame
+0xd6e7acdc cancel_func
+0x5cc16cdf drum
+0xd6521cee generic_event_back
+0x5c6c2d04 state
+0x8ac9dd09 dont_save_song_data
+0x8263ed4f incomplete
+0x7e149e2f nosound
+0xcab20e58 scrolling_list_begin_credits
+0x04c23eca WriteSongDataToFile
+0x65485eea GetPlayerInfo
+0xf14dcf2a destroy_restart_warning_menu
+0xb6f08f39 part
+0x2b277f68 end_credits
+0x69d0dfaf player_device
+

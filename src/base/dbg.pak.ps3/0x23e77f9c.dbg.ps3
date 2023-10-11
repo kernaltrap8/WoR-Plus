@@ -1,0 +1,236 @@
+[LineNumbers]
+WatchForStartPlaying_iterator 31 (0,11) (2,16) (20,17) (38,18) (56,23) (62,24) (80,25) (132,26) (188,27) (190,28) (192,29) (198,33) (248,37) (254,40) (260,41) (336,42) (388,44) (400,46) (412,47) (464,49) (476,51) (488,52) (498,55) (508,56) (514,57) (516,58) (518,59) (520,61) (522,62) (572,64) (574,65) 
+end_song_after_transformation 2 (0,73) (6,74) 
+Drumkit_anim_iterator 50 (0,82) (31,84) (33,85) (35,86) (69,101) (87,103) (147,104) (180,106) (216,107) (218,108) (220,109) (232,111) (244,113) (265,114) (283,117) (302,118) (304,119) (334,120) (362,121) (364,122) (366,123) (388,124) (396,125) (426,127) (444,129) (446,130) (448,131) (450,133) (480,135) (510,136) (512,137) (521,138) (539,139) (541,140) (543,141) (592,142) (594,144) (600,145) (613,147) (634,149) (652,151) (690,152) (708,153) (739,156) (741,194) (743,206) (745,207) (767,210) (775,211) (777,212) 
+drumkit_input_playanim 4 (0,220) (31,222) (33,223) (35,224) 
+AE_DrumKit_play_hiHat 1 (0,261) 
+AE_DrumKit_play_Snare 1 (0,272) 
+AE_DrumKit_play_Crash1 1 (0,283) 
+AE_DrumKit_play_Crash2 1 (0,294) 
+AE_DrumKit_play_Tom1 1 (0,305) 
+AE_DrumKit_play_tom2 1 (0,316) 
+AE_DrumKit_play_Ride 1 (0,327) 
+AE_DrumKit_Stop_Crash1 1 (0,338) 
+AE_DrumKit_Stop_Crash2 1 (0,349) 
+Output_Camera_Sync_Warnings 7 (0,395) (6,396) (40,398) (63,399) (81,400) (143,401) (184,403) 
+Print_Camera_Sync_Warning 8 (0,411) (40,412) (42,413) (44,414) (62,416) (80,417) (82,418) (105,419) 
+Show_PlayClip_Time 12 (0,427) (18,428) (20,429) (22,430) (40,431) (74,432) (78,433) (100,434) (170,435) (172,436) (179,437) (208,439) 
+Show_Camera_Warnings_Found 8 (0,447) (18,449) (30,450) (48,451) (66,452) (68,453) (91,454) (93,455) 
+Sync_Cameras_To_Performance 162 (28,464) (68,466) (70,467) (72,468) (105,470) (107,471) (109,472) (121,474) (139,475) (188,476) (190,477) (192,478) (205,479) (223,481) (283,482) (316,484) (318,485) (320,486) (332,488) (350,489) (400,490) (402,491) (404,492) (417,493) (429,495) (441,496) (453,498) (465,499) (477,501) (489,502) (518,504) (530,505) (543,507) (545,508) (557,509) (569,510) (581,512) (583,515) (613,516) (639,517) (660,518) (681,522) (702,525) (734,527) (755,528) (757,529) (789,531) (810,532) (812,533) (814,543) (816,544) (837,546) (856,547) (886,548) (888,549) (890,550) (892,551) (905,553) (907,556) (937,557) (950,558) (972,561) (990,562) (1011,563) (1013,564) (1032,566) (1050,567) (1054,569) (1073,570) (1080,571) (1093,572) (1106,573) (1119,574) (1132,575) (1145,576) (1147,577) (1196,578) (1226,579) (1247,580) (1249,581) (1271,587) (1313,590) (1351,593) (1369,594) (1391,598) (1433,599) (1483,600) (1496,608) (1498,609) (1500,610) (1502,611) (1523,613) (1542,614) (1549,615) (1562,616) (1575,617) (1588,618) (1601,619) (1614,620) (1616,621) (1650,622) (1680,623) (1701,624) (1703,625) (1705,627) (1707,628) (1720,630) (1738,632) (1760,634) (1789,637) (1824,638) (1846,639) (1888,641) (1900,642) (1921,643) (1923,644) (1925,647) (1955,648) (1968,649) (1990,651) (2008,652) (2029,653) (2031,654) (2050,656) (2068,657) (2072,659) (2094,661) (2136,663) (2174,666) (2192,667) (2214,670) (2256,671) (2311,672) (2324,674) (2326,676) (2328,677) (2330,678) (2351,680) (2370,681) (2377,682) (2390,683) (2403,684) (2416,685) (2429,686) (2442,687) (2444,688) (2478,689) (2508,690) (2529,691) (2531,692) (2533,694) (2535,695) (2548,697) (2552,698) (2554,700) (2567,702) (2588,705) (2607,706) (2637,707) (2639,708) (2641,709) (2643,717) 
+check_for_short_anims_in_clip 16 (0,729) (33,730) (35,731) (37,732) (71,734) (73,735) (75,736) (87,738) (129,739) (171,740) (213,741) (255,742) (273,744) (304,745) (306,746) (336,748) 
+check_anim_length 20 (0,756) (42,757) (71,758) (92,760) (110,761) (129,762) (136,763) (149,764) (162,765) (175,766) (188,767) (201,768) (203,769) (261,770) (291,771) (303,772) (305,773) (307,774) (309,775) (323,776) 
+handle_guitar_strum 144 (0,790) (36,795) (42,797) (60,799) (78,800) (96,801) (130,803) (152,804) (170,807) (192,808) (212,809) (233,810) (237,811) (257,812) (259,813) (277,815) (291,816) (311,817) (325,818) (329,819) (331,820) (333,821) (351,823) (371,824) (386,825) (388,826) (406,839) (424,840) (442,841) (452,847) (462,848) (474,850) (501,851) (513,852) (526,853) (538,855) (565,856) (577,857) (590,858) (602,860) (629,861) (641,862) (654,863) (666,865) (693,866) (705,867) (718,868) (730,870) (757,871) (769,872) (777,873) (789,875) (791,877) (809,880) (828,881) (847,884) (859,885) (880,886) (898,888) (910,889) (912,890) (914,891) (916,892) (920,893) (939,894) (957,895) (969,896) (971,897) (973,898) (975,900) (983,904) (993,905) (1005,906) (1017,907) (1068,908) (1081,909) (1093,910) (1105,911) (1160,912) (1173,913) (1185,914) (1197,915) (1250,916) (1277,917) (1289,919) (1302,920) (1314,921) (1326,922) (1383,923) (1410,924) (1422,926) (1430,927) (1442,929) (1454,930) (1472,931) (1484,932) (1486,933) (1494,935) (1504,936) (1516,939) (1528,940) (1541,942) (1553,945) (1565,946) (1578,947) (1590,950) (1602,951) (1615,953) (1627,956) (1639,957) (1647,959) (1659,962) (1671,963) (1673,965) (1700,967) (1712,968) (1733,969) (1763,970) (1767,972) (1788,973) (1844,974) (1856,975) (1858,977) (1877,979) (1894,981) (1984,983) (2006,984) (2008,985) (2025,988) (2092,991) (2159,992) (2194,994) (2207,995) (2220,996) (2233,997) (2241,998) (2254,999) (2267,1000) (2280,1001) (2282,1002) (2284,1003) (2309,1008) (2334,1009) (2359,1010) 
+fire_off_Idle 18 (0,1019) (18,1024) (46,1025) (48,1026) (100,1028) (113,1029) (180,1031) (247,1032) (282,1035) (295,1036) (308,1037) (321,1038) (329,1039) (342,1040) (355,1041) (368,1042) (370,1043) (372,1044) 
+
+[Checksums]
+0x09adc584 scripts\guitar\guitar_hand_events.qb
+0xb990d003 Target
+0x190cf006 vocalist_pose_node
+0x8e411006 b
+0x1bff900b quickplay
+0x06932055 GetSongArraySize
+0xc74b605c Idle_Blend_curve
+0x1fe8a064 event_array
+0x6632f064 pick
+0x059ea070 red
+0xc2a28080 vocalist
+0x7cf0a08a waittime
+0xf9462090 c
+0xe8dc80d1 AddToStringLookup
+0x772010e7 Drumkit_anim_iterator
+0xa97220ed musician4
+0xe4f130f4 s
+0x3b5d50f5 Anim_GetAnimLength
+0x7031f10c params
+0x48c1a123 Tree
+0x3611c136 GetTags
+0x0281513f globalarray
+0x5ef31148 array
+0xfe82614d length
+0xcc12115e song
+0x1732b179 time_diff
+0xcf66717b gotparam
+0xeeecf186 camera_time_difference
+0x8dca619f saved_camera_index
+0x5d0671b8 channel
+0x174841bc a
+0xbebfa1c6 element
+0x2f6511de green
+0xcad261df wait_for_next_even_frame
+0xa1dc81f9 name
+0xf1c14221 WatchForStartPlaying_iterator
+0x3382a222 get_song_prefix
+0xa8105222 playclip_time_displayed
+0x500eb224 obj_getId
+0x3696425b total_Length
+0x46159266 out
+0x5489f266 upPick
+0x0dde926c Idle_Blend_Time
+0x42061278 AE_DrumKit_play_Snare
+0x3053b2c7 CompositeObjectExists
+0x14c0d2eb handle_guitar_strum
+0xeee682f8 Dynamic_Strum_Idle_Branch
+0xd63fa2fb camera_array_size
+0x84e1c2fe AE_DrumKit_play_Crash2
+0x4b40630d newvalue
+0xbfb16339 warning
+0x1de89344 AE_DrumKit_play_Crash1
+0x260df34d Crowd_AllPlayAnim
+0x4570735d drummer
+0x2ffb1360 yellow
+0x1c266366 LastType
+0xbbf05370 upstrum
+0x0203b372 true
+0xe28c33a0 length_in_frames
+0x167f93a5 DegenerateBlend_AddBranch
+0x01de43a7 Band_PlayClip
+0xb99ae3d6 gameframes
+0x182f13ec Anims
+0x6a5813f8 GuitarEvent_SongWon
+0x8ed213fd next_anim_time
+0xff0db407 textname
+0xe473d412 test_four_guitarists
+0x8798041c note_value
+0x9277f428 FormatText
+0xf981b42e Animinfo
+0xf7dd142e AE_DrumKit_play_Ride
+0x3b988437 end_frame
+0xd918d462 musician1
+0xdeef04cd StructureContains
+0xcb9fb4cf bass
+0x67fef4e0 AE_DrumKit_Stop_Crash1
+0x232214ea length_in_ms
+0x7135152b Command
+0xad5f8533 PoseLog_StartRecording
+0x6722b533 d
+0x36a78538 TimeMarkerReached_SetParams
+0x3112c53e GetSongGlobal
+0x840d6547 GameMode_GetType
+0x61c9354b blue
+0x241c554d last_end_frame_time
+0x3716b54e musician3
+0xfef7a55a AE_DrumKit_Stop_Crash2
+0xaf2e555a fire_off_Idle
+0x1485d569 threshold
+0xc0ed0590 SongGlobalExists
+0x38b8f5bd gender
+0x401185d8 musician2
+0x006485e7 skipleadin
+0xe3c0f5f9 Print_Camera_Sync_Warning
+0x2de8c60e printf
+0xd029f619 seconds
+0xbf237659 BlendDuration
+0x4976c676 LastNoteValue
+0x1fd7c688 noteValue
+0xf24ba68c GetSongTimeMs
+0xd98f96a1 Sync_Cameras_To_Performance
+0xcc6fd6bd AE_DrumKit_play_hiHat
+0x235c86cc anim_array_size
+0x5a6206db drumkit_input_playanim
+0xd24f570c song_name
+0x44a69738 TimeMarkerReached
+0x47375767 lefty
+0x267ae76f Dynamic_Strum_Branch
+0x3ac1877c guitarist
+0x8302a781 found_problem
+0x88b07787 info_struct
+0x0ed45788 Obj_SpawnScriptNow
+0x2113f78f camera_array
+0xc67d5796 TimeMarkerReached_ClearParams
+0x963e17ac NewStrumanim
+0x906b67ba time
+0x09c297cc anim_array
+0xd43297cf false
+0x025507f0 random_float
+0x90fec815 structure
+0x03a17838 current_song
+0xc4745838 text
+0xe5c2f84c is_female
+0xf2f6485e AE_DrumKit_play_tom2
+0xa6d2d890 scr
+0x40c698af id
+0x7321a8d6 type
+0xcc6e48d6 Anim_AnimExists
+0x21cc38d9 ExtendCrc
+0x7a0988ee Show_PlayClip_Time
+0x6a3568fb song_prefix
+0xfa95b8fb check_anim_length
+0x7f8c98fe index
+0xfa0c0905 LastBasePose
+0x6dbc891c GetRandomFloat
+0x2a013940 Anim_Command
+0x41272956 velocity
+0xd5c9295b Short_Strum
+0x55cc895e strum
+0x45ac0972 SetSongGlobal
+0x542449ae Playlist_GetCurrentSong
+0xe35d99b8 CompressNoteValue
+0x3f52d9c3 start_frame
+0x2855a9d6 use_guitar_strum_script
+0x6bff19e4 AE_DrumKit_play_Tom1
+0xa58079eb SetTags
+0x96b619ed warnings
+0x0bc06a21 CastToInteger
+0xcf467a3d check_for_short_anims_in_clip
+0x02c4fa4f last_camera_adjusted_index
+0x76fa7a8f checksumname
+0x70b27ad6 large_hands
+0xff037ad9 time_offset
+0x23db4aea idle
+0x19fa5af7 SpawnScriptNow
+0x99d36b2c BandManager_EndIntroAnims
+0xab81bb3d endtime
+0x6e965b60 bassist
+0x52dfeb98 clip
+0x98549ba4 anim
+0x9798ebd7 Wait_For_Idle
+0x646a2bed quest_progression_is_chapter_rush
+0xbea9ebfe end_time
+0xb95e9c0d output_results
+0xbf59fc14 Baseanim
+0x82117c1a wait
+0x2c06cc1d playing
+0x2326cc35 Show_Camera_Warnings_Found
+0x242b0c45 camera_snap_threshold
+0x4d760c78 Init_Blend_Curve
+0x5ca15c8f array_entry
+0x09ce6c98 anim_updatepose
+0x0830ecaf ObjID
+0xcd37dcb7 Init_Length
+0x62c11cb9 GetSingleTag
+0x779d0cd1 Poselog_Vocalist
+0xfbd89cd5 Obj_KillSpawnedScript
+0xa9fe4cd9 Idletype
+0xbdc53cf2 guitar
+0x3f0f9d07 color_combo
+0x7f5b3d4d array_size
+0x3d971d58 BandManager_StartAllFacialAnims
+0xde486d7b quest_progression_check_for_demigod_playing
+0x94ed1d7f end_song_after_transformation
+0x14e2ed92 strumtype
+0xe6790d98 time_to_next_note
+0xefadbda0 TextOutput
+0x4b3aade5 Output_Camera_Sync_Warnings
+0xd9549df8 startanim
+0x82fa4e11 Dynamic_strums
+0x02ebde2f rest
+0x006c7e39 camera_index
+0x28bd1e7a anim_index
+0x10524e87 newbaseanim
+0xe23a4e87 orange
+0x54628ed7 Blend
+0x8934cedf guitar_hand_event_time_offset
+0xff97dee0 Strumanim
+0x289bdeeb StartFrame
+0x06f53ef1 Short_Pick
+0x716f9f03 DecompressNoteValue
+0xfc37df05 gameframe
+0x18521f17 next_camera_time
+0xb6f08f39 part
+0xaa782f45 camera_warnings
+0x39e03f6d EndFrame
+0x835d0f90 GlobalExists
+0x63ac9fa5 test_four_vocalists
+0x0824cfbf unhide_band
+0x326c4ff5 blendcurve
+

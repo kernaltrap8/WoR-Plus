@@ -1,0 +1,140 @@
+[LineNumbers]
+reset_score 52 (0,2) (23,4) (46,5) (69,6) (92,7) (115,8) (138,9) (161,10) (184,11) (207,12) (230,13) (253,14) (276,15) (299,17) (322,18) (345,19) (368,20) (391,21) (414,22) (437,23) (460,24) (483,25) (506,26) (529,27) (552,28) (575,29) (598,30) (621,31) (644,32) (667,33) (690,34) (713,35) (736,36) (759,37) (782,38) (799,41) (822,42) (885,46) (908,47) (932,48) (999,49) (1023,50) (1062,51) (1101,52) (1136,54) (1196,57) (1217,58) (1235,59) (1253,60) (1255,62) (1288,65) (1324,66) 
+calc_songscoreinfo 4 (28,71) (34,72) (52,73) (59,76) 
+hit_note 18 (0,79) (6,81) (19,82) (42,85) (65,86) (88,87) (105,89) (122,90) (141,91) (165,92) (167,93) (185,95) (202,97) (221,98) (245,99) (247,100) (264,102) (304,103) 
+miss_note 3 (0,107) (23,109) (46,110) 
+unnecessary_note 2 (0,113) (23,115) 
+update_score_fast 22 (44,121) (74,123) (76,125) (82,126) (112,127) (130,129) (168,130) (186,131) (220,132) (249,133) (251,134) (253,135) (271,137) (308,138) (314,139) (342,140) (376,141) (405,142) (407,143) (409,144) (460,146) (462,147) 
+get_current_multiplier 19 (0,152) (12,154) (38,156) (55,157) (69,158) (73,159) (90,160) (108,161) (121,162) (141,163) (154,164) (174,165) (187,166) (189,167) (191,168) (217,170) (239,171) (241,172) (255,174) 
+get_song_section_array 8 (0,182) (40,184) (46,185) (48,186) (65,188) (71,191) (112,192) (126,194) 
+get_average_multiplier 17 (0,204) (64,205) (81,207) (99,208) (116,209) (181,211) (198,212) (221,213) (223,214) (261,216) (279,218) (292,219) (294,220) (298,221) (310,222) (312,223) (326,224) 
+
+[Checksums]
+0xf95406cf scripts\guitar\guitar_score.qb
+0x44949010 difficulty
+0x43f4a06b hit_note
+0x25dcc08c points_per_note
+0x1e1470be get_current_multiplier
+0xfe0790da over_health
+0xe4f130f4 s
+0xab215108 GetFirstPlayer
+0x9d1c7112 SongFileManager
+0xaaf74113 PlayerInfoEquals
+0x0281513f globalarray
+0x7df8614e p
+0xcc12115e song
+0xcf66717b GotParam
+0x55d4a199 multiplier_accumulated_time
+0xbfa801df change
+0xf89231e2 unnecessary_note
+0x87f031e3 unnecessary_notes
+0xd9f871eb current_detailedstats_max_array
+0xa1dc81f9 name
+0xe74661fa old_multiplier
+0x64eef1fd debug_show_song_name
+0x3382a222 get_song_prefix
+0x5a00a232 get_average_multiplier
+0x11f692a6 SetPlayerInfo
+0xde6bc2f6 score_scale_ratio
+0x4b40630d newvalue
+0x4c0d1319 notes_hit
+0x1ceb73c4 get_song_section_array
+0x4b0443d9 non_interactive_notes_skipped
+0x9342e3e5 gh_songlist_props
+0xc5bc93ee ScreenElementExists
+0xff0db407 textName
+0xa675a409 current_run
+0x4d140413 notes_created
+0x9277f428 FormatText
+0xbd09544c func
+0xb16a5516 multiplier_timer_active
+0x4c29c545 RequireParams
+0x6df25557 update_score_fast
+0x7a95a557 t
+0x4599b58c reset_score
+0x67e6859a player
+0x8f61d602 Arrayname
+0xb0f04671 current_vocal_phrase_run
+0x62b79677 SetBandInfo
+0x794ec681 guitar_performance_score
+0x36ec0682 current_health
+0xf24ba68c GetSongTimeMS
+0x5b6556a4 multiplier
+0x095b46bd get_marker_array
+0x2d7856e6 ns_meter_id
+0x7d04f6f2 prev_performance_song_stars
+0xd24f570c song_name
+0xdd09d734 UpdateScoreFastPerFrame
+0x109327a9 beginning_run
+0xa6b8d7b0 elimination
+0x906b67ba time
+0x555917be debug_show_song_time
+0x0d11c7d7 CalcSongScoreInfo
+0x03a17838 current_song
+0xc4745838 text
+0x2bd28846 vocal_multiplier
+0xa779d86c ms
+0xa675288f calc_songscoreinfo
+0xcd66c8ae score
+0x40c698af id
+0xecafd8c4 has_held_notes
+0x35db08de star_power_amount
+0x872998fa is_dead
+0x4d8838fd team_elimination
+0xe3e9490c UpdateRunChange
+0x704d597c base_score
+0x542449ae Playlist_GetCurrentSong
+0x25e1da28 formatted_time
+0xb0b37a6b team_faceoff
+0x9562da71 lowest_health
+0x76fa7a8f checksumname
+0x75385a9e debug_songtime
+0xbf61dab9 sp_phrases_hit
+0xb778dae1 highest_multiplier
+0xe4212aef competitive_rules
+0xf60d9b07 marker_array
+0x44527b59 player_on_screen
+0x4fca0b5c faceoff
+0x74fb0b64 AddToPlayerInfo
+0x8e10bb70 SetArrayElement
+0xa32abb7d grace_period_on
+0x1399fbb6 band_moment_temp_mult_increase
+0x82117c1a wait
+0xf03f7c1e detailstats_array
+0x9f23dc21 SE_SetProps
+0xf9215c4b vocal_total_phrases
+0x4101bc5f FormatTimeMs
+0x86219cac song_section_array
+0xf831bcb7 debug_songname_text
+0xcce0dcc1 whammy_every_note
+0x448fbcdd debug_songname
+0xb7205d14 band
+0x92be3d33 star_power_used
+0x4ee08d49 ResetPlayerNoteStreak
+0xc0ca4d5a average_multiplier
+0x07b3bd5d band_moment_temp_mult_time
+0xaf427d63 vocal_phrase_quality
+0x9b460d6f UpdateScoreFastInit
+0xe318ad71 avg
+0x2beb3d7e slide_wah_every_note
+0xc8767d8a vocal_streak_phrases
+0xc0e3fd9a num_sp_activations
+0x45319db9 star_power_use_count
+0xe8e6adcb vocals
+0xf9178dd7 detailstats_array_max
+0xc4e78e22 all
+0x65485eea getPlayerinfo
+0x7ff2fef9 miss_note
+0xfc37df05 gameframe
+0x9f3e5f13 last_inactive_gem_time
+0x94474f29 gStar_Power_Triggered
+0xb60d1f35 unhide
+0xb6f08f39 part
+0x3d96cf41 total_notes
+0xfcb9df4e vocal_phrase_max_qual
+0x6c20bf54 best_run
+0x09d67fad vocal_phrase_fp_max_qual
+0x48ebffad current_detailedstats_array
+0x00ca0fb2 current_detailedstats_array_entry
+0x123a6fed debug_songtime_text
+

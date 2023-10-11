@@ -1,0 +1,27 @@
+[LineNumbers]
+safe_show 4 (28,14) (49,15) (85,16) (87,17) 
+safe_hide 4 (28,28) (49,29) (85,30) (87,31) 
+safe_wait_and_hide 7 (44,38) (62,40) (79,41) (81,42) (102,44) (138,45) (140,46) 
+safe_wait_and_show 7 (44,53) (62,55) (79,56) (81,57) (102,59) (138,60) (140,61) 
+safe_destroy 4 (0,72) (21,73) (39,74) (41,75) 
+
+[Checksums]
+0xe57333b0 scripts\tutorials\tutorial_funcs.qb
+0x8d08e1a4 g_tutorial_last_lesson
+0x27f1925f g_in_tutorial
+0xc5bc93ee ScreenElementExists
+0xd029f619 seconds
+0x2f1fc695 alpha
+0x906b67ba time
+0xd5bb5820 safe_wait_and_show
+0x40c698af id
+0x3c15e9b6 DestroyScreenElement
+0xf99d5a06 fade_time
+0x432c4a0a safe_wait_and_hide
+0xe1892bdf safe_destroy
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0xeb7bbcca wait_time
+0xd5cf0d55 safe_show
+0x43581f7f safe_hide
+

@@ -1,0 +1,26 @@
+[LineNumbers]
+debug_ui_loadpreviewpak 6 (0,9) (36,12) (128,14) (164,18) (224,19) (300,21) 
+debug_ui_show_paksize 1 (0,50) 
+
+[Checksums]
+0xcbaa2668 scripts\engine\ui_debug.qb
+0x944b9102 debug_ui_loadpreviewpak
+0xcd349324 uistate_nxgui_preview
+0x98bd3339 ui_preview_pak_name
+0x6c525544 map
+0xc451f558 event
+0x70fa17b2 ui_tool_root
+0x171e27d5 SetPakManCurrentBlock
+0x432ce89b debug_ui_show_paksize
+0x40c698af id
+0x6cef5907 menu_change
+0x2e86d939 ui_event_block
+0x3c15e9b6 DestroyScreenElement
+0x41f87a36 uistate_null
+0x24544ae4 ui_paks
+0xdcd6cb13 pakname
+0xf58c2c2b clear_previous_stack
+0x520c0c9c data
+0x5c6c2d04 state
+0x0c5bdefc RefreshPakManSizes
+

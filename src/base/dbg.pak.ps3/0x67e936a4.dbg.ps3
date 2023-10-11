@@ -1,0 +1,51 @@
+[LineNumbers]
+ui_init_guitarhero_com 3 (0,8) (36,9) (72,10) 
+ui_create_guitarhero_com 20 (0,14) (6,16) (12,17) (48,19) (82,21) (89,23) (101,24) (113,25) (125,26) (152,27) (167,28) (175,30) (218,31) (231,32) (233,33) (246,40) (248,41) (254,61) (274,62) (340,63) 
+ui_destroy_guitarhero_com 4 (0,73) (6,75) (12,76) (48,77) 
+
+[Checksums]
+0x03c98ee8 scripts\guitar\menu\states\layouts\ui_guitarhero_com.qb
+0xd5cf8002 ui_init_guitarhero_com
+0x475bf03c event_handlers
+0x059ea070 red
+0x7031f10c params
+0x73665140 CreateScreenElement
+0x01dd615f DescInterface
+0x4b0da1f6 get_agora_token
+0xf44a53ab desc
+0xc5f953c2 button
+0x78e773cb stats_init
+0xff0db407 textname
+0x9277f428 FormatText
+0xbd09544c func
+0x445114c8 NetSessionFunc
+0x8da97503 primary_controller
+0x7a95a557 t
+0x2481c593 ui_create_guitarhero_com
+0x685f365f passcode_text
+0x67f0d769 stats_uninit
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0x9d2d8850 z
+0x29d5d87b add_gamertag_helper
+0x40c698af id
+0x4dfba8c4 destroy_friend_feed
+0x7321a8d6 type
+0x3c15e9b6 DestroyScreenElement
+0x888eaada create_mainmenu_bg
+0x56a1eae3 root_window
+0x98c23bab ui_destroy_guitarhero_com
+0x29502bc0 ui_sfx
+0x4d49ac0a current_menu
+0x7d654c18 exclusive_device
+0xd6521cee generic_event_back
+0x7ee0fd2a pad_back
+0xc906ad51 menustate
+0x69b05e2c generic
+0x24c40e79 destroy_mainmenu_bg
+0xa0c85ec4 token
+0x92313ec8 back
+0x02141f19 clean_up_user_control_helpers
+0x2c6a5f27 uitype
+0xc2719fb0 parent
+

@@ -1,0 +1,30 @@
+[LineNumbers]
+
+[Checksums]
+0xfd05a9fd models\car_instruments\bass\esp\bass17_esp_ec_01.qb
+0x88976002 bass17_esp_ec_01_NodeArray_SortedNames
+0xd7d8e042 Bass63_EX_Bass17_N_pickup01
+0xd3cdc04e Bass63_EX_Bass17_ESP_EC_01
+0x9687f060 BRIDGE
+0x310cc1d7 KNOB
+0x4ed1b1f8 Bass63_EX_Bass17_N_pickup02
+0xa1dc81f9 Name
+0x967562f2 bass17_esp_ec_01_NodeArray
+0x4fa95418 Bass63_EX_Bass17_N_bridge01
+0x400e542b Bass63_EX_Bass17_N_Knob01
+0xae003507 Bass63_EX_Bass17_N_Knob03
+0xd9070591 Bass63_EX_Bass17_N_Knob02
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0xc113c6cb bass17_esp_ec_01_NodeArray_SortedIndices
+0x7f261953 Pos
+0x19ebda23 Set
+0xb5303aa5 Bass17_ESP_EC_01
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x385e8d74 SkinExport
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+

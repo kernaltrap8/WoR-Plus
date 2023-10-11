@@ -1,0 +1,25 @@
+[LineNumbers]
+
+[Checksums]
+0x7ec71cb9 scripts\game\modes\challenges\qp_hit_notes\qp_hit_chords.qb
+0x12b5906d note_requirements
+0x6c3200c7 constants
+0xd2c9b13f SONGSTAT_NUM_CHORDS
+0xa1dc81f9 name
+0xd21e4278 valid_sections
+0xc32f94b9 qp_hit_chords_info
+0x34ce06c4 desc_txt
+0xbac51709 g_qp_hit_notes_core
+0x08f83721 quickplay_challenge
+0x997e7758 leaderboard_metric_string
+0x232b4818 calculated_targets
+0xafe0587f title_string
+0x16447994 song_complete
+0x7336db76 challenge_output_grade_marks
+0x520c0c9c data
+0x5ea10ca0 percent_targets
+0x5e233cc7 target_value
+0x6d11ed74 goal_type
+0xc4e78e22 all
+0xd0844f16 chord_color
+

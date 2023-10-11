@@ -1,0 +1,94 @@
+[LineNumbers]
+ui_create_motd 34 (0,9) (6,11) (13,13) (25,14) (37,15) (62,16) (77,18) (92,19) (115,21) (123,24) (166,25) (179,26) (181,27) (196,29) (198,31) (227,33) (233,35) (272,37) (332,38) (346,40) (354,41) (397,42) (410,43) (453,44) (496,45) (509,46) (511,47) (513,48) (561,50) (563,51) (565,52) (585,54) (668,55) (752,56) 
+ui_destroy_motd 3 (0,66) (36,68) (42,69) 
+motd_setup_news_items 21 (0,77) (12,78) (48,80) (60,81) (62,82) (123,83) (172,84) (210,85) (224,87) (236,88) (252,89) (266,90) (274,91) (307,92) (320,93) (322,94) (324,95) (326,96) (348,97) (356,98) (358,99) 
+motd_news_item_focus 15 (0,106) (48,107) (54,108) (68,110) (80,111) (94,112) (96,113) (132,115) (182,116) (230,117) (243,118) (259,119) (272,120) (274,121) (276,122) 
+motd_news_item_unfocus 6 (0,129) (6,130) (20,132) (32,133) (46,134) (48,135) 
+motd_go_to_music_store 3 (0,142) (52,143) (72,144) 
+
+[Checksums]
+0xc02733f2 scripts\guitar\menu\states\layouts\ui_motd.qb
+0xb990d003 target
+0x475bf03c event_handlers
+0xb9ce4069 msg_text
+0x059ea070 red
+0x26d320da msg_image
+0xcfd030fd item_text_text
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0x73665140 CreateScreenElement
+0x01dd615f DescInterface
+0xeb49d167 num_news_items
+0xb3e081d5 motd_setup_news_items
+0xa1dc81f9 name
+0x500eb224 Obj_GetID
+0x8fae8247 title_text
+0x5b058376 param
+0xf44a53ab desc
+0xc5f953c2 button
+0xc5bc93ee ScreenElementExists
+0x7240a3f6 NTSCWhite
+0x9277f428 FormatText
+0x5face43a pad_btn_right
+0x6c22c43c motd_subject_1
+0xf050e43f motd_go_to_music_store
+0x9a64d468 motd_header_1
+0x1e93946b alias
+0xe921a4d8 ScrollDown
+0x8da97503 primary_controller
+0x9d3fb516 focus
+0xb40d153f select
+0x4c29c545 RequireParams
+0xf627f551 GH6_gold
+0x34cfa57f item_text_rgba
+0x4a5ba65f news_id
+0xc7280732 ui_create_motd
+0x2cb33744 LaunchEvent
+0xb6398746 motd_news_item_focus
+0x74b117c5 title_rgba
+0xf4d9a825 add_user_control_helper
+0x30a4f836 pad_up
+0xc4745838 text
+0xca5d3848 generic_ui_destroy
+0x9d2d8850 z
+0x29d5d87b add_gamertag_helper
+0x40c698af id
+0x4dfba8c4 destroy_friend_feed
+0x7321a8d6 type
+0xb30d9965 controller
+0x1993c98e i
+0x3c15e9b6 DestroyScreenElement
+0xc9428a08 device_num
+0x64cc0a0b news_menu_id
+0xf1acda5b main_menu_select_music_store
+0x2c8a3a6d child_index
+0x76fa7a8f ChecksumName
+0xb79a8aad g_menu_colors
+0x6da42abb ScrollUp
+0x56a1eae3 root_window
+0x38b32b01 motd_news_item_unfocus
+0xda28fb8a pad_select
+0x55518b96 highlight_btn_alpha
+0xc4a92ba3 item_num
+0xd0d2dbac alert_red
+0x29502bc0 ui_sfx
+0x4d49ac0a current_menu
+0x7d654c18 exclusive_device
+0x9f23dc21 SE_SetProps
+0x0fd1ac26 pad_down
+0x35392c6a news_item
+0x520c0c9c data
+0x0830ecaf objid
+0x0c441cc3 item_text
+0x4adf0cd3 unfocus
+0xd6521cee generic_event_back
+0x4577fd38 AssignAlias
+0x2e5ebd47 alias_news_menu
+0xc906ad51 menustate
+0x69b05e2c generic
+0x92313ec8 back
+0x2c6a5f27 uitype
+0x936bef8b motd_image_texture
+0xc2719fb0 parent
+0x25cedfdf ui_destroy_motd
+

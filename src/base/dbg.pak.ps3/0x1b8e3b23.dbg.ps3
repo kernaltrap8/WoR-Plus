@@ -1,0 +1,32 @@
+[LineNumbers]
+
+[Checksums]
+0xb82bbe26 models\car_instruments\bass\schecter\bas_sch_stil.qb
+0x84407023 BAS_STIL_KnobNode02
+0x9687f060 BRIDGE
+0xf34740b5 BAS_STIL_KnobNode03
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0xbf25f24e bas_sch_stil_NodeArray
+0xc10b53ba BAS_STIL_KnobNode001
+0x16849423 bas_sch_stil_NodeArray_SortedIndices
+0xf4eae42d BAS_STIL_PickupNode01
+0x832db43a BAS_STIL_KnobNode06
+0x6d23d516 BAS_STIL_KnobNode04
+0x1a24e580 BAS_STIL_KnobNode05
+0x7da01586 BAS_SCH_Stil
+0x6de3b597 BAS_STIL_PickupNode02
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0xb353a6ed BAS_STIL_BridgeNode
+0xb7223783 bas_sch_stil_NodeArray_SortedNames
+0x7f261953 Pos
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x385e8d74 SkinExport
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+

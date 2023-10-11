@@ -1,0 +1,17 @@
+[LineNumbers]
+
+[Checksums]
+0x510f1874 zones\global\global_gfx.qb
+0x87aae025 global_gfx_NodeArray
+0x6aadf154 Geometry
+0xa1dc81f9 Name
+0xa081927f global_gfx_Plane01
+0x7c2552b9 CreatedAtStart
+0x9a9fb2c9 global_gfx_NodeArray_SortedNames
+0xbf4d3536 LevelGeometry
+0x12b4e660 Class
+0x2d7e583b CollisionMode
+0x9d2d0915 Angles
+0x7f261953 Pos
+0x81c069be global_gfx_NodeArray_SortedIndices
+

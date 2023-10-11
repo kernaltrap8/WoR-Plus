@@ -1,0 +1,17 @@
+[LineNumbers]
+
+[Checksums]
+0x6f7bb86b scripts\game\anim\animationdata\loops\guit\l_guit_jeffs_lowkey_f_anim_data.qb
+0xe8f7104a guit_Jeff_Lowkey_120_F_01
+0x7f680163 guit_Jeff_Lowkey_100_F_01
+0x937bb16d Good
+0x12e4443d Med
+0x7dd4c604 Bad
+0xda99b63b Fast
+0x2596167d Stance_A
+0xde7a971b Normal
+0x23db4aea Idle
+0xcaf88e22 Slow
+0x26a8aec0 guit_Jeff_Lowkey_075_F_01
+0xa6d19fe4 L_GUIT_JeffS_Lowkey_F_anims_set
+

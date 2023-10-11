@@ -1,0 +1,64 @@
+[LineNumbers]
+ui_create_customize_character_head 15 (0,9) (7,10) (19,11) (31,12) (43,13) (55,14) (61,15) (74,16) (76,17) (275,20) (340,26) (349,218) (383,219) (385,220) (408,222) 
+ui_return_customize_character_head 2 (0,231) (23,233) 
+ui_destroy_customize_character_head 2 (0,243) (6,244) 
+ui_init_customize_character_head 2 (0,252) (36,253) 
+hide_car_parts_for_face_paint 7 (0,261) (6,262) (80,263) (156,264) (232,265) (308,266) (314,267) 
+unhide_car_parts_for_face_paint 4 (0,275) (10,276) (64,277) (66,278) 
+
+[Checksums]
+0x15783dbb scripts\guitar\menu\states\layouts\cas\ui_customize_character_head.qb
+0x0e52f043 PushTemporaryCASAppearance
+0xa484d093 add_car_menu_text_item
+0xe9043116 ui_create_customize_character_head
+0xa1dc81f9 name
+0x3cd9d1fc setup_cas_menu_handlers
+0xbf17a257 show_history
+0x92ead2a2 customize_head_vmenu
+0x5a653341 cas_facial_hair
+0x24613344 CAS_Body
+0xad76753b ui_init_customize_character_head
+0x0acc054f car_helper_text
+0xb9eda58b SetCASAppearancePartInstance
+0x6641d5b1 icon_face
+0x4871b5fd RebuildCurrentCASModel
+0xe88e660c destroy_generic_menu
+0x9a6bd624 icon
+0x3f6e367e zoom_camera
+0xa944c681 bandmanager_changestance
+0xcdc3f6a0 back_state
+0xff1496de state_device
+0xd4c98794 title
+0xc4745838 text
+0x4bb2084e desc_id
+0x8390b87f cas_object
+0xf90d58c6 hide_car_parts_for_face_paint
+0x5d1698fa Stance_Select_Head
+0x00ef090a unhide_car_parts_for_face_paint
+0xe91b995e UIstate_character_face_deformation
+0x4c450964 CAS_Acc_Face
+0xb30d9965 controller
+0xc19f796a part_list
+0x633e59ef CAS_Hair
+0x37ba3a84 make_generic_car_menu
+0x5b335ab6 CAS_Hat
+0x1482dae0 GetCurrentCASObject
+0x8cd30b08 ui_destroy_customize_character_head
+0x43a52b3b CAS_Hat_Hair
+0x2a9dcb5e part_instance
+0xf1ff8b68 choose_state
+0x31dc7bab camera_list
+0x7d654c18 exclusive_device
+0x0c714c3f menu_finish
+0x7d02bcc3 stance
+0x044d1db2 is_accepting_invite_or_sigining_out
+0x2f332deb ui_return_customize_character_head
+0xa651ae55 no_wait
+0xa1598eed vmenu_id
+0xb2161ef7 num_icons
+0x806fff30 none
+0x577e1f34 UIstate_cas
+0xb6f08f39 part
+0xc4e3df4a MergePartIntoTemporaryCASAppearance
+0x677e1faf ui_cas_precache
+

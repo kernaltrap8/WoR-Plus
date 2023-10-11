@@ -1,0 +1,49 @@
+[LineNumbers]
+generate_worst_cas_appearances 24 (0,21) (96,23) (109,24) (204,26) (225,27) (320,29) (341,30) (436,32) (457,33) (552,36) (565,37) (660,39) (681,40) (776,42) (797,43) (892,45) (913,46) (920,48) (956,50) (964,52) (977,53) (990,54) (992,55) (994,57) 
+get_worst_case_band_member_appearance 28 (0,68) (30,70) (39,72) (72,74) (84,75) (86,76) (109,77) (144,79) (180,80) (207,81) (229,82) (231,83) (233,84) (263,86) (284,88) (305,90) (313,91) (331,94) (357,95) (405,96) (407,97) (433,99) (481,100) (483,101) (509,103) (557,104) (559,105) (575,107) 
+
+[Checksums]
+0x309f4498 scripts\game\debug\car_worst_case_band.qb
+0xde5b8093 GH4_CAR_Female
+0xa6e0a0cc CAS_Drums
+0xc4c070f9 CASGetTopSkins
+0xcf66717b GotParam
+0xbfa801df change
+0x75bea1f0 node_parts_only
+0xe33af22c topskins
+0x828962a5 worst_female_appearance
+0x7f641303 forced_choice
+0x24613344 CAS_Body
+0x40ec43b6 required_parts
+0xb66e23df fix_cag_include_part
+0x3280141d CASOutputWorstCaseFile
+0x39b5c4b0 GetArraySize
+0xdeef04cd StructureContains
+0xf4ab74f0 path
+0x7fdc94f4 CAS_Female_Hat_Hair
+0x507a152f forced_choices
+0xa1d7f6d7 CAS_Bass_Body
+0x3531a6fc generate_worst_cas_appearances
+0x16f29792 CAS_Mic
+0x90fec815 structure
+0x4c54e82e cas_budget_groups
+0x4bb2084e desc_id
+0xd7ba393b get_worst_case_band_member_appearance
+0x1993c98e i
+0x5dd919b9 worst_skins
+0xb9bd6a37 CAS_Guitar_Body
+0xbf216a5d cas_current_appearance
+0x23556ab7 budgets
+0x64b75bdc CAS_Male_Hat_Hair
+0xfbf40cd3 worst_male_appearance
+0x68977cd7 force
+0x88fc5cdc female_appearance
+0x05c14ce3 GH4_CAR_Male
+0x7056ed02 RemoveParameter
+0x7f5b3d4d array_size
+0x554c7d6f appearance
+0x2559fde3 CASGetWorstSkinCombination
+0x01091e11 male_appearance
+0xb6f08f39 part
+0x389dafec structs
+

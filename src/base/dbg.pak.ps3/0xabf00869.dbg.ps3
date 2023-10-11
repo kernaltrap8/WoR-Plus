@@ -1,0 +1,34 @@
+[LineNumbers]
+
+[Checksums]
+0x1680d65c models\car_instruments\guitar\prs\gtr79_prs_cstm24.qb
+0x9687f060 BRIDGE
+0x41b0b13f GTR78_PRS_SC_GTR79_PRS_CSTM24
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x3d3b026e gtr79_prs_cstm24_NodeArray_SortedIndices
+0x385c853c gtr79_prs_cstm24_NodeArray
+0x8058e545 MISC
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0x7f261953 Pos
+0x19ebda23 Set
+0x517ada41 GTR78_PRS_SC_GTR79_Node05
+0xc97f3aa9 Orientation
+0x267dead7 GTR78_PRS_SC_GTR79_Node04
+0x007c7b68 AttachType
+0xbf74bb6d GTR78_PRS_SC_GTR79_Node07
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0xa022ac4c gtr79_prs_cstm24_NodeArray_SortedNames
+0x385e8d74 SkinExport
+0xcfcb8e0e GTR79_PRS_CSTM24
+0x56171e58 GTR78_PRS_SC_GTR79_Node01
+0x433ffe74 GTR78_PRS_SC_GTR79_Node010
+0x3438cee2 GTR78_PRS_SC_GTR79_Node011
+0x84b1df33 ExportName
+0xb8197f74 GTR78_PRS_SC_GTR79_Node03
+0x64f0cf83 AttachPoint
+0xda36afce GTR78_PRS_SC_GTR79_Node013
+0xcf1e4fe2 GTR78_PRS_SC_GTR79_Node02
+

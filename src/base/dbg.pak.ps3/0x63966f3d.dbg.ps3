@@ -1,0 +1,91 @@
+[LineNumbers]
+ui_init_band_lobby_setup 3 (0,17) (36,18) (72,20) 
+ui_deinit_band_lobby_setup 21 (0,28) (36,30) (72,31) (108,32) (144,33) (150,34) (156,35) (162,36) (168,39) (177,41) (196,42) (202,43) (204,44) (206,45) (212,47) (224,48) (226,49) (258,50) (279,51) (287,52) (293,54) 
+ui_create_band_lobby_setup 2 (0,67) (18,68) 
+ui_destroy_band_lobby_setup 1 (0,77) 
+ui_create_band_lobby_setup_spawned 34 (0,88) (36,90) (38,92) (76,93) (78,94) (80,95) (132,97) (134,98) (140,100) (146,105) (180,112) (216,115) (222,116) (228,117) (248,119) (266,121) (272,122) (284,123) (286,124) (307,125) (331,126) (352,127) (360,128) (362,129) (396,131) (439,132) (482,134) (500,136) (536,138) (542,140) (548,142) (744,156) (780,158) (840,160) 
+
+[Checksums]
+0xa7b6026e scripts\guitar\menu\states\layouts\ui_band_lobby_setup.qb
+0xfed2000c GetMaxLocalPlayers
+0xcd0dc02d killspawnedscript
+0xae3e104a band_lobby_setup_strings
+0x98c2e090 reset_all_player_in_game_status
+0xc83280af reset_all_players_local_client_status
+0x7031f10c params
+0x9fd29151 viewport
+0xb8b0217d num_frames
+0xa0142183 CAS_node_name
+0x071f4183 bg_viewport
+0x6017f1cc ui_event
+0xbfa801df change
+0x9f0761f5 mainmenu_kill_song_and_characters
+0xa1dc81f9 name
+0x17e7321e FOV
+0x748ca262 Quat
+0x46159266 out
+0xb52ff28e invite_controller
+0x11f692a6 SetPlayerInfo
+0x3fac736a persistent_band_force_unique_musicians
+0xda3403b0 null
+0xf8a4443a get_savegame_from_controller
+0x4ae064e4 band_lobby_clear_all_submenu_data
+0x8da97503 primary_controller
+0x6c525544 map
+0xc451f558 event
+0x760885a2 switch_to_no_band_camera
+0xa9d735ad KillCamAnim
+0x4d42e61d max_players
+0xed2b8644 ui_create_band_lobby_setup_spawned
+0xb806d663 persistent_band_cancel_lobby
+0x043c9671 playerinfo
+0xc5d5b6db modelview_view_cam
+0x3e0f6740 uistate_band_lobby
+0xf906d74c PopUnsafeForShutdown
+0x35981769 ui_create_band_lobby_setup
+0x7a8017ba node
+0x2103c7e6 ui_deinit_band_lobby_setup
+0xdf4687ff g_leader_player_num
+0xc48f082a GetPakManCurrent
+0x5b74e863 ui_init_band_lobby_setup
+0x40c698af id
+0x7802c8ca ui_destroy_band_lobby_setup
+0x21cc38d9 ExtendCrc
+0x6cef5907 menu_change
+0xcace3918 GMan_ShutDownAllGoals
+0x09936949 net_breakdown_continue_msg_sent
+0x5cfae953 modelview_view_cam_id
+0x7f261953 Pos
+0xb30d9965 controller
+0x3c521982 kill_gem_scroller
+0x1993c98e i
+0xc130f9e5 ScriptIsRunning
+0xc9428a08 device_num
+0x1dd4ca24 PlayIGCCam
+0x39ecca27 g_career_search
+0x1da27a81 context
+0xf73f4a83 band_lobby_net_cleanup
+0x7ee9fae9 PushUnsafeForShutdown
+0x19fa5af7 SpawnScriptNow
+0x71cccb15 InInternetMode
+0xd26f2b38 ui_event_wait_for_safe
+0xfa735bac lobby_mode
+0x82117c1a wait
+0xeb300c29 Play_hold
+0xf2c9ac8b pak
+0x520c0c9c data
+0xd85c6cd4 node_prefix
+0x5c6c2d04 state
+0x6180ed0e g_lobby_invite_flag
+0x4ed8fd58 hide_glitch
+0xb2edcd7d interrupt_current
+0xd126cdf6 LockTo
+0xc4e78e22 all
+0x7a354e97 zones
+0xc588eebc world
+0x0c218ef3 destroy_bg_viewport
+0xfc37df05 gameframe
+0x2c4bbf29 g_lobby_enter_from_main_menu
+0xbd276f2c g_net_leader_player_num
+0xc7b61faa setup_bg_viewport
+

@@ -1,0 +1,12 @@
+[LineNumbers]
+is_regular_controller 7 (0,9) (21,10) (52,11) (75,12) (104,13) (106,14) (136,15) 
+
+[Checksums]
+0x0dd6c463 scripts\guitar\menu\states\layouts\ui_boot_guitar.qb
+0x0203b372 true
+0xd43297cf false
+0xa366c7ef IsGuitarController
+0xb30d9965 controller
+0x27576dec IsDrumController
+0x59d2ff8d is_regular_controller
+

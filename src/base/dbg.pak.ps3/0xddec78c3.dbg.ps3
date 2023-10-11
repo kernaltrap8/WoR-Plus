@@ -1,0 +1,96 @@
+[LineNumbers]
+controlpadmotion_debug_create 4 (0,47) (40,48) (224,61) (226,62) 
+controlpadmotion_debug_kill 4 (0,65) (36,66) (72,67) (74,68) 
+PrintVec 5 (0,76) (36,78) (48,79) (95,80) (97,81) 
+FindReferencedScreenElementParams 25 (28,91) (92,92) (129,94) (141,96) (213,98) (232,100) (246,101) (258,102) (260,103) (291,104) (319,105) (331,106) (345,107) (347,108) (430,109) (451,110) (459,111) (483,112) (487,113) (545,114) (547,115) (619,117) (640,119) (648,120) (650,121) 
+FindReferencedScreenElementParams_Recurse 32 (0,130) (76,131) (97,133) (115,135) (130,137) (142,138) (154,140) (173,141) (175,142) (214,149) (303,150) (305,151) (307,152) (328,155) (336,156) (338,157) (357,159) (410,160) (412,161) (414,162) (435,164) (447,165) (466,167) (478,168) (480,169) (532,170) (553,171) (561,172) (563,173) (565,175) (567,177) (583,179) 
+
+[Checksums]
+0xd6b1ec1c scripts\engine\debug.qb
+0x8e411006 b
+0x88b2100f METRIC_DMA1
+0xed7c6031 CameraZ
+0x655ee08e Active_Viewport
+0xf9462090 c
+0xade1d0e2 METRIC_VRAMUSAGE
+0xe4f130f4 s
+0x7031f10c params
+0x897e8113 METRIC_VIDEOMODE
+0x73665140 CreateScreenElement
+0x5ef31148 array
+0x7df8614e p
+0xcf66717b GotParam
+0x65cbf1a4 controlpadmotion_debug
+0x11bb41b5 METRIC_DMA2
+0x5d0671b8 channel
+0x174841bc a
+0xbebfa1c6 element
+0x4bfcd202 AddArrayElement
+0x79207299 METRIC_DRAWTIME
+0x4b40630d NewValue
+0x5b058376 param
+0x0a9c739c show_cas_budget_warnings
+0xc5bc93ee ScreenElementExists
+0x68bcf3fc show_zone_budget_usage
+0xff0db407 textname
+0x9277f428 Formattext
+0x90daf43c METRIC_SKYCACHE
+0x62fac485 METRIC_POLYSPROC
+0x39b5c4b0 GetArraySize
+0x083644c2 AssertWhenGlobalsChangeType
+0x4c29c545 RequireParams
+0x7a95a557 t
+0x15c1c563 METRIC_VERTS
+0x1f1135ad METRIC_TIME
+0x8f61d602 ArrayName
+0x2de8c60e printf
+0x1f6bb627 METRIC_RESOURCEALLOCS
+0xa735068b METRIC_IHANDLERTIME
+0x4c98575a METRIC_VU1
+0x5b3707a5 METRIC_VBLANKS
+0xcd2de7d3 DebugScriptPrintf
+0xafd2f802 Show_Warnings
+0x809a9834 j
+0xc4745838 text
+0x9d2d8850 z
+0x8aa39855 no_render_metrics
+0x29f1a896 GetScreenElementChildren
+0x67cd98a2 DebugPausedObjects
+0x40c698af id
+0x7321a8d6 Type
+0x7f8c98fe index
+0x7f261953 pos
+0x7323e97c x
+0x1993c98e i
+0x3c15e9b6 DestroyScreenElement
+0x0424d9ea y
+0x13d0da1e DontAssertForChecksums
+0x25bd4a44 METRIC_TEXTUREUPLOADS
+0x13b9da7b Scale
+0xe0e4dae1 item
+0x56a1eae3 root_window
+0xc9287aee GetScreenElementProps
+0x149e3b3c controlpadmotion_debug_create
+0x8e10bb70 SetArrayElement
+0x3c936b93 PrintVec
+0x7a26bb9d count
+0x9081dbaf Show_Zone_budget_Warnings
+0x2e0b7c80 FindReferencedScreenElementParams
+0xfc372ceb METRIC_MEMFREE
+0x9cf39d0f vec
+0x286a8d26 model
+0x7f5b3d4d array_size
+0x82c59d78 Element3d
+0xd80d4dac METRIC_ARENAUSAGE
+0xc4e78e22 all
+0x44a08e2e METRIC_TOTALPOLYS
+0xc85e8e3b METRIC_MEMUSED
+0x5e684e45 children
+0x2fc1be4d FindReferencedScreenElementParams_Recurse
+0xbbbb8e76 METRIC_REGIONINFO
+0x406acebc DebugPausedObjectsComponentToCheck
+0x963d7f59 GetVectorComponents
+0x96254f72 IsArray
+0xc2719fb0 Parent
+0xa2237fb8 controlpadmotion_debug_kill
+

@@ -1,0 +1,24 @@
+[LineNumbers]
+ui_init_pausemenu_quit_warning 7 (28,12) (40,13) (76,14) (78,15) (96,17) (132,18) (134,19) 
+ui_create_pausemenu_quit_warning 6 (0,29) (36,30) (43,31) (47,32) (54,33) (56,34) 
+ui_destroy_pausemenu_quit_warning 2 (0,43) (6,45) 
+ui_deinit_pausemenu_quit_warning 5 (28,56) (40,57) (46,58) (48,59) (84,61) 
+
+[Checksums]
+0x74fbbdc4 scripts\guitar\menu\states\layouts\ui_pausemenu_quit_warning.qb
+0x030e3023 ui_init_pausemenu_quit_warning
+0x25f0211f create_quit_warning_menu_with_custom_options
+0xcf66717b GotParam
+0xbfa801df change
+0x85241246 EnableAllInput
+0xd443a2bc off
+0x2fca0578 options
+0x841ce71e disconnect_dialog
+0xa16c783e ui_deinit_pausemenu_quit_warning
+0x70d22880 g_disconnect_quit_warning_shown
+0x888358f8 ui_destroy_pausemenu_quit_warning
+0xa5c5db1c destroy_quit_warning_menu
+0xb611cc63 ui_create_pausemenu_quit_warning
+0x9b219d57 create_quit_warning_menu
+0x8737eeda is_network_game
+

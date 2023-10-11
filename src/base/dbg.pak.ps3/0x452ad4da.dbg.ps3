@@ -1,0 +1,13 @@
+[LineNumbers]
+tod_manager_create_perm_lights 3 (0,24) (36,25) (72,30) 
+
+[Checksums]
+0xc23d495e scripts\engine\tod_manager.qb
+0xdecac3c7 SetDynamicShadowIntensity
+0x906b67ba time
+0xfbbd17e4 SetModelLightsFadeTime
+0x1993c98e i
+0xeb37dbe6 tod_manager_create_perm_lights
+0x42a6dc41 default_light_group
+0x806fff30 None
+

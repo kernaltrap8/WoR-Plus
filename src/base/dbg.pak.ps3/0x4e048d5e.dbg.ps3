@@ -1,0 +1,17 @@
+[LineNumbers]
+
+[Checksums]
+0x37bbec91 scripts\game\anim\animationdata\loops\sing\l_sing_patrick_walk_anim_data.qb
+0x937bb16d Good
+0xef2091d3 SING_Patrick_Walk_100
+0xdd16f351 SING_Patrick_Walk_120
+0x12e4443d Med
+0x7dd4c604 Bad
+0xda99b63b Fast
+0x2596167d Stance_A
+0xde7a971b Normal
+0xd1c999ac SING_Patrick_Walk_075
+0x23db4aea Idle
+0xcaf88e22 Slow
+0x499bae94 L_SING_Patrick_Walk_anims_set
+

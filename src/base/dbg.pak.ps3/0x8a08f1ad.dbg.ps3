@@ -1,0 +1,113 @@
+[LineNumbers]
+qp_trigger_spower_test_watcher_update 13 (0,96) (52,97) (70,99) (91,102) (180,105) (232,107) (268,108) (305,110) (334,113) (338,115) (448,117) (450,118) (452,120) 
+qp_trigger_spower_test_section_marker_hit 33 (0,129) (52,130) (74,132) (95,134) (184,135) (213,136) (248,137) (285,139) (289,140) (396,141) (425,143) (443,145) (516,146) (545,148) (563,150) (660,151) (697,155) (701,157) (800,158) (802,164) (839,166) (843,168) (912,169) (914,170) (916,173) (934,176) (975,177) (993,179) (1042,181) (1046,182) (1095,184) (1097,185) (1099,186) 
+qp_trigger_spower_test_in_valid_section 7 (0,195) (41,197) (59,199) (88,201) (92,202) (124,204) (126,205) 
+qp_trigger_spower_test_display_message_spawn 3 (0,214) (36,215) (56,216) 
+qp_trigger_spower_test_display_message 43 (72,223) (108,225) (144,226) (146,227) (212,233) (219,236) (231,237) (243,238) (255,239) (267,240) (280,241) (292,242) (305,243) (324,244) (353,245) (365,246) (367,247) (374,249) (386,250) (398,251) (410,252) (422,253) (435,254) (447,255) (472,256) (491,257) (520,258) (532,259) (534,260) (576,263) (616,264) (672,267) (728,268) (740,269) (757,272) (796,275) (852,276) (908,277) (920,278) (922,279) (960,281) (996,282) (998,283) 
+qp_trigger_spower_test_create_generic_backdrop_spawn 4 (0,291) (52,292) (88,293) (124,294) 
+qp_trigger_spower_test_create_generic_backdrop 11 (28,301) (80,302) (120,303) (252,311) (504,325) (506,326) (541,328) (558,330) (596,332) (632,333) (634,334) 
+
+[Checksums]
+0x5a8da768 scripts\game\modes\challenges\test_challenges\qp_trigger_spower.qb
+0xcd0dc02d KillSpawnedScript
+0x30f88030 qptst_text
+0xe126e035 top
+0xa440c07b challenge_qp_current_section_is_valid
+0x19252088 qp_trigger_spower_test_create_generic_backdrop_spawn
+0xa075808c source
+0x6c3200c7 constants
+0x4696d0cf current_value
+0xb12b510a spriteElement
+0x7031f10c params
+0x73665140 CreateScreenElement
+0x91e6b174 qp_trigger_spower_test_create_generic_backdrop
+0x15052188 tools
+0x5d0671b8 channel
+0x11c101c8 started_section_length
+0xa6a551cb grade
+0xa1dc81f9 name
+0x8b60022f just
+0xfa44a247 qp_trigger_spower_test_display_message
+0xbd30325b white
+0xd21e4278 valid_sections
+0x08e3927e star_power_deployed_in_valid_window
+0x7d99f28d texture
+0x294952a9 generic_backdrop_container
+0xea9df2b9 BH2_Video_Challenge_Good
+0x9eb6e336 SpawnScript
+0x0203b372 TRUE
+0xc5bc93ee ScreenElementExists
+0xd89eb422 pause_backdrop
+0x9f37d45c section_watcher
+0x64d6f462 section_marker_hit
+0x032314d1 goal
+0xbf0f14db center
+0x9982e501 goal_id
+0x0dff4546 vars
+0xebae254e int
+0xc451f558 event
+0x34a68574 dims
+0x67e6859a player
+0xc21515bd previous_progress
+0xf3ef35c8 GMan_GetData
+0x2de8c60e printf
+0xd029f619 seconds
+0x043c9671 playerinfo
+0x2f1fc695 alpha
+0xbcf8e6c2 qp_challenge
+0x34ce06c4 desc_txt
+0x08f83721 quickplay_challenge
+0x2f6bf72d font
+0x40867793 current_progress
+0x906b67ba time
+0xd43297cf FALSE
+0x232b4818 calculated_targets
+0xc4745838 text
+0x5b9da842 ContainerElement
+0x25209846 SE_WaitProps
+0x935ab858 debug
+0x2f95e867 qptst_text_shadow
+0xa8d9c892 qp_trigger_spower_test_info
+0x85981897 left
+0x40c698af id
+0x32f318ce GMan_SetGrade
+0x186928d1 initial_data
+0x7321a8d6 type
+0x922f78f9 var
+0xcae02926 in_valid_section
+0x7f261953 pos
+0x0a7be964 custom
+0x3c15e9b6 DestroyScreenElement
+0xc17a8a06 var_watcher
+0xb56efa5d var_updated
+0x13b9da7b scale
+0x56a1eae3 root_window
+0xe1415afe BH2_Video_Challenge_Start
+0xdd9f8b49 longest_deployment
+0xe2bf1b5d enable_highway_glow
+0x4db5bbc1 valid_section_window_started
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0x520c0c9c data
+0x5ea10ca0 percent_targets
+0xf0165caf player_data
+0xc2130cc6 section_base_value
+0x5e233cc7 target_value
+0xfff02d14 assigned_player
+0x607e8d15 GMan_SetData
+0x92be3d33 star_power_used
+0x64bdfd6a qp_trigger_spower_test_section_marker_hit
+0x6d11ed74 goal_type
+0xa8b9dd76 qp_trigger_spower_test_in_valid_section
+0x1f6b4d96 qp_trigger_spower_test_display_message_spawn
+0xe3ff0daa qptst_text_container
+0x3f6bcdba rgba
+0xc827ae88 checkpoints
+0x57710f31 z_priority
+0x79a07f3f duration
+0xc030bf42 callback_type
+0xc2719fb0 parent
+0x5200dfb6 TextElement
+0x0dfc4fc0 qp_trigger_spower_test_watcher_update
+0xd301ffdd soundevent
+

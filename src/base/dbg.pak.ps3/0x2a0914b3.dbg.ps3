@@ -1,0 +1,17 @@
+[LineNumbers]
+
+[Checksums]
+0x518ac188 scripts\game\anim\animationdata\loops\guit\l_guit_morgan_bleedingme_anim_data.qb
+0x384430ba Guit_Morgan_BleedingMe_100
+0x937bb16d Good
+0x0a725238 Guit_Morgan_BleedingMe_120
+0x12e4443d Med
+0x7dd4c604 Bad
+0xda99b63b Fast
+0x2596167d Stance_A
+0xde7a971b Normal
+0x06ad38c5 Guit_Morgan_BleedingMe_075
+0x23db4aea Idle
+0xcaf88e22 Slow
+0x2c764f0c L_GUIT_Morgan_BleedingMe_anims_set
+

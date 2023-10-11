@@ -1,0 +1,12 @@
+[LineNumbers]
+ui_create_pausemenu_song_ended 3 (0,9) (6,11) (12,13) 
+ui_destroy_pausemenu_song_ended 2 (0,23) (6,25) 
+
+[Checksums]
+0x58a144f2 scripts\guitar\menu\states\layouts\ui_pausemenu_song_ended.qb
+0xda211655 destroy_song_ended_menu
+0xbab776aa kill_intro_celeb_ui
+0x402bf7f7 ui_create_pausemenu_song_ended
+0x1ae36cac ui_destroy_pausemenu_song_ended
+0x8e781d4e create_song_ended_menu
+

@@ -1,0 +1,112 @@
+[LineNumbers]
+launch_graphic_test 44 (0,17) (6,18) (48,21) (60,22) (96,24) (148,27) (160,30) (169,31) (204,32) (216,33) (218,34) (272,35) (328,36) (384,37) (440,38) (458,39) (492,40) (494,41) (500,44) (536,47) (588,49) (628,51) (772,60) (774,61) (1992,89) (2044,91) (2096,93) (2102,94) (2132,97) (2162,98) (2175,99) (2177,100) (2201,101) (2223,103) (2230,104) (2243,105) (2255,106) (2267,107) (2283,108) (2306,109) (2308,110) (2310,111) (2332,113) (2339,114) 
+test_graphic_switch 2 (0,118) (18,119) 
+test_graphic_move 13 (0,123) (8,124) (18,125) (44,126) (57,127) (83,128) (96,129) (122,130) (135,131) (161,132) (163,133) (183,135) (235,136) 
+test_graphic_scale 16 (0,140) (20,141) (40,142) (58,145) (84,146) (86,147) (104,150) (155,151) (159,152) (210,153) (212,154) (230,156) (282,157) (286,158) (338,159) (340,160) 
+test_graphic_z 7 (0,164) (20,165) (56,166) (96,167) (100,168) (140,169) (142,170) 
+test_graphic_toggle_axis 8 (0,174) (18,175) (52,176) (88,177) (92,178) (128,179) (164,180) (166,181) 
+test_graphic_toggle_speed 7 (0,185) (18,186) (52,187) (56,188) (92,189) (94,190) (119,192) 
+destroy_graphic_test 10 (0,197) (6,198) (12,199) (24,200) (76,202) (112,203) (164,204) (216,205) (252,206) (254,207) 
+
+[Checksums]
+0xa78df71a scripts\engine\menu\graphic_test.qb
+0xb990d003 target
+0xaa7f2028 pad_L1
+0x475bf03c event_handlers
+0xc86350be enable_pause
+0x56c6c0cd EnablePlayerInput
+0x44714104 pad_L3
+0xb12b510a SpriteElement
+0x7031f10c params
+0x69bc0126 delta
+0x73665140 CreateScreenElement
+0xcf66717b GotParam
+0xbc6b118f up
+0x33767192 pad_L2
+0xbebfa1c6 element
+0xbfa801df change
+0x589a71df UnpauseGame
+0x3f93a1ef Replace_Handlers
+0x70cb0238 debugheap
+0xa8c11275 LegacyDoScreenElementMorph
+0x301e828b destroy_graphic_test
+0x7d99f28d texture
+0xd443a2bc off
+0x695af328 selection
+0x09f53380 launch_graphic_test
+0x319fa3cf test_graphic_toggle_speed
+0xc5bc93ee ScreenElementExists
+0x5d4f143b test_graphic_toggle_axis
+0x7bd7643c test_graphic_move
+0x43f1644e test_graphic_z
+0x12e0a4d6 disable_pause
+0x787064f1 lock
+0x2a5654fe graphic_test_axis
+0x9d3fb516 focus
+0x6722b533 d
+0x1e3e253b pad_choose
+0x455485ef dir
+0x5ec0c5f5 no_node
+0x6e24f5fd DisablePlayerInput
+0x2de8c60e printf
+0xf649d637 on
+0x912b8660 hud_container
+0x2f1fc695 alpha
+0xa2907698 SetScreenElementLock
+0x4f61a6d3 test_graphic_scale
+0x5a7846e9 textures
+0x7b9ef701 AllowAssetLoading
+0x48474741 test_graphic_switch
+0x2cb33744 LaunchEvent
+0x406dd761 GetScreenElementDims
+0x906b67ba time
+0x30a4f836 pad_up
+0x5b9da842 ContainerElement
+0x9669b843 graphic_test2
+0xca5d3848 generic_ui_destroy
+0x3287684d test_graphic1
+0x5b8ab877 Skater
+0x05ddd87c pad_right
+0x85981897 left
+0xbbb5f8a2 elements
+0x40c698af id
+0xe16e88d5 graphic_test3
+0x7321a8d6 type
+0x2e6ef8e7 pad_start
+0x743318fa SetAnalogStickActiveForMenus
+0x63a89901 graphic_test_selection
+0x7f261953 pos
+0xdc890961 test_graphic3
+0x1993c98e i
+0x5c3979e3 pad_square
+0xab8e39f7 test_graphic2
+0x2a39da27 graphic_test_anchor
+0x13b9da7b scale
+0x1b572abf KillSkater
+0x73e5bad0 width
+0x56a1eae3 root_window
+0x4b358aeb right
+0xc9287aee GetScreenElementProps
+0x0ab21af0 height
+0x6949db75 pad_left
+0xf7aa5ba4 IsPair
+0x0fd1ac26 pad_down
+0x98656c52 pad_space
+0xdae68cb0 graphic_test_speed
+0x90356cb9 SetScreenElementProps
+0xeee9fcbb LoadTexture
+0x42ed9cc2 test_graphic4
+0x4adf0cd3 unfocus
+0x7ee0fd2a pad_back
+0x7f0a1d76 graphic_test4
+0x6010cd78 graphic_test
+0x0fa33d9b scriptheap
+0xe7374e4d pad_R2
+0xba03aebd AreAssetsLocked
+0x90307edb pad_R3
+0x954f1eef PauseGame
+0x57710f31 z_priority
+0xc2719fb0 parent
+0xe3006fc4 down
+0x7e3e1ff7 pad_R1
+

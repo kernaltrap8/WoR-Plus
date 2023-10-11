@@ -1,0 +1,106 @@
+[LineNumbers]
+reset_dlc_signin_state 11 (0,13) (36,14) (72,15) (156,16) (240,17) (324,18) (408,19) (492,20) (576,21) (660,22) (744,23) 
+will_scan_dlc 57 (0,26) (18,28) (48,29) (50,30) (88,32) (120,33) (122,34) (131,36) (149,37) (161,38) (173,39) (175,40) (201,41) (229,42) (241,43) (243,44) (245,45) (268,46) (297,47) (309,48) (311,49) (313,50) (317,51) (345,52) (357,53) (359,54) (361,55) (363,56) (385,57) (392,58) (410,59) (440,61) (442,62) (444,63) (456,66) (458,67) (484,68) (529,69) (552,70) (598,71) (602,72) (647,73) (692,74) (694,75) (716,76) (723,77) (756,78) (767,80) (796,81) (800,82) (818,85) (852,86) (856,87) (888,89) (890,90) (892,92) (924,94) 
+should_scan_dlc 44 (0,100) (18,102) (48,103) (50,104) (88,106) (120,107) (122,108) (131,110) (149,111) (161,112) (173,113) (175,114) (201,115) (242,116) (270,117) (282,118) (284,119) (286,120) (309,121) (338,122) (350,123) (352,124) (354,125) (356,126) (360,127) (388,128) (400,129) (402,130) (404,131) (406,132) (428,133) (435,134) (453,135) (484,137) (486,138) (488,139) (499,141) (528,142) (532,143) (550,146) (580,148) (582,149) (584,151) (616,153) 
+ui_create_boot_download_scan 30 (44,157) (116,159) (152,161) (188,163) (224,165) (233,175) (268,178) (304,179) (306,180) (308,181) (326,183) (338,184) (342,185) (344,191) (362,193) (396,194) (419,195) (421,196) (423,197) (441,200) (451,201) (484,202) (507,203) (509,204) (511,205) (513,206) (533,208) (568,209) (586,211) (618,213) 
+boot_download_scan 53 (76,223) (94,225) (100,227) (102,229) (108,231) (160,233) (167,235) (180,236) (192,237) (198,238) (210,239) (212,240) (243,244) (292,247) (305,249) (325,252) (345,253) (365,254) (385,255) (398,256) (400,257) (402,258) (404,259) (406,260) (415,263) (448,264) (450,265) (452,266) (458,268) (500,269) (502,271) (520,272) (538,273) (540,274) (542,275) (592,276) (594,277) (628,279) (646,281) (648,282) (650,283) (684,285) (716,286) (768,287) (770,288) (772,289) (784,291) (818,294) (850,295) (856,296) (858,297) (860,298) (880,300) 
+ui_destroy_boot_download_scan 4 (28,310) (46,312) (52,313) (54,314) 
+ui_deinit_boot_download_scan 6 (0,324) (64,326) (73,328) (156,330) (174,331) (176,332) 
+
+[Checksums]
+0x0acf787e scripts\guitar\menu\states\layouts\ui_boot_download_scan.qb
+0x2a1c002c uistate_songlist
+0x936be03e ui_destroy_boot_download_scan
+0x21902065 checksum
+0xc03c409c savegame_ui_begin
+0x0b7190c6 PushDisableRendering
+0x7031f10c params
+0x53bee11a dlc_scan
+0x1e790135 going_into_songlist
+0x0281513f GlobalArray
+0x80fe3141 show_mainmenu_bg
+0xb8b0217d num_frames
+0xbfa801df change
+0xd16b61e6 starttime
+0x204801f4 is_signing_out
+0x28ddb24a GetTrueElapsedTime
+0x20689278 TRIANGLE
+0xe1d16309 IsWinDX
+0x4b40630d NewValue
+0x7e321311 g_ps3_dlc_scan_occured
+0x0203b372 true
+0xda3403b0 null
+0x5bbf13b3 boot_download_scan
+0xb99ae3d6 gameframes
+0x979cb425 GetTrueStartTime
+0xf8a4443a get_savegame_from_controller
+0xbd09544c func
+0xb9e0e450 g_signin_tag
+0xbefaa466 OnExitRun
+0xb74ce4a3 respond_to_signin_changed
+0x445114c8 NetSessionFunc
+0xdeef04cd StructureContains
+0x64946516 CheckForSignIn
+0x4c29c545 RequireParams
+0x67e6859a player
+0x20eaa5d4 no_cleanup_messages
+0xbbad35ef savegame_ui_savegame
+0x8f61d602 ArrayName
+0x02614607 will_scan_dlc
+0x92886608 ControllerPressed
+0x2de8c60e printf
+0x42a8865e event_params
+0x60fcd66b reset_dlc_signin_state
+0x3eb3566b elapsedtime
+0x6bef3672 SetScriptCannotPause
+0x88d9267f music_store_attempted_purchase
+0x74297717 local
+0xf906d74c PopUnsafeForShutdown
+0x321c9756 SQUARE
+0xecffe757 PopDisableRendering
+0x86a2b796 should_scan_dlc
+0xf77727ae XenonIsGuest
+0xf9e477b9 GetLocalGamerTag
+0xd43297cf false
+0x3e7727fa IsXENON
+0x90fec815 structure
+0xc4745838 text
+0x7321a8d6 type
+0x7f8c98fe index
+0x0ad46922 controller_index
+0xb30d9965 controller
+0x7323e97c X
+0x1b0509c5 savegame
+0xa2a019d8 uistate_jam
+0x5a4b6a0c Downloads_EnumContent
+0xf9d9ea45 matches
+0x1da27a81 context
+0x2b489a86 CIRCLE
+0x56ccbabf unchecked
+0x888eaada create_mainmenu_bg
+0xe6505ae9 should_enumerate
+0x7ee9fae9 PushUnsafeForShutdown
+0x19fa5af7 SpawnScriptNow
+0x4f148b39 manifest_enumeration
+0x80515b4d savegame_ui_end
+0x8e10bb70 SetArrayElement
+0xb8515bdd downloadcontent_enabled
+0x74d55bee create_loading_screen
+0x82117c1a wait
+0x7fb52c9b MarketplaceBGMonitorFunc
+0x520c0c9c data
+0x68977cd7 force
+0x5c6c2d04 state
+0x8cf25d39 shutdown_game_for_signin_change_flag
+0x4ed8fd58 hide_glitch
+0x002d8dcb ui_create_boot_download_scan
+0x7d1cade1 g_force_songlist_dlc_scan
+0xc4e78e22 all
+0xe7c1ee23 g_have_stored_signin_state
+0x24c40e79 destroy_mainmenu_bg
+0x8842aea9 ui_event_wait
+0xf7c42ec0 store_respond_to_signin_changed
+0x3ae5cf00 ui_deinit_boot_download_scan
+0xfc37df05 gameframe
+0x4d6fffcf g_signin_player
+

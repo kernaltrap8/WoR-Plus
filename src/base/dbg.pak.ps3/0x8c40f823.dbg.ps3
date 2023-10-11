@@ -1,0 +1,20 @@
+[LineNumbers]
+ui_create_options_delete_band 21 (0,9) (8,13) (14,14) (20,15) (26,16) (28,17) (35,19) (48,20) (60,21) (68,22) (70,23) (82,24) (94,25) (96,26) (98,27) (110,28) (124,29) (136,30) (138,31) (140,32) (142,33) 
+ui_destroy_options_delete_band 2 (0,43) (6,46) 
+
+[Checksums]
+0xa431362d scripts\guitar\menu\states\layouts\ui_options_delete_band.qb
+0xbd09544c func
+0x91f0e45a body_text
+0x2e1e7476 back_button_script
+0x2fca0578 options
+0x1d2d97d4 func_params
+0xc195a822 create_dialog_box
+0xc4745838 text
+0x37c84b09 destroy_dialog_box
+0xd6521cee generic_event_back
+0x9bbb3e22 menu_confirm_band_delete_select_yes
+0x7e149e2f nosound
+0x17f79f62 ui_create_options_delete_band
+0xdab3df9c ui_destroy_options_delete_band
+

@@ -1,0 +1,17 @@
+[LineNumbers]
+ui_create_bonus_videos_credits 5 (0,9) (6,10) (12,11) (18,12) (43,14) 
+ui_destroy_bonus_videos_credits 2 (0,24) (36,26) 
+
+[Checksums]
+0x17874547 scripts\guitar\menu\states\layouts\ui_bonus_videos_credits.qb
+0x7031f10c params
+0xfd8ab1c8 ui_destroy_bonus_videos_credits
+0xf042f21d cas_destroy_all_characters
+0x18a6f27d end_credits_button
+0xca5d3848 generic_ui_destroy
+0x4dfba8c4 destroy_friend_feed
+0xd4215969 soundcheck
+0xe8a30991 create_credits_menu
+0xa7422a93 ui_create_bonus_videos_credits
+0x19fa5af7 SpawnScriptNow
+

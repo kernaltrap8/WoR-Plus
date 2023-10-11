@@ -1,0 +1,11 @@
+[LineNumbers]
+ui_create_net_serverlist 2 (0,9) (7,13) 
+ui_destroy_net_serverlist 2 (0,22) (6,24) 
+
+[Checksums]
+0x0d7ddee6 scripts\guitar\menu\states\layouts\ui_net_serverlist.qb
+0x8bf230ae create_online_server_list
+0x0e981579 ui_destroy_net_serverlist
+0xb2dbeb41 ui_create_net_serverlist
+0x6ac24cf0 destroy_online_server_list
+

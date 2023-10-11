@@ -1,0 +1,49 @@
+[LineNumbers]
+
+[Checksums]
+0x47d66a5d scripts\av_presets\jow_jam_4p_rainbowroad.qb
+0xcae27061 sprite
+0x833950cc outerRadius
+0x44738127 hueModulation
+0xfe82614d length
+0xc48391a5 radius
+0x64f2b228 scaleXY
+0xb5aa125f fade
+0xdbbaf32d radiusScale
+0x91e07350 thickness
+0x051273c0 controls
+0xdd6bb3d5 blendMode
+0x08c693f0 OG_Mat_Sphere_Add
+0xc184f404 response
+0xe58114db noteHit
+0xa6f5352f offset
+0x67e6859a player
+0xf372e60b OG_Mat_Flare_Add
+0x7bc74623 spectrumBand
+0xd1cd1630 cosTime
+0x843a8655 JOW_Jam_4P_RainbowRoad
+0x99a9b716 color
+0xed91979d responseFunc
+0xd98047ec frequency
+0x8d2c287f innerRadius
+0x7321a8d6 type
+0x7f261953 pos
+0xff46c97e deform
+0x34952a27 constant
+0x83418a6a material
+0x13b9da7b scale
+0x2b489a86 circle
+0x73e5bad0 width
+0x0ab21af0 height
+0xff7ebaf6 angle
+0x2eeb4b09 line
+0x797b2b45 scaleMod
+0xc42fab67 angularVel
+0xeeeccbfc waveform
+0xf6437c2b blendPrev
+0x6dac4cd9 hypotrochoid
+0x0d53ae6a alphaModulation
+0x54628ed7 blend
+0x68e77f40 brighten
+0xab541faf deformWindowStart
+

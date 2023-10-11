@@ -1,0 +1,49 @@
+[LineNumbers]
+
+[Checksums]
+0x157ed462 scripts\av_presets\og_frequency_rays_response_b.qb
+0x4149710d starpoweramount
+0x44738127 hueModulation
+0xfe82614d length
+0xc48391a5 radius
+0x64f2b228 scaleXY
+0xb5aa125f fade
+0xdbbaf32d radiusScale
+0x91e07350 thickness
+0x26fff395 greenModulation
+0x051273c0 controls
+0xdd6bb3d5 blendMode
+0xc184f404 response
+0xe58114db noteHit
+0xfe6d74eb starpowerstate
+0x0a582520 OG_Frequency_Rays_Response_B
+0xa6f5352f offset
+0x6eaf8576 radius2
+0xdea7e576 subtract
+0x67e6859a player
+0x7bc74623 spectrumBand
+0xba277641 nStar2
+0x99a9b716 color
+0xd98047ec frequency
+0x2f6238b3 nPoints
+0x7321a8d6 type
+0x7f261953 pos
+0xff46c97e deform
+0x13b9da7b scale
+0x2b489a86 circle
+0x2eeb4b09 line
+0x797b2b45 scaleMod
+0x930d6b4c multiplierstatus
+0xc42fab67 angularVel
+0x095dab9d notestreak
+0x02e58c18 add
+0xf6437c2b blendPrev
+0xd0e5ece3 historyType
+0x6113ddda lengthscale
+0x0d53ae6a alphaModulation
+0xc37c5ef6 whammybarposition
+0x68e77f40 brighten
+0x37b69f70 blueModulation
+0xd8458fb4 History
+0x9eb9ffdc rockmeterstatus
+

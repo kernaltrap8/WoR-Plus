@@ -1,0 +1,41 @@
+[LineNumbers]
+ui_create_jam_ghtunes 3 (0,10) (36,12) (54,14) 
+ui_destroy_jam_ghtunes 3 (0,24) (36,26) (42,27) 
+ui_deinit_jam_ghtunes 12 (0,39) (36,40) (42,41) (76,43) (112,47) (148,48) (150,49) (188,53) (224,54) (226,55) (272,58) (278,61) 
+ui_return_jam_ghtunes 7 (0,70) (37,72) (72,74) (108,75) (114,78) (120,79) (122,80) 
+
+[Checksums]
+0xaf3a44c9 scripts\guitar\menu\states\layouts\musicstudio\ui_jam_ghtunes.qb
+0x4706f012 white220
+0xcd0dc02d KillSpawnedScript
+0x36d13093 musicsudio_text_entry_helper_text_linear_flow
+0x9a2e9095 set_focus_color
+0x7031f10c params
+0x225dd151 ghtunes_terms_dialog_box
+0x287d118e jamsession_unload
+0xbfa801df change
+0xa1dc81f9 name
+0x02ee432a song_preview_update_playbar
+0x27aee33f grey64
+0xc5bc93ee ScreenElementExists
+0x23b0d454 ui_deinit_jam_ghtunes
+0x40de9572 set_unfocus_color
+0x0223a64e rich_presence_context
+0xd146b6c2 ui_return_jam_ghtunes
+0x99a9b716 color
+0xbe2e183b ui_create_jam_ghtunes
+0x40c698af id
+0x6a3568fb song_prefix
+0x5e396915 song_preview_element
+0x1e841918 stop_custom_song
+0x3c15e9b6 DestroyScreenElement
+0xf9d6fa62 ui_destroy_jam_ghtunes
+0x19fa5af7 SpawnScriptNow
+0x720b0bb8 old_base_name
+0xeb970bf2 ClearCustomSong
+0x9ba17ce1 presence_ghtracks
+0xae434d41 destroy_jam_ghtunes_menu
+0x2472dda6 create_jam_ghtunes_menu
+0x74f3dddb jam_ghtunes_last_search_text
+0x02141f19 clean_up_user_control_helpers
+

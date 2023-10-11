@@ -1,0 +1,272 @@
+[LineNumbers]
+cas_set_random_appearance 41 (60,64) (136,66) (200,68) (220,70) (256,72) (274,73) (278,74) (320,75) (322,76) (360,78) (396,79) (400,80) (436,81) (438,82) (456,85) (482,86) (486,87) (512,88) (514,89) (520,91) (526,94) (532,97) (615,98) (621,99) (636,107) (654,109) (667,110) (671,111) (684,112) (686,113) (728,116) (746,118) (752,157) (819,163) (856,165) (886,167) (888,169) (922,172) (968,173) (1004,174) (1048,176) 
+cas_random_pick_random_car_setup 44 (60,189) (78,191) (101,192) (103,193) (126,195) (138,197) (140,198) (161,200) (200,202) (224,203) (246,205) (287,207) (320,209) (333,211) (359,212) (372,213) (408,214) (441,215) (454,216) (456,217) (458,218) (460,219) (478,221) (508,223) (576,224) (580,225) (594,226) (633,229) (655,230) (673,231) (716,232) (718,233) (722,234) (788,235) (790,236) (794,237) (796,238) (798,239) (800,240) (804,242) (872,244) (874,246) (876,248) (890,250) 
+cas_random_set_hair_from_car_setup 5 (28,261) (64,263) (87,265) (130,268) (160,271) 
+cas_set_random_presets 19 (60,284) (87,286) (138,288) (145,290) (158,291) (171,292) (184,293) (186,294) (204,297) (240,298) (274,300) (301,302) (322,304) (352,305) (354,306) (356,308) (358,310) (360,311) (362,313) 
+cas_get_preset_index 12 (60,326) (84,328) (96,329) (109,330) (111,331) (146,332) (165,333) (167,334) (189,336) (197,337) (273,339) (304,340) 
+cas_set_random_avatar_instrument 7 (0,349) (20,351) (26,353) (32,356) (62,358) (108,360) (152,361) 
+cas_grab_random_unlocks 7 (0,370) (31,372) (56,373) (74,374) (78,375) (124,376) (126,377) 
+cas_generate_all_random_instruments 5 (0,386) (44,388) (88,389) (132,390) (176,391) 
+cas_set_random_appearance_part 13 (0,400) (21,402) (39,405) (55,406) (67,408) (100,410) (121,412) (151,413) (188,415) (201,416) (203,417) (252,419) (254,421) 
+cas_random_should_include_part 19 (0,430) (18,444) (36,445) (66,447) (102,449) (132,450) (134,451) (136,453) (138,454) (156,468) (183,469) (202,470) (244,471) (276,472) (278,473) (280,474) (282,475) (284,476) (316,479) 
+cas_set_random_color_part 21 (0,488) (21,490) (39,492) (41,493) (43,494) (61,496) (82,498) (103,500) (115,502) (127,504) (129,505) (174,507) (234,508) (252,511) (281,512) (283,513) (285,514) (306,516) (314,517) (316,519) (318,521) 
+set_facial_hair_color 9 (0,530) (21,532) (33,534) (45,536) (47,537) (107,539) (128,541) (136,542) (138,544) 
+cas_can_pick_random_color 20 (0,554) (36,556) (66,558) (104,560) (125,561) (164,562) (200,564) (212,565) (214,566) (265,568) (301,569) (338,570) (340,571) (372,572) (374,573) (395,575) (403,576) (405,578) (407,580) (436,582) 
+cas_pick_random_color 10 (0,592) (10,594) (43,596) (69,598) (121,599) (148,600) (150,601) (152,603) (154,605) (184,607) 
+cas_random_handle_exclusions 1 (0,616) 
+cas_random_handle_exclusions_scanner 1 (0,641) 
+cas_random_find_exclusion 1 (0,680) 
+cas_do_randomize_presets 1 (0,705) 
+cas_merge_in_cap 18 (0,744) (9,747) (35,748) (56,749) (58,750) (70,753) (82,754) (100,755) (102,756) (142,758) (163,760) (171,761) (173,762) (185,765) (203,766) (236,767) (238,768) (266,770) 
+cas_merge_in_cap_foreach 18 (0,779) (26,781) (47,783) (59,786) (71,787) (89,788) (91,789) (127,791) (162,793) (164,797) (166,799) (168,801) (189,803) (197,804) (199,805) (229,807) (243,808) (245,810) 
+check_dupe_appearance 24 (0,819) (72,821) (84,823) (102,824) (114,826) (116,827) (139,828) (157,829) (185,834) (216,835) (218,836) (246,838) (276,840) (308,841) (310,842) (340,844) (359,846) (388,847) (390,848) (411,850) (419,851) (421,853) (500,856) (532,857) 
+cas_merge_in_random_entry 41 (0,866) (36,868) (54,869) (67,870) (71,871) (84,872) (86,873) (90,874) (103,875) (105,876) (117,878) (119,879) (152,881) (204,883) (256,884) (292,886) (326,887) (338,888) (340,889) (344,890) (356,891) (358,892) (376,895) (388,896) (390,897) (428,899) (456,901) (492,904) (519,906) (540,908) (570,909) (572,910) (574,912) (576,914) (578,916) (582,918) (628,920) (630,922) (632,924) (653,926) (655,928) 
+cas_generate_new_random_instrument 25 (0,1026) (20,1028) (26,1030) (32,1033) (96,1095) (104,1097) (114,1099) (133,1100) (146,1102) (165,1103) (178,1105) (192,1106) (205,1108) (224,1109) (226,1111) (246,1113) (253,1115) (269,1116) (282,1117) (294,1118) (307,1119) (320,1120) (322,1121) (368,1123) (412,1124) 
+remove_locked_cas_textures 20 (0,1133) (12,1135) (30,1136) (42,1138) (44,1139) (80,1141) (132,1142) (144,1143) (146,1144) (148,1145) (184,1147) (214,1148) (248,1149) (324,1150) (328,1151) (349,1152) (351,1153) (359,1155) (361,1157) (375,1159) 
+random_instrument_piece 105 (0,1168) (55,1170) (89,1172) (126,1173) (128,1174) (161,1177) (173,1179) (239,1181) (251,1182) (269,1183) (281,1184) (283,1185) (312,1187) (347,1190) (368,1192) (386,1193) (492,1194) (494,1195) (559,1197) (588,1199) (606,1200) (627,1202) (671,1204) (700,1206) (723,1208) (779,1209) (816,1212) (896,1213) (898,1214) (935,1215) (1016,1216) (1018,1217) (1039,1220) (1068,1221) (1080,1224) (1116,1225) (1135,1226) (1147,1228) (1167,1229) (1234,1230) (1236,1231) (1238,1232) (1240,1233) (1266,1235) (1300,1236) (1304,1237) (1310,1238) (1312,1239) (1330,1241) (1338,1243) (1351,1244) (1364,1245) (1377,1246) (1379,1247) (1397,1249) (1405,1251) (1407,1252) (1420,1253) (1433,1254) (1439,1255) (1447,1256) (1449,1257) (1456,1258) (1458,1259) (1460,1260) (1467,1261) (1469,1262) (1471,1263) (1473,1264) (1475,1265) (1479,1267) (1487,1269) (1489,1270) (1502,1271) (1515,1272) (1521,1273) (1529,1274) (1531,1275) (1538,1276) (1540,1277) (1542,1278) (1544,1279) (1546,1280) (1584,1283) (1606,1284) (1610,1285) (1623,1286) (1625,1287) (1627,1289) (1640,1292) (1653,1293) (1666,1294) (1668,1296) (1670,1298) (1691,1300) (1699,1301) (1701,1302) (1703,1304) (1740,1306) (1752,1307) (1782,1308) (1786,1309) (1804,1310) (1806,1311) (1844,1313) 
+random_instrument_piece_do_inclusions 29 (0,1322) (36,1324) (54,1326) (84,1327) (120,1329) (189,1331) (201,1334) (219,1335) (231,1336) (233,1337) (266,1339) (308,1341) (337,1343) (367,1344) (388,1346) (435,1348) (484,1349) (516,1350) (518,1351) (520,1352) (541,1353) (549,1354) (551,1355) (607,1358) (644,1359) (676,1360) (678,1362) (680,1363) (712,1365) 
+random_instrument_pick_from_array 7 (0,1375) (12,1377) (30,1378) (60,1379) (62,1380) (74,1382) (93,1383) 
+random_cas_piece_unlocked 9 (0,1392) (30,1394) (68,1396) (98,1398) (134,1400) (164,1401) (166,1402) (168,1404) (200,1406) 
+trim_inclusion_array 14 (0,1415) (9,1418) (21,1419) (39,1420) (51,1421) (53,1422) (76,1423) (109,1425) (139,1426) (141,1427) (162,1429) (170,1430) (172,1431) (186,1433) 
+cas_pick_random_colorwheel 6 (28,1442) (40,1444) (92,1445) (115,1447) (127,1448) (141,1450) 
+
+[Checksums]
+0xda515ac3 scripts\game\cas\cas_randomizer.qb
+0xb990d003 target
+0x8e411006 b
+0x0a23400c ClearPart
+0x6c55902e weighted_array
+0xe6b5a058 cas_randomized_parts_mixed_genre
+0xa8aa707b cas_set_random_appearance_part
+0x687da089 inc
+0x9e2f508b wheel
+0x6d4a908d cas_random_male_vocals
+0xf9462090 c
+0xb5d7c0b3 GetCASAppearancePartDescID
+0xa6e0a0cc CAS_Drums
+0x5dcdc0e0 set_facial_hair_color
+0xe4f130f4 s
+0x301dd0f9 GetGlobalTags
+0xda63d104 finishes
+0xa078e107 get_is_female_from_appearance
+0x7031f10c params
+0x5363d10d wheel_entry
+0x018fb10e pre_layer
+0xc42ce128 ArrayContains
+0x0281513f globalarray
+0x5ef31148 array
+0x7df8614e p
+0x2c482152 new_entry
+0x7fab7169 cpu_random_character
+0x3742c16f cas_band_used_parts
+0xa7290172 SetCASAppearanceCAP
+0xcf66717b GotParam
+0xee2ee195 Randomize
+0x222f01a5 random_instrument_piece
+0x60d2a1b3 cas_grab_random_unlocks
+0x174841bc a
+0xbebfa1c6 element
+0xbfa801df change
+0xc27041df check_dupe_appearance
+0x367691e0 chosen_outfit
+0x98dbe1ed GetRandomArrayElement
+0x66c011f6 cas_can_pick_random_color
+0xa1dc81f9 name
+0x743df1ff valid_part
+0x4bfcd202 AddArrayElement
+0xa3d8a206 cas_random_handle_exclusions_scanner
+0x6abe4226 no_dupes
+0xd524e274 CAR_Presets_Tattoo
+0x69c3227a ChooseRandomPresetByGenre
+0xf335b287 DoNotResolve
+0x7d99f28d texture
+0x8556d290 chosen_setup
+0xb4cdc2cf cas_random_female_vocals
+0xef3832d6 inclusion_array
+0x381d72eb new_base_tex
+0xb59352f1 EditCASAppearance
+0xf6ab82f2 cas_current_savegame
+0xa4990308 cas_handle_disqualifications
+0xae75f31e new_cap_entry
+0xe28eb321 random_cas_piece_unlocked
+0x10680324 merge_in
+0xaf12f32a MangleChecksums
+0x5a653341 CAS_Facial_Hair
+0xa8ee7357 ScriptAssert
+0x5c430371 pattern
+0x0203b372 true
+0xa437a38c cas_set_random_color_part
+0xc36b13ab preset_index
+0x10c6f3db structure_name
+0x4e2253e8 existing_cap
+0x243423fd random_instruments
+0xcee4344b pre_userlayer
+0x8dd9f475 details
+0xfe2be489 g
+0xb6955494 last_entry
+0x39b5c4b0 GetArraySize
+0x8c6fc4bf SetCASAppearanceMaterial
+0xba28b4c6 cas_apply_preset
+0xdeef04cd StructureContains
+0xcb9fb4cf bass
+0xa5f054f4 Integer
+0x37a294fc random_instrument_pick_from_array
+0x5675d50e cas_random_basses
+0xc9fba51b female_array
+0xd6e98523 cas_do_randomize_presets
+0x6722b533 d
+0x4c29c545 RequireParams
+0xa3dd254e make_unique
+0xdbcd056b cas_generate_new_random_instrument
+0x329e0573 CAR_Presets_Face
+0x6af2c57a rand_colors
+0x71059581 contains
+0xb9eda58b SetCASAppearancePartInstance
+0xb58b7593 female
+0xec2275a6 CAR_Presets_Body
+0x16c785b6 CAP_array
+0x381ef5bc unlocked_cas_outfit_presets
+0x38b8f5bd gender
+0x11c6c5e4 remove_locked_cas_textures
+0x752c45f8 cas_randomized_parts
+0xe8f295ff num_found
+0x2de8c60e printf
+0x407bc624 GetCASPartMaterials
+0xfba40626 mangled_id
+0x46f9a629 printscriptinfo
+0x2d31062e car_random_car_setups
+0x95aca64d cas_random_should_include_part
+0xa6f6a663 default_custom_musician_profile_female
+0x9ceaf671 cap_entry
+0x84cb5678 no_rebuild
+0x46a2869c targetParams
+0x2fe5d6ab cas_random_drums
+0xcd8046ab part_array
+0xfd5436b5 force_random
+0xc6f616c1 possible_setup
+0xa1d7f6d7 CAS_Bass_Body
+0x824b36e5 trim_inclusion_array
+0x99a9b716 color
+0x7877a716 cas_random_handle_exclusions
+0xc5e69719 CAS_Guitar_Head
+0x9add372d cas_dupe_appearance
+0xa4c5d762 part_materials
+0xd449e766 random_instrument_piece_do_inclusions
+0xf229e767 preset_type
+0x152d376e locked
+0xd42e276f ChooseRandomCASPart
+0x16f29792 CAS_Mic
+0xa7b1f7a6 cas_generate_all_random_instruments
+0xe3b537b7 gender_checksum
+0xe288a7cb value
+0xd43297cf false
+0x896d67cf existing_part
+0xa6ef8803 app_desc_id
+0x77f49808 frontend_desc
+0x90fec815 Structure
+0xeac8381a CAR_Presets_Outfit
+0x580f182f CAS_Mic_Stand
+0xac4f6832 cas_merge_in_cap
+0xa2df7834 ResolveBodySpecificPartInAppearance
+0x83700842 cas_merge_in_random_entry
+0x7cfde844 part_struct
+0x4238a846 cas_pick_random_color
+0x9b0c084b any
+0xe5c2f84c is_female
+0x4bb2084e desc_id
+0x66cc784e cap
+0x1465e851 check_cas_texture_unlocked_flag
+0xbf7ea881 PickFromWeightedArray
+0xd946c887 CAR_Presets_Makeup
+0xb748f890 male_array
+0xbf10d8a4 force_random_colors
+0x0b1f68c6 cas_random_find_exclusion
+0x7321a8d6 type
+0x7f8c98fe index
+0xd78fe950 random_part
+0x4d083979 cas_random_guitars
+0x1993c98e i
+0x515e298e diffuse
+0x2daf499c random_colors
+0x76aa099d avoid_dupe_parts
+0x1b0509c5 savegame
+0x58aa79cb GetCAPSectionsArray
+0x633e59ef CAS_Hair
+0x73f8ca00 valid
+0x940f0a04 cas_random_set_hair_from_car_setup
+0x01476a17 chosen_array
+0xe2149a1d preset_array
+0x5ed06a21 preset_struct
+0xb9bd6a37 CAS_Guitar_Body
+0xe7a1ca3a cas_disq_resolve_hat_hair
+0xbf216a5d cas_current_appearance
+0x02a44a5f random_preset_list
+0x83418a6a material
+0x3a5c6a9e cas_set_random_appearance
+0xb2131aa5 cas_randomized_instruments
+0x70730aad used_parts
+0x4564bab1 is_locked
+0x5b335ab6 CAS_Hat
+0xe9ebfb12 cas_propogate_hair_color
+0x8a72eb2e cas_randomized_presets
+0x0715bb59 last_base_tex
+0x2a9dcb5e part_instance
+0x02d17b7c CAS_Legs
+0x3fc90b80 localarray
+0xe0df5b8d default_custom_musician_profile_male
+0x90f15ba0 new_desc_id
+0x7feeabc5 no_color
+0x31636bf6 chosen_mask
+0xdd8c0bf9 CAS_Bass_Head
+0x7cafcc07 genre
+0x37f1ac0e RemoveArrayElement
+0x94264c27 cas_add_item_to_appearance
+0xaeee5c2b inclusion
+0x5ca2fc58 cap_merge
+0xd469bc67 sections
+0x6e842c81 cas_set_random_presets
+0x80903ccf mask
+0x552d9cd5 guitar_colorwheel
+0x5cc16cdf drum
+0x03daecee GetActualCASOptionStruct
+0xbdc53cf2 guitar
+0x0c5bdcf4 globaltag_unlocks
+0x7056ed02 RemoveParameter
+0x83339d0b SetPart
+0x62ec7d11 cas_merge_in_cap_foreach
+0xa17ccd19 CAS_Torso
+0x133fdd45 RemoveComponent
+0x7f5b3d4d array_size
+0x70cc2d5c unlocked_cas_items
+0x554c7d6f appearance
+0x10a95dc5 cas_pick_random_colorwheel
+0xb6baadc7 cas_set_random_avatar_instrument
+0xe8e6adcb vocals
+0xe3274dce cas_random_pick_random_car_setup
+0x76984dce avoid_dupe_appearance
+0x2a4efdfd CAS_Male_Facial_Hair
+0x7d285e0c CAS_Male_Hair
+0xc4e78e22 all
+0xc34e6e31 random_preset
+0xf4fabe45 flags
+0x4b833e64 random_index
+0xa0e6ee7a cpu_band
+0xbe304e86 printstruct
+0x940cde9c ChecksumEquals
+0xa820aeae cas_current_unlock_list
+0xc9bafeba ForEachIn
+0x7f74fec7 base_tex
+0x4c8ebed3 rand_seed
+0x4ceb3f0c cas_get_preset_index
+0x2de4df2c iLoop
+0x806fff30 None
+0xb6f08f39 part
+0xe8dcdf42 random_weight
+0xaa721f56 male
+0x62ba3f6a do
+0xe4988f71 set_cap_flags
+0xdb74ff74 part_name
+0xb96e8fbd GetRandomValue
+0xfee23fd3 stars
+0xfb20cff4 last_material
+

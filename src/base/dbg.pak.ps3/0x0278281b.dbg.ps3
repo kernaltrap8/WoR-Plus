@@ -1,0 +1,73 @@
+[LineNumbers]
+band_builder_get_used_parts_in_appearance 21 (36,20) (108,22) (144,24) (156,25) (158,26) (191,28) (218,30) (246,32) (255,35) (282,36) (304,37) (306,38) (340,41) (370,42) (372,43) (414,46) (427,47) (429,49) (450,51) (458,52) (472,54) 
+cas_get_random_character 75 (0,63) (76,65) (106,67) (144,69) (162,70) (180,72) (184,73) (193,74) (195,75) (197,76) (226,79) (239,80) (251,83) (269,84) (282,85) (294,86) (296,87) (339,88) (351,89) (363,90) (365,91) (404,92) (434,93) (447,94) (449,95) (451,96) (472,97) (480,98) (482,99) (503,100) (511,101) (513,102) (522,105) (534,107) (547,109) (549,110) (595,112) (635,114) (637,116) (659,118) (667,119) (681,121) (683,123) (701,125) (714,130) (716,132) (718,135) (730,136) (749,138) (751,139) (753,140) (806,142) (829,144) (859,145) (872,146) (902,148) (929,150) (974,151) (1012,152) (1038,153) (1056,154) (1075,155) (1077,156) (1116,157) (1142,158) (1160,159) (1179,160) (1181,161) (1185,162) (1204,163) (1206,164) (1208,165) (1210,166) (1212,167) (1233,169) 
+cas_get_random_car_character 6 (0,178) (64,180) (109,182) (128,183) (130,184) (160,186) 
+cas_get_random_preset_character 4 (0,195) (72,197) (125,199) (139,201) 
+cas_get_random_ghrocker 4 (0,210) (64,212) (106,215) (120,217) 
+
+[Checksums]
+0x220ef7b0 scripts\guitar\guitar_band_builder_random.qb
+0x8e411006 b
+0xe833004a DemoBuild
+0xbec5106b UpdateStructElement
+0x179dd0bb CharacterProfileGetList
+0xa078e107 get_is_female_from_appearance
+0xc42ce128 ArrayContains
+0x5ef31148 array
+0x4bd4d154 CharacterProfileGetStruct
+0xcf66717b GotParam
+0xeec9418a character_id
+0x174841bc a
+0xbebfa1c6 element
+0xa1dc81f9 name
+0xd138d1ff cas_get_random_car_character
+0x4bfcd202 AddArrayElement
+0xf17bf2a0 band_builder_get_used_parts_in_appearance
+0x6a38e2eb cars
+0x0203b372 true
+0x8e77440a cas_get_random_preset_character
+0x39b5c4b0 GetArraySize
+0xdeef04cd StructureContains
+0xa5f054f4 Integer
+0x4c29c545 RequireParams
+0x71059581 contains
+0xb58b7593 female
+0x152d376e locked
+0xe1c6b788 get_band_members_as_array
+0x37c38790 newstruct
+0x910a87c5 presetcars
+0xe288a7cb value
+0xd43297cf false
+0x90fec815 structure
+0x809a9834 j
+0xe5c2f84c is_female
+0x4bb2084e desc_id
+0x0dff8873 profile_list
+0x456d28d1 struct
+0xd159a8dd band_members_size
+0x7f8c98fe index
+0x1993c98e i
+0xc50cb997 categories
+0x1b0509c5 savegame
+0x70730aad used_parts
+0x839b2ad5 master_editable_list
+0x37f1ac0e RemoveArrayElement
+0xfe6aac36 cas_get_random_ghrocker
+0xff737cb6 g_demo_cas_profiles
+0xbdc53cf2 guitar
+0x836aed4c FailSafe_CAR_Profile
+0x7f5b3d4d array_size
+0xc7437d68 display_character_logic
+0x554c7d6f appearance
+0xe9888dd0 avatar
+0xc4e78e22 all
+0x262dbe99 band_members_array
+0x9d5b4e99 no_random_pick
+0x08038f19 ghrockers
+0xb6f08f39 part
+0xaa721f56 male
+0x62ce1f61 cas_get_random_character
+0xdb74ff74 part_name
+0x2d474fb6 profile_struct
+0xb96e8fbd GetRandomValue
+

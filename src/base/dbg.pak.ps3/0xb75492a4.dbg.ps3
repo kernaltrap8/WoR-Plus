@@ -1,0 +1,206 @@
+[LineNumbers]
+CreateMultiParticleSystems_Editor 36 (0,10) (40,12) (76,13) (78,14) (80,15) (116,17) (139,18) (151,22) (163,23) (165,25) (195,27) (231,29) (261,31) (291,32) (295,34) (309,36) (311,38) (332,40) (345,41) (358,42) (360,43) (381,45) (389,46) (406,48) (418,49) (420,51) (450,52) (480,53) (510,54) (546,56) (593,57) (597,58) (627,59) (629,60) (650,62) (658,63) 
+CreateParticleSystem_Editor 33 (0,68) (40,70) (76,71) (78,72) (116,74) (152,75) (154,76) (156,77) (192,79) (222,80) (226,81) (240,82) (242,83) (263,85) (276,86) (328,87) (330,88) (348,90) (366,92) (404,93) (483,95) (533,96) (537,97) (580,98) (630,99) (632,100) (636,101) (672,102) (754,103) (758,104) (804,105) (806,106) (808,107) 
+CreateParticleSystem_WithScript 58 (0,112) (36,114) (48,115) (52,116) (64,117) (66,118) (104,120) (140,121) (142,122) (180,126) (216,127) (218,128) (220,129) (260,131) (293,132) (316,133) (318,134) (320,135) (322,136) (360,138) (373,139) (403,140) (407,141) (421,142) (423,143) (444,145) (480,146) (482,147) (484,148) (502,151) (540,153) (558,155) (565,156) (569,157) (576,158) (578,159) (582,160) (600,162) (609,163) (616,164) (628,165) (641,166) (674,167) (676,168) (678,169) (757,171) (819,172) (823,173) (832,174) (839,175) (851,176) (864,177) (897,178) (899,179) (901,180) (1005,182) (1007,183) (1009,184) 
+CreateFlexibleParticleSystem 33 (28,193) (64,195) (76,196) (80,197) (92,198) (94,199) (132,201) (168,202) (170,203) (208,205) (244,206) (246,207) (284,209) (317,210) (340,211) (342,212) (344,213) (346,214) (384,216) (390,217) (392,218) (422,220) (444,222) (453,223) (460,224) (472,225) (478,226) (491,227) (524,228) (526,229) (528,230) (632,231) (634,232) 
+CreateMultiFlexibleParticleSystem_Editor 19 (0,236) (40,238) (76,239) (78,240) (80,241) (116,243) (139,244) (151,245) (153,247) (183,248) (213,249) (243,250) (279,252) (326,253) (330,254) (360,255) (362,256) (383,258) (391,259) 
+CreateFlexibleParticleSystem_Editor 3 (0,263) (36,264) (54,265) 
+CreateFlexibleParticleSystem_Editor_Spawned 40 (28,268) (64,270) (76,271) (80,272) (92,273) (94,274) (132,276) (168,277) (170,278) (208,280) (244,281) (246,282) (284,284) (286,286) (324,288) (338,289) (340,290) (376,292) (389,293) (391,294) (428,296) (458,297) (462,298) (476,299) (478,300) (495,302) (508,303) (560,304) (562,305) (579,307) (592,308) (644,309) (646,310) (662,313) (678,314) (770,315) (774,316) (830,317) (832,318) (834,319) 
+GetFlexibleParticleSystem 11 (0,326) (40,328) (76,329) (78,330) (116,332) (122,333) (124,334) (154,335) (175,337) (189,338) (191,339) 
+DestroyFlexibleParticleSystem 14 (0,346) (40,348) (76,349) (78,350) (116,352) (122,353) (124,354) (154,355) (175,357) (184,358) (202,359) (204,360) (217,361) (219,362) 
+DestroyFlexibleParticleSystem_Editor 17 (0,367) (40,369) (76,370) (78,371) (116,373) (122,374) (124,375) (154,376) (175,378) (188,379) (190,380) (211,382) (220,383) (238,384) (240,385) (253,386) (255,387) 
+alloc_flexible_particle 31 (28,399) (44,401) (80,402) (82,403) (84,404) (120,406) (138,407) (150,408) (162,409) (166,410) (178,411) (190,412) (192,413) (196,414) (208,415) (220,416) (222,417) (271,423) (284,424) (291,425) (297,426) (310,427) (323,428) (336,429) (349,430) (362,431) (375,432) (388,433) (400,434) (413,435) (415,436) 
+CreateGlobalFlexParticleSystem 51 (28,451) (44,453) (80,454) (82,455) (84,456) (120,458) (132,459) (144,460) (148,461) (160,462) (172,463) (174,464) (212,466) (248,467) (250,468) (288,469) (324,470) (326,471) (364,473) (397,474) (420,475) (422,476) (424,477) (426,478) (448,484) (457,485) (464,486) (476,487) (482,488) (495,489) (516,490) (518,491) (520,492) (572,494) (621,495) (634,496) (641,497) (654,498) (667,499) (679,500) (681,501) (685,502) (734,503) (747,504) (754,505) (767,506) (780,507) (792,508) (794,509) (796,510) (798,512) 
+DestroyGlobalFlexParticleSystem 10 (0,518) (40,519) (76,520) (78,521) (99,523) (108,524) (126,525) (128,526) (141,527) (143,528) 
+CreateFastParticleSystem 2 (28,537) (41,538) 
+CreateSplineParticleSystem 47 (28,547) (64,549) (76,550) (80,551) (92,552) (94,553) (132,555) (168,556) (170,557) (208,559) (244,560) (246,561) (284,563) (317,564) (340,565) (342,566) (344,567) (346,568) (384,570) (398,571) (400,572) (436,574) (449,575) (451,576) (488,578) (518,579) (522,580) (536,581) (538,582) (554,584) (563,585) (570,586) (582,587) (588,588) (601,589) (634,590) (636,591) (638,592) (717,596) (779,597) (781,599) (837,601) (862,602) (864,603) (879,605) (893,606) (895,607) 
+CreateSplineParticleSystem_Editor 3 (0,610) (36,611) (54,612) 
+CreateSplineParticleSystem_Editor_Spawned 37 (28,615) (64,616) (76,617) (80,618) (92,619) (94,620) (132,622) (168,623) (170,624) (208,626) (244,627) (246,628) (284,630) (298,631) (300,632) (336,634) (349,635) (351,636) (388,638) (418,639) (422,640) (436,641) (438,642) (455,645) (468,646) (520,647) (522,648) (539,650) (552,651) (604,652) (606,653) (623,655) (656,659) (660,666) (739,668) (801,669) (803,670) 
+CreateGlobalFastParticleSystem 58 (28,685) (44,687) (80,688) (82,689) (84,690) (120,692) (132,693) (144,694) (148,695) (160,696) (172,697) (174,698) (212,700) (248,701) (250,702) (288,704) (324,705) (326,706) (364,708) (397,709) (420,710) (422,711) (424,712) (426,713) (442,719) (451,720) (458,721) (470,722) (476,723) (489,724) (510,725) (512,726) (514,727) (568,729) (616,730) (629,731) (642,732) (655,733) (662,734) (675,735) (687,736) (689,737) (693,738) (742,739) (755,740) (768,741) (781,742) (788,743) (801,744) (813,745) (815,746) (817,747) (819,748) (834,750) (872,756) (903,757) (905,758) (907,765) 
+DestroyGlobalFastParticleSystem 10 (0,770) (40,771) (76,772) (78,773) (99,775) (108,776) (126,777) (128,778) (141,779) (143,780) 
+DestroyFastParticleSystem 18 (0,787) (40,788) (76,789) (78,790) (116,792) (129,793) (131,794) (168,796) (198,797) (202,798) (216,799) (218,800) (239,802) (248,803) (266,804) (268,805) (281,808) (283,809) 
+DestroyParticleSystem_Editor 3 (0,812) (36,813) (54,814) 
+DestroyParticleSystem_Editor_Spawn 18 (0,818) (40,819) (76,820) (78,821) (116,823) (129,824) (131,825) (168,827) (198,828) (202,829) (216,830) (218,831) (239,833) (252,834) (254,835) (275,838) (288,839) (290,840) 
+DestroySplineParticleSystem_Editor 24 (0,844) (40,845) (76,846) (78,847) (116,849) (129,850) (131,851) (168,853) (198,854) (202,855) (216,856) (218,857) (239,859) (248,860) (266,861) (268,862) (281,863) (283,864) (304,867) (313,868) (331,869) (333,870) (346,871) (348,872) 
+EmitFastParticles 14 (0,880) (36,881) (53,882) (57,883) (74,884) (76,885) (112,887) (114,889) (124,890) (126,891) (128,892) (180,893) (182,894) (188,896) 
+alloc_spline_particle 67 (28,909) (44,911) (80,912) (82,913) (84,914) (120,916) (138,917) (150,918) (162,919) (166,920) (178,921) (190,922) (192,923) (196,924) (208,925) (220,926) (222,927) (244,933) (280,934) (329,936) (342,937) (349,938) (362,939) (375,940) (381,941) (394,942) (407,943) (420,944) (433,945) (439,946) (452,947) (464,948) (466,949) (470,950) (501,952) (509,953) (511,954) (523,955) (536,956) (549,957) (562,958) (569,959) (571,960) (573,961) (581,962) (594,963) (607,964) (620,965) (632,966) (634,967) (636,968) (688,970) (744,971) (756,972) (792,973) (794,974) (815,975) (849,976) (851,977) (853,978) (855,980) (857,981) (878,983) (916,991) (947,993) (949,994) (951,995) 
+alloc_fast_particle 82 (28,1001) (68,1003) (101,1004) (124,1005) (126,1006) (128,1007) (130,1008) (168,1010) (186,1011) (198,1012) (210,1013) (214,1014) (226,1015) (238,1016) (240,1017) (244,1018) (256,1019) (268,1020) (270,1021) (292,1027) (328,1028) (359,1030) (367,1031) (369,1032) (381,1033) (394,1034) (401,1035) (407,1036) (409,1037) (411,1038) (423,1039) (436,1040) (449,1041) (462,1042) (475,1043) (482,1044) (503,1045) (516,1046) (518,1047) (520,1048) (528,1049) (541,1050) (554,1051) (560,1052) (573,1053) (585,1054) (587,1055) (589,1056) (593,1057) (624,1059) (632,1060) (634,1061) (646,1062) (659,1063) (672,1064) (685,1065) (692,1066) (694,1067) (696,1068) (704,1069) (717,1070) (730,1071) (743,1072) (755,1073) (757,1074) (759,1075) (812,1077) (868,1078) (880,1079) (916,1080) (918,1081) (939,1082) (973,1083) (975,1084) (977,1085) (979,1087) (981,1088) (1002,1090) (1040,1098) (1071,1100) (1073,1101) (1075,1102) 
+CreateGameObject 6 (0,1105) (9,1106) (16,1107) (20,1108) (27,1109) (29,1110) 
+Hero_ContinuousTerrainParticles_Off 5 (0,1116) (6,1119) (72,1120) (78,1121) (84,1122) 
+Hero_ContinuousTerrainParticles_On 28 (0,1125) (29,1128) (84,1132) (120,1135) (122,1136) (156,1143) (162,1147) (221,1148) (227,1149) (229,1153) (245,1157) (291,1158) (305,1159) (314,1160) (327,1161) (342,1162) (348,1163) (360,1164) (362,1165) (364,1166) (370,1170) (382,1171) (388,1172) (403,1173) (505,1174) (507,1175) (556,1176) (558,1177) 
+Hero_ContinuousTerrainParticles_Switch 6 (0,1180) (15,1183) (39,1184) (63,1185) (65,1186) (83,1190) 
+GetParticleType 41 (36,1194) (48,1195) (63,1197) (75,1198) (107,1199) (135,1200) (151,1201) (161,1202) (173,1203) (186,1204) (198,1205) (200,1206) (204,1207) (232,1208) (258,1209) (270,1210) (272,1211) (274,1212) (276,1213) (278,1214) (280,1215) (295,1217) (307,1218) (339,1219) (367,1220) (383,1221) (393,1222) (405,1223) (418,1224) (430,1225) (432,1226) (436,1227) (464,1228) (490,1229) (502,1230) (504,1231) (506,1232) (508,1233) (510,1234) (512,1235) (526,1237) 
+WaterRippleGenerated 1 (0,1240) 
+
+[Checksums]
+0xde7b790d scripts\fx\particle_scripts.qb
+0x8e411006 b
+0xa9db601e Particle
+0xc6870028 Die
+0xcd0dc02d KillSpawnedScript
+0xcd7f1035 CreateParticleSystem_Editor
+0x4893f05d DestroyParticles
+0xcab94088 bone
+0xf2013090 systemID
+0x0c4c809e vel
+0x126af0c3 TerrainParticleHeight
+0x2013c0c6 rate
+0x7158c0db SuspendibleFastParticleComponents
+0xe4f130f4 s
+0x7031f10c params
+0x330c210d Hero_ContinuousTerrainParticles
+0x437b2131 ObjectExists
+0xfe82614d length
+0xcf66717b gotparam
+0xa7f6519e creation_node
+0x9f1341b5 Hero_ContinuousTerrainParticles_Off
+0x174841bc a
+0xa1dc81f9 name
+0x83efd205 CreateGameObject
+0x28eda20f SuspendibleFlexibleParticleComponents
+0xe4b8221b IsCreated
+0x500eb224 Obj_GetId
+0xb57bb22a TreadActions
+0x88be2262 SetStartPos
+0x0a4fe266 alloc_fast_particle
+0x589b2282 destroy_func
+0xfba39282 wait_seconds
+0x5a235299 systemLifetime
+0xb78f12aa DestroyGlobalFlexParticleSystem
+0xf20ca2c4 RemoveFromCutsceneDestroyList
+0x3053b2c7 CompositeObjectExists
+0x22fcf2e1 WaterRippleGenerated
+0x671382f3 ParticleId
+0x357ad30b alloc_spline_particle
+0x96896315 ApplyEnvBrightness
+0xaf12f32a MangleChecksums
+0x4a07c332 frame
+0x96927338 ParamsArray
+0xd58ea363 NormalizeVector
+0x5b058376 param
+0x2136837e attach
+0xad9fa37f Goto
+0x809d73c5 IsCompositeObjectManagerEnabled
+0xbb36f3cb Attach_Bone
+0x9d5923d8 Priority
+0x87fa53ed groupID
+0xa2b033fd UniqueId
+0x09ddc404 attachNode
+0xc184f404 response
+0xb7b7240d LocalSpace
+0x984d6421 ParticleType
+0xf8650430 CreateCompositeObjectInstance
+0x39b5c4b0 GetArraySize
+0x75d274be terrain_id
+0xee3494c5 object_type
+0xdeef04cd StructureContains
+0x4f2284f4 DestroyParticleSystem_Editor_Spawn
+0x688ab4f5 GetUniqueCompositeObjectId
+0x0c2224f7 CreateSplineParticleSystem_Editor
+0xa2a96532 emit_params
+0x54cf8532 TerrainType
+0x13ae953b FastParticleComponents
+0xc451f558 event
+0xb6f26563 CreateMultiFlexibleParticleSystem_Editor
+0x59ca75ac CreateSplineParticleSystem_Editor_Spawned
+0xeea355b6 SplineParticle
+0x6d62f5bb switch_script
+0x2de8c60e printf
+0xd029f619 seconds
+0xfba40626 mangled_ID
+0x8f06862b CreateFlexibleParticleSystem_Editor
+0xda99b63b FAST
+0x12b4e660 Class
+0xeabb9686 NewTerrainType
+0x90b60695 CreateGlobalFastParticleSystem
+0x1fb1e697 LockableSplineParticleComponents
+0x7688969e DestroySplineParticleSystem_Editor
+0x9e7d469e ParticleObject
+0x019176c5 frames
+0x3b5737a6 GameObj
+0x184197d5 parent_object
+0x97a607fb CreateSplineParticleSystem
+0xa27e9812 Hero_ContinuousTerrainParticles_On
+0x90fec815 structure
+0x562fc848 CreateFlexibleParticleSystem
+0x76bec870 LockableFlexibleParticleComponents
+0xa6d2d890 scr
+0xf79da8a2 k
+0x2eccf8ae script_assert
+0x40c698af id
+0x0218e8cb node_array_name
+0x7321a8d6 type
+0xa0c0f8dc CreateFastParticleSystem
+0x7ce468dd Block
+0x6ed6f8e8 SetEventHandler
+0xde45a90d NoVisibilityTest
+0x9b493919 COM
+0x75bf4923 FlexibleParticleComponents
+0x7f261953 pos
+0x83b57984 Destroy
+0x392649d7 PreferredId
+0xb23759da CreateFlexibleParticleSystem_Editor_Spawned
+0x2299a9f2 IsEmitting
+0x11b70a02 Components
+0x9c2e3a57 destroy_params
+0x68ca5a5b CheckSplineParticleStructure
+0x68c32a5f norm
+0xf7251a64 Obj_SetPosition
+0x8968da7f ClearEventHandlerGroup
+0x56381af6 FlexParticle
+0x19fa5af7 SpawnScriptNow
+0xb9d31b0a position
+0x724b5b19 CreateGlobalFlexParticleSystem
+0x000f8b47 IgnoreLockDie
+0xcc5b1b7d EmitDuration
+0xc5bceb9e FlexibleParticle
+0x0cf3cba1 Force_Particle_Update_Time
+0xe4279ba2 SuspendDistance
+0x4bd2abcc AddToCutsceneDestroyList
+0x35b65bd4 EmitRate
+0x9f471c06 GetParticleType
+0x66131c0f ignore_duplicates
+0x2416bc10 GetTerrainTypeParam
+0x82117c1a Wait
+0x87f75c2d n
+0xc6525c4e SetEmitRate
+0xa8398c67 FLEXIBLE
+0xd4863cac CreateParticleSystem_WithScript
+0x0830ecaf objID
+0xb0f4bcc8 DestroyParticleSystem_Editor
+0xe6fcfccc COIM_Priority_Permanent
+0x31e6ecfb emit_script
+0x42d6dd1e Heap
+0xe90aad2d Obj_GetPosition
+0x388dcd38 Obj_SpawnScriptLater
+0x955ecd45 DestroyFlexibleParticleSystem
+0x56679d47 boxPositions
+0x7f5b3d4d array_size
+0xbbf2dda6 COIM_Priority_Effects
+0xe9000dec EmitFastParticles
+0x47dd9e09 alloc_flexible_particle
+0x2c0c9e7b OnExceptionRun
+0xbe304e86 printstruct
+0x46e55e8f from
+0x9e24be97 DestroyFastParticleSystem
+0x96ce2ea5 params_script
+0xb6015ea8 Component
+0x5c116eca CreateMultiParticleSystems_Editor
+0x1e56fecf DestroyFlexibleParticleSystem_Editor
+0x81ff7ef8 Hero_ContinuousTerrainParticles_Switch
+0xfc37df05 GameFrame
+0xd5928f25 PERM
+0x55724f26 DestroyGlobalFastParticleSystem
+0x0cf50f29 IfEmpty
+0x11fe9f71 Obj_GetVelocity
+0xf2bc1f73 HeroContinuousParticleParams
+0x30ac5f7c Attach_Target
+0x880d9f7c CreateCompositeObject
+0x72bacf7e GetFlexibleParticleSystem
+0xb4e67f7e CheckFlexibleParticleStructure
+0x3faf7f7f wait_frames
+0x835d0f90 GlobalExists
+0x0a938fdb CutsceneDestroyListActive
+0x9084ffdc OldHeap
+0x249a2ff7 attachObjId
+

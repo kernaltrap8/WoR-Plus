@@ -1,0 +1,34 @@
+[LineNumbers]
+
+[Checksums]
+0xc63ef19c scripts\av_presets\tb_cube_wash.qb
+0xcae27061 sprite
+0x833950cc outerRadius
+0xfe82614d length
+0x644a32e0 TB_Cube_Wash
+0x91e07350 thickness
+0x051273c0 controls
+0xc184f404 response
+0x5472542b traceLength
+0x9c7ce5bc TB_Mat_Space_bkgrnd
+0x7bc74623 spectrumBand
+0xd1cd1630 cosTime
+0x99a9b716 color
+0xed91979d responseFunc
+0xd98047ec frequency
+0x8d2c287f innerRadius
+0x7321a8d6 type
+0x7f261953 pos
+0xcf494a07 frequencyOnBeat
+0x8ebb3a3e brightnessModulation
+0x83418a6a material
+0x13b9da7b scale
+0x73e5bad0 width
+0x0ab21af0 height
+0xff7ebaf6 angle
+0x797b2b45 scaleMod
+0xc42fab67 angularVel
+0x6dac4cd9 hypotrochoid
+0xac8ffe9f TB_Mat_Space3_bkgrnd
+0x430f0f40 angularVelMod
+

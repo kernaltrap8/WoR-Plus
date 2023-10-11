@@ -1,0 +1,139 @@
+[LineNumbers]
+
+[Checksums]
+0x29745942 scripts\create_a_rocker\car_presets_face.qb
+0x5fb96000 Johnny2 Band 1
+0xba246010 Pandora2 Band 2
+0xbd2f0014 Female_Face_4
+0x06966020 CAR_Angled
+0x26f12031 Tesla Blue
+0x8c87b03f Casey Band 1
+0xde5b8093 GH4_CAR_Female
+0x442d1100 CAR_Rounded
+0xaa56e106 Casey2 Band
+0x4cc6d124 CAS_Male_Hat
+0xb576a14c LipShapeLower
+0x306aa15f NoseTipLength
+0x0392d16d CAR_Angled_Thin_Brow
+0x0918318a EarProminence
+0x7bcbd199 skin_asian2
+0xc6b031ba Johnny2 Band 2
+0xf612a20c CheekboneDepth
+0x21852216 Female_Axel_2_Face
+0x5053b230 LowerLipThickness
+0x24be0232 EyebrowSize
+0x28a2d237 NoseSize
+0xa4357246 CAR_male_teeth
+0x89e2625e MouthScale
+0x2de0428d FaceFullness
+0x652502d3 MouthAngle
+0x2aa592d4 bones
+0xb72a3331 Black_1guitar
+0x24613344 CAS_Body
+0x57f03357 MouthPosition
+0x91bcc3c2 ChinHeight
+0x939133d1 grey_4
+0xacc4a415 CAS_Male_Eyebrows
+0x28cdb44c CAR_Default_Brow
+0xcd45f49b Female_Face_1
+0xc2a7e4b1 ChinProminence
+0xd80964f1 CAR_Blank_Eyes
+0x4b1de51d NoseWidth
+0x544ca521 Female_Face_2
+0xdb07a52a Nails
+0xc786e53b NoseAngle
+0x8a5d254c EyePosition
+0x6253256f NoseNostrilAngle
+0x329e0573 car_presets_face
+0xb58b7593 female
+0xaee12594 NosePosition
+0x234b95b7 Female_Face_3
+0xd47a05ee Female_Judy_2_Face
+0xd5b305f3 LipShapeUpper
+0x59a9860a blue_4
+0x736ab632 NoseBridge
+0xaffb3653 CAR_Dash
+0x0df5a672 grey_3
+0x2eaeb69c blue_5
+0xe11ab6b8 CAR_Fire_Eyes
+0xd45f56d6 chosen_materials
+0x93ca56dc M_Metl_Fhair_Overgrth
+0x7af296e4 Grey_2
+0xc4a29701 EarTip
+0x1b6f271f NoseLength
+0xe5bc374c EyeAngle
+0x31b1d75e CAR_Blue_Eyes
+0x765a3781 NoseTipAngle
+0x0b0aa78e CAR_Brown_Eyes
+0xfac137a7 NoseTipWidth
+0x097b57c1 EyeScale
+0xfd8697e1 Skin
+0x2d23d7e5 EarSize
+0x77f49808 frontend_desc
+0x19fe3810 ChinWidth
+0x95653836 ChinAngle
+0x4bb2084e desc_id
+0x9d4248a9 CAR_Male_Aged
+0x579118b6 CAR_Vulcan
+0x9c94b8c2 M_Clsc_Fhair_Stache04
+0x1b1848e5 M_Rock_Fhair_Goatee01
+0x5f3f48fd JawProminence
+0xd578f92e UpperLipThickness
+0x27e0f9c5 cas_male_physique
+0x7ed999d2 Female_Echo_Tesla_2_Face
+0xc73be9e1 Male_Face_4
+0xfc3ac9f6 material1
+0x3da1fa1a skin_black1
+0x92795a38 red_5
+0xac3d4a46 Judy2 Band
+0x712dea48 BrowPosition
+0x00b75a50 CAR_Hazel_Eyes
+0x4569da6d carblack_1
+0x5b2a7a98 CAR_Default_Thick_Brow
+0x5256ba9a M_Mtl_Fhair_Axel4
+0xe57e6aae red_4
+0xeb228ac8 Eyebrows
+0xc45adae2 NoseTipHeight
+0x7ad61ae7 M_Rock_Fhair_Stub
+0xd3af9b36 skin_black3
+0xd0e35b38 EyeDistance
+0xb7af6b3d CAS_Female_Eyebrows
+0xdd323b5b EyeCornerShape
+0x9f075bb3 MouthDepth
+0xdc608bd7 carblack_2
+0x595f7c42 Male_Face_3
+0xa0ae8c4e M_Bmtl_FHair_Beard
+0x58d30c60 CAS_Eyes
+0x83fc1c8f NoseNostrilHeight
+0x2e584cd4 Male_Face_2
+0x05c14ce3 GH4_CAR_Male
+0xf7d7ed10 NoseNostrilSize
+0x72ef6d17 EarShape
+0x3c879d1b MalePhysique1
+0xb7e00d64 EyebrowAngle
+0xb7511d6e Male_Face_1
+0x380d8d9d EyeShape
+0x47e34da1 Axel2 Band 1
+0x7ffd6ddf CAS_Male_Age
+0x8ca2fde5 CAR_Green_Eyes
+0xef714dfc skin_latin5
+0x0fa2bdfc Axel Band 1
+0x2a4efdfd CAS_Male_Facial_Hair
+0x3acc3e03 skin_black5
+0xfb02ee08 JawShape
+0x3f903e29 CAS_Male_Teeth
+0xb1801e34 CAR_Female_teeth
+0x376a1e4a skin_white3
+0x4dcb0e95 skin_black4
+0xd24e3e9f BrowDepth
+0xf3428f0c Waddle
+0x36b2ef1a grey_4guitar
+0x806fff30 none
+0x1e08af3b CheekboneProminence
+0x2c8fff42 CAS_Female_Teeth
+0xe8dcdf42 random_weight
+0xaa721f56 male
+0xd9647f66 skin_white1
+0xa1c98f94 EyebrowDistance
+0xd677bfcb ChinCleft
+

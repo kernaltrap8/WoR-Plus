@@ -1,0 +1,548 @@
+[LineNumbers]
+rockout_say_no 3 (0,174) (52,175) (88,177) 
+rockout_say_yes 2 (0,184) (36,185) 
+rockout_start_menu_tool 2 (0,194) (84,195) 
+rockout_stop_menu_tool 2 (0,202) (84,203) 
+rockout_add_goal 10 (0,210) (36,212) (72,215) (74,218) (112,219) (114,220) (116,221) (168,222) (170,223) (204,226) 
+rockout_remove_goal 22 (0,233) (36,234) (72,236) (108,239) (144,240) (146,241) (184,242) (186,243) (188,244) (240,245) (242,246) (244,247) (280,250) (282,251) (320,252) (322,253) (324,254) (376,255) (378,256) (380,258) (416,261) (418,262) 
+rockout_set_num_players 3 (0,269) (37,270) (72,272) 
+create_rockout_game 89 (0,279) (52,280) (88,281) (140,283) (146,285) (372,303) (600,314) (696,321) (768,323) (960,334) (967,336) (979,337) (991,338) (1003,339) (1018,340) (1030,341) (1046,342) (1058,343) (1070,344) (1072,345) (1112,347) (1304,358) (1340,362) (1347,363) (1359,364) (1371,365) (1383,366) (1406,367) (1418,368) (1434,369) (1447,370) (1466,371) (1478,372) (1480,373) (1516,375) (1523,376) (1535,377) (1547,378) (1559,379) (1582,380) (1594,381) (1610,382) (1623,383) (1642,384) (1654,385) (1656,386) (1663,416) (1675,417) (1687,418) (1699,419) (1722,420) (1734,421) (1750,422) (1762,423) (1781,424) (1793,425) (1795,426) (1802,428) (1814,429) (1826,430) (1838,431) (1861,432) (1873,433) (1889,434) (1901,435) (1920,436) (1932,437) (1934,438) (1940,440) (1946,444) (2020,446) (2096,447) (2172,449) (2180,453) (2190,454) (2264,455) (2340,456) (2353,457) (2428,458) (2430,459) (2436,461) (2488,464) (2548,466) (2608,467) (2668,468) (2728,469) (2734,472) (2768,476) (2836,478) 
+destroy_rockout_game 47 (0,485) (36,487) (72,488) (108,489) (114,491) (148,492) (184,493) (190,494) (228,496) (264,497) (266,498) (300,500) (336,501) (372,503) (408,504) (444,508) (480,509) (516,510) (552,512) (588,513) (624,514) (660,516) (696,517) (732,518) (768,519) (804,521) (840,522) (876,524) (912,525) (948,527) (984,528) (1052,530) (1120,531) (1188,533) (1256,534) (1292,536) (1328,537) (1364,539) (1400,540) (1436,541) (1472,542) (1508,543) (1544,544) (1550,545) (1556,547) (1562,549) (1596,551) 
+rockout_start_paddle_controls 25 (0,559) (18,562) (56,563) (132,564) (168,565) (208,566) (284,568) (320,569) (324,570) (360,571) (396,572) (398,573) (400,574) (418,577) (456,578) (564,579) (600,580) (640,581) (748,583) (784,584) (788,585) (880,586) (916,587) (918,588) (920,589) 
+rockout_create_battle_paddles 39 (0,597) (112,605) (184,607) (296,615) (368,617) (381,619) (383,620) (430,621) (477,622) (484,623) (496,624) (509,625) (521,626) (533,627) (549,628) (562,629) (581,630) (593,631) (605,632) (607,633) (629,635) (636,636) (649,638) (651,639) (698,640) (745,641) (752,642) (764,643) (777,644) (789,645) (801,646) (817,647) (830,648) (849,649) (861,650) (873,651) (875,652) (897,654) (904,655) 
+rockout_initialize_values 20 (0,663) (36,664) (72,665) (108,666) (144,667) (180,668) (216,669) (252,670) (288,671) (324,672) (360,673) (396,674) (432,676) (468,677) (536,679) (604,680) (672,682) (740,683) (780,685) (852,686) 
+rockout_restart_game 14 (0,694) (36,698) (72,700) (108,701) (144,702) (180,703) (216,704) (252,705) (288,706) (294,707) (300,708) (306,710) (380,722) (386,724) 
+rockout_paddle_highlight 27 (76,731) (136,732) (154,734) (172,736) (190,737) (238,739) (242,741) (301,743) (344,745) (346,746) (350,747) (368,748) (425,750) (429,752) (447,755) (494,756) (498,757) (545,758) (547,759) (608,761) (635,763) (706,764) (710,765) (779,766) (781,767) (783,768) (785,770) 
+rockout_do_speaker_punch 14 (44,777) (104,778) (122,780) (136,781) (154,783) (167,784) (171,785) (184,786) (186,787) (260,789) (277,790) (340,791) (402,794) (431,795) 
+rockout_drum_hit 27 (44,803) (75,804) (77,805) (79,806) (145,808) (207,810) (220,812) (222,814) (226,815) (255,817) (273,818) (275,819) (293,821) (352,823) (365,824) (367,825) (413,826) (435,828) (442,829) (503,833) (532,836) (573,839) (619,841) (665,842) (667,843) (696,845) (728,846) 
+rockout_kill_drum_hit 4 (44,855) (61,856) (107,858) (114,860) 
+rockout_guitar_strum 47 (28,867) (90,870) (103,872) (105,873) (109,874) (138,875) (145,876) (147,877) (165,879) (224,881) (237,882) (239,883) (285,884) (307,886) (314,887) (327,889) (340,890) (358,892) (376,894) (394,895) (423,896) (425,897) (486,899) (488,901) (501,902) (503,903) (532,904) (561,905) (602,908) (648,910) (707,912) (725,914) (768,915) (770,916) (772,917) (794,919) (801,920) (807,922) (830,923) (849,924) (851,925) (853,926) (904,928) (906,929) (910,930) (939,931) (941,932) 
+rockout_kill_strum 3 (44,940) (61,941) (68,943) 
+rockout_clear_paddle_highlights 10 (28,951) (60,952) (101,953) (105,954) (118,955) (120,956) (161,957) (183,959) (190,960) (192,961) 
+rockout_strum_sound 62 (28,968) (45,970) (82,971) (84,972) (97,975) (110,976) (136,978) (186,980) (247,981) (260,983) (273,984) (286,985) (299,986) (301,987) (322,988) (345,989) (347,990) (369,991) (391,992) (398,993) (400,994) (408,996) (418,997) (431,998) (444,1001) (457,1002) (470,1005) (483,1006) (496,1009) (509,1010) (522,1013) (535,1014) (548,1017) (561,1018) (574,1024) (587,1025) (600,1028) (613,1029) (626,1035) (639,1036) (652,1042) (665,1043) (678,1046) (691,1047) (704,1053) (717,1054) (730,1060) (743,1061) (756,1064) (769,1065) (782,1071) (795,1072) (808,1075) (821,1076) (834,1079) (847,1080) (860,1083) (908,1087) (916,1088) (964,1092) (966,1093) (1012,1096) 
+rockout_check_paddle_collisions_left 64 (0,1103) (2,1104) (20,1105) (33,1106) (35,1107) (51,1108) (79,1109) (126,1110) (144,1112) (162,1113) (185,1114) (259,1115) (261,1117) (283,1118) (301,1119) (329,1120) (376,1121) (394,1122) (412,1124) (495,1126) (497,1127) (501,1128) (503,1129) (505,1130) (509,1131) (511,1132) (513,1133) (515,1134) (545,1142) (557,1145) (575,1148) (608,1149) (644,1150) (646,1151) (674,1153) (692,1155) (698,1156) (702,1157) (708,1158) (710,1159) (716,1162) (734,1163) (788,1164) (824,1165) (876,1166) (880,1167) (916,1168) (965,1170) (998,1171) (1022,1172) (1024,1173) (1076,1174) (1128,1175) (1130,1176) (1132,1177) (1134,1178) (1136,1179) (1158,1181) (1176,1182) (1178,1183) (1180,1184) (1187,1185) (1236,1187) (1238,1188) 
+rockout_check_paddle_collisions_right 60 (0,1195) (2,1196) (20,1197) (33,1198) (35,1199) (51,1200) (79,1201) (126,1202) (144,1204) (167,1205) (241,1206) (243,1208) (265,1209) (283,1210) (311,1211) (358,1212) (376,1214) (459,1218) (463,1219) (465,1220) (467,1221) (471,1222) (473,1223) (475,1224) (477,1225) (507,1231) (519,1235) (537,1238) (572,1239) (608,1240) (610,1241) (638,1243) (656,1245) (662,1246) (666,1247) (672,1248) (674,1249) (680,1252) (698,1253) (752,1254) (788,1255) (840,1256) (844,1257) (880,1258) (929,1260) (962,1261) (986,1262) (988,1263) (1040,1264) (1092,1265) (1094,1266) (1096,1267) (1098,1268) (1120,1270) (1138,1272) (1140,1273) (1142,1274) (1149,1275) (1200,1277) (1202,1278) 
+rockout_initialize_rockout 22 (28,1285) (64,1287) (100,1288) (102,1289) (136,1295) (172,1296) (208,1298) (244,1299) (280,1301) (316,1303) (345,1304) (381,1306) (410,1307) (446,1315) (475,1316) (499,1317) (535,1319) (564,1320) (588,1321) (624,1323) (660,1325) (696,1327) 
+rockout_initialize_ball 13 (28,1334) (40,1339) (76,1341) (112,1342) (118,1344) (136,1346) (167,1347) (171,1348) (202,1349) (204,1350) (256,1352) (292,1354) (298,1356) 
+rockout_launch_ball 8 (28,1364) (48,1365) (67,1366) (73,1367) (108,1369) (144,1371) (146,1372) (148,1373) 
+rockout_create_bricks 23 (0,1380) (96,1386) (109,1388) (111,1389) (124,1390) (126,1391) (184,1392) (276,1393) (283,1394) (295,1395) (308,1396) (320,1397) (332,1398) (363,1399) (376,1400) (395,1401) (407,1402) (419,1403) (421,1404) (443,1406) (453,1407) (475,1409) (485,1410) 
+rockout_brick_spawner 45 (44,1423) (57,1424) (59,1425) (72,1426) (90,1428) (108,1430) (157,1431) (197,1433) (203,1435) (216,1437) (229,1438) (242,1439) (272,1441) (278,1443) (280,1445) (286,1446) (314,1448) (327,1451) (329,1452) (373,1453) (402,1455) (424,1457) (431,1458) (466,1461) (491,1480) (504,1482) (517,1483) (519,1484) (538,1485) (561,1490) (604,1493) (606,1494) (628,1496) (650,1497) (657,1499) (679,1501) (681,1503) (732,1504) (757,1532) (759,1533) (761,1534) (763,1535) (812,1537) (818,1541) (820,1543) 
+rockout_fall_brick 19 (44,1550) (57,1551) (59,1552) (77,1554) (143,1555) (172,1556) (190,1559) (208,1560) (210,1561) (212,1562) (214,1563) (232,1570) (290,1572) (331,1573) (355,1575) (357,1576) (374,1578) (396,1580) (403,1581) 
+rockout_create_ball_particles 3 (36,1588) (72,1590) (516,1613) 
+rockout_check_brick_collisions 37 (0,1624) (2,1625) (15,1626) (17,1627) (30,1628) (32,1629) (90,1630) (108,1632) (127,1633) (150,1634) (224,1635) (236,1638) (248,1640) (289,1641) (293,1642) (323,1643) (325,1644) (337,1646) (366,1649) (390,1650) (418,1651) (460,1653) (478,1655) (509,1656) (513,1657) (544,1658) (546,1659) (601,1661) (614,1664) (616,1688) (618,1689) (640,1691) (650,1692) (672,1694) (682,1695) (732,1697) (734,1699) 
+rockout_check_screen_collisions 49 (0,1706) (2,1707) (19,1711) (36,1712) (73,1713) (108,1715) (134,1716) (215,1718) (248,1719) (284,1721) (302,1722) (336,1723) (412,1724) (416,1725) (452,1726) (528,1727) (530,1728) (532,1729) (573,1731) (591,1734) (624,1735) (626,1736) (668,1737) (704,1739) (735,1740) (768,1741) (860,1742) (891,1743) (924,1744) (976,1746) (1012,1748) (1088,1749) (1131,1751) (1149,1754) (1184,1755) (1186,1756) (1228,1757) (1264,1759) (1295,1760) (1328,1761) (1420,1762) (1451,1763) (1484,1764) (1536,1766) (1572,1768) (1648,1769) (1650,1770) (1700,1781) (1702,1782) 
+rockout_add_to_score 10 (44,1789) (62,1790) (89,1791) (125,1793) (154,1794) (158,1795) (185,1796) (221,1798) (250,1799) (252,1800) 
+rockout_set_ball_owner 8 (28,1807) (46,1809) (85,1810) (120,1811) (140,1812) (179,1813) (212,1814) (214,1815) 
+rockout_create_debug_collision_rect 14 (68,1823) (110,1827) (152,1828) (194,1829) (201,1831) (213,1832) (225,1833) (254,1834) (266,1835) (281,1836) (294,1837) (313,1838) (325,1839) (327,1840) 
+rockout_display_ball_velocity 13 (0,1847) (13,1848) (26,1849) (28,1851) (34,1852) (57,1853) (76,1854) (112,1855) (176,1857) (189,1859) (191,1860) (240,1862) (242,1863) 
+rockout_show_score_popup 28 (51,1870) (64,1871) (66,1872) (119,1873) (140,1875) (162,1876) (166,1877) (168,1878) (170,1879) (199,1881) (201,1882) (203,1883) (205,1884) (271,1886) (314,1888) (348,1892) (355,1896) (367,1897) (380,1898) (392,1899) (407,1900) (419,1901) (432,1902) (445,1903) (464,1904) (476,1905) (478,1906) (521,1908) 
+rockout_show_multiplier 25 (40,1916) (58,1917) (60,1918) (62,1919) (100,1921) (136,1922) (138,1923) (172,1925) (186,1926) (220,1927) (234,1928) (267,1929) (303,1933) (310,1935) (322,1936) (334,1937) (346,1938) (375,1939) (387,1940) (400,1941) (413,1942) (432,1943) (444,1944) (446,1945) (536,1947) 
+rockout_show_goal_popup 20 (14,1954) (52,1955) (88,1956) (90,1957) (126,1959) (160,1961) (174,1962) (200,1963) (207,1973) (219,1974) (231,1975) (243,1976) (272,1977) (284,1978) (297,1979) (310,1980) (329,1981) (341,1982) (343,1983) (464,1985) 
+rockout_popup_rise_and_fade 8 (60,1992) (81,1993) (99,1995) (134,1996) (198,1998) (215,2000) (233,2002) (235,2004) 
+rockout_popup_move_to_score 11 (44,2011) (65,2012) (83,2014) (100,2015) (104,2016) (121,2017) (123,2018) (187,2020) (204,2022) (222,2025) (224,2027) 
+rockout_calculate_score 9 (36,2034) (44,2035) (60,2036) (87,2037) (105,2038) (132,2039) (140,2040) (172,2041) (174,2042) 
+rockout_increment_num_goals 6 (28,2050) (46,2051) (72,2052) (76,2055) (102,2056) (104,2059) 
+rockout_update_lives 40 (44,2067) (62,2068) (74,2069) (97,2070) (133,2071) (162,2072) (186,2073) (190,2074) (202,2075) (225,2076) (261,2077) (290,2078) (314,2079) (316,2080) (334,2082) (352,2086) (365,2087) (369,2088) (382,2089) (384,2090) (391,2094) (397,2095) (409,2096) (422,2097) (430,2098) (432,2099) (444,2100) (456,2101) (458,2102) (460,2103) (472,2104) (484,2105) (486,2106) (488,2107) (490,2108) (552,2110) (616,2111) (652,2113) (658,2115) (660,2117) 
+rockout_pause_game 5 (0,2125) (12,2126) (48,2127) (128,2129) (164,2131) 
+rockout_unpause_game 5 (0,2139) (6,2140) (18,2144) (42,2145) (66,2146) 
+rockout_quit_game 3 (0,2154) (52,2155) (58,2156) 
+rockout_ai 43 (28,2164) (78,2165) (107,2166) (109,2168) (122,2170) (156,2172) (199,2174) (217,2175) (234,2176) (236,2177) (272,2179) (286,2182) (312,2183) (325,2185) (327,2186) (387,2187) (442,2188) (503,2189) (521,2191) (535,2192) (553,2194) (576,2195) (650,2196) (694,2198) (738,2199) (845,2201) (910,2202) (956,2203) (999,2204) (1012,2205) (1016,2206) (1062,2207) (1064,2208) (1068,2209) (1070,2210) (1072,2211) (1094,2213) (1101,2214) (1113,2216) (1164,2219) (1166,2220) (1216,2222) (1218,2223) 
+rockout_ball_debug 57 (0,2231) (13,2232) (26,2233) (35,2235) (37,2236) (49,2237) (51,2238) (53,2239) (69,2240) (81,2241) (93,2242) (95,2243) (97,2244) (113,2245) (125,2246) (137,2247) (139,2248) (141,2249) (157,2250) (169,2251) (181,2252) (183,2253) (185,2254) (201,2255) (213,2256) (225,2257) (227,2258) (229,2259) (245,2260) (257,2261) (269,2262) (271,2263) (273,2264) (297,2265) (299,2267) (357,2268) (378,2270) (396,2271) (398,2272) (432,2274) (458,2275) (465,2277) (477,2278) (490,2279) (502,2280) (514,2281) (530,2282) (543,2283) (562,2284) (574,2285) (576,2286) (598,2288) (617,2290) (630,2291) (632,2292) (684,2294) (686,2295) 
+rockout_check_ball_collision 80 (84,2303) (120,2306) (146,2309) (172,2310) (185,2312) (198,2313) (211,2314) (224,2315) (237,2317) (250,2318) (315,2320) (380,2321) (405,2324) (442,2326) (479,2327) (516,2328) (553,2329) (578,2331) (597,2332) (610,2333) (614,2334) (627,2335) (629,2336) (656,2337) (675,2338) (688,2339) (692,2340) (705,2341) (707,2342) (711,2343) (741,2345) (779,2346) (817,2347) (847,2348) (883,2350) (897,2351) (910,2352) (912,2353) (948,2354) (962,2355) (975,2356) (977,2357) (1013,2358) (1027,2359) (1040,2360) (1042,2361) (1078,2362) (1092,2363) (1105,2364) (1107,2365) (1109,2367) (1111,2368) (1115,2369) (1129,2370) (1131,2371) (1147,2373) (1163,2374) (1171,2376) (1181,2377) (1238,2378) (1251,2379) (1308,2380) (1321,2381) (1378,2382) (1391,2383) (1448,2384) (1456,2385) (1458,2386) (1476,2388) (1508,2389) (1510,2390) (1522,2392) (1535,2393) (1592,2394) (1621,2398) (1650,2399) (1679,2400) (1681,2403) (1683,2404) (1697,2406) 
+rockout_activate_fireball 8 (0,2416) (12,2417) (25,2418) (64,2419) (100,2421) (544,2444) (580,2446) (582,2448) 
+rockout_fireball_explosion 5 (0,2457) (36,2458) (480,2481) (532,2483) (584,2485) 
+rockout_deactivate_fireball 3 (0,2493) (40,2494) (92,2495) 
+rockout_create_brick_particles 36 (56,2503) (68,2504) (81,2506) (97,2507) (164,2508) (217,2514) (239,2516) (258,2518) (271,2519) (273,2520) (297,2522) (315,2524) (322,2526) (335,2527) (350,2528) (362,2529) (374,2530) (386,2531) (399,2532) (412,2533) (428,2534) (444,2535) (456,2536) (468,2537) (480,2538) (492,2539) (504,2540) (516,2541) (528,2542) (540,2543) (552,2544) (568,2545) (580,2546) (582,2547) (632,2549) (655,2551) 
+rockout_cleanup_brick_particles 7 (0,2559) (13,2560) (15,2561) (68,2562) (86,2564) (108,2566) (115,2567) 
+rockout_load_songdata 11 (28,2575) (46,2576) (64,2578) (113,2579) (126,2581) (139,2582) (141,2584) (163,2586) (198,2588) (214,2591) (220,2595) 
+rockout_start_controls 134 (60,2604) (68,2606) (78,2607) (121,2611) (134,2613) (147,2614) (149,2616) (169,2617) (187,2618) (218,2619) (231,2620) (233,2621) (253,2622) (266,2623) (268,2624) (288,2626) (306,2627) (337,2628) (350,2629) (352,2630) (372,2631) (385,2632) (387,2633) (436,2635) (438,2636) (451,2637) (464,2640) (477,2641) (490,2642) (503,2643) (516,2644) (529,2645) (531,2647) (551,2648) (569,2649) (611,2650) (624,2651) (626,2652) (646,2653) (659,2654) (661,2655) (681,2657) (699,2658) (741,2659) (754,2660) (756,2661) (776,2662) (789,2663) (791,2664) (811,2666) (829,2667) (871,2668) (884,2669) (886,2670) (906,2671) (919,2672) (921,2673) (941,2675) (959,2676) (1001,2677) (1014,2678) (1016,2679) (1036,2680) (1049,2681) (1051,2682) (1071,2684) (1089,2685) (1131,2686) (1144,2687) (1146,2688) (1166,2689) (1179,2690) (1181,2691) (1201,2693) (1219,2694) (1261,2695) (1274,2696) (1276,2697) (1296,2698) (1309,2699) (1311,2700) (1360,2702) (1362,2703) (1370,2704) (1383,2707) (1396,2708) (1409,2709) (1422,2710) (1435,2711) (1478,2714) (1480,2716) (1500,2717) (1518,2718) (1549,2719) (1562,2720) (1564,2721) (1584,2722) (1597,2723) (1599,2724) (1619,2726) (1637,2727) (1668,2728) (1681,2729) (1683,2730) (1703,2731) (1716,2732) (1718,2733) (1738,2735) (1756,2736) (1787,2737) (1800,2738) (1802,2739) (1822,2740) (1835,2741) (1837,2742) (1857,2744) (1875,2745) (1906,2746) (1919,2747) (1921,2748) (1941,2749) (1954,2750) (1956,2751) (1976,2753) (1994,2754) (2025,2755) (2038,2756) (2040,2757) (2060,2758) (2073,2759) (2075,2760) (2124,2762) (2126,2763) (2128,2764) 
+rockout_button_watcher 27 (44,2772) (46,2776) (107,2777) (127,2779) (139,2783) (151,2784) (153,2785) (172,2787) (199,2789) (245,2790) (305,2792) (323,2793) (364,2796) (366,2798) (370,2800) (397,2802) (457,2804) (475,2805) (521,2807) (573,2810) (575,2812) (577,2813) (599,2815) (621,2816) (628,2817) (680,2820) (682,2821) 
+rockout_create_brick 25 (60,2829) (72,2830) (115,2832) (137,2834) (156,2836) (169,2837) (171,2838) (195,2840) (213,2842) (278,2843) (285,2845) (297,2846) (310,2847) (322,2848) (334,2849) (365,2850) (378,2851) (397,2852) (409,2853) (421,2854) (423,2855) (478,2857) (532,2859) (549,2861) (567,2863) 
+rockout_kill_bricks 9 (0,2871) (12,2872) (25,2874) (27,2876) (70,2877) (88,2878) (110,2880) (118,2882) (160,2884) 
+rockout_check_single_brick_collision 27 (0,2893) (2,2894) (8,2895) (26,2897) (49,2899) (123,2900) (135,2902) (147,2904) (188,2905) (192,2906) (222,2907) (224,2908) (236,2910) (264,2911) (308,2913) (326,2915) (357,2916) (361,2917) (392,2918) (394,2919) (449,2921) (462,2924) (480,2945) (482,2946) (484,2947) (536,2949) (538,2950) 
+
+[Checksums]
+0x4cc5cb7f scripts\guitar\rockout_game.qb
+0x8e411006 b
+0xe836f013 end_color
+0x417f601b bottom_penetration
+0xcd0dc02d KillSpawnedScript
+0xe126e035 top
+0x1f57f039 player_pad
+0xa661f03b note_check
+0xe20df05f bad_note
+0x27ab5063 kill_when_empty
+0x49c9207b p2_purpley
+0x689fe07c template
+0x66ecc08a start_scale
+0xab9ef08c rockout_watch_buttons
+0xf9462090 c
+0xbe578095 rockout_show_score_popup
+0x7706e0c6 collision_pos
+0x6c3200c7 constants
+0xd7fb80cf ho_time
+0x2e8e40e0 no_pos_morph
+0x38de00e3 current_song_time
+0xe4f130f4 s
+0x99a3b0f9 rockout_create_brick_particles
+0x2f0a90fd R2_active
+0xb12b510a SpriteElement
+0x7031f10c params
+0xf73e5121 paddle_used
+0xdf0cc12e tool
+0x3611c136 GetTags
+0x37d50137 min_rotation
+0x0281513f GlobalArray
+0x73665140 CreateScreenElement
+0x7df8614e p
+0xcc12115e song
+0x18564175 ImmediateMode_UI
+0x5d915183 rockout_kill_drum_hit
+0x15052188 tools
+0x723ed188 Create2DParticleSystem
+0xe756118f new_momentum
+0xbc6b118f UP
+0xa2cb81a1 lives
+0xc48391a5 radius
+0xe2cc51b2 jam_input_destroy_player_server
+0x5be9b1b6 m_sampPass0Diffuse
+0x38dbe1d0 goals
+0x05fc81d6 IsSoundPlaying
+0xa7a611dd max_rotation
+0xbfa801df change
+0xd16b61e6 starttime
+0xa1dc81f9 name
+0xd2f72204 rockout_do_speaker_punch
+0xa7a7c222 g_bricks_hit
+0x3382a222 get_song_prefix
+0x500eb224 Obj_GetID
+0x98de0226 rockout_start_controls
+0x8b60022f just
+0x60ad523a start_zone
+0x6704e23e p1_orangey
+0x60f6f242 GlobalName
+0xb1265247 g_used_3
+0xbd67824f linear_momentum
+0xbd30325b white
+0x8cfde25d rockout_fall_brick
+0xa8c11275 LegacyDoScreenElementMorph
+0x20689278 TRIANGLE
+0x5eb35283 top_penetration
+0x7d99f28d texture
+0x11f692a6 SetPlayerInfo
+0x42a1f2b4 ai_id
+0x75f642b6 rockout_bg
+0x5fb452bb rockout_restart_game
+0x44e492cf jam_fade_time
+0xc62162d1 g_used_2
+0x0606d2d9 next_dialog_CP
+0x703d82e2 g_player_lives
+0xe9b1d2e2 GMan_ActivateGoal
+0xd2be82f7 SetSoundBussParams
+0xd4b2a2f7 rockout_show_multiplier
+0xf9005306 already_strummed
+0x4b40630d NewValue
+0x4d9b7319 UI_Col_Tex_2D
+0x51e6d333 g_brick_spacing
+0x9eb6e336 spawnscript
+0x5f28336b g_used_1
+0x18d57376 rockout_button_watcher
+0x4f68e382 next_checkpoint
+0x39e01385 rockout_say_no
+0x17ba9388 unload_songqpak
+0xb6d4a38f g_initial_ball_pos_R
+0x6c17239d g_paddle_width
+0x6768b3a2 destroy_menu
+0xda3403b0 null
+0x33d893b7 rockout_check_brick_collisions
+0xc5f953c2 button
+0x6cb143c7 current_brick
+0xdd6bb3d5 blendmode
+0xb99ae3d6 gameframes
+0xc5bc93ee ScreenElementExists
+0xc7e263f0 g_p1_ai_active
+0x67d2e3f0 SE_GetProps
+0x7978e3fd jow_buttonstar01
+0x282f03fd g_used_0
+0xdc722401 g_num_rows
+0xff0db407 textName
+0x8e9a640e emit_rate
+0x5a60041c rockout_paddle_highlight
+0x8798041c note_value
+0x90157420 SQUARE_active
+0x9277f428 FormatText
+0x4fd2a42f Applyforce
+0xdd4f543d default_options
+0xdf3e5445 rockout_fireball_explosion
+0xdc7ee44a side
+0xbd09544c func
+0x9d769456 rockout_launch_ball
+0x391ca459 rockout_check_paddle_collisions_right
+0x91f0e45a body_text
+0x01ab4475 rockout_goal_info
+0x652de477 rockout_score_popup_1
+0x97578481 brick_hit_score_text
+0x93fca499 mass
+0x544e249b rockout_add_goal
+0x39b5c4b0 GetArraySize
+0xf5b274b0 bottom_ratio
+0x87e1b4b7 JamMode_RhythmGuitar
+0x37e874c4 rockout_create_battle_paddles
+0x89b644ce open_note
+0xcb9fb4cf bass
+0x032314d1 goal
+0xd95764d5 g_current_ball_owner
+0x44b8a4da rockout_set_ball_owner
+0xbf0f14db center
+0xe39cf4ed w
+0xa5f124f1 paddle_top_left
+0xadebd508 g_launch_collision
+0xdf4c950c JamMode_Bass
+0x68ce950f left_penetration
+0x93616516 rockout_unpause_game
+0x7ad57518 delta_time
+0x5e8eb51b g_brick_collision_offset
+0x0e61b525 RunScriptOnScreenElement
+0xead0b526 ball_pos
+0x07ef2534 SongAudioPlay
+0x26b6e535 ease_out
+0xc5a71537 initial_pos
+0x02c0d544 g_paddle_height
+0x46279545 new_pos
+0xd6c4b569 rockout_create_debug_collision_rect
+0x1ad7956a fade_type
+0x82fac56c menu
+0x34a68574 dims
+0x2fca0578 options
+0x064ea57a new_velocity
+0x31fa658e p1_score
+0xb0cb4591 ball_bottom_right
+0x062a4596 ScreenElementPos
+0x67e6859a player
+0x161b059b emit_radius
+0xf259859d array_count
+0x73d0f5a3 g_player1_score
+0x67ca15a5 CIRCLE_active
+0x057e25c0 brick_container
+0xf3ef35c8 GMan_GetData
+0xd359d5ca GMan_InitializeGoal
+0xe0e0d5db element_id
+0xd2b9e5dd ph_firepuffs
+0x35aac5e6 Ball_Particle_01
+0x6f4395e6 notguitar
+0x33b965e6 g_initial_ball_pos
+0x33c475ea rockout_add_to_score
+0x5e0005f1 g_p2_ai_active
+0x150d35f1 heading_text
+0x170ca5f9 testing
+0x214595fe jam_instrument
+0x8f61d602 arrayName
+0x92886608 ControllerPressed
+0xd029f619 seconds
+0x6fbf361c p2_lives
+0xef3ef630 rockout_CP
+0xf8173636 PhysicsElement
+0xb785c640 g_player2_goals
+0xb01de647 GMan_RemoveGoal
+0x174cc64a brick_pos
+0xf2f1f64e R1
+0xb524565f last
+0xae8b5660 ball_top_left
+0x5fb87668 rockout_kill_strum
+0xf24ba68c GetSongTimeMs
+0xba8dd693 rockout_check_single_brick_collision
+0x683c8694 multiplier_popup
+0x2f1fc695 alpha
+0x313436a0 rockout_create_brick
+0x1cb2a6b0 num_players
+0x5c7f36ba linear_velocity
+0x0a2766bf rockout_set_num_players
+0x332816ed menu_id
+0x3fff16ed rockout_check_ball_collision
+0x734d06f5 start_pos
+0x5e8686fc paddle_container_id
+0x1d9a0707 emit_dir
+0xd24f570c song_name
+0x99a9b716 color
+0xa2af971e rockout_stop_menu_tool
+0xa185971e R1_active
+0x2f6bf72d font
+0xb3eaf72e ease_in
+0x8fbd1730 GMan_DeactivateGoal
+0xcae35748 g_total_score_popups
+0xf221474c linear
+0xc968274e gem_array
+0x0dc6974e victory_text
+0x11dab754 hold_pattern
+0x321c9756 SQUARE
+0x1febb758 rockout_create_bricks
+0x58a3c75d elasticity
+0xfe3b375f GetHeldPattern
+0xbd1db769 g_player2_already_strummed
+0x248a6773 rockout_initialize_rockout
+0x1abcd78d g_points_per_brick
+0xa040379a paddle_bottom_right
+0xe17c679e fireball_particles
+0x8bcdb7a4 ball
+0x6e3947ab g_total_bricks
+0x119a87b2 rockout_fg
+0x614107b9 rise
+0x906b67ba time
+0x28c467be technique
+0x694f67c7 framerate_value
+0xebe8a7cc create_rockout_game
+0x1d2d97d4 func_params
+0x2f42c7e4 g_used_4
+0x955db7e6 lowest_ratio
+0x760687e9 adjustment
+0xb2fa17ee jam_init_scales
+0xa366c7ef IsGuitarController
+0xedf3e7f4 friction
+0x6bf8a7f4 R2
+0x1d45a7f7 g_points_per_goal
+0xda3d180c g_rockout_controller_2
+0x8cbaf80d rockout_popup_move_to_score
+0x34775813 GMan_MenuFunc
+0xf6a36814 vol
+0xc195a822 create_dialog_box
+0xf4d9a825 add_user_control_helper
+0xbfb9982b L2
+0xb672382e g_initial_paddle_pos_left
+0xc620a832 GMan_PassCheckpoint
+0xc4745838 text
+0x405e683e GMan_SetNextCheckpoint
+0xf0ff0841 checkpoint
+0x5b9da842 ContainerElement
+0x9d2d8850 z
+0xe4564854 right_penetration
+0x935ab858 debug
+0xbd806863 load_songqpak
+0xd815f86f g_rockout_show_in_debug_menu
+0xadcc4879 MaterialProps
+0x82ac7881 column
+0x4659c884 rockout_start_paddle_controls
+0x886ed88b g_drum_colors
+0x85981897 left
+0x20d338a4 UP_active
+0xcd66c8ae score
+0x40c698af id
+0x921d18b1 RebelYell
+0x57f4b8d2 g_battle_paddle_used_p2
+0xb23938d4 rockout_remove_goal
+0x7321a8d6 type
+0xf9aa98e1 with_strum
+0xfbb248fb unhighlight
+0x6a3568fb song_prefix
+0x7f8c98fe index
+0x8d5a5903 paddle_container_pos
+0x68cf590a g_launched
+0x6e94f918 h
+0xa38c291e rockout_ball
+0x4b08091e L2_active
+0x14c5b921 brick_color
+0x0fdb1921 rockout_update_lives
+0xcd306926 goal_popup
+0xe243c92d emit_start_radius
+0xeafc692e no_background
+0x46a9e949 stop
+0xee6cd94e score_text
+0x7f261953 pos
+0x41272956 velocity
+0x55cc895e strum
+0xb30d9965 controller
+0xcefde968 g_battle_paddle_used_p1
+0x7323e97c x
+0xf7aa797d brick_id
+0x8028298d preserve_momentum
+0x1993c98e i
+0x26b0c991 L1
+0xd7459994 rockout_calculate_score
+0xa1d999b4 Single_Player_Bad_Note_Guitar
+0x433449b6 g_rockout_controller_1
+0x3c15e9b6 DestroyScreenElement
+0xa52dd9be hit
+0xbc9619cf rockout_strum_sound
+0xbd18b9db bottom_right
+0x1cb4c9e8 destroy_menu_backdrop
+0x0424d9ea y
+0xa58079eb SetTags
+0xe4f769f0 Material_BrickExplode
+0xf99d5a06 fade_time
+0x807e5a07 max_num_brick_particle_systems
+0x579b6a0b g_player1_already_strummed
+0x106e8a1c paddle_array_id
+0x34a31a34 current_particle
+0xbb591a39 ball_center
+0x34799a3f GMan_GoalIsActive
+0xb761ea45 rockout_say_yes
+0x9ec40a50 g_paddle_collision_offset
+0x5eb7ba5c rockout_start_menu_tool
+0x4732fa63 rockout_initialize_values
+0x995dba64 g_current_strum_sound
+0x83418a6a material
+0x2b628a6b rockout_goal
+0xb009aa6d check_button
+0x6086aa70 start
+0x13b9da7b scale
+0x179a6a85 m_psPass0MaterialColor
+0x2b489a86 CIRCLE
+0xac447a8a CircleAABBCollisionCheck
+0x76fa7a8f checksumName
+0x2667da93 Destroy2DParticleSystem
+0xffa3aa94 audio_ui_menu_music_off
+0x15096a94 JamMode_LeadGuitar
+0xde878a9f paddle_container_p1
+0xb79a8aad g_menu_colors
+0x62907aaf foreground
+0xd2d81ac6 dialog_box
+0xccbb9ac6 Guitar_JamMode
+0x539dfac9 rockout_check_screen_collisions
+0x56a1eae3 root_window
+0xc9287aee GetScreenElementProps
+0xa7155af2 g_brick_width
+0x00e95af3 g_turn_on_opponent_cheat
+0x19fa5af7 SpawnScriptNow
+0x85471b00 ball_particles
+0x5b5fab00 rockout_increment_num_goals
+0xf72aab04 ClearPhysicsData
+0xcb63ab06 old_column
+0x2a468b0a goal_info
+0x7ddecb0b rockout_create_ball_particles
+0x9e035b0e move_time
+0x478edb25 paddle_container_p2
+0x58dfeb3f rockout_popup_rise_and_fade
+0x8e10bb70 SetArrayElement
+0x199aab82 column_used
+0x1de22b95 GMan_UninitializeGoal
+0xc5addb99 reset_song_time
+0x047b1ba1 appear_time
+0xcfaecbb4 g_num_columns
+0xb8907bb5 rockout_pause_game
+0xee241bb9 TextureProperty
+0x51d2cbb9 emit_spread
+0x41926bbd fadeintime
+0x29502bc0 UI_SFX
+0xf9bb6be3 g_initial_paddle_pos_right
+0xdf06abf4 g_brick_height
+0xd531fc10 CreateMaterial
+0x02e58c18 Add
+0x7d654c18 exclusive_device
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0x07c29c27 rockout_quit_game
+0x87f75c2d n
+0x09a7dc2e end_pos
+0x5cc8dc31 max_bricks
+0x21b06c31 total_nodes
+0xe478dc33 g_battle_paddle_toggle_p1
+0x2a7b2c3e DOWN_active
+0xa432dc41 collision
+0xd0b22c44 paddle_id
+0xd09fcc67 GMan_GoalExists
+0xb9633c72 rockout_ai
+0xfb75dc80 right_ratio
+0x5e572c81 p1_lives
+0x4a851c82 scrolling_Rockout_p1
+0xa21b6c8d audio_ui_menu_music_on
+0xd071fc95 player_ai
+0x6aac5c98 GMan_AddGoal
+0x13b0dc9b rockout_container
+0x520c0c9c data
+0xdca6fc9d rockout_clear_paddle_highlights
+0x0b5cfca0 DestroyMaterial
+0x9e0f3cab explosion_id
+0x0830ecaf ObjID
+0x28936cb5 custom_options
+0x90356cb9 SetScreenElementProps
+0x24f58cbb fireball_active
+0xfe001cd5 rockout_load_songdata
+0x68977cd7 force
+0x866ddcdd g_player1_goals
+0xd6521cee generic_event_back
+0xbdc53cf2 guitar
+0x28656d12 pause
+0x607e8d15 GMan_SetData
+0xa962ad1a GetDeltaTime
+0x67659d27 HungryLikeTheWolf
+0x8cf16d2a g_initial_brick_pos
+0xa3206d2a brick_move_time
+0xa260ed37 paddle_toggle
+0xd38c4d38 scrolling_Rockout_p2
+0xe030ed38 SongAudioStop
+0x8a350d3f initial_dialog_CP
+0xe0ae6d46 rockout_drum_hit
+0x7f5b3d4d array_size
+0xc906ad51 menustate
+0x4642cd59 button_script_id
+0x6cccad5b rockout_deactivate_fireball
+0xe8f58d64 g_brick_colors
+0x3c003d6b rockout_pos
+0x6d11ed74 goal_type
+0x42e79d75 rockout_show_goal_popup
+0x4825ed79 create_menu_backdrop
+0x62269d7e end_scale
+0x7d718d89 g_battle_paddle_toggle_p2
+0xe66d1da1 rockout_display_ball_velocity
+0xa03f9da3 momentum
+0x375e3db9 rockout_debug_collision
+0x3f6bcdba rgba
+0x7a7d1dca rhythm
+0x3c342dd2 elapsed_time
+0xce4afdd9 GetScreenElementPosition
+0x073fddda brick_center
+0x0419fdde rockout_kill_bricks
+0xecfcade7 start_color
+0x27576dec isDrumController
+0x1a5f4df1 check_pattern
+0x9b3f5dff rockout_brick_spawner
+0x6c183e01 velocity_in_frames
+0x0a015e17 motion
+0x69b05e2c generic
+0xd76e9e34 lead
+0xff523e47 GMan_GoalIsInitialized
+0xa9187e49 TRIANGLE_active
+0xca296e4c X_active
+0x257bee5f top_left
+0x8eb0ce61 ball_container
+0xb0b28e7f StopSound
+0xc827ae88 checkpoints
+0xbec6ee9f num_players_dialog
+0x18439ead rockout_activate_fireball
+0xdf3c2eaf drums
+0xdee3cebc rockout_ball_debug
+0x43ceaec5 g_points_multiplier
+0x92313ec8 back
+0x4cdb9eec g_initial_ball_pos_L
+0x954f1eef PauseGame
+0x9680eef4 top_ratio
+0xeb6b3ef8 rockout_initialize_ball
+0xc5870efd L1_active
+0x716f9f03 DecompressNoteValue
+0xfc37df05 gameframe
+0x7e832f08 dist
+0x00127f13 p2_score
+0x2e6bff16 VectorProperty
+0x02141f19 clean_up_user_control_helpers
+0x2c6a5f27 uitype
+0x57710f31 z_priority
+0x1aba5f3a settings
+0xa49b1f3a destroy_rockout_game
+0x4238ef3e g_player2_score
+0xdce5af43 rockout_cleanup_brick_particles
+0x45ec6f49 template_settings
+0xabd12f51 rockout_check_paddle_collisions_left
+0x4d657f64 delay
+0xec23df7e rockout_guitar_strum
+0xe7da6f84 rockout_paddle
+0x7c601f93 SongAudioLoad
+0xf0a4ffaf start_angle_spread
+0xc2719fb0 parent
+0xee47bfb4 paddle
+0x5200dfb6 TextElement
+0x715e8fbd amount
+0xe3006fc4 DOWN
+0xe3332fcf rockout_brick
+0x84de9fd6 current_multiplier
+0x08631fd8 left_ratio
+0x5cbe3ff8 fireball_explosion
+

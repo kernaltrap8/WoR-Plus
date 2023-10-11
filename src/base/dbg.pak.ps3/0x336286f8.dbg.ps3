@@ -1,0 +1,34 @@
+[LineNumbers]
+
+[Checksums]
+0x562efb1e models\car_instruments\guitar\ibanez\gtr76_ibz_s5470.qb
+0x180c0051 GTR77_IBZ_RG_GTR76_pickup04
+0x9687f060 BRIDGE
+0xf0174084 GTR77_IBZ_RG_GTR76_bridge01
+0x5e8280bc GTR77_IBZ_RG_GTR76_knob01
+0x6f0b30c7 GTR77_IBZ_RG_GTR76_pickup05
+0xc78bd106 GTR77_IBZ_RG_GTR76_knob02
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x6866f4de GTR77_IBZ_RG_GTR76_pickup01
+0x8058e545 MISC
+0xf16fa564 GTR77_IBZ_RG_GTR76_pickup02
+0x568a15ac gtr76_ibz_s5470_NodeArray_SortedNames
+0x866895f2 GTR77_IBZ_RG_GTR76_pickup03
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0x7f261953 Pos
+0x19ebda23 Set
+0x0bfc2a47 GTR76_IBZ_S5470
+0xc97f3aa9 Orientation
+0x54e19b4a gtr76_ibz_s5470_NodeArray
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0xd1f80c02 gtr76_ibz_s5470_NodeArray_SortedIndices
+0xf564cd10 GTR77_IBZ_RG_GTR76_switch01
+0x385e8d74 SkinExport
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+0x05a78fa4 GTR77_IBZ_RG_GTR76_IBZ_S5470
+

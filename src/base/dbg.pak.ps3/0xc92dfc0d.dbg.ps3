@@ -1,0 +1,109 @@
+[LineNumbers]
+ui_create_team_selection 4 (0,10) (372,22) (378,24) (428,26) 
+ui_destroy_team_selection 4 (0,35) (36,36) (72,37) (74,38) 
+team_selection_add_players 37 (0,45) (36,46) (96,47) (125,48) (137,50) (139,51) (156,52) (174,54) (191,55) (205,56) (223,57) (241,58) (275,59) (277,60) (294,62) (301,64) (314,65) (326,66) (366,67) (374,68) (407,69) (409,70) (422,71) (435,72) (447,73) (449,74) (472,76) (510,77) (539,78) (541,79) (563,80) (570,81) (636,83) (704,84) (772,85) (774,86) (776,87) 
+team_selection_set_team 8 (0,94) (17,95) (35,96) (48,97) (52,98) (74,99) (76,100) (100,102) 
+team_selection_set_team_color 10 (0,109) (6,110) (8,111) (25,112) (43,113) (81,116) (109,118) (111,119) (160,121) (162,122) 
+team_selection_get_band_color 3 (28,129) (75,130) (92,131) 
+team_selection_continue_to_next_screen 22 (0,138) (13,139) (26,140) (76,141) (89,142) (91,143) (104,144) (121,145) (139,146) (156,147) (179,148) (211,149) (268,150) (270,151) (292,153) (299,154) (317,156) (335,157) (384,158) (436,159) (472,160) (474,161) 
+team_selection_check_for_uniform_band_size 21 (0,168) (12,170) (24,171) (36,172) (48,173) (50,174) (78,175) (96,176) (120,177) (124,178) (153,179) (166,180) (170,181) (183,182) (185,183) (187,184) (189,185) (191,186) (213,187) (221,188) (235,190) 
+
+[Checksums]
+0x16696d00 scripts\guitar\menu\states\layouts\ui_team_selection.qb
+0xb990d003 target
+0x2a1c002c UIstate_songlist
+0x475bf03c event_handlers
+0x059ea070 red
+0xe9576099 autoSizeDims
+0x0b7190c6 PushDisableRendering
+0x65d6c0cc player_idx
+0xa166e0ce team_selection_continue_to_next_screen
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0xf66ff117 in_game
+0x1e790135 going_into_songlist
+0x73665140 CreateScreenElement
+0xd7c5114f team_selection_check_for_uniform_band_size
+0x01dd615f DescInterface
+0x4de091b4 hud_player_meter
+0x174841bc a
+0x2f6511de green
+0xa1dc81f9 name
+0xcb5c11fa pad_option
+0x500eb224 Obj_GetID
+0x11f692a6 SetPlayerInfo
+0x4b40630d NewValue
+0x0203b372 true
+0x5b058376 param
+0xf44a53ab desc
+0xc5f953c2 button
+0xc5bc93ee ScreenElementExists
+0x0eb023f5 ui_create_team_selection
+0xff0db407 TextName
+0x9277f428 FormatText
+0x1c291429 alias_team_selection_menu
+0x39b5c4b0 GetArraySize
+0x9d3fb516 focus
+0x6722b533 d
+0x1e3e253b pad_choose
+0xb40d153f select
+0x61c9354b blue
+0x9344f579 color_value
+0x67e6859a player
+0x23a4e5c2 Obj_SpawnScript
+0x8f61d602 ArrayName
+0xd029f619 seconds
+0xa0b6d64c StringLength
+0x62b79677 SetBandInfo
+0x3e0f6740 uistate_band_lobby
+0x2cb33744 LaunchEvent
+0x23ceb776 player_name_text
+0xf5a527b0 competitive_stripe_rgba
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0xcc91e842 str_len
+0x9d2d8850 z
+0x40c698af id
+0x7321a8d6 type
+0x7f8c98fe index
+0x4b2da953 alias_player_meter
+0xb30d9965 controller
+0x654b098a band_color
+0x1993c98e i
+0x3c15e9b6 DestroyScreenElement
+0x663e3a1c team_selection_get_band_color
+0x1da27a81 context
+0x76fa7a8f ChecksumName
+0x56ccbabf unchecked
+0x56a1eae3 root_window
+0xb2c58afd is_uniform_size
+0x6b596b3a team_selection_add_players
+0x8e10bb70 SetArrayElement
+0x083fdb95 size
+0x29502bc0 ui_sfx
+0x53093bce band_size
+0x7d654c18 exclusive_device
+0x82117c1a wait
+0x9f23dc21 se_setprops
+0x13f70c45 team_selection_id
+0xb5742c5a gamertag
+0x0830ecaf objid
+0xd6521cee generic_event_back
+0x5c6c2d04 state
+0xb7205d14 band
+0x7ee0fd2a pad_back
+0x66a54d2d generic_event_choose
+0x7f5b3d4d array_size
+0xc906ad51 menustate
+0x61414d56 string
+0x1bec0d70 team_selection_set_team
+0xb2f3ddcd ui_destroy_team_selection
+0x69b05e2c generic
+0xd7513e50 team_selection_menu_id
+0x22c47eb7 team_selection_set_team_color
+0x92313ec8 back
+0x65485eea GetPlayerInfo
+0x2c6a5f27 uitype
+0x57710f31 z_priority
+0xc2719fb0 parent
+

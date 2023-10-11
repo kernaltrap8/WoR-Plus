@@ -1,0 +1,72 @@
+[LineNumbers]
+ui_create_cas_select_part_color_options 2 (0,7) (20,8) 
+ui_create_cas_select_part_color_options_worker 33 (0,12) (7,13) (19,14) (31,15) (43,16) (83,17) (89,18) (102,19) (115,20) (117,21) (158,23) (176,25) (188,27) (206,28) (264,29) (266,30) (278,31) (280,32) (316,34) (323,36) (354,37) (366,38) (378,39) (511,40) (513,41) (534,43) (542,44) (565,46) (604,48) (640,49) (658,50) (692,51) (694,52) 
+ui_destroy_cas_select_part_color_options 2 (0,62) (6,63) 
+ui_deinit_cas_select_part_color_options 11 (0,70) (9,73) (48,75) (83,76) (87,77) (121,78) (123,79) (125,80) (164,81) (171,82) (173,83) 
+
+[Checksums]
+0x6c1b54b3 scripts\guitar\menu\states\layouts\cas\ui_cas_select_part_color_options.qb
+0xa484d093 add_car_menu_text_item
+0x7031f10c params
+0x5ef31148 array
+0xcf66717b GotParam
+0xbebfa1c6 element
+0x6017f1cc ui_event
+0xbfa801df change
+0xa1dc81f9 name
+0x18c7b1fc ui_create_cas_select_part_color_options_worker
+0x3cd9d1fc setup_cas_menu_handlers
+0x4bfcd202 AddArrayElement
+0x9ddaa224 create_cas_select_part_options_vmenu
+0xefe30239 color_wheel
+0xbf17a257 show_history
+0x80db125a hist_tex
+0x192bc3a2 pad_back_script
+0xddbaa4a9 UIstate_cas_color_edit
+0x39b5c4b0 GetArraySize
+0x9836251b cam_name
+0xc451f558 event
+0xc156b5b1 task_menu_default_anim_in
+0xe88e660c destroy_generic_menu
+0x39df261c return_stance
+0x9a6bd624 icon
+0xd4e30648 ui_destroy_cas_select_part_color_options
+0x3f6e367e zoom_camera
+0xa944c681 bandmanager_changestance
+0xff1496de state_device
+0xa4c5d762 part_materials
+0xd4c98794 title
+0xa2df7834 ResolveBodySpecificPartInAppearance
+0xc4745838 text
+0x8390b87f cas_object
+0xb30d9965 controller
+0x0b3c1975 ui_deinit_cas_select_part_color_options
+0x1993c98e i
+0x8a644a6b pad_back_params
+0x37ba3a84 make_generic_car_menu
+0x1482dae0 GetCurrentCASObject
+0x19fa5af7 SpawnScriptNow
+0xe4202b13 generic_menu_block_input
+0x04e98b39 ui_create_cas_select_part_color_options
+0xf1ff8b68 choose_state
+0x09f3fb6f additional_deinit_script
+0x31dc7bab camera_list
+0x24e8bc01 Stance_FrontEnd
+0x7d654c18 exclusive_device
+0x0c714c3f menu_finish
+0x520c0c9c data
+0x7d02bcc3 stance
+0xd6521cee generic_event_back
+0xd4943cee skip_deinit_script
+0x7f5b3d4d array_size
+0x16d19dc2 choose_state_data
+0x79eefe35 car_helper_text_back
+0xa651ae55 no_wait
+0x5a7ece86 menu_back
+0xa1598eed vmenu_id
+0x84aecef0 menu_history_color_edit
+0xb2161ef7 num_icons
+0x37bf4f09 base_name
+0x771cdf0a num_states
+0xb6f08f39 part
+

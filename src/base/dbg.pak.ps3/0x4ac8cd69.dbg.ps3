@@ -1,0 +1,36 @@
+[LineNumbers]
+
+[Checksums]
+0x20ddce17 songs\rockinamerica.mid.qb
+0xb642102b rockinamerica_crowd
+0xf4ca8065 rockinamerica_localized_strings
+0xc2a28080 vocalist
+0x7031f10c params
+0xcf143113 GH6_Singer_Male_RockInAmerica_1b
+0xa1dc81f9 name
+0xc31442ac rockinamerica_cameras
+0xe43962d0 GH6_Singer_Male_RockInAmerica_2b
+0x7555f2f8 rockinamerica_scripts
+0x7166b360 Band_PlayFacialAnim
+0xfd225391 GH6_Singer_Male_RockInAmerica_3b
+0xc5cd14ba rockinamerica_anim_notes
+0xb263c556 GH6_Singer_Male_RockInAmerica_4b
+0x3ac1877c guitarist
+0x906b67ba time
+0xa6d2d890 scr
+0x9873c91f rockinamerica_drums_notes
+0x3a9ed9de rockinamerica_cameras_notes
+0x3030da38 rockinamerica_anim
+0xaea48a54 GH6_Singer_Male_RockInAmerica_1
+0x6e965b60 bassist
+0x40aaeb78 GH6_Singer_Male_RockInAmerica_3
+0x98549ba4 anim
+0xc7a49bd0 rockinamerica_crowd_notes
+0x37addbee GH6_Singer_Male_RockInAmerica_2
+0x75294c98 rockinamerica_performance
+0xc7f53d6b rockinamerica_lightshow
+0x6ef11e4b LightShow_SetTime
+0x243b0e4d rockinamerica_lightshow_notes
+0xdece7edb GH6_Singer_Male_RockInAmerica_4
+0xbe9a2f45 rockinamerica_facial
+

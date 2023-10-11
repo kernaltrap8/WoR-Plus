@@ -1,0 +1,46 @@
+[LineNumbers]
+ui_create_vip_invite 25 (0,10) (36,11) (76,12) (78,13) (87,15) (99,16) (103,17) (115,18) (117,19) (123,21) (130,23) (142,24) (154,25) (166,26) (189,27) (201,28) (214,31) (222,33) (265,34) (278,35) (280,36) (282,38) (288,57) (372,59) (424,61) 
+ui_destroy_vip_invite 9 (0,70) (6,72) (12,74) (48,75) (84,76) (86,77) (124,79) (164,80) (166,81) 
+
+[Checksums]
+0x8a4b0446 scripts\guitar\menu\states\layouts\ui_vip_invite.qb
+0xb990d003 target
+0xfeae3011 ui_create_vip_invite
+0x475bf03c event_handlers
+0x059ea070 red
+0x7031f10c params
+0x73665140 CreateScreenElement
+0x01dd615f DescInterface
+0x3b4631df IsPS3
+0xf44a53ab desc
+0xc5f953c2 button
+0xc5bc93ee ScreenElementExists
+0x9d3fb516 focus
+0x723a3658 vip_invite_screen_id
+0x2f1fc695 alpha
+0xb48316ff ui_destroy_vip_invite
+0x2cb33744 LaunchEvent
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0x9d2d8850 z
+0x40c698af id
+0x7321a8d6 type
+0x3c15e9b6 DestroyScreenElement
+0x26982a07 all_buttons
+0x888eaada create_mainmenu_bg
+0x56a1eae3 root_window
+0xbf299b4f network_text
+0x29502bc0 ui_sfx
+0x9f23dc21 SE_SetProps
+0xd6521cee generic_event_back
+0x7ee0fd2a pad_back
+0xc906ad51 menustate
+0x69b05e2c generic
+0x24c40e79 destroy_mainmenu_bg
+0x92313ec8 back
+0x02141f19 clean_up_user_control_helpers
+0x2c6a5f27 uitype
+0x57710f31 z_priority
+0xd30bcf9f friends_feed_desc_id
+0xc2719fb0 parent
+

@@ -1,0 +1,98 @@
+[LineNumbers]
+ui_create_cap_shape_list 19 (0,9) (64,11) (97,13) (111,14) (113,15) (120,17) (132,18) (144,19) (157,20) (164,21) (166,22) (232,25) (264,27) (292,28) (296,29) (337,30) (360,31) (362,32) (410,34) 
+ui_destroy_cap_shape_list 2 (0,44) (6,45) 
+add_shape_list_to_menu 28 (0,53) (64,55) (97,57) (132,59) (144,60) (146,61) (183,63) (220,64) (275,65) (287,66) (323,67) (330,68) (361,69) (374,70) (386,71) (532,72) (534,73) (536,74) (538,75) (540,76) (561,78) (569,79) (571,81) (608,83) (618,84) (668,85) (670,86) (672,87) 
+ui_return_cap_shape_list 7 (0,97) (32,98) (60,99) (64,100) (105,101) (128,102) (130,103) 
+get_catagory_icon 28 (0,112) (64,115) (72,116) (82,118) (112,119) (125,120) (156,121) (169,122) (200,123) (213,124) (244,125) (257,126) (288,127) (301,128) (332,129) (345,130) (376,131) (389,132) (420,133) (433,134) (464,135) (477,136) (508,137) (521,138) (552,139) (560,140) (592,141) (594,142) 
+
+[Checksums]
+0x44f9dc88 scripts\guitar\menu\states\layouts\cap\ui_cap_shape_list.qb
+0xb990d003 target
+0x8e411006 b
+0xba297025 CD
+0x33500056 get_catagory_icon
+0xa484d093 add_car_menu_text_item
+0x1da6e0c8 category_icons
+0x627f90fe no_rotate_zoom_text
+0xcfcf5153 category_font_square40
+0xcf66717b GotParam
+0xee8921af category_gradients
+0x174841bc a
+0x3cd9d1fc setup_cas_menu_handlers
+0xbf17a257 show_history
+0xa2dc2259 car_tattoo_decal
+0x80db125a hist_tex
+0x8b3bf307 category_living
+0x6ca9a3a5 selected_index
+0x3a1993a9 Font A6
+0x6caa53df catagory_added
+0xd3cf341b category_primitives
+0xcee4344b pre_userlayer
+0x717a048c car_outlines_primitives
+0x661f14a2 choose_back
+0x39b5c4b0 GetArraySize
+0xdeef04cd StructureContains
+0x9d3fb516 focus
+0x9836251b cam_name
+0x4c29c545 RequireParams
+0x9e2ee54e div_id
+0x0acc054f car_helper_text
+0x72ddb580 category_font_harbour
+0x9cbbd58e car_living
+0x569cf5de ui_return_cap_shape_list
+0x9f64c5e3 ui_create_cap_shape_list
+0xa47d060a Font A1
+0xe88e660c destroy_generic_menu
+0x9a6bd624 icon
+0x3f6e367e zoom_camera
+0xb00076a3 car_graphics
+0xff1496de state_device
+0xcf4416e1 category_font_aaux
+0x4a736726 Font A3
+0xd673f72d category_font_bordello
+0x2cb33744 LaunchEvent
+0xfe6c178d is_target_in_div
+0xd4c98794 title
+0x884cc7dc category_graphics
+0x77f49808 frontend_desc
+0x90fec815 structure
+0xc4745838 text
+0x4bb2084e desc_id
+0x862ba85b CAS_Band_logo
+0x7321a8d6 type
+0xb90a78d7 is_popup
+0xb30d9965 controller
+0x6841d98c create_cap_shape_list_vmenu
+0x1993c98e i
+0x58aa79cb GetCAPSectionsArray
+0x335809df add_shape_list_to_menu
+0xbf216a5d cas_current_appearance
+0x2c8a3a6d child_index
+0xc70eea74 car_primitives
+0x37ba3a84 make_generic_car_menu
+0x4aa45af6 menu_history_unknown
+0xf1ff8b68 choose_state
+0xdee08ba5 car_icon_decals
+0x31dc7bab camera_list
+0x23273bdb ui_destroy_cap_shape_list
+0x7d654c18 exclusive_device
+0x0c714c3f menu_finish
+0xd469bc67 sections
+0x520c0c9c data
+0x9dee9cc0 post_userlayer
+0x83acdd2a category_outlines
+0x7f5b3d4d array_size
+0x554c7d6f appearance
+0x49f4ad93 override_base_name
+0x16d19dc2 choose_state_data
+0xc46b3e13 UIstate_cap_shape_list_subset
+0xc4e78e22 all
+0xd2b42e8b category_sponsors
+0x940cde9c ChecksumEquals
+0xdda1beae Font A8
+0xa1598eed vmenu_id
+0xb9fe0f1c hist_name
+0xb6f08f39 part
+0xe8dbff9a section_index
+0xeaf89ff4 car_sponsors
+

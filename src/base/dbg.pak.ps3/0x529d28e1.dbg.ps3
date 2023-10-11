@@ -1,0 +1,55 @@
+[LineNumbers]
+generic_menu_pad_back 5 (0,21) (36,22) (72,24) (80,25) (82,26) 
+generic_event_back 21 (52,30) (88,32) (115,33) (117,34) (156,37) (164,38) (174,39) (208,40) (221,41) (227,42) (235,43) (284,44) (286,45) (288,46) (324,48) (330,49) (332,50) (368,52) (382,53) (384,54) (431,56) 
+generic_event_back_block 5 (52,59) (88,61) (115,62) (117,63) (158,65) 
+generic_event_back_refresh 5 (52,68) (88,70) (115,71) (117,72) (165,74) 
+generic_event_refresh 2 (28,77) (57,78) 
+generic_event_choose 5 (68,81) (104,83) (131,84) (133,85) (175,87) 
+generic_event_replace 5 (68,91) (104,93) (131,94) (133,95) (175,97) 
+screenelement_get_tags 5 (0,113) (64,114) (77,115) (112,117) (123,119) 
+
+[Checksums]
+0xc27f31c0 scripts\game\menu\gamemenu_helpers.qb
+0x5b4ff08a audio_ui_play_kill_voting_screen_sfx
+0x3611c136 GetTags
+0xcf66717b GotParam
+0x409c5191 disable_menu_sounds
+0x5d0671b8 channel
+0x6017f1cc ui_event
+0x7e85b24b screenelement_get_tags
+0x72d85262 no_assert_flag
+0xe67b0295 refresh_previous_state
+0x17a542ba menu_refresh
+0xd443a2bc off
+0xd0b713d0 generic_event_refresh
+0x57525413 object
+0x512c7426 no_assert
+0xd9bf54c7 generic_event_back_block
+0x4c29c545 RequireParams
+0xc451f558 event
+0x3b70c5cb sfx
+0x7bb9c604 menu_replace
+0x2de8c60e printf
+0xf649d637 on
+0xbcab976e generic_event_replace
+0x40c698af id
+0x6cef5907 menu_change
+0x2e86d939 ui_event_block
+0xffa3aa94 audio_ui_menu_music_off
+0x19fa5af7 spawnscriptnow
+0xe997db9f is_changing_levels
+0x86068bd9 callback
+0x90436bd9 tags
+0x003c7c03 generic_event_back_refresh
+0xa21b6c8d audio_ui_menu_music_on
+0x520c0c9c data
+0xd6521cee generic_event_back
+0x7056ed02 RemoveParameter
+0x5c6c2d04 state
+0x66a54d2d generic_event_choose
+0x982f5dc7 generic_menu_pad_back
+0x26c94dcf voting_screen
+0xc4e78e22 all
+0x5a7ece86 menu_back
+0xa301fed2 menu_music
+

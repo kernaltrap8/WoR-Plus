@@ -1,0 +1,36 @@
+[LineNumbers]
+
+[Checksums]
+0x525ca8c9 models\car_instruments\guitar\schecter\gtr73_sch_s1.qb
+0x9687f060 BRIDGE
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x1097c3af gtr73_sch_s1_NodeArray_SortedNames
+0x3ed0e471 gtr73_sch_s1_NodeArray
+0x8058e545 MISC
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0x6fb24684 GTR73_SCH_S1
+0x5de4587e GTR73_SCH_S1_GTR73_SCH_S1
+0x1a3ee890 GTR73_SCH_S1_GTR73_pickup01
+0x8337b92a GTR73_SCH_S1_GTR73_pickup02
+0x7f261953 Pos
+0xf43089bc GTR73_SCH_S1_GTR73_pickup03
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x6a541c1f GTR73_SCH_S1_GTR73_pickup04
+0x1c555c59 GTR73_SCH_S1_GTR73_switch
+0x1d532c89 GTR73_SCH_S1_GTR73_pickup05
+0x824f5cca GTR73_SCH_S1_GTR73_Bridge01
+0x1b460d70 GTR73_SCH_S1_GTR73_Bridge02
+0x385e8d74 SkinExport
+0x95656e3d gtr73_sch_s1_NodeArray_SortedIndices
+0x20c14e85 GTR73_SCH_S1_GTR73_knob01
+0x84b1df33 ExportName
+0xb9c81f3f GTR73_SCH_S1_GTR73_knob02
+0x64f0cf83 AttachPoint
+0xcecf2fa9 GTR73_SCH_S1_GTR73_knob03
+

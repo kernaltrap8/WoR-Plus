@@ -1,0 +1,43 @@
+[LineNumbers]
+shutdown_preview_monitor 2 (0,13) (36,14) 
+song_preview_monitor 74 (0,30) (6,31) (56,33) (92,35) (94,37) (112,38) (114,39) (116,40) (168,42) (170,43) (188,45) (190,46) (192,47) (228,53) (230,55) (250,56) (284,57) (299,58) (314,60) (332,63) (345,64) (347,65) (366,67) (400,68) (402,69) (452,72) (470,75) (504,76) (506,77) (508,78) (540,80) (576,81) (612,82) (616,83) (634,84) (652,85) (670,86) (696,88) (717,89) (719,90) (752,92) (782,93) (800,95) (818,97) (852,98) (854,99) (875,100) (890,101) (908,102) (918,104) (952,105) (970,106) (1004,107) (1046,108) (1080,110) (1082,111) (1084,113) (1102,116) (1136,117) (1138,118) (1140,119) (1158,121) (1160,122) (1162,123) (1212,125) (1230,128) (1264,129) (1266,130) (1268,131) (1286,133) (1288,134) (1290,135) (1292,137) (1328,139) 
+
+[Checksums]
+0x4509e107 scripts\guitar\song_preview_monitor.qb
+0x46d2007d streamname
+0xcc12115e song
+0x0ff6e19f target_songlist_song_preview
+0xbfa801df change
+0x3382a222 get_song_prefix
+0x33d3c274 SAP_PlayPreview
+0x8012c29f SetSpawnInstanceLimits
+0x77abd2e0 current_songlist_song_preview
+0xb1fd62e6 g_song_preview_monitor_shutdown_flag
+0x1aa1f382 get_song_struct
+0x869ec435 shutdown_preview_monitor
+0xdeef04cd StructureContains
+0x49c5a5d0 SAP_StopPreview
+0xdf6e661a SAP_IsPreviewPlaying
+0x6bef3672 SetScriptCannotPause
+0x2c8f368c encryption_type
+0xc3f4169a filename
+0xd24f570c song_name
+0x90fec815 structure
+0x03a17838 current_song
+0x50b0086c songlist_song_preview_changing
+0x96d978e9 g_disable_song_previews
+0x6a3568fb song_prefix
+0x976e2917 jamsession
+0x4316395b song_struct
+0x0da6698d ignore_spawn_request
+0xf4b16ab0 management
+0x3b0b8c13 nowait
+0x82117c1a wait
+0x944fcc2c content_index
+0x6289dd76 max
+0x49e0ee96 second
+0xca426ea8 get_song_encryption_type
+0xfe6caea9 song_preview_monitor
+0xfc37df05 gameframe
+0x806fff30 none
+

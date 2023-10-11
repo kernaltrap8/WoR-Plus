@@ -1,0 +1,88 @@
+[LineNumbers]
+scene_swap 27 (28,53) (64,54) (70,55) (120,56) (122,57) (128,61) (146,62) (152,63) (160,64) (170,65) (183,66) (196,67) (209,68) (222,69) (235,70) (248,71) (250,72) (258,73) (260,75) (296,79) (314,80) (332,81) (347,82) (349,83) (351,84) (353,85) (360,89) 
+select_initial_scene_swap 29 (28,93) (34,96) (52,97) (61,98) (67,99) (69,100) (71,101) (75,103) (81,105) (99,106) (117,107) (132,109) (136,110) (154,111) (178,112) (190,113) (207,114) (224,115) (225,116) (229,117) (244,119) (246,120) (264,122) (266,123) (284,127) (286,129) (288,130) (290,131) (324,134) 
+scene_swap_do 30 (28,137) (46,140) (112,141) (114,142) (148,144) (156,146) (166,147) (179,148) (192,149) (205,150) (218,151) (231,153) (244,156) (257,157) (270,158) (283,159) (296,162) (309,163) (317,165) (376,166) (378,167) (396,169) (414,170) (416,171) (452,173) (476,174) (500,175) (502,176) (531,178) (549,180) 
+scene_swap_modular_lights 35 (0,184) (8,186) (18,187) (52,189) (88,190) (124,191) (160,192) (196,193) (232,194) (268,195) (276,196) (312,198) (348,199) (384,200) (420,201) (456,202) (492,203) (528,204) (530,205) (538,208) (548,209) (584,211) (620,212) (656,213) (664,214) (700,216) (736,217) (772,218) (774,220) (782,223) (792,224) (828,226) (836,228) (872,230) (874,233) 
+get_current_scene_swap 2 (0,236) (16,237) 
+
+[Checksums]
+0xec7d8aef scripts\guitar\scene_swapping.qb
+0x0a113021 rush2112p1
+0xb2638080 z_Modular_LFX_L_Band_BackRight_Direct
+0xe41f510d rush2112p3
+0x1a146119 EnableLight
+0x9fd29151 viewport
+0x9c5d9172 g_scene_swap_prefixes
+0xcf66717b GotParam
+0x071f4183 bg_viewport
+0xc1ca119a scene_swap
+0x9318619b rush2112p2
+0xe242e1b2 ven
+0xbfa801df change
+0xa1dc81f9 name
+0x2df1c267 vis
+0x40d7329b main
+0xf08952b6 GetCurrentLevel
+0x9c335307 viewport_mask
+0x05072338 g_scene_swap_viewport_masks
+0xa8ee7357 ScriptAssert
+0x4da4937b career
+0xb99ae3d6 gameframes
+0x651533ec level
+0xa5a08420 z_Modular_LFX_L_Band_TopDown_Direct_Dream
+0x0d7cf438 rush2112p5
+0x78cf6466 tem
+0x7a7bc4ae rush2112p4
+0xe3729514 rush2112p7
+0x6c525544 map
+0x840d6547 GameMode_GetType
+0x9475a582 rush2112p6
+0x9a23c589 z_Modular_LFX_L_Band_FrontRight_Direct
+0x3a29b5c2 g_viewport_visibility
+0x7a9495d4 z_Modular_LFX_L_Band_BottomFill_Direct
+0x6de9d606 last_rush_selection
+0x10b1161a z_Modular_LFX_L_Band_TopDown_Direct
+0x6506f6c8 wait_for_next_odd_frame
+0x58dcf739 do_rush_scene_swap
+0x84bb3780 get_current_scene_swap
+0xc48f082a GetPakManCurrent
+0x52d95838 unknown
+0x03a17838 current_song
+0x7301a860 char
+0x7321a8d6 type
+0x1e71d8e8 current_scene_swap
+0x56ca1902 z_Modular_LFX_L_Band_FrontLeft_Direct
+0x8784b966 partial_prefix
+0xf958d972 DisableLight
+0x542449ae Playlist_GetCurrentSong
+0x50cd2a4b Z_Modular
+0x73c8ea5f g_viewport_visibility_default
+0xd3d40a85 sync
+0x242f9a8c scene_swap_modular_lights
+0x1db4daa4 z_Modular_LFX_L_Band_AmbientDream
+0x9078ab00 z_Modular_LFX_L_Band_Ambient
+0x522deb38 SetViewportProperties
+0xa52a9b4a g_current_scene_swap
+0xec516b6f z_Modular_LFX_L_Band_Sun_Direct_Dream
+0xb5336bae prefix_index
+0x6fb1cbb2 dre
+0x646a2bed quest_progression_is_chapter_rush
+0x8357fc10 hypersphere
+0x82117c1a wait
+0x87f75c2d n
+0xf2c9ac8b pak
+0xc4e78e22 all
+0x65e35e38 select_initial_scene_swap
+0x14378e3a z_Modular_LFX_L_Band_BackLeft_Direct
+0xcf014e47 cube
+0xbbdbde53 cub
+0xf3314e55 Load_Z_Modular
+0x098c7e6a restarting
+0x7a354e97 zones
+0x63908ebe scene_swap_do
+0x8737eeda is_network_game
+0xfc23df1c z_Modular_LFX_L_Band_AmbientTemple
+0x806fff30 none
+0xe6711f44 temple
+0x95a0ffb0 dream
+

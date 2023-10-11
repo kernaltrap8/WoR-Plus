@@ -1,0 +1,53 @@
+[LineNumbers]
+make_watch_timer 11 (44,6) (51,8) (64,9) (77,10) (89,11) (113,12) (126,13) (138,14) (150,15) (152,16) (165,18) 
+animate_watch_timer 6 (0,39) (18,41) (52,42) (54,43) (88,44) (124,45) 
+animate_watch_timer_swing 16 (0,54) (6,56) (40,58) (76,60) (112,61) (148,62) (200,63) (252,64) (304,65) (356,66) (358,68) (424,70) (476,72) (544,74) (596,76) (598,78) 
+animate_watch_timer_sweep_second 12 (0,87) (6,89) (18,90) (20,91) (46,92) (48,94) (96,95) (148,97) (168,99) (175,100) (196,101) (198,103) 
+animate_watch_timer_sweep_minute 12 (0,112) (12,114) (18,115) (20,116) (46,117) (48,119) (96,120) (148,122) (168,124) (175,125) (196,126) (198,128) 
+watch_animate_in 11 (0,137) (6,139) (44,140) (62,141) (64,142) (66,143) (100,144) (129,146) (158,147) (187,148) (189,149) 
+watch_animate_out 6 (0,158) (6,160) (40,161) (69,163) (98,164) (127,165) 
+
+[Checksums]
+0x24ce3c5a scripts\engine\menu\watchtimer.qb
+0x0576405c cas_loading_setup
+0xe9576099 autoSizeDims
+0x653a013b Timer_rot_angle
+0x73665140 CreateScreenElement
+0x01dd615f DescInterface
+0xb5387193 make_watch_timer
+0x671cc20b watch_timer
+0x7a6a1327 watch_animate_in
+0x0203b372 true
+0xf44a53ab desc
+0xb99ae3d6 gameframes
+0xf2d593d6 timer_hand_big_rot_angle
+0xaecbd5d6 Timer_watch_alpha
+0xd029f619 seconds
+0x6bef3672 SetScriptCannotPause
+0x5fa726d0 animate_watch_timer_sweep_second
+0x0ed45788 Obj_SpawnScriptNow
+0x906b67ba time
+0x768f6843 gentle
+0xe376685d animate_watch_timer
+0x40c698af id
+0x7321a8d6 type
+0x7f261953 pos
+0x1993c98e i
+0xa58079eb SetTags
+0x331baa08 lobby
+0x9381ba5b slow_out
+0xd33ada7d timer_hand_small_rot_angle
+0x56a1eae3 root_window
+0x98549ba4 anim
+0x877a9c0c animate_watch_timer_sweep_minute
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0x264e4c79 animate_watch_timer_swing
+0x62c11cb9 GetSingleTag
+0x5fa3dd75 watch_animate_out
+0xebd7ff00 Timer_hand_small_alpha
+0x57710f31 z_priority
+0xc89cdf3f Timer_hand_big_alpha
+0x5c084f7e animating_out
+0xc2719fb0 parent
+

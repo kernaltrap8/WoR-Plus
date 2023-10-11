@@ -1,0 +1,52 @@
+[LineNumbers]
+ui_create_pausemenu_change_difficulty_confirm 2 (0,8) (7,10) 
+ui_destroy_pausemenu_change_difficulty_confirm 2 (0,19) (6,21) 
+create_pausemenu_change_difficulty_confirm 14 (0,30) (15,33) (22,35) (34,36) (47,37) (53,38) (61,39) (63,40) (75,41) (85,42) (97,43) (99,44) (101,45) (103,46) 
+pausemenu_change_difficulty_confirm_ok 31 (0,55) (36,58) (46,59) (61,60) (67,62) (85,63) (91,64) (93,65) (110,66) (129,68) (143,69) (145,70) (147,71) (165,72) (173,73) (175,74) (177,75) (191,77) (215,79) (232,80) (298,81) (336,84) (359,85) (430,86) (450,87) (473,88) (544,89) (546,90) (580,92) (628,95) (646,96) 
+
+[Checksums]
+0x5c223c1f scripts\guitar\menu\states\layouts\ui_pausemenu_change_difficulty_confirm.qb
+0x44949010 difficulty
+0x428fb077 ui_destroy_pausemenu_change_difficulty_confirm
+0x792250c3 restart_warning_select_restart
+0xab215108 GetFirstPlayer
+0x0281513f globalarray
+0xcf66717b GotParam
+0xb8b0217d num_frames
+0x61810199 player_selected
+0x46159266 out
+0x11f692a6 SetPlayerInfo
+0x4b40630d NewValue
+0x4e4ba31a save_progression_instrument_user_option
+0xeab2436e last_start_pressed_device
+0x1a1ee416 new_value
+0xbd09544c func
+0x91f0e45a body_text
+0x0cb7c473 default_difficulty
+0xd87c352d expert_plus
+0xbd67a542 create_pausemenu_change_difficulty_confirm
+0x2fca0578 options
+0x67e6859a player
+0x8f61d602 ArrayName
+0x1cb2a6b0 num_players
+0x1d2d97d4 func_params
+0xc195a822 create_dialog_box
+0xc4745838 text
+0x7f8c98fe index
+0xeafc692e no_background
+0xb30d9965 controller
+0xea920ae1 GetNextPlayer
+0x37c84b09 destroy_dialog_box
+0x8e10bb70 SetArrayElement
+0x25cadcac GetNumPlayersInGame
+0x5cc16cdf drum
+0xba163ce0 isSinglePlayerGame
+0x4ed8fd58 hide_glitch
+0x3b87ad98 pausemenu_change_difficulty_confirm_ok
+0x65485eea GetPlayerInfo
+0x5de39ef1 double_kick_drum
+0xb6f08f39 part
+0xa579ff4f option
+0x29b3cf64 ui_create_pausemenu_change_difficulty_confirm
+0x69d0dfaf player_device
+

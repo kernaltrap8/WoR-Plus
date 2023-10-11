@@ -1,0 +1,680 @@
+[LineNumbers]
+create_jamroom_highway_visuals 15 (28,94) (51,96) (100,100) (118,101) (147,102) (180,103) (209,106) (215,108) (245,109) (280,110) (320,111) (356,114) (362,116) (375,117) (393,119) 
+musicstudio_jamroom_set_transparent_highway 12 (0,128) (59,129) (81,130) (83,131) (85,132) (92,133) (105,134) (114,135) (126,136) (155,137) (158,138) (160,139) 
+create_jamroom_highway 21 (28,147) (40,149) (58,150) (64,152) (77,155) (112,156) (125,157) (127,158) (145,161) (152,162) (154,163) (172,166) (189,167) (212,168) (242,169) (244,170) (280,173) (316,174) (322,176) (356,177) (392,179) 
+destroy_jamroom_highway 8 (0,188) (6,190) (40,191) (63,193) (69,198) (76,201) (82,203) (116,204) 
+jamroom_remove_controller 8 (0,213) (17,216) (35,217) (41,218) (43,219) (61,222) (84,223) (90,224) 
+jamroom_add_player 14 (28,233) (40,236) (54,237) (78,239) (99,241) (122,242) (145,243) (147,244) (168,246) (191,247) (214,248) (216,249) (257,251) (271,253) 
+musicstudio_jamroom_init_player_menu 33 (0,262) (72,264) (134,267) (158,270) (195,271) (249,274) (256,275) (269,276) (282,277) (294,278) (338,279) (354,280) (366,281) (378,282) (380,283) (434,285) (455,286) (473,287) (475,288) (482,290) (494,291) (507,292) (520,293) (536,294) (538,295) (576,298) (600,301) (650,303) (664,305) (677,306) (689,307) (691,308) (693,310) 
+musicstudio_jamroom_deinit_player_menu 5 (0,314) (54,316) (75,317) (93,318) (95,319) 
+musicstudio_jamroom_animate_player_menu 14 (0,323) (54,325) (75,326) (113,327) (152,329) (191,330) (220,331) (224,332) (263,333) (292,334) (321,335) (323,336) (325,338) (327,339) 
+musicstudio_jamroom_set_title_text 8 (0,343) (54,345) (75,346) (113,347) (138,349) (156,350) (158,351) (160,352) 
+musicstudio_jamroom_set_title_rgba 7 (0,356) (54,358) (75,359) (113,360) (138,362) (140,364) (142,365) 
+musicstudio_jamroom_set_start_text 7 (0,369) (54,371) (75,372) (113,373) (150,375) (152,377) (154,378) 
+musicstudio_jamroom_get_list_checksum_tracks_size 3 (0,413) (14,415) (28,416) 
+musicstudio_jamroom_get_list_checksum_tracks 2 (0,420) (32,422) 
+musicstudio_jamroom_tracks_get_focusable 30 (0,426) (29,428) (42,430) (80,433) (120,434) (138,435) (151,436) (153,437) (157,440) (196,442) (210,445) (223,446) (242,447) (255,450) (274,451) (287,454) (289,455) (291,456) (305,459) (307,461) (309,463) (326,466) (344,467) (362,468) (375,469) (416,470) (429,471) (431,472) (433,473) (447,475) 
+musicstudio_jamroom_select_track 10 (0,484) (29,486) (46,489) (64,490) (77,491) (79,492) (103,495) (127,497) (152,498) (170,500) 
+musicstudio_jamroom_transport_shared 36 (0,510) (17,512) (71,513) (92,515) (130,516) (146,518) (184,519) (197,520) (210,521) (224,522) (226,523) (238,526) (251,527) (287,530) (324,532) (326,533) (330,534) (349,535) (384,536) (434,537) (438,538) (472,539) (474,540) (476,541) (480,542) (499,543) (517,544) (552,545) (602,546) (606,547) (640,548) (676,549) (678,550) (680,551) (682,553) (684,554) 
+musicstudio_jamroom_transport_right 2 (0,558) (29,559) 
+musicstudio_jamroom_transport_left 2 (0,562) (29,563) 
+musicstudio_jamroom_transport_count_hold_right 2 (0,566) (7,567) 
+musicstudio_jamroom_transport_count_hold_left 2 (0,570) (7,571) 
+musicstudio_jamroom_transport_count_hold 25 (0,574) (12,576) (37,577) (39,579) (52,581) (73,584) (106,586) (110,587) (112,588) (114,589) (164,590) (166,592) (196,594) (215,597) (233,598) (251,599) (271,600) (281,601) (299,602) (317,603) (319,604) (337,605) (339,606) (341,607) (343,608) 
+musicstudio_update_dir_for_lefty_flip 14 (0,612) (13,614) (30,615) (47,616) (68,618) (86,619) (104,620) (117,621) (137,622) (150,623) (152,624) (154,625) (156,626) (170,628) 
+musicstudio_jam_room_create_instrument_live 2 (0,637) (18,640) 
+musicstudio_jam_room_create_instrument_pattern 2 (0,644) (18,647) 
+musicstudio_jamroom_jamming_init 5 (0,651) (23,654) (53,656) (77,659) (101,660) 
+musicstudio_jamroom_jamming_deinit 6 (0,664) (23,667) (53,669) (77,672) (101,673) (136,675) 
+musicstudio_jamroom_get_inst_name_text 9 (0,679) (24,681) (37,682) (55,684) (61,685) (65,686) (94,687) (96,688) (110,690) 
+musicstudio_jamroom_update_title_text_color 11 (0,694) (17,696) (46,697) (70,699) (83,700) (102,702) (120,703) (150,704) (152,705) (154,706) (184,708) 
+music_studio_jamroom_count_in_check_player_status 11 (0,712) (12,714) (30,715) (60,716) (62,717) (75,719) (134,720) (156,721) (188,722) (190,723) (220,725) 
+musicstudio_jamroom_count_in 14 (0,729) (40,731) (62,732) (64,733) (100,734) (110,736) (112,737) (114,738) (131,740) (138,741) (148,743) (150,744) (152,745) (175,747) 
+musicstudio_jamroom_create_instrument 12 (0,751) (17,753) (34,754) (89,756) (138,759) (174,760) (269,763) (271,765) (289,768) (320,769) (356,770) (358,771) 
+musicstudio_jamroom_destroy_instrument 16 (0,775) (52,777) (69,779) (87,781) (89,782) (91,783) (108,785) (144,787) (199,789) (259,790) (261,792) (310,794) (328,795) (355,798) (379,799) (381,800) 
+musicstudio_jamroom_exit_cleanup 9 (0,810) (6,812) (40,814) (76,815) (112,816) (164,818) (216,819) (268,820) (320,821) 
+musicstudio_jamroom_destroy_hud_extras 4 (0,830) (36,832) (72,833) (74,834) 
+musicstudio_jamroom_create_hud_extras 20 (0,843) (6,845) (15,847) (27,848) (39,849) (50,850) (62,851) (74,852) (76,853) (83,855) (95,856) (107,857) (119,858) (155,859) (167,860) (183,861) (196,862) (209,863) (211,864) (229,866) 
+musicstudio_jamroom_update_hud_extras 89 (0,875) (40,877) (42,878) (44,879) (76,882) (108,883) (140,884) (172,886) (204,887) (236,888) (248,890) (280,893) (312,894) (325,895) (338,896) (351,897) (360,898) (374,899) (388,900) (402,901) (404,902) (412,904) (422,905) (435,906) (447,907) (459,908) (475,909) (491,910) (504,912) (517,913) (530,915) (543,916) (556,917) (558,918) (581,919) (594,921) (607,922) (619,923) (631,924) (644,926) (657,927) (670,929) (672,932) (695,933) (708,935) (721,936) (733,937) (745,938) (758,940) (771,941) (784,943) (786,946) (799,948) (812,949) (824,950) (836,951) (848,953) (860,954) (876,955) (892,956) (905,958) (918,959) (931,961) (944,962) (957,963) (959,964) (982,965) (1013,967) (1026,969) (1039,970) (1051,971) (1063,972) (1075,974) (1087,975) (1103,976) (1119,977) (1132,979) (1145,980) (1158,982) (1171,983) (1184,984) (1186,985) (1209,986) (1240,988) (1242,990) (1280,993) (1325,994) (1349,995) (1351,996) 
+musicstudio_jamroom_get_current_style_struct 4 (0,1005) (12,1007) (36,1008) (50,1009) 
+musicstudio_update_script_bpm_with_song_info 3 (0,1018) (6,1019) (24,1020) 
+musicstudio_jamroom_set_style_from_wizard 10 (0,1028) (16,1033) (22,1035) (46,1036) (70,1037) (76,1038) (112,1041) (118,1042) (124,1043) (160,1044) 
+musicstudio_jamroom_set_state_text 10 (28,1053) (64,1055) (76,1056) (78,1057) (108,1058) (130,1059) (137,1060) (141,1061) (171,1062) (173,1063) 
+musicstudio_jamroom_set_state_text_per_player 42 (0,1067) (54,1069) (75,1070) (113,1071) (121,1073) (131,1074) (145,1075) (157,1076) (186,1077) (198,1078) (200,1080) (213,1081) (227,1082) (239,1083) (268,1084) (280,1085) (282,1087) (295,1088) (309,1089) (321,1090) (350,1091) (362,1092) (364,1094) (377,1095) (391,1096) (403,1097) (432,1098) (444,1099) (446,1101) (459,1102) (473,1103) (485,1104) (497,1105) (526,1106) (528,1108) (541,1109) (565,1110) (578,1111) (602,1112) (604,1113) (606,1115) (608,1116) 
+set_highway_recording_effect 27 (0,1195) (59,1197) (77,1200) (107,1201) (123,1202) (164,1205) (194,1206) (210,1207) (214,1210) (230,1211) (246,1212) (248,1213) (270,1215) (272,1216) (274,1217) (313,1220) (341,1221) (343,1222) (345,1223) (363,1225) (376,1226) (388,1227) (401,1228) (414,1229) (426,1230) (438,1231) (440,1232) 
+musicstudio_jamroom_stop_recording_all_players 10 (0,1241) (35,1243) (48,1244) (50,1245) (77,1246) (95,1247) (97,1248) (119,1249) (129,1250) (131,1251) 
+musicstudio_jamroom_loop_playtime 4 (0,1260) (36,1262) (72,1263) (78,1264) 
+musicstudio_jamroom_pause_script 6 (0,1273) (35,1275) (68,1276) (70,1277) (104,1279) (110,1280) 
+musicstudio_jamroom_stop_recording_and_playing_all_players 4 (0,1289) (6,1290) (40,1291) (46,1292) 
+musicstudio_input_send_pattern_to_highway 44 (0,1300) (8,1302) (10,1303) (22,1304) (34,1306) (46,1307) (48,1308) (50,1309) (62,1310) (74,1312) (86,1313) (88,1314) (90,1315) (102,1316) (114,1318) (126,1319) (128,1320) (130,1321) (142,1322) (154,1324) (166,1325) (168,1326) (170,1327) (182,1328) (194,1330) (206,1331) (208,1332) (210,1333) (222,1334) (234,1335) (263,1337) (275,1338) (277,1339) (279,1340) (303,1342) (315,1344) (327,1345) (339,1346) (341,1347) (376,1348) (401,1349) (403,1350) (425,1351) (433,1352) 
+musicstudio_jamroom_create_joing_player_handler 24 (0,1361) (18,1363) (75,1364) (82,1365) (95,1366) (107,1367) (119,1368) (135,1369) (151,1370) (170,1371) (189,1372) (208,1373) (220,1374) (232,1375) (244,1376) (256,1377) (268,1378) (280,1379) (293,1380) (301,1383) (314,1384) (316,1385) (318,1386) (347,1387) 
+musicstudio_jamroom_remove_joing_player_handler 5 (0,1391) (57,1393) (78,1394) (96,1395) (98,1396) 
+rebuild_all_highways_spawned 3 (0,1400) (52,1404) (64,1405) 
+musicstudio_jamroom_on_playerjoin 8 (0,1409) (34,1411) (62,1412) (112,1413) (130,1414) (164,1415) (182,1416) (184,1417) 
+musicstudio_jamroom_create_play_now_helper 7 (0,1421) (36,1423) (38,1424) (40,1425) (46,1427) (372,1443) (456,1450) 
+musicstudio_jamroom_destroy_play_now_helper 4 (0,1454) (36,1455) (72,1456) (74,1457) 
+musicstudio_jamroom_collapse_player_num 10 (0,1465) (13,1469) (25,1470) (27,1471) (54,1472) (76,1473) (78,1474) (99,1475) (107,1476) (121,1477) 
+musicstudio_jamroom_drop_out_init 26 (0,1486) (52,1488) (65,1490) (67,1491) (83,1492) (85,1493) (87,1494) (100,1495) (152,1496) (154,1497) (172,1499) (226,1500) (264,1501) (288,1502) (302,1503) (315,1504) (327,1505) (329,1506) (331,1507) (333,1508) (335,1509) (353,1511) (365,1512) (371,1513) (388,1515) (406,1516) 
+musicstudio_jamroom_refresh_lower_highway_display 2 (0,1525) (36,1526) 
+musicstudio_jamroom_instrument_select_update_data 8 (0,1534) (18,1536) (52,1537) (71,1538) (75,1539) (89,1540) (91,1541) (105,1543) 
+musicstudio_jamroom_sound_select_update_data 3 (0,1547) (14,1549) (28,1551) 
+musicstudio_jamroom_scrolling_menu_update 53 (0,1555) (15,1557) (17,1558) (19,1559) (73,1561) (95,1562) (97,1563) (99,1564) (137,1566) (151,1569) (189,1570) (227,1571) (248,1574) (261,1576) (274,1577) (286,1578) (298,1579) (327,1586) (356,1587) (358,1590) (382,1591) (403,1592) (415,1594) (441,1595) (477,1596) (479,1597) (505,1599) (541,1600) (543,1601) (561,1603) (579,1604) (603,1605) (621,1608) (635,1609) (637,1610) (658,1612) (672,1613) (674,1614) (678,1615) (696,1616) (720,1617) (749,1618) (751,1619) (753,1620) (775,1621) (783,1622) (818,1624) (847,1625) (849,1626) (851,1627) (853,1628) (855,1629) (857,1630) 
+musicstudio_jamroom_track_select_deinit 2 (0,1639) (6,1640) 
+musicstudio_jamroom_visualizer_message 23 (0,1648) (16,1650) (18,1651) (20,1652) (56,1654) (70,1655) (72,1656) (108,1659) (148,1661) (161,1662) (163,1663) (200,1666) (224,1667) (264,1668) (282,1669) (306,1670) (308,1671) (310,1672) (328,1674) (330,1675) (332,1676) (362,1678) (364,1679) 
+musicstudio_jammrom_change_players_menu_focus 29 (0,1688) (13,1690) (15,1691) (69,1692) (90,1693) (128,1694) (196,1695) (214,1698) (232,1699) (284,1700) (305,1702) (334,1703) (336,1704) (340,1707) (375,1708) (396,1709) (448,1710) (477,1711) (507,1712) (511,1713) (560,1714) (589,1715) (619,1716) (621,1717) (623,1718) (625,1719) (627,1720) (649,1722) (656,1723) 
+musicstudio_jamroom_outofnotes_warning_exit 4 (0,1732) (6,1733) (56,1734) (92,1735) 
+musicstudio_jamroom_outofnotes_warning 18 (0,1743) (6,1745) (40,1747) (46,1748) (53,1749) (65,1750) (77,1751) (92,1752) (98,1753) (106,1754) (108,1755) (120,1756) (132,1757) (144,1758) (146,1759) (148,1760) (160,1761) (162,1762) 
+musicstudio_jamroom_instrument_init 3 (0,1771) (23,1773) (30,1774) 
+musicstudio_on_rebuild_all_highways 2 (0,1783) (6,1784) 
+musicstudio_jamroom_get_part_names 8 (44,1792) (67,1794) (113,1795) (180,1796) (247,1797) (315,1798) (383,1799) (386,1800) 
+create_jam_band_menu 35 (60,1824) (96,1826) (132,1827) (168,1830) (204,1832) (240,1835) (246,1839) (252,1840) (258,1843) (352,1851) (392,1852) (428,1854) (434,1855) (624,1867) (676,1869) (728,1870) (780,1871) (832,1872) (838,1875) (868,1878) (883,1880) (901,1882) (919,1883) (984,1884) (988,1885) (1040,1886) (1058,1887) (1060,1888) (1062,1889) (1096,1892) (1216,1894) (1222,1896) (1304,1898) (1310,1899) (1316,1901) 
+jam_setup_song 46 (60,1910) (74,1913) (100,1914) (118,1917) (152,1918) (188,1919) (190,1920) (224,1922) (260,1923) (296,1926) (360,1929) (424,1930) (436,1932) (454,1935) (460,1938) (480,1941) (486,1944) (492,1945) (576,1948) (580,1950) (586,1951) (621,1953) (656,1955) (676,1958) (678,1960) (698,1963) (718,1964) (738,1965) (758,1966) (764,1968) (766,1973) (804,1975) (838,1976) (840,1977) (858,1979) (888,1982) (940,1984) (958,1987) (964,1988) (968,1989) (982,1990) (1014,1991) (1020,1994) (1044,1995) (1046,1996) (1048,1998) 
+jam_setup_new_song 47 (0,2007) (36,2011) (50,2014) (76,2015) (112,2018) (118,2021) (152,2024) (188,2025) (224,2026) (230,2029) (300,2032) (372,2033) (448,2036) (454,2039) (460,2042) (466,2045) (472,2048) (587,2051) (620,2064) (656,2067) (692,2070) (704,2071) (706,2072) (718,2073) (730,2074) (738,2075) (748,2076) (763,2077) (776,2078) (788,2079) (803,2080) (816,2081) (831,2082) (846,2083) (859,2084) (874,2085) (889,2086) (902,2087) (917,2088) (932,2089) (934,2090) (1014,2092) (1036,2093) (1044,2094) (1050,2095) (1056,2096) (1092,2098) 
+jam_create_select_instrument_menu 6 (28,2107) (64,2109) (116,2110) (118,2111) (135,2113) (165,2116) 
+jam_update_falling_gem_sustain 19 (0,2125) (17,2127) (56,2129) (74,2130) (96,2131) (100,2132) (122,2133) (124,2134) (154,2135) (156,2136) (158,2137) (176,2139) (198,2140) (200,2141) (222,2144) (240,2146) (253,2147) (255,2148) (285,2150) 
+jam_fretboard_add_note 21 (0,2154) (54,2157) (76,2158) (78,2159) (80,2160) (96,2162) (112,2163) (130,2165) (147,2167) (164,2168) (182,2171) (204,2172) (217,2173) (219,2174) (221,2175) (239,2177) (270,2178) (272,2179) (285,2181) (297,2182) (327,2187) 
+jam_init_reverb 1 (0,2198) 
+jam_deinit_reverb 1 (0,2204) 
+destroy_jam_band_menu 18 (0,2215) (44,2217) (50,2218) (56,2230) (92,2233) (128,2234) (164,2235) (170,2238) (204,2240) (210,2242) (244,2244) (280,2245) (316,2246) (322,2247) (328,2248) (364,2250) (400,2251) (402,2252) 
+jam_destroy_player 27 (0,2262) (54,2272) (75,2273) (93,2274) (95,2275) (154,2277) (175,2278) (193,2279) (195,2280) (250,2282) (271,2283) (289,2284) (291,2285) (338,2287) (359,2288) (377,2289) (379,2290) (436,2292) (454,2293) (511,2296) (529,2297) (578,2300) (596,2301) (614,2304) (632,2306) (687,2309) (705,2310) 
+
+[Checksums]
+0x9858c5b0 scripts\guitar\musicstudio\musicstudio_jamroom.qb
+0xb990d003 target
+0x8e411006 b
+0x90789007 musicstudio_jamroom_set_transparent_highway
+0x44949010 difficulty
+0x39940016 tutorial
+0x40514017 destroy_jam_band_menu
+0x9934c019 play_back
+0x73bc801e jamroom_hud
+0x9fe43020 jam_recording_setup_timesig
+0x661d1021 jam_menu_get_lefty
+0x2fb50026 ffrw_color_on
+0x827d6028 musicstudio_jamroom_gem_allocation_frames
+0xcbd8702c jam_input_add_player_server
+0xcd0dc02d KillSpawnedScript
+0x475bf03c event_handlers
+0xc812b05a jam_current_quantize
+0x64cb606e record
+0x62dfc076 editable
+0x01984077 pad_btn_top
+0x67208081 musicstudio_jamroom_highway_info
+0x9a2e9095 set_focus_color
+0xb28ee0b9 menu_cont_alpha
+0x7c9660c7 jam_room_highway
+0x2c76b0c7 blend_off
+0x376520c9 m_pulseColor
+0xbc5bf0ce pak_name
+0xe8dc80d1 AddToStringLookup
+0x05f410d6 create_jamroom_highway_visuals
+0xb9d370d7 musicstudio_jamroom_ghost_note_morph_time
+0xd04d60db record_off_rgba
+0xecda20e6 musicstudio_keyboard_volume_default
+0x2d74f0ec musicstudio_refresh_lefty_flip_flags
+0xe3f170f2 ChangeScreenElementColorbygfs
+0xe4f130f4 s
+0xeb1f60fc sound_select
+0xcd371100 ui_destroy_func
+0xdb161106 GetSongInfo
+0xb12b510a spriteElement
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0xf66ff117 in_game
+0x6f675119 musicstudio_jamroom_init_player_menu
+0x0221f11b do_wait
+0x877ec122 anim_height_offset
+0xaef6d126 musicstudio_jamroom_create_joing_player_handler
+0x5bcac126 jam_init_reverb
+0xdec02129 play_alpha
+0x3611c136 GetTags
+0x88a9413d musicstudio_jamroom_ghost_note_alpha
+0x73665140 CreateScreenElement
+0xcfddf140 guitar_jam_simplerecops_skipfb
+0xa1762145 play
+0x594a8149 rewind
+0x7df8614e p
+0xf0462150 fit content if larger
+0xa801215d MusicStudioMenu_SetScrollingState
+0xcc12115e song
+0x01dd615f DescInterface
+0x2a5d4166 musicstudio_keyboard_pan_default
+0x9a74316e jam_tracks
+0x33e69171 jam_rhythm_chord_type
+0xcf66717b GotParam
+0xc038b181 jam_melody_octave_range
+0x73f76190 debug_analog_options_disable
+0xe73e6196 audio_jam_play_metronome_sfx
+0x2c9a019d MusicStudioJamroom_GetVisualizerSlot
+0x599141a0 musicstudio_jamroom_outofnotes_warning
+0x6df331a0 line6_1_pan_default
+0xf4cc51a3 jam_recording_create_editable_arrays
+0xd88951a6 jamroom_top_title_rgba
+0xd64e81a8 jam_destroy_player
+0x6d8e11a8 first
+0xa01371b1 in
+0xe2cc51b2 jam_input_destroy_player_server
+0x5d0671b8 channel
+0x174841bc a
+0x1ec6e1bf pure_white
+0x0c3381c1 scrolling_cont
+0x97f711d5 musicstudio_jamroom_drum_get_name_text
+0x708621dc guitar_jam_simplerecops_command_stopplay
+0xbfa801df change
+0x3b4631df IsPs3
+0x2d8d91e0 MusicStudioJamRoom_GetAvailablePlayerIndex
+0xd16b61e6 starttime
+0x2f5ea1e8 whammy_adj
+0x22f231e9 MusicStudioPlayer_SetInstrument
+0xd04ef1ea line6_pod_remove
+0x42e641f5 jam_band_song_length
+0xa1dc81f9 name
+0xc9f421fe MusicStudio_GetPlayerFromIndex
+0xa449d200 musicstudio_jamroom_tracks
+0xc0e6520f record_inside_rgba
+0x1841e214 allow_easy_backout
+0x46653221 volume
+0x500eb224 Obj_GetID
+0xd4b5322a MusicStudioGhmix_ChangeBpm
+0x3007d22d musicstudio_clear_button_text
+0x8b60022f just
+0x29324230 GetActiveControllers
+0x35aea234 jamroom_state_light_alpha
+0x792d123b strum_pattern
+0xd865723c destroy_highway
+0xf3faa23e MusicStudioPlayer_GetPlayerIndex
+0x60f6f242 globalname
+0x990a8247 musicstudio_menu_music_final_select
+0x8fae8247 title_text
+0x5f65324d musicstudio_jamroom_count_in
+0x83c2824f name_text
+0xd4b50263 gem_colors
+0x46159266 out
+0x69d7626e line6_0_pan
+0x4656e275 jam_band_playline_pos
+0x4408927e MusicStudio_CreateVisualizerFromStyleStruct
+0x5e2da286 current_bpm
+0x7d99f28d texture
+0x11f692a6 SetPlayerInfo
+0xd04592a8 record_inside_on_rgba
+0xd443a2bc off
+0x7d3db2bf jamroom_player_menu
+0xc852c2cd player_object
+0x07f042ce jam_cont_start_pos
+0x9185e2dd jam_band
+0xa40b52de musicstudio_init_all_line6_effects
+0x2601f2e2 MusicStudioPlayer_GetController
+0xe780f2e4 musicstudio_playline
+0x896692f0 jam_create_select_instrument_menu
+0x6559b2f9 red_top_gem
+0xe5ab3304 jamroom_state_text
+0x5ffd1305 list_checksum
+0x5b644307 musicstudio_jamroom_scrolling_pause_state
+0x4b40630d newvalue
+0x1fbad314 name_head
+0x4fc76324 button_hold_count
+0x67333326 jam_highway_fast_forward
+0xcd1b5327 musicstudio_jamroom_pause_script
+0x76d0b32c musicstudio_jamroom_gem_offset
+0x6aa6d32e musicstudio_jamroom_join_parent
+0x6b024331 jam_current_instrument_effects
+0x4a07c332 frame
+0x9eb6e336 SpawnScript
+0x1f6c133a guitar_jam_simplerecops_play
+0xd4f0833f musicstudio_jamroom_tracks_get_focusable
+0x907a8353 skip_highway_move
+0x4099d357 musicstudio_jamroom_destroy_instrument
+0x2ffb1360 yellow
+0x5c430371 pattern
+0x0203b372 true
+0x5b058376 param
+0x3ef3c37d destroy_jamroom_highway
+0xed6be38a SetTrackInfo
+0xf1cde38f musicstudio_jamroom_destroy_hud_extras
+0x726ac397 fastforward_pos
+0x4837e397 pos_anchor
+0xa61e039f jam_reverb
+0x6768b3a2 destroy_menu
+0x445f53a4 color_string
+0xf44a53ab desc
+0xda3403b0 null
+0xc5f953c2 button
+0xb99ae3d6 gameframes
+0x9858f3db name_neck
+0xf17743dd pad_ps3_alpha
+0xba4403df name_mid
+0x67e093e4 internal_just
+0x804bb3ec trchen
+0xc5bc93ee ScreenElementExists
+0x2f09d3fe gems
+0x8560f402 sustain_global
+0xe58d3403 note_quantize_ms
+0x160ac407 MusicStudioMenu_DeinitPreviousState
+0xff0db407 textname
+0xf758040b inside_off_rgba
+0x3e77e412 ii
+0x1f22541c musicstudio_jamroom_create_instrument
+0x8798041c note_value
+0x2396c424 jamroom_top_title_text
+0x1d944426 not_focusable
+0x9277f428 formattext
+0x918c3438 musicstudio_jammrom_change_players_menu_focus
+0x2048b43a musicstudio_jamroom_update_hud_extras
+0xa235543e ffrw_color_dim
+0xc0fa3443 downloaded
+0xbd09544c func
+0x94d50450 fast_forward
+0x3d135451 scrolling_state
+0x91f0e45a body_text
+0x562da45c jamroom_top_alpha
+0x1e93946b alias
+0x45b2946d musicstudio_jamroom_select_track
+0xaf06447b enabled
+0x4df1047c list_size
+0x14c06486 create_jam_band_menu
+0x6a9fc486 musicstudio_lead_volume_default
+0xadf43487 scrolling_menu_elements
+0xc1df048e scrolling_options
+0x536d9492 IsScreenElementInFocus
+0xa177c495 tex\models\Highway\Highway_Judy_fm_01.dds
+0x1d2994a0 inst_cont
+0x41cf44a8 anim_scale_offset
+0x4b4e14ab spacing_between
+0x44acd4ac recording
+0x39b5c4b0 GetArraySize
+0xfd0f34b0 musicstudio_create_fretbars
+0xf90c04bf jam_song_version
+0x9adbb4c4 jam_player_spawns
+0xae7664c4 musicstudio_jamroom_create_hud_extras
+0xdeef04cd StructureContains
+0xec69d4d5 jam_fretboard_add_note
+0xbf0f14db center
+0xb50554ed musicstudio_jamroom_highways
+0xee1f24ff musicstudio_jamroom_exit_cleanup
+0x8da97503 primary_controller
+0xd9f6150a stop_inside_rgba
+0x9d3fb516 focus
+0x0e61b525 RunScriptOnScreenElement
+0x2aae3531 jamroom_top_text
+0x6977a544 kick_bar_purple
+0x4c29c545 RequireParams
+0xb69d6568 easy
+0xada9f56d musicstudio_jam_room_create_instrument_pattern
+0x40de9572 set_unfocus_color
+0x34a68574 dims
+0x2fca0578 options
+0x00516579 jamroom_state_alpha
+0x07c3f586 musicstudio_jamroom_refresh_lower_highway_display
+0x86716595 recording_studio
+0x67e6859a player
+0x403d559a musicstudio_jamroom_get_list_checksum_tracks
+0xf259859d array_count
+0xb75fe5a6 musicstudio_jamroom_get_inst_name_text
+0x0947b5ab jam_recording_check_disconnect
+0x38df95b8 MusicStudioJamRoom_IsInJamRoom
+0xe22dd5c2 lefty_flip
+0x23a4e5c2 Obj_SpawnScript
+0xf3e055e1 select_shift
+0xe60b85e6 musicstudio_init_pan
+0x455485ef dir
+0x150d35f1 heading_text
+0x214595fe jam_instrument
+0xb559d605 style_index
+0x92886608 ControllerPressed
+0xb211a60b MusicStudioPlayer_EnablePerspectiveHighway
+0x6fc8d60b style_struct
+0x2de8c60e printf
+0xd029f619 seconds
+0x0c75b61f MusicStudioPlayer_PostCreateHighwayInit
+0xc3409622 instrument
+0xf649d637 on
+0x66beb642 highway_judy
+0xaa6f4643 IsXenonOrWinDX
+0x564e8644 jam_recording_spawns
+0x3e04264c jamroom_add_player
+0xc539a64f SetSongInfo
+0x7cc32659 musicstudio_jamroom_deinit_player_menu
+0x7c6f6666 tip_alpha
+0x80bb1677 instrument_select
+0x98fe167c musicstudio_jamroom_ffrw_delay
+0xb1a2f685 musicstudio_drums_pan_default
+0x1eb4a686 jamroom_state_rgba
+0x6c348693 file_id
+0x2f1fc695 alpha
+0xc3f4169a filename
+0x1cb2a6b0 num_players
+0xa94516b9 musicstudio_jamroom_scrolling_track_select_state
+0x019176c5 frames
+0xd492f6cc MusicStudioJamRoom_GetNumJamRoomPlayers
+0xaef3c6cf MusicStudio_GetPauseAll
+0xed8376d9 musicstudio_jamroom_transport_count_hold
+0x8a34b6dc num_jam_room_players
+0x332816ed menu_id
+0xc5a3a6f5 gem_pattern
+0x99e116f7 jam_current_drum_kit
+0xbc7316fe override_parent
+0x54e766ff jam_input_melody_stop_sound
+0x99a9b716 color
+0xcb29971c musicstudio_jamroom_outofnotes_warning_exit
+0x6094a71f local_player
+0x9ad8a729 jamroom_remove_controller
+0xbaaf572c player_cont
+0x594b4730 MusicStudioPlayer_SetInputUpdate
+0x1451a736 editable_fretbars_size
+0x5f81b742 is_jamming
+0x2cb33744 LaunchEvent
+0xc48d8748 musicstudio_enable_bot_highways
+0x755c7749 menu_drop_pos
+0x11dab754 hold_pattern
+0x291c0759 track
+0xe4a9075b rewind_scale
+0x71e41760 line6_0_volume
+0x2149d764 musicstudio_menu
+0x47375767 lefty
+0x0b89d772 musicstudio_jamroom_gem_offset_time
+0x57b8777b set_highway_recording_effect
+0x6a16c783 musicstudio_update_script_bpm_with_song_info
+0x0ed45788 Obj_SpawnScriptNow
+0xfa3ea78b inside_active_rgba
+0xcc424795 style
+0xc1dfc799 record_on_rgba
+0xfa97b79d LegacyDoMorph
+0x4e90079d jam_mode
+0x1a9947ae musicstudio_sustain_hold_percent
+0x906b67ba time
+0xfb6e97bb song_name_text
+0x5a6577bc jam_selected_song
+0x8abec7c2 musicstudio_jamroom_visualizer_message
+0x9b5f87c4 jam_highway_recording
+0x0a68c7cc hw_color_default
+0x0c5f37cd enable
+0xd43297cf false
+0x032de7d8 playback_sustain_note_0
+0x4a4c37dc musicstudio_jamroom_sound_select_update_data
+0x4b47a7e4 MusicStudio_GetPlayerFromInstrument
+0xb2fa17ee jam_init_scales
+0xa366c7ef IsGuitarController
+0xaad197f6 MusicStudioPlayer_SetJamming
+0xbd4e17fe line6_1_volume
+0x82a35804 pan
+0x90fec815 structure
+0xc85c881a dim
+0xc195a822 create_dialog_box
+0xa9593822 cur_id
+0xf4d9a825 add_user_control_helper
+0xb065e825 line6_0_pan_default
+0x4d02a830 debug_analog_options_enable
+0xc4745838 text
+0x766c383a pos_offset
+0x5b9da842 containerelement
+0xa2a4d849 pad_choose_sound
+0xf5574860 bass_kit_mode
+0x6aaac866 create_jamroom_highway
+0x40f3f869 jam_melody_pan
+0xadcc4879 materialProps
+0x1972788c gh4_jam_orangeish
+0xf23c0895 rewind_pos
+0x29f1a896 GetScreenElementChildren
+0x85981897 LEFT
+0x3b0aa8a3 MusicStudio_GetPlayerFromController
+0x7f3698a9 show_hud
+0xd70ff8ac input_spawn
+0x40c698af id
+0xe2be28b2 musicstudio_jamroom_loop_playtime
+0x93d188b3 create_highway_visual
+0x1fc908b5 bkutcher
+0x43de08bd container_id
+0xf77898be available_player_index
+0x1ea8e8c3 musicstudio_jamroom_max_highway_scroll_time
+0x2eb568ca MusicStudioJamRoom_GetBotStatus
+0x321af8d0 musicstudio_menu_unused_button
+0x922658d1 jam_band_pixels_per_second
+0x7321a8d6 type
+0xc9add8ea musicstudio_jamroom_drop_out_init
+0xe05888eb MusicStudioGhmix_GetNoteQuantizeMS
+0xe26c28f1 MusicStudioJamRoom_RebuildAllHighways
+0xa4e968f6 musicstudio_rhythm_volume_default
+0x8f20c8fc music_studio_jamroom_count_in_check_player_status
+0x7f8c98fe index
+0xcad82908 musicstudio_on_rebuild_all_highways
+0xa23ff911 jam_input_spawns
+0xf3896918 destroy_loading_screen
+0x1e841918 stop_custom_song
+0xd805e929 record_inside_active_rgba
+0xeafc692e no_background
+0x0333b930 musicstudio_jamroom_set_title_rgba
+0xfab5c934 alt_text
+0xf8cbb948 num_jam_players
+0x46a9e949 stop
+0x0ebf994a generate_pos_table
+0xea37494b four_lane_highway
+0x7f261953 pos
+0xb30d9965 controller
+0xc1f89976 musicstudio_drums_volume_default
+0x9bf61977 select_player
+0xd1aa397a jam_current_bpm
+0x0195a97e jam_current_tuning
+0x7094398d rebuild_all_highways_spawned
+0x1993c98e i
+0x6ab2498f jam_band_create_highway
+0xf90eb99a jam_band_recording
+0x5005e99a musicstudio_init_volumes
+0x9c4d59a5 rewind_inside_rgba
+0x3c15e9b6 DestroyScreenElement
+0x080f89ba ResetYieldInfo
+0x284f89c4 musicstudio_jamroom_set_state_text_per_player
+0x8c3399db musicstudio_jamroom_transport_right
+0xc130f9e5 ScriptIsRunning
+0x1cb4c9e8 destroy_menu_backdrop
+0xa58079eb SetTags
+0x66f219eb musicstudio_jamroom_set_style_from_wizard
+0xe60dd9fc input_array
+0xf8725a00 current_state
+0x449dca03 jam_highway_play_time
+0x26982a07 all_buttons
+0xc9428a08 device_num
+0x46fdaa0b pad_360_alpha
+0x6c9e6a0d scrolling_inst_select
+0x0f9f0a19 musicstudio_jamroom_destroy_play_now_helper
+0x6c68ea32 handler
+0x23d93a37 setup_highway
+0x2df9ca47 musicstudio_bass_volume_default
+0x209c2a62 jam_kill_update_note_length
+0x61557a70 jam_screen
+0xc8423a72 focus_state
+0x13b9da7b scale
+0xf8f1ea7c jam_num_falling_gems
+0x2372aa7e musicstudio_jamroom_transport_count_hold_left
+0x179a6a85 m_psPass0MaterialColor
+0x92453a85 musicstudio_jamroom_transport_count_hold_right
+0xd7685a8b musicstudio_jamroom_get_list_checksum_tracks_size
+0x76fa7a8f checksumname
+0xd7cd4a8f jamroom_hud_playline
+0x3d813a92 musicstudio_jamroom_track_select_deinit
+0xffa3aa94 audio_ui_menu_music_off
+0x781e6a9a musicstudio_jamroom_nowbar_offsets
+0xc0786aa5 jam_setup_song
+0x8182fab4 record_inside_off_rgba
+0x03c49abb jam_player_recording_armed
+0x04bbeacd guitar_jam_simplerecops_record
+0xfb35aacf startColor
+0x99298ad7 musicstudio_mainobj
+0xdb113ad7 orange_top_gem
+0x2b525ade musicstudio_update_dir_for_lefty_flip
+0x5d12dae0 jam_band_force_refresh_detailed_highway
+0x56a1eae3 root_window
+0x4b358aeb RIGHT
+0x35733aed texture_drum
+0xc9287aee GetScreenElementProps
+0x46babaf4 Yield
+0x7e783af4 jamroom_auto_play
+0x19fa5af7 SpawnScriptNow
+0x9ec91afc spawn_id
+0x37c84b09 destroy_dialog_box
+0x8c4f9b0f musicstudio_jamroom_set_start_text
+0x64c6fb13 musicstudio_jamroom_get_current_style_struct
+0xdb851b2b scale_preview_spawn
+0x4f010b2c gem_offset
+0x36abeb38 musicstudio_jamroom_show_playstate
+0xea4e4b49 endColor
+0xfb145b52 scale_adj
+0x60cedb5d gem_pos_start
+0x00379b6b from_countin
+0x5652eb7c jam_playback_delete
+0x22ad7b8f bass_kit
+0xc5addb99 reset_song_time
+0xcba98b9f first_time_instrument_select
+0x877d9baa jam_camera_wait
+0x74d05bb6 musicstudio_get_selected_sound_focusable
+0x289f8bb8 jam_player_recording_begin_time
+0x4b6febd6 matx
+0xdd4cabd6 child
+0x57919bd6 musicstudio_jamroom_stop_recording_and_playing_all_players
+0x54b74bde line6_1_pan
+0xfee0fbee bot
+0xeb970bf2 ClearCustomSong
+0x7cafcc07 genre
+0x98458c0a musicstudio_jamroom_player_num_adj
+0x4b43bc0d musicstudio_reinit_menu_sounds
+0x7cd8ec11 musicstudio_first_time_instrument_select
+0x2baf7c15 non_vocalist_player
+0x438aec17 all_players
+0x7d654c18 exclusive_device
+0x82117c1a wait
+0x9f23dc21 Se_SetProps
+0xf61fac25 control_script
+0x03da6c41 jamroom_wizard_styles
+0xfeaccc5b is_percussion_kit
+0xdadc5c6e record_rgba
+0x5bebbc79 tuning
+0x8f58ac8f musicstudio_jamroom_animate_player_menu
+0xa7987c92 jam_setup_new_song
+0x43c97c9a was_paused
+0x453bec9c musicstudio_jamroom_max_bot_songlength
+0x520c0c9c data
+0x6465aca7 gem_color_index
+0xb66b3cac jam_update_falling_gem_sustain
+0x0830ecaf ObjID
+0xf82c2cb2 musicstudio_jamroom_set_title_text
+0x90356cb9 SetScreenElementProps
+0xb984ccbd from_song
+0x257f6cd2 fit_minor
+0x4adf0cd3 unfocus
+0x35fdecd6 isVertical
+0xefa09cdb musicstudio_jam_room_create_instrument_live
+0xc9c1acdb line6_0_volume_default
+0x9623fcde musicstudio_jamroom_get_part_names
+0x5cc16cdf drum
+0xe7c2ece1 fit_major
+0xb41d1ceb musicstudio_jamroom_instrument_init
+0x54239cec musicstudio_jamroom_transport_left
+0xc592eced musicstudio_update_selected_song_name
+0xb01d7cf0 alias_jamroom_player_menu
+0xbdc53cf2 guitar
+0x7a4f1cf2 position_children
+0x5c6c2d04 state
+0x85e35d09 alias_scrolling_menu_elements
+0x4d883d13 song_version
+0xa8b8dd2c green_top_gem
+0x4577fd38 AssignAlias
+0x67a93d4a line6_1_volume_default
+0x67531d4b musicstudio_bass_pan_default
+0x7f5b3d4d array_size
+0x12181d51 MusicStudio_SetupStyleFromStruct
+0x37dbad58 play_inside_rgba
+0x73cb4d5a jam_cont_offset
+0x76a08d5b bottom
+0x89866d6b difficulty_setup
+0xa01e3d6e musicstudio_jamroom_collapse_player_num
+0xd09d5d77 guitar_jam_simplerecops_command_stoprec
+0xa0984d83 active_controllers
+0x7d374d8b blue_top_gem
+0xf8fa3d8c main_player
+0x9952fd90 jam_highway_playing
+0x48654d91 musicstudio_jamroom_stop_recording_all_players
+0xa15cbd95 name_lip
+0xedbd8d9b gem_count
+0x11d16d9e jam_deinit_reverb
+0xa2fd2da2 stop_alpha
+0x564cfda5 MusicStudioPlayer_GetInstrument
+0xcba4dda5 musicstudio_jamroom_instrument_select_update_data
+0x978b6da6 stepFrames
+0xa41abda9 musicstudio_jamroom_create_play_now_helper
+0x9f7cbdb0 new_player
+0x57d15db0 bpm
+0x0bdf8db5 jam_band_highway_playline
+0x3f6bcdba rgba
+0x3730cdbf highway_name
+0xd422edc3 gem_created
+0xd472bdd2 MusicStudioMenu_GetCurrentState
+0xecfcade7 start_color
+0xd6fabde8 inside_on_rgba
+0x27576dec IsDrumController
+0x2eb44df8 jam_quantize
+0xca6d3dfb musicstudio_jamroom_transport_shared
+0x37a96e05 editing
+0x499f6e0d effect
+0x6739de1b name_string
+0x117a7e1f musicstudio_jamroom_jamming_deinit
+0xc4e78e22 all
+0xd44f4e3f alias_scrolling_cont
+0x5e684e45 children
+0xd5440e51 musicstudio_jamroom_on_playerjoin
+0xf9565e55 stored_part
+0x95142e56 window_dims
+0x9766de59 button_up_models
+0x44096e5f focus_element
+0x8525fe7d MusicStudioMenu_Init
+0xbe304e86 printstruct
+0x653b7e89 custom_chord_pattern
+0xffec6e8d musicstudio_input_send_pattern_to_highway
+0x6a322e94 advanced_record
+0xbe2a7e98 ffrw_color_off
+0x628a4e99 musicstudio_jamroom_scrolling_menu_update
+0x94cb1e9d MenuElement
+0xbb7d3ea5 drum_kit
+0xda29feb7 fastforward_scale
+0x6dd6eecf ProcessEvent_Note_Hit
+0x7b43ced1 fastforward_inside_rgba
+0xf77c2ed2 sound_func
+0x85ff7ed2 jam_band_container
+0x48107ee0 jam_current_active_effects
+0xa6bbbee7 keep dims
+0x26217ee9 musicstudio_jamroom_update_title_text_color
+0x65485eea GetPlayerInfo
+0x0c218ef3 destroy_bg_viewport
+0xfc37df05 gameframe
+0x27157f0b musicstudio_jamroom_set_state_text
+0x771a9f0e downbeat
+0x99a67f13 musicstudio_jamroom_max_gems_per_highway
+0x2e6bff16 vectorProperty
+0x02141f19 clean_up_user_control_helpers
+0xbef08f1e MusicStudioPlayer_AddJamRoomNoteToHighway
+0xd4614f26 musicstudio_piston_anim_speed
+0x5cdecf29 focusable
+0x806fff30 none
+0x57710f31 z_priority
+0xb6f08f39 part
+0x576b5f47 musicstudio_is_recording_locked
+0x788edf71 musicstudio_menu_restore
+0x27608f73 jam_band_new_song
+0xfe64ef7b input_func
+0x43581f7f safe_hide
+0x0f686f91 jam_band_black_banner
+0xdb377fa3 yellow_top_gem
+0x703e2fa8 MusicStudioJamRoom_SetCurrentStyleIndex
+0xc7b61faa setup_bg_viewport
+0x69d0dfaf player_device
+0xc2719fb0 parent
+0xf9ef5fb5 gem_pos
+0xd4dd2fb7 InputArrayCreate
+0x17f33fc6 target_jam_camera_prop
+0xb15c5fcb jam_lead_octave_range
+0xaccdefcd jam_band_spawns
+0xde156fd4 MusicStudioJamRoom_GetCurrentStyleIndex
+0x4f326fdc musicstudio_jamroom_remove_joing_player_handler
+0xcb18cfdf not_this_player
+0xc735cfe5 musicstudio_jamroom_jamming_init
+0xffd61ff2 MusicStudio_GetCurrMainPlayer
+0xe7840ffb jam_menu_backdrop
+

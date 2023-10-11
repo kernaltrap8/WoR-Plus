@@ -1,0 +1,776 @@
+[LineNumbers]
+attempt_to_add_friend_feed 52 (92,26) (144,27) (156,30) (164,31) (174,32) (192,33) (223,34) (237,35) (241,36) (257,37) (259,38) (272,39) (289,40) (303,41) (317,42) (331,43) (345,44) (347,45) (365,46) (381,47) (385,48) (398,49) (400,50) (420,51) (433,52) (453,53) (466,54) (470,55) (501,57) (515,58) (517,59) (530,60) (543,61) (556,62) (571,64) (584,65) (602,67) (617,68) (619,69) (632,70) (650,71) (666,72) (670,73) (683,74) (685,75) (687,76) (700,80) (770,85) (788,88) (806,89) (836,90) (838,91) 
+create_friend_feed 59 (92,107) (105,108) (126,110) (164,111) (182,116) (203,117) (232,118) (238,119) (240,120) (242,121) (276,125) (289,129) (302,130) (314,131) (326,132) (350,133) (363,134) (375,135) (377,137) (395,138) (436,142) (496,146) (504,148) (517,149) (530,150) (532,151) (579,152) (629,153) (631,154) (692,158) (710,160) (718,162) (750,163) (782,164) (830,165) (862,166) (864,167) (889,168) (907,172) (939,173) (941,174) (980,178) (1010,182) (1028,186) (1088,187) (1106,188) (1108,189) (1126,193) (1132,196) (1172,198) (1212,199) (1214,200) (1223,202) (1264,203) (1266,204) (1279,207) (1281,208) (1283,209) (1291,211) 
+destroy_friend_feed 6 (0,219) (56,220) (92,221) (98,223) (132,225) (134,226) 
+ff_cleanup_spawned 3 (0,234) (36,236) (72,237) 
+ff_cleanup 6 (0,245) (6,249) (40,252) (76,255) (82,258) (88,259) 
+news_feed_outstanding_destroy_cleanup 13 (0,268) (36,269) (72,270) (132,271) (156,273) (177,274) (206,275) (248,276) (300,277) (302,278) (304,279) (306,280) (308,281) 
+news_feed_fix_main_menu_button_helpers 10 (0,291) (6,293) (33,294) (72,295) (78,296) (160,298) (244,299) (284,301) (286,302) (288,303) 
+ff_clear_mini_feed_items 1 (0,312) 
+news_feed_set_interactive_state 18 (44,326) (65,329) (98,330) (112,331) (120,332) (168,333) (170,334) (176,335) (178,336) (182,337) (196,338) (204,339) (233,340) (235,341) (241,342) (243,343) (245,344) (247,345) 
+news_feed_update_menu_tag 4 (28,356) (64,357) (99,358) (101,359) 
+news_feed_get_menu_tag 8 (0,368) (13,370) (52,371) (92,372) (132,373) (145,374) (147,375) (161,377) 
+ff_refresh_feed 8 (28,388) (80,389) (116,391) (176,392) (212,393) (237,394) (239,395) (241,396) 
+news_feed_friend_update_request_loop 59 (0,406) (13,407) (26,408) (28,410) (76,411) (89,412) (100,413) (113,414) (117,415) (130,416) (132,417) (150,419) (160,421) (166,422) (184,423) (198,424) (216,425) (229,426) (231,427) (259,428) (280,429) (310,430) (312,431) (314,432) (336,433) (344,434) (346,435) (364,438) (378,439) (396,440) (409,441) (411,442) (424,443) (466,445) (509,447) (562,448) (575,449) (577,450) (579,451) (621,453) (660,454) (673,455) (675,456) (693,458) (700,459) (706,460) (714,461) (737,462) (749,463) (751,464) (753,465) (755,466) (757,467) (779,469) (787,470) (789,471) (791,472) (811,474) (813,475) 
+news_feed_request_friend_updates 35 (44,486) (96,487) (109,489) (119,490) (137,493) (155,496) (176,498) (183,502) (195,503) (208,504) (220,505) (232,506) (245,507) (257,508) (259,509) (277,512) (317,515) (335,517) (400,518) (402,519) (432,520) (512,522) (514,523) (516,524) (518,525) (520,526) (538,531) (552,532) (570,533) (625,534) (676,535) (678,536) (680,537) (682,538) (684,539) 
+friend_update_message_handler 53 (28,549) (80,550) (88,552) (98,553) (153,554) (179,555) (197,557) (218,558) (232,559) (241,562) (262,563) (283,564) (296,565) (309,566) (311,567) (329,568) (373,569) (377,570) (410,571) (412,572) (439,575) (471,576) (473,577) (503,580) (536,581) (540,582) (672,583) (674,584) (678,585) (800,586) (802,587) (815,589) (828,590) (841,591) (854,592) (867,593) (880,594) (893,595) (906,596) (919,597) (932,598) (945,599) (958,600) (971,601) (984,602) (997,603) (1010,604) (1023,605) (1036,606) (1070,607) (1078,608) (1084,610) (1086,611) 
+ff_wait_for_feed_ready 8 (28,619) (30,621) (62,622) (160,623) (162,624) (164,625) (200,626) (202,627) 
+ff_wait_for_inbox_ready 8 (28,635) (30,637) (63,638) (168,639) (170,640) (172,641) (178,642) (180,643) 
+ff_adjust_feed_pos 4 (44,654) (80,655) (127,656) (129,657) 
+news_feed_adjust_feed_pos_by_menu 8 (28,668) (64,669) (80,670) (92,671) (120,674) (148,675) (184,678) (186,679) 
+news_feed_add_screen_elements 17 (28,690) (30,691) (64,692) (70,693) (87,695) (112,696) (114,697) (152,700) (154,702) (156,703) (176,704) (216,706) (218,707) (220,708) (222,709) (272,711) (274,712) 
+ff_create_news_feed_item 95 (60,724) (112,725) (125,727) (164,729) (224,730) (290,732) (322,733) (365,734) (390,735) (392,737) (400,738) (410,739) (419,740) (426,741) (458,742) (466,743) (473,744) (494,745) (515,746) (517,747) (519,748) (532,749) (545,750) (558,751) (571,752) (580,753) (587,754) (616,755) (629,756) (642,757) (644,758) (652,759) (704,760) (706,761) (718,765) (758,766) (772,767) (786,771) (799,772) (812,773) (825,774) (838,775) (840,776) (858,777) (887,778) (929,779) (955,780) (992,781) (994,782) (1001,784) (1014,785) (1035,786) (1051,787) (1070,788) (1082,789) (1103,790) (1124,791) (1126,793) (1128,794) (1164,796) (1173,798) (1257,799) (1329,800) (1331,801) (1349,802) (1385,803) (1421,804) (1423,805) (1447,807) (1503,808) (1507,809) (1573,810) (1575,811) (1620,812) (1638,813) (1696,814) (1752,815) (1754,816) (1756,817) (1812,818) (1814,819) (1839,820) (1857,826) (1880,827) (1898,828) (1928,829) (1964,830) (2011,831) (2013,832) (2049,834) (2051,835) (2064,839) (2066,840) (2068,841) (2082,843) 
+news_feed_adjust_scrolling_menu 9 (0,943) (36,944) (96,945) (156,946) (169,947) (194,948) (196,949) (198,950) (200,951) 
+ff_destroy_news_feed_item 24 (28,961) (41,962) (80,964) (140,965) (200,966) (218,969) (236,970) (250,971) (268,972) (281,973) (283,974) (312,975) (340,977) (346,978) (359,979) (361,980) (363,981) (385,982) (393,983) (395,984) (397,986) (399,987) (401,988) (409,990) 
+ff_set_friend_feed_item_icon 45 (60,1002) (73,1003) (118,1005) (163,1006) (181,1007) (188,1008) (200,1009) (213,1010) (215,1011) (228,1012) (232,1013) (272,1014) (308,1015) (310,1016) (328,1017) (341,1018) (354,1019) (367,1020) (369,1021) (371,1022) (404,1027) (422,1029) (435,1030) (448,1031) (461,1032) (473,1033) (485,1034) (497,1035) (499,1036) (540,1038) (619,1040) (629,1042) (639,1044) (672,1045) (685,1047) (720,1048) (733,1050) (768,1051) (776,1053) (812,1054) (814,1056) (818,1058) (852,1061) (854,1063) (868,1065) 
+ff_wait_for_rank_data 19 (0,1073) (2,1074) (47,1075) (80,1076) (98,1077) (105,1078) (117,1079) (130,1080) (138,1081) (171,1082) (173,1083) (179,1084) (181,1085) (187,1087) (222,1088) (224,1090) (226,1091) (276,1092) (283,1093) 
+ff_scroll_feed_items 54 (0,1100) (6,1103) (8,1104) (21,1105) (34,1106) (55,1107) (73,1108) (98,1110) (104,1111) (156,1114) (210,1116) (233,1117) (264,1119) (298,1120) (352,1121) (354,1122) (381,1125) (411,1126) (444,1127) (446,1128) (450,1129) (489,1130) (531,1131) (533,1132) (535,1133) (568,1135) (574,1136) (605,1140) (643,1141) (697,1142) (720,1143) (722,1144) (753,1146) (787,1148) (801,1149) (849,1150) (870,1151) (897,1152) (945,1153) (995,1154) (997,1155) (999,1156) (1001,1157) (1003,1158) (1005,1159) (1007,1160) (1056,1162) (1077,1165) (1108,1166) (1112,1167) (1134,1168) (1136,1169) (1153,1171) (1155,1172) 
+news_feed_scroll_message_text 20 (60,1184) (81,1185) (112,1186) (114,1187) (120,1188) (127,1189) (171,1190) (184,1191) (186,1192) (192,1193) (210,1194) (212,1195) (214,1196) (221,1197) (265,1198) (278,1199) (280,1200) (286,1201) (288,1202) (290,1203) 
+ff_mini_feed_request_update_loop 32 (0,1211) (10,1213) (30,1214) (32,1215) (38,1216) (40,1218) (53,1219) (74,1220) (92,1221) (105,1224) (118,1225) (136,1226) (138,1227) (166,1228) (184,1229) (206,1230) (208,1231) (230,1232) (238,1233) (240,1234) (259,1236) (272,1238) (274,1239) (278,1240) (291,1242) (293,1243) (311,1245) (344,1246) (357,1248) (359,1251) (385,1253) (387,1254) 
+news_feed_get_item_data 15 (44,1265) (57,1266) (77,1268) (95,1269) (108,1270) (110,1271) (145,1272) (196,1273) (209,1274) (211,1275) (213,1276) (235,1277) (243,1278) (245,1279) (259,1281) 
+ff_can_use_friend_feed 59 (44,1292) (57,1293) (70,1294) (101,1297) (114,1298) (134,1299) (147,1300) (151,1301) (160,1302) (196,1303) (218,1304) (220,1305) (222,1306) (240,1308) (249,1310) (290,1311) (341,1312) (392,1313) (405,1314) (463,1315) (476,1316) (480,1317) (516,1318) (538,1319) (551,1320) (553,1321) (611,1322) (662,1323) (675,1324) (733,1325) (746,1326) (750,1327) (784,1328) (806,1329) (819,1330) (821,1331) (825,1332) (860,1333) (882,1334) (895,1335) (897,1336) (901,1337) (936,1338) (958,1339) (971,1340) (973,1341) (984,1342) (1020,1343) (1072,1344) (1085,1345) (1089,1346) (1102,1347) (1104,1348) (1108,1349) (1121,1350) (1123,1351) (1125,1352) (1127,1353) (1147,1357) 
+ff_attempt_to_follow_shortcut_action 113 (28,1367) (80,1368) (103,1369) (116,1371) (156,1373) (174,1374) (187,1375) (200,1376) (210,1377) (244,1381) (262,1384) (278,1387) (288,1388) (324,1389) (337,1390) (372,1391) (385,1392) (420,1393) (428,1394) (464,1395) (466,1396) (478,1398) (502,1400) (552,1401) (565,1402) (591,1405) (609,1406) (613,1407) (629,1410) (639,1411) (668,1412) (711,1413) (729,1414) (738,1415) (759,1416) (780,1417) (801,1418) (822,1419) (824,1420) (837,1421) (841,1422) (908,1423) (956,1424) (969,1425) (982,1426) (984,1427) (988,1428) (1056,1429) (1104,1430) (1117,1431) (1130,1432) (1132,1433) (1145,1434) (1154,1435) (1175,1436) (1177,1437) (1190,1438) (1203,1439) (1212,1440) (1233,1441) (1235,1442) (1248,1443) (1261,1444) (1274,1445) (1287,1446) (1300,1447) (1310,1448) (1323,1449) (1331,1450) (1380,1451) (1393,1452) (1406,1454) (1408,1455) (1460,1458) (1478,1460) (1518,1461) (1530,1462) (1534,1463) (1550,1466) (1560,1467) (1612,1468) (1641,1469) (1654,1470) (1704,1471) (1733,1472) (1746,1473) (1796,1474) (1825,1475) (1838,1476) (1888,1477) (1906,1478) (1919,1479) (1968,1480) (1986,1481) (1999,1482) (2048,1483) (2077,1484) (2085,1485) (2136,1486) (2142,1488) (2144,1489) (2150,1490) (2152,1491) (2154,1492) (2174,1493) (2224,1494) (2226,1495) (2244,1497) (2278,1498) (2313,1499) (2348,1500) (2366,1502) (2368,1503) 
+news_feed_add_control_helpers 5 (0,1512) (36,1513) (42,1514) (95,1515) (97,1516) 
+ff_change_item_scroll 15 (0,1524) (6,1525) (12,1526) (30,1527) (48,1528) (100,1529) (102,1530) (106,1531) (127,1532) (145,1533) (170,1534) (220,1535) (222,1536) (224,1537) (226,1538) 
+ff_change_item_focus 63 (60,1550) (66,1551) (104,1552) (122,1553) (146,1554) (184,1556) (198,1557) (200,1558) (252,1560) (288,1562) (332,1563) (338,1564) (351,1565) (381,1566) (383,1567) (385,1568) (391,1570) (432,1571) (446,1572) (452,1573) (470,1574) (488,1576) (506,1578) (524,1579) (584,1580) (604,1581) (650,1582) (702,1583) (704,1584) (713,1587) (722,1590) (743,1591) (776,1592) (778,1593) (782,1594) (816,1595) (818,1596) (820,1598) (822,1600) (826,1601) (876,1602) (878,1603) (902,1605) (937,1606) (946,1607) (1006,1609) (1008,1610) (1010,1611) (1028,1614) (1088,1615) (1092,1616) (1152,1618) (1154,1619) (1178,1621) (1213,1622) (1244,1623) (1304,1625) (1306,1626) (1308,1627) (1312,1628) (1380,1629) (1382,1630) (1384,1631) 
+news_feed_scroll_text_start 13 (0,1639) (36,1640) (42,1641) (66,1642) (104,1643) (125,1644) (152,1645) (200,1646) (248,1647) (250,1648) (252,1649) (254,1650) (256,1651) 
+news_feed_scroll_text_stop 6 (0,1660) (36,1661) (42,1662) (66,1663) (94,1664) (96,1665) 
+news_feed_display_rock_record 21 (44,1677) (80,1678) (140,1679) (180,1680) (198,1681) (224,1682) (266,1683) (316,1684) (320,1685) (356,1686) (365,1687) (387,1688) (391,1689) (413,1690) (415,1691) (452,1692) (504,1693) (506,1694) (508,1695) (510,1696) (512,1697) 
+news_feed_remove_ad_item 1 (28,1708) 
+news_feed_generic_error_popup 26 (44,1721) (96,1722) (147,1724) (169,1725) (179,1727) (189,1728) (211,1729) (224,1730) (226,1731) (272,1732) (285,1734) (307,1735) (320,1736) (322,1737) (368,1738) (376,1740) (428,1741) (430,1742) (454,1744) (460,1745) (472,1746) (493,1747) (506,1748) (519,1749) (532,1750) (534,1751) 
+news_feed_add_valid_controllers 69 (0,1759) (2,1761) (15,1762) (28,1763) (38,1764) (44,1769) (62,1770) (76,1771) (94,1772) (107,1773) (109,1774) (137,1775) (158,1776) (188,1778) (221,1781) (250,1783) (256,1784) (265,1785) (304,1788) (388,1789) (392,1790) (444,1791) (446,1792) (448,1793) (461,1794) (463,1795) (465,1796) (467,1797) (489,1798) (497,1799) (499,1800) (508,1804) (548,1805) (632,1806) (634,1807) (647,1809) (649,1810) (688,1815) (706,1816) (720,1817) (738,1818) (751,1819) (753,1820) (797,1821) (836,1822) (849,1823) (851,1824) (873,1825) (881,1826) (883,1827) (885,1828) (924,1832) (942,1833) (976,1834) (978,1835) (998,1836) (1016,1837) (1022,1839) (1024,1840) (1026,1841) (1044,1844) (1104,1847) (1140,1848) (1153,1849) (1155,1850) (1157,1851) (1186,1855) (1206,1857) (1208,1858) 
+news_feed_is_each_item_type_available 31 (0,1867) (20,1871) (38,1872) (68,1873) (70,1874) (90,1877) (108,1878) (140,1879) (142,1880) (162,1883) (180,1884) (212,1885) (214,1886) (232,1889) (264,1890) (266,1891) (279,1894) (292,1895) (294,1896) (312,1897) (333,1899) (351,1900) (364,1901) (366,1902) (368,1903) (390,1904) (400,1905) (418,1906) (448,1907) (450,1908) (480,1910) 
+news_feed_is_scroll_and_slide_anim_done 13 (0,1919) (13,1920) (52,1922) (112,1923) (136,1924) (154,1925) (192,1926) (205,1927) (207,1928) (209,1929) (211,1930) (213,1931) (221,1933) 
+ff_has_error_message 6 (0,1936) (18,1937) (48,1938) (52,1939) (84,1940) (86,1941) 
+ff_display_error_message 11 (28,1946) (35,1948) (48,1949) (50,1950) (116,1956) (122,1957) (172,1959) (240,1965) (246,1966) (280,1970) (316,1972) 
+ff_kill_error_message 5 (0,1976) (36,1977) (76,1978) (132,1982) (134,1983) 
+ff_has_motd_or_friend_messages 19 (28,1994) (41,1996) (54,1997) (67,1998) (85,2000) (106,2002) (124,2003) (137,2004) (150,2005) (152,2006) (170,2008) (183,2009) (196,2010) (198,2011) (201,2013) (214,2014) (227,2015) (240,2016) (242,2017) 
+ff_poll_for_ps3_boot_time_refresh 29 (0,2026) (18,2028) (20,2029) (22,2030) (35,2032) (48,2033) (61,2034) (112,2037) (133,2039) (135,2042) (168,2044) (203,2047) (205,2048) (207,2049) (256,2051) (264,2052) (282,2054) (284,2057) (320,2059) (338,2061) (340,2062) (342,2063) (392,2065) (394,2066) (396,2068) (414,2070) (448,2072) (454,2075) (456,2077) 
+news_feed_signin_change_cleanup 34 (28,2088) (46,2090) (75,2091) (81,2094) (123,2095) (160,2096) (172,2097) (201,2098) (207,2099) (225,2100) (264,2101) (304,2102) (306,2103) (308,2104) (354,2105) (388,2106) (434,2107) (469,2108) (504,2109) (506,2110) (550,2111) (584,2112) (628,2113) (663,2114) (708,2115) (714,2116) (720,2117) (726,2118) (808,2120) (892,2121) (894,2122) (928,2123) (930,2124) (932,2125) 
+news_feed_reset_messages_stored_locally 5 (28,2136) (46,2138) (72,2139) (101,2141) (130,2142) 
+news_feed_get_message_queue_global 7 (28,2152) (37,2154) (68,2156) (72,2157) (124,2158) (138,2159) (140,2160) 
+ff_attempt_to_expand_feed 35 (28,2176) (46,2178) (78,2179) (88,2180) (97,2181) (103,2182) (136,2183) (138,2184) (176,2187) (236,2188) (254,2189) (292,2190) (315,2191) (333,2192) (362,2194) (380,2197) (382,2199) (384,2200) (386,2201) (388,2202) (424,2205) (446,2206) (483,2207) (485,2208) (487,2209) (491,2210) (540,2211) (549,2212) (588,2213) (594,2214) (631,2215) (633,2216) (635,2217) (637,2218) (639,2219) 
+ff_attempt_to_collapse_feed 2 (28,2229) (46,2232) 
+ff_expand_feed 69 (44,2243) (80,2244) (140,2245) (176,2247) (182,2250) (211,2251) (229,2252) (268,2255) (286,2256) (324,2257) (364,2258) (366,2259) (368,2260) (392,2263) (432,2264) (445,2267) (463,2268) (465,2271) (474,2272) (476,2273) (478,2274) (484,2275) (486,2276) (488,2277) (490,2278) (528,2282) (588,2283) (612,2285) (672,2288) (701,2289) (703,2290) (727,2293) (760,2296) (778,2297) (796,2298) (824,2299) (837,2300) (839,2301) (841,2302) (859,2304) (888,2307) (924,2310) (926,2311) (951,2314) (984,2317) (1020,2320) (1022,2321) (1024,2322) (1060,2326) (1120,2327) (1172,2328) (1184,2330) (1202,2333) (1238,2336) (1267,2337) (1280,2338) (1301,2341) (1319,2342) (1350,2343) (1363,2344) (1365,2345) (1404,2346) (1426,2347) (1433,2348) (1435,2349) (1437,2350) (1528,2355) (1530,2357) (1532,2358) 
+ff_collapse_feed 38 (28,2368) (64,2370) (104,2371) (122,2372) (160,2373) (200,2374) (202,2375) (204,2376) (206,2377) (244,2379) (304,2380) (328,2381) (349,2382) (355,2384) (384,2385) (390,2388) (421,2392) (423,2395) (460,2396) (462,2397) (464,2398) (516,2399) (518,2400) (560,2403) (620,2405) (638,2407) (656,2408) (680,2411) (682,2412) (700,2414) (721,2417) (750,2418) (792,2419) (844,2420) (846,2421) (848,2422) (850,2423) (852,2424) 
+news_feed_change_all_items_alpha 19 (28,2435) (64,2437) (124,2438) (137,2439) (158,2440) (176,2441) (194,2442) (207,2443) (209,2444) (244,2445) (266,2446) (274,2447) (292,2448) (326,2449) (328,2450) (330,2451) (332,2452) (334,2453) (336,2454) 
+news_feed_change_items_exclusive_device 20 (28,2464) (64,2465) (124,2466) (149,2467) (208,2468) (233,2469) (254,2470) (272,2471) (290,2472) (303,2473) (305,2474) (340,2475) (362,2476) (370,2477) (372,2478) (374,2479) (376,2480) (378,2481) (413,2483) (415,2484) 
+news_feed_setup_scrollbar 12 (0,2493) (6,2494) (33,2495) (62,2496) (96,2498) (156,2499) (174,2500) (203,2501) (205,2502) (209,2503) (244,2504) (246,2505) 
+ff_setup_expanded_view 37 (28,2516) (104,2517) (140,2520) (153,2523) (201,2524) (225,2525) (262,2528) (280,2529) (320,2530) (344,2531) (357,2532) (370,2533) (382,2534) (394,2535) (396,2536) (402,2539) (423,2540) (441,2541) (459,2542) (472,2543) (474,2544) (508,2545) (530,2546) (538,2547) (540,2548) (542,2549) (548,2552) (569,2553) (587,2554) (605,2555) (618,2556) (620,2557) (648,2558) (670,2559) (678,2560) (680,2561) (682,2562) 
+ff_cleanup_expanded_view 31 (0,2571) (52,2573) (88,2576) (124,2579) (130,2580) (157,2581) (208,2582) (210,2583) (212,2584) (248,2586) (288,2587) (306,2588) (312,2589) (396,2591) (480,2592) (489,2593) (572,2594) (574,2595) (594,2596) (632,2597) (644,2598) (650,2599) (668,2600) (678,2601) (688,2602) (694,2603) (696,2604) (698,2605) (700,2606) (702,2607) (704,2608) 
+news_feed_should_add_button_helper 31 (0,2617) (13,2618) (23,2619) (60,2621) (69,2623) (102,2624) (112,2625) (125,2627) (143,2630) (149,2631) (177,2633) (190,2634) (192,2635) (194,2636) (196,2637) (198,2638) (200,2639) (202,2640) (204,2641) (222,2644) (260,2645) (300,2646) (318,2647) (331,2648) (365,2649) (378,2650) (380,2651) (382,2652) (384,2653) (386,2654) (394,2656) 
+news_feed_get_view_index_data 19 (0,2665) (13,2666) (52,2668) (112,2669) (136,2670) (196,2671) (217,2672) (235,2673) (254,2674) (267,2675) (317,2676) (351,2677) (391,2678) (393,2679) (395,2680) (397,2681) (399,2682) (401,2683) (415,2685) 
+news_feed_get_item_index_by_id 26 (28,2695) (41,2696) (80,2698) (140,2699) (200,2700) (221,2701) (239,2702) (257,2703) (270,2704) (272,2705) (301,2706) (315,2707) (328,2708) (330,2709) (332,2710) (354,2711) (362,2712) (364,2713) (366,2714) (368,2715) (370,2716) (372,2717) (412,2719) (425,2720) (427,2721) (447,2723) 
+news_feed_get_num_hidden_items 22 (0,2731) (13,2732) (52,2734) (112,2735) (133,2736) (151,2737) (169,2738) (182,2739) (184,2740) (207,2741) (225,2742) (247,2743) (251,2744) (253,2745) (255,2746) (277,2747) (285,2748) (287,2749) (289,2750) (291,2751) (293,2752) (307,2754) 
+ff_run_expand_menu_fix_anim 8 (0,2762) (36,2763) (84,2766) (148,2767) (208,2768) (226,2770) (228,2771) (230,2772) 
+ff_run_expand_anim 23 (0,2781) (36,2783) (76,2784) (90,2785) (119,2786) (146,2787) (160,2788) (178,2789) (191,2790) (240,2791) (242,2792) (255,2793) (300,2794) (338,2795) (376,2796) (378,2797) (390,2798) (412,2799) (420,2800) (422,2801) (424,2802) (430,2804) (448,2805) 
+ff_run_expand_anim_part_two 53 (0,2814) (36,2816) (72,2819) (124,2820) (212,2828) (336,2833) (348,2834) (408,2836) (446,2839) (484,2840) (486,2841) (507,2842) (530,2843) (549,2844) (595,2846) (607,2847) (620,2848) (643,2849) (668,2850) (680,2851) (682,2852) (695,2853) (699,2854) (701,2855) (703,2856) (707,2857) (709,2858) (711,2859) (713,2860) (715,2861) (717,2862) (788,2870) (826,2873) (864,2874) (866,2875) (887,2876) (910,2877) (929,2878) (975,2880) (1068,2881) (1081,2882) (1085,2883) (1087,2884) (1089,2885) (1093,2886) (1095,2887) (1097,2888) (1099,2889) (1101,2890) (1103,2891) (1105,2892) (1107,2893) (1140,2895) 
+ff_run_colapse_anim 69 (28,2905) (84,2906) (144,2907) (182,2908) (220,2909) (272,2910) (274,2911) (295,2912) (318,2913) (337,2914) (383,2916) (476,2917) (489,2918) (493,2919) (495,2920) (497,2921) (501,2922) (503,2923) (505,2924) (507,2925) (509,2926) (511,2927) (552,2931) (608,2932) (646,2943) (684,2944) (686,2945) (707,2946) (730,2947) (749,2948) (795,2950) (807,2951) (820,2952) (843,2953) (868,2954) (880,2955) (882,2956) (895,2957) (899,2958) (901,2959) (903,2960) (907,2961) (909,2962) (911,2963) (913,2964) (915,2965) (917,2966) (919,2967) (1044,2974) (1056,2975) (1068,2979) (1124,2983) (1164,2986) (1193,2987) (1220,2988) (1234,2989) (1252,2990) (1265,2991) (1316,2993) (1318,2994) (1331,2995) (1386,2996) (1424,2997) (1462,2998) (1464,2999) (1476,3000) (1498,3001) (1506,3002) (1508,3003) 
+news_feed_collapse_anim_reposition_scrolling_menu 16 (44,3014) (61,3015) (68,3016) (128,3017) (141,3018) (162,3019) (180,3020) (198,3021) (220,3022) (250,3023) (287,3024) (293,3025) (360,3026) (362,3027) (364,3028) (366,3029) 
+news_feed_get_exclusive_device 7 (0,3037) (36,3039) (80,3041) (99,3043) (101,3045) (103,3047) (132,3049) 
+debug_ff_update_output 18 (0,3068) (6,3069) (64,3070) (102,3071) (104,3072) (117,3073) (135,3074) (172,3075) (186,3076) (231,3077) (238,3078) (251,3079) (264,3080) (266,3081) (272,3082) (274,3083) (276,3084) (278,3085) 
+debug_dump_msg_queue 20 (0,3093) (13,3094) (15,3095) (33,3096) (47,3097) (68,3098) (82,3099) (100,3100) (113,3101) (115,3102) (161,3103) (186,3104) (198,3105) (220,3106) (228,3107) (232,3108) (266,3109) (268,3110) (290,3111) (297,3112) 
+debug_dump_current_item_data 17 (0,3120) (36,3121) (96,3122) (120,3123) (180,3124) (201,3125) (219,3126) (233,3127) (273,3128) (296,3129) (319,3130) (325,3131) (327,3132) (329,3133) (331,3134) (333,3135) (335,3136) 
+debug_news_feed_restart 3 (0,3144) (6,3145) (40,3146) 
+debug_news_feed_grab_overlay_data 55 (124,3163) (160,3166) (200,3167) (236,3168) (276,3169) (312,3170) (352,3171) (388,3172) (428,3173) (464,3177) (504,3178) (517,3179) (519,3180) (537,3181) (594,3182) (598,3183) (611,3184) (613,3185) (634,3186) (656,3187) (658,3188) (680,3189) (687,3190) (727,3191) (764,3195) (824,3196) (845,3197) (863,3198) (877,3199) (890,3200) (892,3201) (926,3202) (944,3203) (966,3204) (986,3205) (1008,3206) (1028,3207) (1050,3208) (1070,3209) (1092,3210) (1112,3211) (1134,3212) (1136,3213) (1158,3214) (1166,3215) (1168,3216) (1170,3217) (1172,3218) (1212,3219) (1252,3220) (1292,3221) (1332,3222) (1372,3223) (1412,3224) (1420,3227) 
+
+[Checksums]
+0x2a062507 scripts\game\net\friends_feed.qb
+0xb990d003 target
+0x8e411006 b
+0x1bff900b quickplay
+0x44949010 difficulty
+0x1829b014 ret
+0x2fabf014 netfeeddebugoverlay_destroy
+0x3991a015 news_feed_scroll_text_stop
+0x98bb001e ff_set_friend_feed_item_icon
+0xaa7f2028 pad_l1
+0xe315b02b news_feed_change_items_exclusive_device
+0xcd0dc02d killspawnedscript
+0xe126e035 top
+0x94a5103b ui_event_get_stack
+0x475bf03c event_handlers
+0xd822303e network_platform_only
+0x9917c042 ff_attempt_to_follow_shortcut_action
+0xfa9c7046 most_recent_msg_id
+0xb176b049 mini_feed_num_items_to_scroll
+0x00bc9049 change_state
+0x1038804e main_menu_select_cas
+0x9775a050 msg
+0x4e10b054 assert
+0xda583056 registernewmessagewaitingeventhandler
+0x8e96505f messagecount
+0xc4687060 request
+0xd107c063 shortcut
+0x21902065 checksum
+0x7d9fc074 shortcut_string
+0x689fe07c template
+0xd8d35091 Obj_SetChecksumTag
+0xe9576099 AutoSizeDims
+0x4f5010a0 quickplay_stars
+0x1a1350a8 FastFormatText
+0xaa6bf0b2 news_feed_get_view_index_data
+0x559ba0bb scroll_bar_alpha
+0x16e840ea cancel_confirm
+0x301dd0f9 GetGlobalTags
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0xbcf6f10c clearnewmessagewaitingflag
+0x8362311d error_message_not_signed_xbox
+0xc42ce128 ArrayContains
+0x6397512d FF_ICON_motd
+0x3611c136 GetTags
+0x59758138 career_complete
+0x73665140 CreateScreenElement
+0x6bc25142 news_feed_add_screen_elements
+0x1dddb142 error_popup_generic
+0x5ef31148 array
+0x945ed158 user_control_destroy_helper
+0x2a06515a AddStructureArrayElement
+0xa101615b getmsgidnext
+0x34d7115d ff_cleanup
+0xcc12115e song
+0x01dd615f DescInterface
+0x62a6a164 num_elements
+0xacb55166 button_orange
+0x77fcc16f error_popup_ok
+0xbeffe174 additional_time
+0xcf66717b GotParam
+0xbc6b118f up
+0xa08bb195 global_name
+0xfed1c1a1 msgidlist
+0xb94fc1a4 sender_gamertag
+0x056e81a5 ff_wait_for_inbox_ready
+0x3cdd51ad animateclose
+0x1eed41b2 friend_feed_vmenu_id
+0x683e91b7 GenerateASCIIFromUTF16
+0x5d0671b8 channel
+0x174841bc a
+0x9dcbe1c1 dynamicaddebugoverlay
+0xffda41c2 force_refresh
+0xbc4601c3 step
+0xbebfa1c6 element
+0x81bf01c8 ff_display_error_message
+0x08ac41cc has_motd
+0xb48c21cd debug_dump_current_item_data
+0xd7cfc1d3 news_feed_get_item_index_by_id
+0x2f6511de green
+0x4b5781de main_menu_select_band_lobby
+0x3b4631df IsPS3
+0xbfa801df change
+0x848321e4 get_gamertag
+0xfef4e1e8 unlocked
+0x2bf4d1ea fudge
+0x3f93a1ef replace_handlers
+0xa1dc81f9 name
+0x4bfcd202 AddArrayElement
+0x8098d205 InsertArrayElement
+0x01b0b20e return_struct
+0x17f0c20f award_points
+0x5ea0e211 loop
+0xadd07211 get_controllers
+0xf8a0b21f num_items_value_text
+0x500eb224 Obj_GetID
+0x3f41c22d filteredmsgadded
+0x8b60022f just
+0x29324230 GetActiveControllers
+0x57e00232 ui_ff_loading_pulse
+0xddbf5241 news_feed_get_message_queue_global
+0x0f5b9256 attempt_to_add_friend_feed
+0x52f14263 is_expanded_feed
+0xfedb7263 mainmenu_freeplay_timer
+0x46159266 out
+0x9b74127c generic_scrollbar_wgt_set_resolution
+0x266a627d news_feed_collapse_anim_reposition_scrolling_menu
+0x10bcc27e friends_Feed_tiled_bg_gamertag_cont_alpha
+0xc11cf288 from_expand
+0xe6177289 error_params
+0x7d99f28d texture
+0x18b3b291 WaitOneGameFrame
+0x0c5d0296 updatelocalinbox
+0x40d7329b main
+0xe6e4929f deleteremotemessagesfailure
+0x8012c29f SetSpawnInstanceLimits
+0x881f12a7 ad
+0xd85812b2 freeplayresults_bord_alpha
+0x126af2c6 animating
+0xc4a072c8 interactive
+0x620d02e2 g_friend_update_max_msg_in_queue
+0x647282f9 error_popup_invalid_song_unlock
+0x18576301 friend_feed_scrolling_menu_pos
+0x9cec7309 anim_steps
+0xa74ae30d globalcounter_friend_feed_click_other
+0x4f279318 remove_controller
+0xa4b77319 can_follow
+0x3648e319 do_refresh
+0x857da320 isnewmessagewaitingeventhandlerregistered
+0x41c51327 main_play
+0x552b832e item_index
+0x33ba0353 expanded_feed
+0xa8ee7357 ScriptAssert
+0x3352e358 view_index_value_text
+0x4313a35f MembFunc_Songlist_UIStack_GetMode
+0x2ffb1360 yellow
+0xfbc93368 mini_feed_request_wait
+0xd38db36e FastGetArraySize
+0x0203b372 true
+0xecf31373 news_feed_friend_update_request_loop
+0x5b058376 param
+0x4da4937b career
+0x20f2137d news_feed_is_each_item_type_available
+0x639d4384 msg_index
+0xa222438e error
+0xee9bc392 SpawnScriptLater
+0xcd609393 loc_in_menu
+0x45087396 ff_run_expand_anim_part_two
+0xe93f439d event_handler
+0xaa11539e friend
+0x504ce3a2 net_id
+0x6ca9a3a5 selected_index
+0xd2d5d3aa num_motd_downloaded
+0xf44a53ab desc
+0x561393bf message_pos
+0xc5f953c2 button
+0xfac8a3c4 newmessagewaitingnotify
+0x10c6f3db structure_name
+0x6de1c3e1 message_text
+0xa7cde3e6 Obj_GetChecksumTag
+0x85b2c3e6 Menu_SetItemIndex
+0x74eb93eb message_of_the_day
+0xc37153ec check
+0xc5bc93ee ScreenElementExists
+0xad9573ee loading_container_alpha
+0x67d2e3f0 SE_GetProps
+0x0e4f13f6 vs
+0xd78713f9 globalcounter_friend_feed_click_ad
+0x8d92240c ui_event_exists_in_stack
+0xa5a1940c icon_left_texture
+0x9813d40c mini_feed_display_count
+0xf238a411 Menu_GetSelectedIndex
+0x1a1ee416 new_value
+0xc7a7b416 num_active_controllers
+0x08f3241e news_feed_update_menu_tag
+0x9b97341f CheckProfilePriveleges
+0x9277f428 FormatText
+0x1bfd742a icon_anim_id
+0x7d87442d alias_icon_anim
+0x54bbf42f friendfeed
+0xf8a4443a get_savegame_from_controller
+0xa4f9a43c button_green
+0x04af043d g_news_feed_hints
+0xecffe444 g_friend_update_wait_period
+0x403c1446 info_message_text
+0xbd09544c func
+0xd60ff456 has_network_platform_account
+0x91f0e45a body_text
+0xd3628460 FF_ICON_server
+0xbefaa466 OnExitRun
+0xe86c1467 spawn_request
+0xef755468 NetFeed
+0x1fbc246a isready
+0x1e93946b alias
+0xba4ba46b g_valid_ad_ids
+0x56fe246d destroysender
+0x61280478 friend_feed_menu_data
+0xa4a2747b display_rock_record
+0x9e15c481 ff_destroy_news_feed_item
+0xd47a8482 Menu_ChangeSelection
+0xd8a4e484 ff_exclusive_device
+0xcff91494 band_lobby
+0xa8e77495 songlist_mode
+0xbe578495 stack
+0x935d749f num_items_string
+0x9aada4a0 senderid
+0x4b4e14ab spacing_between
+0x8c6bb4b0 ui_event_get_top
+0x39b5c4b0 GetArraySize
+0x445114c8 NetSessionFunc
+0x161924c9 get_song_title_no_assert
+0x3aea94cb ff_attempt_to_expand_feed
+0xdeef04cd StructureContains
+0x2c4754d4 g_num_msg_queues
+0x5b6634d4 hide
+0xb1a4c4d6 friend_feed_scrolling_menu_dims
+0x1706b4d7 dbreak
+0xe921a4d8 scrolldown
+0x0dc714e1 c0_queue_size
+0x898b44e4 ff_change_item_scroll
+0xc62214e4 news_feed_scrollbar_wgt
+0x986e14e6 g_controller_update_time
+0x8c5e44fb num_steps
+0x08ce74fc FormatChecksum
+0x8da97503 primary_controller
+0x8c62050b createlocalinbox
+0x9d3fb516 focus
+0x64946516 CheckForSignin
+0x8ea3b518 error_message_not_signed_ps3
+0x8e82f520 num_controllers
+0x0e61b525 RunScriptOnScreenElement
+0x6722b533 d
+0x26b6e535 ease_out
+0x201a5537 dynamic_ad_stop
+0x5a604537 motd_global
+0x1e3e253b pad_choose
+0xb40d153f select
+0x8f665542 sprite_element_id
+0x06cf8547 globalcounter_friend_feed_click_motd
+0x61c9354b blue
+0x2950e54c ff
+0x93c84552 alias_FriendsFeed_BORD_top
+0x7d3f6556 debug_cont_alpha
+0x5d0ea557 dlc_purchased
+0xc451f558 event
+0x2b01255a news_feed_get_menu_tag
+0x82fac56c menu
+0x30e5d573 update_news_feed_data
+0x34a68574 dims
+0x2fca0578 options
+0xd0159579 news_feed_adjust_scrolling_menu
+0x82a9857b quickplay_lobby
+0x273ee57d ff_adjust_feed_pos
+0x71059581 contains
+0x11f5b583 link_params
+0xe30c7585 return_menu
+0x64790585 num_feed_items
+0x2c548589 remove_all_controllers
+0x8d85358f parent_id
+0x67e6859a player
+0x6d53359d invalid_song_dlc
+0x71fee5aa formatted_text
+0x397455ac ff_scroll_feed_items
+0x964e85b0 add_super_user_control_helper
+0xd1e075b4 songlist_ff_dimmer_alpha
+0x23a4e5c2 Obj_SpawnScript
+0x122605cc loading_alpha_property
+0x734005d2 g_shortcut_data
+0x68a775de destroylocalinbox
+0x13e315e1 g_friend_feed_anims
+0xe65fd5e5 SE_GetParentID
+0x455485ef dir
+0x80b485f1 alias_friend_feed_scrolling_menu
+0x150d35f1 heading_text
+0x603845f2 UIstate_generic_dialog_box
+0xa0f6c5fc music_central_select_music_studio
+0xa5d095fd CountScreenElementChildren
+0x1fe62603 debug_dump_msg_queue
+0x2de8c60e printf
+0x7a59c611 c3_queue_size
+0xd029f619 seconds
+0x6359d61f gamer_tag
+0xa219a620 q_msg_queue_0
+0xef66f621 ff_clear_mini_feed_items
+0x40ddb628 animateoutslide
+0x46f9a629 printscriptinfo
+0x8a4c762d song_checksum
+0xd3433632 se_prop
+0xecf60634 friend_feed_scrolling_menu_id
+0xb62e463a FastCreateScreenElement
+0xaa6f4643 IsXenonOrWinDX
+0x3a7ed64a dynamic_ad_start_friends_feed
+0xcbbf566c songlist_allow_continue
+0x8d5b9670 pad_script
+0x156b6676 senderfriendstatus
+0x687fa67b DynamicAdSpriteElement
+0x356bd67b generic_scrollbar_wgt_initialize
+0x16d90683 ff_run_expand_menu_fix_anim
+0x1b91f68a button_shortcut_motd
+0x0ecd9691 userid
+0x01f90693 event_handler_id
+0x95741693 pad_option2
+0x2f1fc695 alpha
+0xc329a6aa ff_can_use_friend_feed
+0xb5c626b2 motd_music_store
+0xd51e96b6 q_msg_queue_1
+0x16a7f6b9 hints
+0x521af6d1 friend_msg
+0x2a1cc6e1 news_feed_outstanding_destroy_cleanup
+0xa0a2d6ed all_queues_empty
+0x432e06f5 news_feed_is_scroll_and_slide_anim_done
+0xeddee6f9 ad_params
+0xd24f570c song_name
+0x4c17c70c q_msg_queue_2
+0xfd5e3712 FF_ICON_hint
+0x83296718 bkgd_highlight_cont_alpha
+0x0107f719 dynamicad2dsubscriberid
+0x5e36772a sender_name
+0xe24df72e alias_friend_feed_vmenu
+0xb3eaf72e ease_in
+0x0fad1739 globalcounter_friend_feed_click
+0xa116e73d Obj_SetIntegerTag
+0x2cb33744 LaunchEvent
+0xac161748 unfocus_id
+0x9ef3e74c show_help_page
+0xb9e0e74d has_friends
+0x7e9f1758 net_id_64_bit
+0x14df075e msgadded
+0xa787275e num_ads_downloaded
+0xa5b07769 g_news_item_data
+0x877b1783 num_children
+0x73e90784 deleteremotemessagesstarted
+0x0ed45788 Obj_SpawnScriptNow
+0x61454788 create_item
+0x988a7797 invalid_song_unlock
+0x3b10f79a q_msg_queue_3
+0x6008479f dont_set_primary
+0x255f77a7 news_feed_scroll_message_text
+0x491ed7a7 news_feed_signin_change_cleanup
+0xf77727ae XenonIsGuest
+0x46c567b4 friend_feed
+0x7ef027b7 player_xuid
+0x906b67ba time
+0x0f50d7c3 has_data
+0x5962a7c4 num_items
+0x1804a7c4 voice
+0x9dfbf7c5 main_generic
+0x2bec47ca globalcounter_expand_friends_feed
+0xe288a7cb value
+0xd43297cf false
+0x339237d4 msgid_first
+0x1d2d97d4 func_params
+0x62f6a7e6 ff_expand_feed
+0xa366c7ef IsGuitarController
+0xff8a57f1 getmsgidfront
+0x0e9f17f6 format_params
+0xdf4687ff g_leader_player_num
+0x18932806 getmsgheader
+0x7cf7f810 out_second
+0x90fec815 structure
+0x17241820 WaitSeconds
+0xf4d9a825 add_user_control_helper
+0x91a4c826 relative
+0xd9aae82a achievement_global_tags
+0x6ed8282e ff_poll_for_ps3_boot_time_refresh
+0xeddf382e wait_for_friend_msgs_time
+0x5e7b3832 news_feed_setup_scrollbar
+0x30a4f836 pad_up
+0xc4745838 text
+0x25209846 SE_WaitProps
+0xc042d84c error_message_refreshing
+0x9d2d8850 z
+0xf135e854 screen_element_params
+0x6835b854 mode
+0x935ab858 debug
+0x9688385a presence
+0x9a3c4867 item_data
+0x1b18f86d songlist_component
+0x899c2878 getmessagecount
+0x29d5d87b add_gamertag_helper
+0x53a95880 num_items_displayed
+0xb4c2b886 ScreenElementExistsSimpleID
+0x6c5b0888 unregisternewmessagewaitingeventhandler
+0x9662588e c1_queue_size
+0x29f1a896 GetScreenElementChildren
+0x85981897 left
+0xb99c689a songlist
+0xbd27089a divider_512_alpha
+0xee51589e counter_name
+0x7d6448a9 number_items_expanded_feed
+0x40c698af id
+0x4dfba8c4 destroy_friend_feed
+0xf467b8c8 controllers
+0xba1628cb career_lobby
+0xe934e8cd error_message_not_signed_in_insufficient_privileges
+0x9eb628d6 add_controller
+0x7321a8d6 type
+0xb90a78d7 is_popup
+0x7ce468dd Block
+0xca9388de ff_collapse_feed
+0xd70d88df pad_handler
+0xa4cf88ed is_song_downloaded
+0x5cf378f4 message_cont_alpha
+0xbfdb28fd friend_update_message_handler
+0xbbb9d8fd texturechecksum
+0x7f8c98fe index
+0xed77c901 news_feed_fix_main_menu_button_helpers
+0x734ad918 force_update
+0x0ad46922 controller_index
+0x43a7692d allow_wrap
+0xece23940 button_prompt_is_present
+0x3493594b is_current_playlist_empty
+0x7f261953 pos
+0xd296a95c beat_score
+0x88c21962 car
+0xb30d9965 controller
+0xcec99971 news_feed_request_friend_updates
+0xfc078976 g_ff_has_error_message
+0x55074978 mainmenu_id
+0x2b68197c friends_Feed_tiled_bg_gamerpic_texture
+0x0da6698d ignore_spawn_request
+0x3bba6995 checksum_value
+0x59e8f9a0 ff_kill_error_message
+0x461a99b1 goal_loc
+0x3c15e9b6 DestroyScreenElement
+0x1b0509c5 savegame
+0x132e59de news_feed_display_rock_record
+0x813609df ads
+0xc130f9e5 ScriptIsRunning
+0x140a69e9 FF_ICON_jump_alpha
+0x01b719ec handlers
+0xff6d39f6 local_user_index
+0xfbf969fd bg_desc
+0x73f8ca00 valid
+0x26e40a04 ff_cleanup_expanded_view
+0x26982a07 all_buttons
+0xc9428a08 device_num
+0xa5922a09 server
+0x557c6a0d voice_allowed
+0x06504a14 communication
+0xd9456a25 scroll_time
+0x4fe0ba2d screen_element_tags
+0x230c0a2f news_feed_add_control_helpers
+0xb1fe6a30 NewsFeedManager
+0x58264a31 ff_setup_expanded_view
+0xdfb6da4b ff_index
+0xd5614a50 unblock_events
+0xf1acda5b main_menu_select_music_store
+0x390d5a5f focus_type
+0xb0cb2a69 ad_id
+0x2c8a3a6d child_index
+0xf7728a70 updatelocalinboxfailure
+0x6acbea78 test_feed_achievements
+0x1fd26a7a user_control_helper_exists
+0xe1fc8a7e c2_queue_size
+0x67daca87 update
+0x35a5fa89 debug_ff_update_output
+0x3c451a8c g_prev_registered_controllers
+0x11dffa8c friends_Feed_tiled_bg_gamertag_cont_pos
+0x76fa7a8f ChecksumName
+0xed138a90 news_feed_get_exclusive_device
+0xcdffaa93 num_headers
+0x55f09a93 motd
+0xac653a93 updatelocalinboxdone
+0xd9d03a94 error_popup_invalid_song_dlc
+0x14e68a94 user_control_helper_change_text
+0x43f6aa97 request_items
+0xa0371aa0 hiddenlocal
+0xa72b9aad deleteremotemessagesdone
+0xf4b16ab0 management
+0xf9b12ab8 active_index
+0x80a94ab9 news_feed_get_item_data
+0x66ce9aba GetPlayerInteger
+0xfe03eabb news_feed_generic_error_popup
+0x6da42abb scrollup
+0x3fce2acc end_sprite_element_id
+0xa31efad8 feed_anim_start_expand
+0x56a1eae3 root_window
+0x23db4aea idle
+0x4dce3aed rank_container_alpha
+0x19fa5af7 SpawnScriptNow
+0x85a43afa match
+0x4ce3aafc news_feed_should_add_button_helper
+0xda7c6aff vs_lobby
+0xb0d31b09 ad_texture
+0xeaf69b13 sendmessagesfailure
+0x28e66b14 resolved_id
+0x71cccb15 InInternetMode
+0xfbf29b18 fetchmessagesstarted
+0x7d44db1a generic_blocking_execute_script
+0xcab14b23 num_current_controllers
+0x35b7cb26 cleanup
+0x5451cb2a acceptmessagesfromfriendsonly
+0xd26f2b38 ui_event_wait_for_safe
+0xc8a7ab39 flushremoteinboxfailure
+0x5569eb3b ff_attempt_to_collapse_feed
+0xe038db54 ff_refresh_feed
+0x08c74b5c expand_anim
+0x7bd40b5f msg_id
+0x421c1b6c rank_number_text
+0xd5a82b71 Obj_GetIntegerTag
+0x7dd34b73 news_feed_remove_ad_item
+0xa4be1b7e instrument_type
+0xf1ad5b88 negativeselect
+0x3f5cdb8a empty_script
+0x8b416b8f net_counter_increment
+0xb9992b93 obj
+0x31fceb9a alias_generic_scrollbar_wgt
+0xa58b7ba1 logmessage
+0x98549ba4 anim
+0xc3dcdba7 fetchmessages
+0xfa735bac lobby_mode
+0x1fefabac format_string
+0x8013cbb1 practice
+0x648e9bbf ff_clicks
+0x29502bc0 ui_sfx
+0x34ec6bd3 return_params
+0x915f0bd6 Obj_SetMultipleTags
+0x90436bd9 tags
+0x092b3bda sendername
+0x67c35bde main_menu_add_friendfeed_button_pill_spawned
+0xffd58be3 news_feed_get_num_hidden_items
+0x9c135be6 msg_queue
+0x0562abf6 ff_run_expand_anim
+0x2827dc01 isnewmessagewaiting
+0x5ef78c01 achievement_info
+0x4d49ac0a current_menu
+0x37f1ac0e RemoveArrayElement
+0x7d654c18 exclusive_device
+0x82117c1a wait
+0x8addac1f smooth
+0x9f23dc21 SE_SetProps
+0x0fd1ac26 pad_down
+0xd17cfc28 debug_news_feed_restart
+0xbb11ec2d item_type
+0x0576ac2f destroy_item
+0x3b4ccc2f news_feed_change_all_items_alpha
+0x706edc36 friends_Feed_tiled_bg_gamertag_text
+0xd6445c38 newIndex
+0x2fcbdc39 friend_feed_strings
+0x05de5c3c rock_record
+0x6721dc40 music_store
+0xcbdc8c57 error_popup_warning
+0x2b18dc5c g_ff_debug
+0x840f6c5c additional_time_per_line
+0x9e74ec5d quickplay_get_award_rank_ui_data
+0x09db4c62 sender_id
+0x928d1c66 msgid
+0xe1b10c67 create_friend_feed
+0x58912c6a user_id
+0x8fe3fc6c ff_has_error_message
+0x2ea02c6e FF_ICON_community
+0xc4a80c71 news_feed_add_valid_controllers
+0x61740c81 button_yellow
+0xb5368c90 ChangeGlobalArray
+0x520c0c9c data
+0x87e3fca8 news_feed_set_interactive_state
+0xcb39fcac hint
+0x0830ecaf objid
+0xa67b6cb4 news_feed_reset_messages_stored_locally
+0x44a31cb5 SetGlobalTags
+0x374b9cb5 mini_feed
+0x62c11cb9 GetSingleTag
+0x55d59cc2 ff_has_motd_or_friend_messages
+0xe4520cc8 friendstats_getquickplaystars
+0xeb7bbcca wait_time
+0x4adf0cd3 unfocus
+0xfbd89cd5 Obj_KillSpawnedScript
+0xd6521cee generic_event_back
+0x152aecf0 num_seconds
+0x44fc8cf7 gotmsgdata
+0x2660cd00 sing_a_long
+0x7056ed02 RemoveParameter
+0x5c6c2d04 state
+0xc3cb6d0b gamerpic_set_screenelement_texture
+0x7b425d0b ff_run_colapse_anim
+0x43c43d11 button_blue
+0x9def3d12 islocalinboxbusy
+0xc2481d17 g_ff_rock_record_messages
+0x0f460d1c ff_wait_for_rank_data
+0x7ee0fd2a pad_back
+0x66a54d2d generic_event_choose
+0x9fd71d2f menu_pos_index
+0x388dcd38 Obj_SpawnScriptLater
+0x4577fd38 AssignAlias
+0x938e0d3c num_msgs
+0x7f5b3d4d array_size
+0x7ffcdd4e ff_mini_feed_request_update_loop
+0xc24d0d4f globalcounter_friend_feed_click_friend
+0xdb035d50 sendmessagesdone
+0xc906ad51 menustate
+0x61414d56 string
+0xa8558d64 item_fade_out_time
+0x6d1f9d65 is_controller_added
+0x8f30bd66 sender_id_first
+0x6fa34d6b num_hidden_items
+0xd7947d6e rock_record_read_friends
+0x6289dd76 max
+0xca6a1d79 net_id_gamertag
+0xcf306d80 out_first
+0xa0984d83 active_controllers
+0x87f8bd95 item_fade_in_time
+0x1efe0d97 m
+0x64cf2d98 flushremoteinboxdone
+0x012ead9a DestroyScreenElementSimpleID
+0xbf3ead9c g_request_spin_time
+0xa3633da2 feed_string
+0x75f3ada7 alias_message
+0x7eab3da8 main_menu_select_motd
+0xe7d1adac leaderboard
+0x45f02db4 num_valid_controllers
+0x18b61dbe animateopen
+0x67c80dc1 num_ff_items
+0x4fe9ddc3 fetchmessagesdone
+0xc1127dc4 get_user_id
+0xfdccadd0 ff_create_news_feed_item
+0xb564edd0 g_ff_ps3_boot_time_refresh_done
+0x9a789dd6 ff_change_item_focus
+0xec023ddb encore_complete
+0x6eff0e03 fetchmessagesfailure
+0x76449e04 animateinslide
+0x7ffb0e08 sendmessagesstarted
+0x0a015e17 motion
+0x5daa3e22 flushremoteinboxstarted
+0x3cc8ae23 integer_value
+0xc4099e27 feed_anim_finish_expand
+0x69b05e2c generic
+0xe5d6fe3e block_events
+0xb6ce0e44 friendsfeed_BORD_alpha
+0x5e684e45 children
+0x8d022e4c msg_scroll_threshold
+0x4fd33e4f tag_name
+0x36d3fe4f new_item_id
+0x87f74e52 subscriber_id
+0xccbfae56 alias_FriendsFeed_BORD_mid
+0xc39efe6c ui_event_is_top_popup
+0x390c5e73 AddArrayArrayElement
+0x28bd1e7a anim_index
+0xdb89de7b created_rocker
+0xc60e7e7b gh_tunes
+0x7ceb7e85 have_rock_record
+0xbe304e86 printstruct
+0xe23a4e87 orange
+0x411a9e8a generic_scrollbar_wgt_update_thumb_pos
+0x00fdee8a nullchecksum
+0x0a2ebe92 GoToGamePlay
+0x49e0ee96 second
+0x90939e98 request_updates
+0x08d82e9d AddParam
+0x58e36ea5 g_max_items_in_mini_feed
+0x2141dec7 msg_header
+0x287deed2 playlist
+0x52adbedc AddIntegerArrayElement2
+0x0535aef0 failure_texture
+0x7c2b7ef1 songlist_create_default_user_control_helpers
+0xa2a5defe local_id
+0xfc37df05 gameframe
+0x37bf4f09 base_name
+0x2fc55f09 alias_friends_feed_tiled_bg
+0x71801f09 type_index
+0xb4015f0f qeventhandler
+0x02141f19 clean_up_user_control_helpers
+0x2c6a5f27 uitype
+0x806fff30 none
+0x57710f31 z_priority
+0xb60d1f35 unhide
+0xe495ef3c error_msg
+0x3bce4f3f unlock_item
+0x72ba6f47 numitems
+0xe204af50 ff_wait_for_feed_ready
+0x7a8eaf50 challenge_type
+0xf9bbff5e out_param
+0x43df7f67 BroadcastEvent
+0x627f1f6b updatelocalinboxstarted
+0x3e355f78 debug_news_feed_grab_overlay_data
+0x8aa8af79 news_feed_adjust_feed_pos_by_menu
+0xc39cdf85 song_uploaded
+0x35debf8d sender_id_second
+0xc717ef8f play_song
+0xde118f96 friends
+0xd30bcf9f friends_feed_desc_id
+0x2bf79f9f queue_index
+0x7e627fa5 friends_feed_tiled_bg_alpha
+0x100dcfa7 msgid_second
+0x69d0dfaf player_device
+0xc2719fb0 parent
+0x2c425fb3 dynamicaddebugoverlay_destroy
+0x8cef0fba icon_GH6
+0x6ac4cfbd is_any_controller_added
+0xe3006fc4 down
+0x81882fda freeplay
+0x6e73afde primary_controller_assigned
+0x02248fe6 news_feed_scroll_text_start
+0xa1da6fe9 InNetGame
+0x7536bfea request_gamer_card
+0x1daf3fed view_index
+0x4c127ff0 ff_cleanup_spawned
+0xdb92effa current_index
+

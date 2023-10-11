@@ -1,0 +1,26 @@
+[LineNumbers]
+
+[Checksums]
+0x4031641b models\gh_rockers\ampzilla\ampzilla.qb
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0xb79fe2bf ampzilla_NodeArray_SortedNames
+0x12b4e660 Class
+0x20a3a791 Ampzilla
+0x965a379e Ampzilla_HardSkinning
+0x7f261953 Pos
+0x0e3f8a12 Ampzilla_TRG_LH_Ampzilla_DUMMY_04
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0x93cecb3a ampzilla_NodeArray_SortedIndices
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x385e8d74 SkinExport
+0x7e557e9d Ampzilla_TRG_LH_Ampzilla_DUMMY_01
+0xe75c2f27 Ampzilla_TRG_LH_Ampzilla_DUMMY_02
+0x84b1df33 ExportName
+0xd0480f50 ampzilla_NodeArray
+0x64f0cf83 AttachPoint
+0x905b1fb1 Ampzilla_TRG_LH_Ampzilla_DUMMY_03
+

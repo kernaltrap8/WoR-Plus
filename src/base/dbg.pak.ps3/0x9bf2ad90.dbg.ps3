@@ -1,0 +1,46 @@
+[LineNumbers]
+timer_callback_script 4 (0,2) (18,3) (24,4) (26,5) 
+pre_gameserver_callback 2 (0,8) (6,9) 
+script_postcallback_script 22 (0,17) (6,18) (16,19) (52,20) (70,21) (76,22) (94,26) (106,27) (156,28) (177,30) (195,32) (201,33) (207,35) (244,37) (257,38) (259,39) (322,41) (340,42) (342,43) (344,44) (346,45) (348,46) 
+screenelement_postcallback_script 1 (0,51) 
+
+[Checksums]
+0xa1dac6b3 scripts\guitar\guitar_callback.qb
+0x9e0020da GameIsPaused
+0xe4f130f4 s
+0xa1762145 play
+0xcf66717b GotParam
+0x6155a191 RunQueuedPulseEvents
+0xa1dc81f9 name
+0xd679825d GetProfileData
+0xcc59f2ce previous_snapshot
+0x2b580363 input_mode
+0x9330b37a gpu_log_start_logging
+0x6e38d3b2 pre_gameserver_callback
+0xff0db407 TextName
+0x9277f428 FormatText
+0x7ad57518 delta_time
+0xa563058f LightShow_GetParams
+0xa776f6a8 timer_callback_script
+0x7e0f7701 playback_timer
+0x4276070d gpu
+0x15dc078d milliseconds
+0x7f0bb814 GetSongTime
+0xc4745838 text
+0x92c008c7 songtime
+0x2c801951 output_gpu_log
+0x2cf7f9cf screenelement_postcallback_script
+0x13d0da1e DontAssertForChecksums
+0x772fab6d Update2DParticleSystems
+0xef54ec55 script_postcallback_script
+0x46bacc64 microseconds
+0x38599cad script_callback_script_cfunc
+0x69f93d01 l
+0xa962ad1a GetDeltaTime
+0x1efe0d97 m
+0xefadbda0 TextOutput
+0x4fbeee13 ignore_slomo
+0x3f387e93 UpdateGuitarFuncs
+0x806fff30 none
+0x457fafd1 cpu
+

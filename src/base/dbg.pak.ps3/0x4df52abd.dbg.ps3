@@ -1,0 +1,58 @@
+[LineNumbers]
+qp_sustain_hits_listener_gotEvent 3 (0,102) (52,106) (114,109) 
+
+[Checksums]
+0x70fe0313 scripts\game\modes\challenges\qp_hit_notes\qp_sustain_hits.qb
+0xa075808c source
+0x6c3200c7 constants
+0x4696d0cf current_value
+0x7031f10c params
+0x365aa16a float
+0x15052188 tools
+0xa1dc81f9 name
+0x2c8f220d event_listener
+0xd21e4278 valid_sections
+0x8c108335 var_type
+0x9f37d45c section_watcher
+0x032314d1 goal
+0x9982e501 goal_id
+0x0dff4546 vars
+0x67e6859a player
+0xc21515bd previous_progress
+0x304c068b got_event
+0x34ce06c4 desc_txt
+0x08f83721 quickplay_challenge
+0x997e7758 leaderboard_metric_string
+0x40867793 current_progress
+0x232b4818 calculated_targets
+0x9b0c084b any
+0xafe0587f title_string
+0xac78a8b5 events
+0x7321a8d6 type
+0x922f78f9 var
+0x77814933 incremental
+0x16447994 song_complete
+0xc17a8a06 var_watcher
+0xcdec7a0c challenge_qp_calculate_current_progress
+0xb56efa5d var_updated
+0x23ea1aba drumsustain_hitp1
+0xf7c0caca qp_sustain_hits_info
+0xbae34b00 drumsustain_hitp2
+0xffae7b27 qp_sustain_hits_listener_gotEvent
+0x7336db76 challenge_output_grade_marks
+0xcde47b96 drumsustain_hitp3
+0x79dd4bee goalplayerdata
+0x9aebcc49 challenge_qp_evaluate_progress
+0x520c0c9c data
+0x5ea10ca0 percent_targets
+0xf0165caf player_data
+0xc2130cc6 section_base_value
+0x5e233cc7 target_value
+0xfff02d14 assigned_player
+0x607e8d15 GMan_SetData
+0x6d11ed74 goal_type
+0x5380ee35 drumsustain_hitp4
+0xc827ae88 checkpoints
+0xf5b0ff05 SONGSTAT_SUSTAIN_TIME
+0xdb24afc0 callback_mode
+

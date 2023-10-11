@@ -1,0 +1,46 @@
+[LineNumbers]
+TestAvatar 8 (0,24) (36,26) (48,27) (50,28) (328,53) (368,57) (380,58) (392,59) 
+KillAvatar 2 (0,62) (12,63) 
+AnimateAvatar 7 (0,66) (40,67) (42,68) (44,69) (56,71) (68,73) (108,76) 
+
+[Checksums]
+0xeeb3b276 scripts\engine\useravatar.qb
+0xc6870028 Die
+0xa075808c Source
+0x7031f10c Params
+0x48c1a123 Tree
+0x437b2131 ObjectExists
+0xb1c4b1e8 avatar_transition_color
+0xf0ed31f6 gh3xp1_crowd_becki_bad1
+0xa1dc81f9 Name
+0x4570735d Drummer
+0x1bbf844d SetDisplayMatrix
+0x5b6634d4 Hide
+0xff85d4d7 UnPause
+0x1f8c653c avatar_dark_color
+0x222756d5 Skeleton
+0x686ec747 TestAvatar
+0x6d9bc823 AvatarSkinBuilder
+0xf034988e AnimateAvatar
+0x1eef0891 AvatarSkinBuilderTree_Moving
+0x40c698af id
+0x7321a8d6 type
+0x1af708dc AvatarSkinBuilderTree
+0xe118b91f Anim_InitTree
+0x09794932 SkeletonName
+0x7f261953 Pos
+0x11b70a02 Components
+0xc97f3aa9 Orientation
+0xd80f3b4a avatar_scale_color
+0x98549ba4 anim
+0x8536dba5 AnimTree
+0x09ce6c98 Anim_UpdatePose
+0x286a8d26 Model
+0x654d2d97 Anim_UnInitTree
+0x4f792e6c Cycle
+0xb6015ea8 Component
+0xa9551f18 KillAvatar
+0x880d9f7c CreateCompositeObject
+0x24859fb4 gh_rocker_avatar_tpose
+0x8e6f6fea skeletons/GH_Rocker_Avatar_global.ske
+

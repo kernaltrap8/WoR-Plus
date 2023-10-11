@@ -1,0 +1,41 @@
+[LineNumbers]
+ui_create_tutorial_text_with_images 4 (0,10) (36,11) (88,12) (90,13) 
+ui_destroy_tutorial_text_with_images 4 (0,22) (36,23) (88,24) (90,25) 
+ui_init_tutorial_text_with_images 8 (0,33) (6,34) (24,36) (42,38) (60,40) (100,42) (138,43) (140,44) 
+ui_init_tutorial_text_with_images_spawned 4 (0,52) (6,53) (44,55) (94,57) 
+ui_deinit_tutorial_text_with_images 5 (0,65) (6,66) (12,68) (18,70) (24,72) 
+
+[Checksums]
+0xf54c6b97 scripts\guitar\menu\states\layouts\ui_tutorial_text_with_images.qb
+0xb990d003 target
+0xe0c74104 tutorial_system_enable_pause
+0x7031f10c params
+0xcf66717b GotParam
+0x500eb224 Obj_GetID
+0xda87e23f return_from_pause
+0x99bbf256 tutorial_system_flip_images
+0x2bac226e tutorial_system_handle_completion
+0x4b3212df ui_destroy_tutorial_text_with_images
+0x27e9c321 tutorial_system_create_description
+0x7b21234f ui_deinit_tutorial_text_with_images
+0xc5bc93ee ScreenElementExists
+0x18d964f4 tutorial_system_create_image_flipbook
+0x9d3fb516 focus
+0x3f11b5d6 tutorial_main
+0xe88e660c destroy_generic_menu
+0xf4c3d6b7 ui_init_tutorial_text_with_images
+0x2cb33744 LaunchEvent
+0x0ed45788 Obj_SpawnScriptNow
+0x4bb2084e desc_id
+0xb158f886 ui_create_tutorial_text_with_images
+0x40c698af id
+0x7321a8d6 type
+0x397c5a55 tutorial_system_disable_pause
+0x0e568c2d tutorial_system_setup_event_handlers
+0x0830ecaf objid
+0x4adf0cd3 unfocus
+0x2abbdecf page_struct
+0x5aff8edd tutorial_system_destroy_image_flipbook
+0x26ea4f0a ui_init_tutorial_text_with_images_spawned
+0x358b0ffe tutorial_system_destroy_description
+

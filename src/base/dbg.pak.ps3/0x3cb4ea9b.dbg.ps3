@@ -1,0 +1,228 @@
+[LineNumbers]
+dgsfilelogon 2 (0,26) (48,27) 
+dgsfilelogoff 2 (0,33) (48,34) 
+dgson 22 (0,40) (36,41) (76,42) (112,44) (148,45) (184,46) (220,47) (256,48) (292,49) (328,50) (364,51) (400,52) (436,53) (472,54) (508,55) (544,56) (580,57) (616,59) (652,60) (688,62) (724,63) (760,64) 
+dgsoff 22 (0,70) (36,71) (76,72) (112,74) (148,75) (184,76) (220,77) (256,78) (292,79) (328,80) (364,81) (400,82) (436,83) (472,84) (508,85) (544,86) (580,87) (616,89) (652,90) (688,92) (724,93) (760,94) 
+dgsrecorddata_trace 6 (0,99) (36,101) (71,102) (75,103) (116,104) (118,105) 
+dgsrecorddata_dumpplayerinfo 32 (0,111) (9,113) (21,120) (23,121) (40,122) (57,123) (74,125) (91,126) (108,127) (125,128) (142,129) (159,130) (176,131) (193,132) (210,133) (227,134) (245,135) (283,136) (309,137) (343,138) (345,140) (347,141) (349,142) (403,143) (604,144) (634,145) (648,146) (669,148) (676,149) (712,155) (719,156) (752,157) 
+dgsrecorddata_calibratebegin 1 (0,167) 
+dgsrecorddata_calibrateend 2 (0,176) (99,180) 
+dgsrecorddata_venueenter 17 (0,186) (18,188) (20,189) (22,190) (72,207) (90,208) (124,209) (126,210) (180,211) (210,212) (214,213) (227,214) (229,215) (316,217) (339,218) (347,219) (349,220) 
+dgsrecorddata_venueexit 17 (0,226) (18,228) (20,229) (22,230) (72,247) (90,248) (124,249) (126,250) (180,251) (210,252) (214,253) (227,254) (229,255) (328,256) (351,257) (359,258) (361,259) 
+dgsrecorddata_songbegin 32 (0,265) (18,267) (20,268) (22,269) (72,271) (90,272) (124,273) (126,274) (132,275) (138,276) (144,277) (196,279) (226,280) (230,281) (243,282) (245,283) (262,285) (280,286) (297,288) (315,289) (332,291) (349,292) (387,293) (413,294) (447,295) (449,297) (451,298) (453,299) (652,301) (675,302) (683,303) (685,304) 
+dgsrecorddata_songwon 68 (0,315) (18,317) (20,318) (22,319) (72,321) (90,322) (124,323) (126,324) (132,326) (138,327) (144,328) (150,329) (204,331) (234,332) (238,333) (251,334) (253,335) (270,337) (288,338) (305,340) (322,341) (339,342) (356,343) (373,344) (390,345) (407,346) (424,348) (442,349) (459,351) (476,352) (514,353) (540,354) (574,355) (576,357) (578,358) (580,359) (594,362) (607,363) (620,364) (632,366) (650,369) (668,370) (680,371) (682,372) (705,373) (764,375) (800,376) (818,378) (841,380) (875,381) (897,382) (904,385) (917,386) (930,387) (943,388) (956,389) (969,390) (981,391) (983,392) (1028,401) (1370,403) (1391,405) (1399,406) (1401,407) (1706,410) (1729,413) (1737,414) (1739,415) 
+dgsrecorddata_songfailed 39 (0,421) (18,423) (20,424) (22,425) (72,427) (90,428) (124,429) (126,430) (132,431) (138,432) (144,433) (150,434) (204,436) (234,437) (238,438) (251,439) (253,440) (270,442) (288,443) (305,445) (322,446) (339,447) (356,448) (373,449) (390,450) (407,452) (425,453) (442,455) (459,456) (497,457) (523,458) (557,459) (559,461) (561,462) (563,463) (859,466) (882,467) (890,468) (892,469) 
+dgsrecorddata_songretry 39 (0,475) (18,477) (20,478) (22,479) (72,481) (90,482) (124,483) (126,484) (132,485) (138,486) (144,487) (150,488) (204,490) (234,491) (238,492) (251,493) (253,494) (270,496) (288,497) (305,499) (322,500) (339,501) (356,502) (373,503) (390,504) (407,506) (425,507) (442,509) (459,510) (497,511) (523,512) (557,513) (559,515) (561,516) (563,517) (858,520) (881,521) (889,522) (891,523) 
+dgsrecorddata_songaborted 39 (0,529) (18,531) (20,532) (22,533) (72,535) (90,536) (124,537) (126,538) (132,539) (138,540) (144,541) (150,542) (204,544) (234,545) (238,546) (251,547) (253,548) (270,550) (288,551) (305,553) (322,554) (339,555) (356,556) (373,557) (390,558) (407,560) (425,561) (442,563) (459,564) (497,565) (523,566) (557,567) (559,569) (561,570) (563,571) (860,574) (883,575) (891,576) (893,577) 
+dgsrecorddata_sendgameinvite 2 (0,583) (105,591) 
+dgsrecorddata_joingameinviteattempt 2 (0,597) (64,601) 
+dgsrecorddata_joingameinvitesuccess 2 (0,607) (64,611) 
+dgsrecorddata_joingameinvitefailure 2 (0,617) (64,621) 
+
+[Checksums]
+0x80bbac57 scripts\game\net\net_dgs.qb
+0x1bff900b quickplay
+0xfea9e00c countrycode
+0x44949010 difficulty
+0x6dc26038 dgsrecorddata_songwon
+0x4304e054 character_savegame
+0x8980008e sessionid2
+0x526900b0 dgsrecorddata_calibratebegin
+0xa078e107 get_is_female_from_appearance
+0xab215108 GetFirstPlayer
+0x7031f10c params
+0xf66ff117 in_game
+0xe3f5311b net_dgs_debug
+0xdf0cc12e tool
+0x10895134 sessionid1
+0xa3dd4139 string4
+0x5ef31148 array
+0xfe82614d length
+0x4bd4d154 CharacterProfileGetStruct
+0xcc12115e song
+0x04d9716d total_award_points
+0xe5479175 var4
+0xcf66717b GotParam
+0x0731c180 net_dgs_sendgameinvite
+0xeec9418a character_id
+0x10a4a1ad quickplay_do_challenge_score_update
+0xbebfa1c6 element
+0xa6a551cb grade
+0xbfa801df change
+0x7862f1f2 net_dgs_venueexit
+0xa1dc81f9 name
+0x4bfcd202 AddArrayElement
+0x9b434231 test3
+0xc48b6246 teststruct
+0x46159266 out
+0x3e04b26b gamemode
+0xf4c26284 goals_by_player_size
+0xec4472a7 test2
+0xf2ecb2e5 dgsrecorddata_songaborted
+0x2510a2e9 gametype
+0xfea7b302 note_streak
+0x4c0d1319 notes_hit
+0x754d231d test1
+0x90a34321 net_dgs_songwon
+0xc363e33a songstatus
+0xf2be833b GameEvent_GetLastUsedMicType
+0x5b3d336e dgsoff
+0xf18a136e tempvaluename
+0xc31a237f dgsrecorddata_songfailed
+0x056db38a dgsfilelogon
+0x3930d3c3 pending_grade
+0x64f6e3e2 DGSRecordData
+0x4abee40c string2
+0x487e440c dgsrecorddata_venueenter
+0x9277f428 FormatText
+0x11a1242d net_dgs_joingameinvitefailure
+0x0c243440 var2
+0xbd09544c func
+0xbfecc45b goal_name
+0x8320d478 game_mode
+0xc284d484 isserverplayer
+0xa4fa3489 audio_offset
+0x3db9d49a string3
+0x6a4cf4b7 dgsversion1
+0xdeef04cd StructureContains
+0x032314d1 goal
+0x7b2304d6 var3
+0xc10b44e8 current_level
+0x123f54ee net_dgs_matchstate
+0x6e6ee4f2 venue
+0x4105d4f9 dgsrecorddata_venueexit
+0x9982e501 goal_id
+0xf345a50d dgsversion2
+0xb7e37516 get_challenge_score
+0xaa99c521 save
+0xf671452e goal_strings_by_player
+0x6722b533 d
+0x675de539 challenge_id
+0x840d6547 GameMode_GetType
+0xc451f558 event
+0xbc12255f challenge_instance_id
+0x15f5a570 localbandnumplayers
+0x52c6657c debugmsg
+0x28d6258a net_dgs_joingameinviteattempt
+0x67e6859a player
+0x4e35c59d LevelZones
+0xd28ab59f dgsrecorddata_trace
+0xd3b7b5b6 string1
+0xe22dd5c2 lefty_flip
+0xd82ac5c4 net_dgs_sendfriendsfeedmessage
+0x464545dc dgsrecorddata_calibrateend
+0x9ea295e2 video_offset
+0x635625e5 isserver
+0x952d65fa var1
+0xfef24607 dgsrecorddata_dumpplayerinfo
+0x5a1c860e net_dgs_songaborted
+0x2de8c60e printf
+0x0166161f hardware
+0xc3409622 instrument
+0x31d75630 ishost
+0x68ca1645 dgsrecorddata_joingameinvitesuccess
+0x0b99f656 conditions
+0x3d92465e dont_assert
+0xa873867f challenge_name
+0xf24ba68c GetSongTimeMS
+0x0ecd9691 userid
+0x168bc699 territory
+0x1cb2a6b0 num_players
+0x766566c3 rules
+0x0c1266db challengegoal_name
+0x74297717 local
+0xc774275a goals_by_player
+0x0527d792 test4
+0x18ab47ad challengegoal_score
+0x2f5567b7 net_id_first
+0x906b67ba time
+0x7851b7bc g_dgs_checksumsneeded
+0xfbc63812 goal_string
+0xc4aa3815 net_id_second
+0x90fec815 structure
+0xf84a581f challenges
+0x03a17838 current_song
+0xe5c2f84c is_female
+0x5f3af85e net_dgs_joingameinvitesuccess
+0x07996863 temp1
+0x5d6f386d gamertag_global
+0x4dfd5878 max_notes
+0x618fe886 specific_mic_type
+0xcd66c8ae score
+0xdc8078bb net_dgsversion2
+0x0c07b8c1 leftyflip
+0xa65c38d1 GetSavegameFromController
+0x7321a8d6 type
+0xa277d8d9 challenge_grade
+0x21cc38d9 ExtendCRC
+0x7f8c98fe index
+0x9196d920 playername
+0x0ad46922 controller_index
+0xe997094f temp3
+0xb30d9965 controller
+0xd9bcd96b invite_title
+0xcafc596b vocals_highway_view
+0x7323e97c x
+0xd55d79a4 usingheadset
+0x542449ae Playlist_GetCurrentSong
+0xf5a4e9c2 newstate
+0x1b0509c5 savegame
+0x9e9039d9 temp2
+0xac5c19e6 g_gameevent_calibration_time
+0x616049e8 dgsfilelogoff
+0x0bc06a21 CastToInteger
+0x2651ca36 dgsrecorddata_joingameinvitefailure
+0x2e42ca40 buildversion
+0x40c0ea59 challenge_progress
+0x76fa7a8f checksumname
+0xdf95faa1 net_dgs_venueenter
+0xb513cac2 net_dgs_songbegin
+0xe0e4dae1 item
+0xea920ae1 GetNextPlayer
+0xe4212aef competitive_rules
+0x1f773af1 is_local_client
+0xddb30b01 GMan_GetGoalsByPlayer
+0xd8112b3f dgsrecorddata_songretry
+0x5bc46b43 score_value
+0x1f26cb91 dgsrecorddata_joingameinviteattempt
+0x06af4b9c testarray
+0xed46fbeb dgson
+0x8478fc46 autotest_on
+0xb5742c5a gamertag
+0x56431c61 lobbynetstate
+0x99a30c62 numplayers
+0xc18e7c64 localtime
+0xea864c9e g_gameevent_in_venue_time
+0x25cadcac GetNumPlayersInGame
+0x29d4dcba oldstate
+0xe25f0cbd tempvenuename
+0x00314cd8 net_dgs_calibrate
+0xac6e9cea localbandnumber
+0x77f39cec temp4
+0x554c7d6f appearance
+0x14f35d87 invite_msg
+0xdfea5d95 goal_struct
+0xc562fdc9 invite_instrument
+0x54f19dd2 net_dgs_songfailed
+0xaadfee19 temparray
+0xd2716e31 net_dgs
+0xe1760e34 net_dgs_songretry
+0x2b248e4a language
+0xbe304e86 printstruct
+0x1504eea5 g_lobby_net_state
+0x7368dec8 challengegoal_grade
+0x65485eea GetPlayerInfo
+0x5de39ef1 double_kick_drum
+0xb6f08f39 part
+0x3d96cf41 total_notes
+0x6c20bf54 best_run
+0xe376ff5f quickplay_get_grade
+0xa411ff82 dgsrecorddata_sendgameinvite
+0x1d4a7f96 userlist
+0x2d474fb6 profile_struct
+0x8c74efc9 dgsrecorddata_songbegin
+0x6c854fcb character
+0x6b6c5fcf GMan_ChallengeManagerFunc
+0xfee23fd3 stars
+0xe5615fe1 net_dgs_songchallengegoals
+

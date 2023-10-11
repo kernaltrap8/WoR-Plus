@@ -1,0 +1,29 @@
+[LineNumbers]
+ui_create_tutorial_vocals_load 5 (0,14) (6,16) (40,18) (76,21) (96,23) 
+ui_create_tutorial_vocals_load_spawned 9 (0,32) (72,33) (78,36) (102,40) (114,41) (127,42) (140,43) (153,44) (155,45) 
+
+[Checksums]
+0x13baac32 scripts\guitar\menu\states\layouts\ui_tutorial_vocals_load.qb
+0x79e3f0c0 check_lefty_flip
+0x7031f10c params
+0x6017f1cc ui_event
+0xed75635c tutorial_system_set_part
+0xee9bc392 SpawnScriptLater
+0x80cdd3a7 ui_create_tutorial_vocals_load_spawned
+0x774734e0 allow_default_headset
+0x4c29c545 RequireParams
+0xc451f558 event
+0x273c25b8 ui_create_tutorial_vocals_load
+0xe88e660c destroy_generic_menu
+0xd4c98794 title
+0x6cef5907 menu_change
+0x3b53993d UIstate_tutorial_menu_skill_level
+0x73b8d9b3 vocals_distribute_mics
+0xd26f2b38 ui_event_wait_for_safe
+0x520c0c9c data
+0x5c6c2d04 state
+0xe8e6adcb vocals
+0xc4e78e22 all
+0xa7860f33 tutorial_header
+0xb6f08f39 part
+

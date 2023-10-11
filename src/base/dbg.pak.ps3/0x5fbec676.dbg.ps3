@@ -1,0 +1,47 @@
+[LineNumbers]
+
+[Checksums]
+0x8cfb984a zones\z_screenshot\z_screenshot_gfx.qb
+0x60ce9048 z_screenshot_GFX_TRG_TeslaNode_5
+0x17c9a0de z_screenshot_GFX_TRG_TeslaNode_4
+0x3760f0f8 z_screenshot_gfx_NodeArray
+0xef59c100 GameObject
+0x8ec0f164 z_screenshot_GFX_TRG_TeslaNode_7
+0xf9c7c1f2 z_screenshot_GFX_TRG_TeslaNode_6
+0xa1dc81f9 Name
+0x9738c23b Empty
+0x3ad2f29a z_screenshot_GFX_TRG_TeslaNode_10
+0x7c2552b9 CreatedAtStart
+0x1764037a ProjectorColor
+0x7e4813a7 LightGroup
+0x67a35451 z_screenshot_GFX_TRG_TeslaNode_1
+0x89ad357d z_screenshot_GFX_TRG_TeslaNode_3
+0xc35dd5b2 z_screenshot_gfx_NodeArray_SortedIndices
+0x6c78a5b6 Range
+0xfeaa05eb z_screenshot_GFX_TRG_TeslaNode_2
+0x12b4e660 Class
+0x3bee67c8 StartRadius
+0xd43297cf FALSE
+0xeec86822 VolumeColor
+0x8d2c287f InnerRadius
+0x7321a8d6 Type
+0x7f261953 Pos
+0x7db5ea08 VolumeLightGroup
+0x3f243a3c EndRadius
+0xc97f3aa9 Orientation
+0x68910ac6 AbsentInNetGames
+0x4eedfae7 lod_dist1
+0x69788aed LightGroup4
+0xd7e4ab5d lod_dist2
+0xe4279ba2 SuspendDistance
+0x6978dc63 z_screenshot_GFX_TRG_TeslaNode_9
+0x4bfb5c8b DisableShadowCasting
+0x1e7fecf5 z_screenshot_GFX_TRG_TeslaNode_8
+0xd1831cf5 z_screenshot_gfx_NodeArray_SortedNames
+0x286a8d26 Model
+0x9211ded6 VolumeDensity
+0x806fff30 None
+0xf71c1f4e LightGroup3
+0xfcac6f5e Ghost
+0x801b2fd8 LightGroup2
+

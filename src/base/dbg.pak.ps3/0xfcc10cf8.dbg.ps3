@@ -1,0 +1,57 @@
+[LineNumbers]
+
+[Checksums]
+0x4f316228 scripts\av_presets\og_jam_4player_cube_a.qb
+0xcae27061 sprite
+0x44738127 hueModulation
+0xc48391a5 radius
+0x2f6511de green
+0xb5aa125f fade
+0xdbbaf32d radiusScale
+0x91e07350 thickness
+0x2ffb1360 yellow
+0x051273c0 controls
+0xdd6bb3d5 blendMode
+0xc2de63ed beatOn
+0x08c693f0 OG_Mat_Sphere_Add
+0xc184f404 response
+0xe58114db noteHit
+0xa6f5352f offset
+0x61c9354b blue
+0x6eaf8576 radius2
+0xdea7e576 subtract
+0x67e6859a player
+0xf372e60b OG_Mat_Flare_Add
+0xba277641 nStar2
+0xf5ad16c7 OG_Mat_Sphere_B_Sub
+0x99a9b716 color
+0xed91979d responseFunc
+0x50b5e7fc OG_Mat_Sphere_B_Add
+0x2f6238b3 nPoints
+0x69bf38cf timeOffset
+0x7321a8d6 type
+0x8d634906 gemColor
+0x7f261953 pos
+0xff46c97e deform
+0x34952a27 constant
+0x8ebb3a3e brightnessModulation
+0x83418a6a material
+0x13b9da7b scale
+0x2b489a86 circle
+0x73e5bad0 width
+0xf83a3ad0 sinTime
+0x0ab21af0 height
+0xff7ebaf6 angle
+0x797b2b45 scaleMod
+0xc42fab67 angularVel
+0xeeeccbfc waveform
+0xeec7fbfc OG_Mat_Flare_Brighten
+0x02e58c18 add
+0xf6437c2b blendPrev
+0xaf2bdd8b radius2Scale
+0x5d7e3dff OG_Jam_4Player_Cube_A
+0x2f1f6e28 OG_Mat_LENZFlare_Add
+0x0d53ae6a alphaModulation
+0xe23a4e87 orange
+0x68e77f40 brighten
+

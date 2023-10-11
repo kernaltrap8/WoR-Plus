@@ -1,7 +1,0 @@
-[LineNumbers]
-apply_band_logo_to_venue 2 (0,3) (2,6) 
-
-[Checksums]
-0x52f1ce57 scripts\guitar\guitar_band_logo_name.qb
-0xe5498262 apply_band_logo_to_venue
-

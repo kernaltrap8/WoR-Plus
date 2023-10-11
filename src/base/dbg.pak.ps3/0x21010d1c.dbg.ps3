@@ -1,0 +1,113 @@
+[LineNumbers]
+ui_create_online_quit_warning 40 (0,20) (40,22) (52,23) (54,24) (92,26) (128,27) (142,28) (146,29) (155,30) (157,31) (159,32) (192,34) (207,36) (214,38) (226,39) (238,40) (250,41) (256,42) (264,43) (266,44) (278,45) (292,46) (304,47) (306,48) (308,49) (321,50) (334,51) (346,52) (348,53) (350,54) (363,55) (365,56) (394,58) (444,59) (480,61) (506,62) (508,63) (544,65) (568,66) (570,67) 
+ui_destroy_online_quit_warning 2 (0,77) (6,79) 
+confirm_quit_online 10 (28,89) (40,91) (76,92) (112,93) (136,94) (140,95) (152,96) (154,97) (156,101) (174,103) 
+quit_online_now 37 (60,116) (72,118) (124,119) (176,120) (180,121) (192,122) (244,123) (250,124) (252,125) (258,127) (276,129) (312,130) (314,131) (332,134) (338,136) (344,138) (380,140) (416,142) (422,143) (424,144) (442,146) (448,147) (450,148) (456,150) (474,151) (508,152) (544,153) (562,154) (596,155) (632,156) (666,157) (670,158) (699,159) (701,160) (705,161) (723,162) (725,163) 
+quit_career_back_to_lobby 20 (0,171) (12,180) (18,181) (30,182) (32,183) (76,184) (89,185) (91,186) (93,187) (114,188) (122,189) (140,191) (192,192) (284,193) (318,194) (322,195) (372,196) (408,197) (410,198) (416,200) 
+net_career_host_disband_party 6 (0,209) (36,210) (88,211) (124,212) (176,213) (212,214) 
+net_career_leave_party_confirm 5 (0,222) (52,223) (88,224) (140,225) (176,226) 
+
+[Checksums]
+0x824c4f47 scripts\guitar\menu\states\layouts\ui_online_quit_warning.qb
+0xb990d003 target
+0xcd0dc02d KillSpawnedScript
+0x94a5103b ui_event_get_stack
+0x59b40100 band_lobby_add_in_game_players_to_party
+0x7031f10c params
+0x766ab11f party
+0x3611c136 GetTags
+0x04af9163 stack_size
+0xcf66717b GotParam
+0xb8b0217d num_frames
+0xbfa801df change
+0x589a71df UnPauseGame
+0xa1dc81f9 name
+0xa52bc223 is_host
+0x0b5a7282 g_suppress_anim_in
+0xb9337303 GMan_ShutDownGameModeGoal
+0x4da4937b career
+0x4b17839e band_lobby_restore_prematchmaking_settings
+0xbd09544c func
+0xe11b3452 net_pause
+0x91f0e45a body_text
+0x1e93946b alias
+0xbe578495 stack
+0x445114c8 NetSessionFunc
+0x8da97503 primary_controller
+0x9d3fb516 focus
+0xc78a4520 ui_create_online_quit_warning
+0xaa99c521 save
+0xb40d153f select
+0x840d6547 GameMode_GetType
+0xc451f558 event
+0xae8ec56b quit_career_back_to_lobby
+0x2fca0578 options
+0xd12b95cf g_online_quit_refresh_band_lobby_hack
+0x0ace05de ui_destroy_online_quit_warning
+0x150d35f1 heading_text
+0x2de8c60e printf
+0x9a849678 net_ui_song_breakdown_competitive_start_timer_spawned
+0xe7e4268c online_quit_menu
+0x0f03269c quit_online_now
+0x2ba6b69c net_save_and_uistate_change
+0x332816ed menu_id
+0x0183a6ef destroy_cameracuts
+0x3e0f6740 uistate_band_lobby
+0xdda18741 confirm_params
+0x2cb33744 LaunchEvent
+0x1d2d97d4 func_params
+0xacfb881c confirm_param
+0xc195a822 create_dialog_box
+0x3acac82a uistate_mainmenu
+0xc4745838 text
+0x40c698af id
+0xb3bee8b5 leave_party
+0xe6cf88c4 callback_params
+0x7321a8d6 type
+0xb90a78d7 is_popup
+0x72ec98d8 net_career_leave_party_confirm
+0x93a80903 joinable
+0x23a77915 stop_rendering_on_quit
+0xeafc692e no_background
+0xb30d9965 controller
+0x1993c98e i
+0x3c15e9b6 DestroyScreenElement
+0x79da09e1 uistate_group_play
+0xa58079eb SetTags
+0x146419f5 stoprendering
+0xdad23a77 quit_network_game_early
+0x918eba92 confirm_quit_online
+0xb2b6dacb leave_game
+0x56a1eae3 root_window
+0x19fa5af7 SpawnScriptNow
+0x37c84b09 destroy_dialog_box
+0xd26f2b38 ui_event_wait_for_safe
+0xb9992b93 obj
+0xb8887bb4 disband_party_session
+0x29502bc0 UI_SFX
+0x86068bd9 callback
+0x31bd7c36 playing_song
+0x520c0c9c data
+0xcc5fecbc dialog_box_container
+0x57227ce1 no_unpost
+0xd6521cee generic_event_back
+0x5c6c2d04 state
+0x3efe4d2a net_ui_song_breakdown_start_timer_spawned
+0x4577fd38 AssignAlias
+0xc906ad51 menustate
+0x4ed8fd58 hide_glitch
+0xfc459dcf set_party_joinable
+0x69b05e2c generic
+0x7e149e2f nosound
+0x5a7ece86 menu_back
+0x4eee0e88 confirm_script
+0x94308eb4 found_state
+0xa4fa6ed9 new_state
+0x37bf4f09 base_name
+0x771cdf0a num_states
+0xc3eb7f1e band_lobby_save
+0x2c6a5f27 uitype
+0x69d0dfaf player_device
+0xc2719fb0 parent
+0x4219bffb net_career_host_disband_party
+

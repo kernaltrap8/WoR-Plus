@@ -1,0 +1,17 @@
+[LineNumbers]
+
+[Checksums]
+0xfadc4e3e scripts\game\anim\animationdata\loops\guit\l_guit_tara_notplaying_anim_data.qb
+0x937bb16d Good
+0xcd2561d3 guit_Tara_NotPlaying_120
+0xff130351 guit_Tara_NotPlaying_100
+0x12e4443d Med
+0x7dd4c604 Bad
+0xda99b63b Fast
+0x2596167d Stance_A
+0xde7a971b Normal
+0x23db4aea Idle
+0xc1fa0b2e guit_Tara_NotPlaying_075
+0xcaf88e22 Slow
+0x027f4e24 L_GUIT_Tara_NotPlaying_anims_set
+

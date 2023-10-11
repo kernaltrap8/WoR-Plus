@@ -1,0 +1,30 @@
+[LineNumbers]
+generic_alpha_fade_animation 69 (0,27) (84,28) (102,30) (114,31) (126,33) (138,34) (156,35) (168,36) (180,37) (182,38) (201,39) (214,40) (216,41) (234,43) (272,44) (291,45) (304,46) (326,47) (347,48) (360,49) (362,50) (366,51) (385,52) (399,53) (401,54) (403,55) (407,56) (444,57) (462,58) (474,59) (478,60) (496,61) (498,62) (500,63) (502,64) (506,65) (524,66) (536,67) (540,68) (559,69) (561,70) (563,71) (565,72) (567,73) (569,74) (605,76) (631,77) (663,78) (675,79) (688,80) (690,81) (692,82) (696,83) (723,84) (755,85) (767,86) (780,87) (782,88) (784,89) (786,90) (810,91) (822,92) (835,93) (837,94) (860,95) (883,96) (885,97) (891,98) (893,99) 
+
+[Checksums]
+0x6b9c81a3 scripts\guitar\menu\generic_menu_animations.qb
+0xc6870028 die
+0xcf66717b GotParam
+0x197f6194 finish_animation
+0xe46111e0 num_loops
+0x2b6222a1 loop_start_index
+0x39b5c4b0 GetArraySize
+0x4c29c545 RequireParams
+0xd1ef75ef reverse_loop
+0x2f1fc695 alpha
+0x906b67ba time
+0x25209846 SE_WaitProps
+0x29f1a896 GetScreenElementChildren
+0x40c698af id
+0x43de08bd container_id
+0x1993c98e i
+0xbb35dad9 alpha_time
+0x4d47bbe7 index_to_add
+0x7160ec1e generic_alpha_fade_animation
+0x9f23dc21 SE_SetProps
+0x6a594ca3 loop_counter
+0x7f5b3d4d array_size
+0xc4e78e22 all
+0x5e684e45 children
+0x5af1dfb2 loop_end_index
+

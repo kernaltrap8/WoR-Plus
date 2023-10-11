@@ -1,0 +1,34 @@
+[LineNumbers]
+
+[Checksums]
+0x3d3aff0e models\car_instruments\guitar\schecter\gtr70_sch_ultra.qb
+0x1f543040 gtr1_sch_tempest_GTR70_bridge_node
+0x9687f060 BRIDGE
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0xe76eb229 gtr70_sch_ultra_NodeArray
+0x9270b4d2 gtr70_sch_ultra_NodeArray_SortedNames
+0x8058e545 MISC
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0x9c5e8697 gtr1_sch_tempest_GTR70_SCH_Ultra
+0x3ef147f8 GTR70_SCH_Ultra
+0x94f8f8bd gtr1_sch_tempest_GTR70_knob02
+0x0df1a907 gtr1_sch_tempest_GTR70_knob01
+0x7f261953 Pos
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x5d8fbc3d gtr1_sch_tempest_GTR70_pickup04
+0x2a888cab gtr1_sch_tempest_GTR70_pickup05
+0x385e8d74 SkinExport
+0x7eae6e74 gtr1_sch_tempest_GTR70_pickup3
+0x40ee6edd gtr1_sch_tempest_GTR70_switch1
+0x09a95ee2 gtr1_sch_tempest_GTR70_pickup2
+0x84b1df33 ExportName
+0x90a00f58 gtr1_sch_tempest_GTR70_pickup1
+0x64f0cf83 AttachPoint
+0xc1950ffe gtr70_sch_ultra_NodeArray_SortedIndices
+

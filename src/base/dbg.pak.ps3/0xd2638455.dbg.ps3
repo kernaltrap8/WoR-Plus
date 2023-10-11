@@ -1,0 +1,48 @@
+[LineNumbers]
+ui_create_customize_character_mic 2 (0,9) (52,11) 
+ui_return_customize_character_mic 2 (0,78) (23,79) 
+ui_destroy_customize_character_mic 2 (0,88) (6,89) 
+ui_init_customize_character_mic 1 (0,97) 
+ui_deinit_customize_character_mic 1 (0,106) 
+customize_character_mic_exit_save 16 (0,115) (31,118) (51,119) (57,120) (74,121) (100,122) (106,123) (156,124) (160,125) (212,126) (218,127) (220,128) (224,129) (276,130) (282,131) (284,132) 
+
+[Checksums]
+0x59b44e55 scripts\guitar\menu\states\layouts\cas\ui_customize_character_mic.qb
+0x5ad6606f globaltag_getarraychecksum
+0x18218093 ui_return_customize_character_mic
+0x558d91c5 ui_init_customize_character_mic
+0x27ff82c0 old_save_checksum
+0xf6ab82f2 cas_current_savegame
+0xa8ee7357 ScriptAssert
+0x449c53e7 cas_get_player
+0x30e4748c cag_update_photo
+0x64946516 CheckForSignin
+0xb40d153f select
+0x0acc054f car_helper_text
+0xc451f558 event
+0x7409d58b customize_character_mic_exit_save
+0x67e6859a player
+0xe88e660c destroy_generic_menu
+0xff1496de state_device
+0x74297717 local
+0xd6b86721 array_name
+0xa0ef573d array_checksum
+0x440717f1 ui_destroy_customize_character_mic
+0x0ad46922 controller_index
+0x88c21962 car
+0xb30d9965 controller
+0x1b0509c5 savegame
+0x29502bc0 UI_SFX
+0x0c714c3f menu_finish
+0x04fe8c71 ui_memcard_autosave
+0x520c0c9c data
+0xd6521cee generic_event_back
+0x89cb1d06 player_mic_save
+0xc906ad51 menustate
+0x5a7ece86 menu_back
+0x65485eea GetPlayerInfo
+0x771cdf0a num_states
+0x2c6a5f27 uitype
+0x36299f54 ui_deinit_customize_character_mic
+0x23e4cfa9 ui_create_customize_character_mic
+

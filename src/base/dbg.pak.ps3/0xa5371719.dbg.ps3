@@ -1,0 +1,39 @@
+[LineNumbers]
+goal_pause_tool_begin_handler 3 (0,6) (36,7) (42,9) 
+goal_pause_tool_stop_handler 3 (0,16) (36,17) (42,19) 
+goal_pause_tool_get_settings 18 (0,26) (6,27) (14,28) (24,30) (64,32) (77,34) (117,36) (130,37) (168,39) (181,40) (220,41) (233,42) (272,43) (285,44) (287,45) (327,47) (329,48) (343,50) 
+goal_pause_tool_get_default_options 10 (0,57) (6,58) (44,61) (80,62) (82,63) (108,65) (130,66) (134,67) (168,68) (170,69) 
+goal_pause_tool_get_custom_options 7 (0,76) (6,77) (32,79) (54,80) (58,81) (92,82) (94,83) 
+
+[Checksums]
+0x0a179454 scripts\game\goals\goal_pause_tool.qb
+0x1bff900b quickplay
+0xc86350be enable_pause
+0x4c40112c shreddfest_timed_elimination
+0xdf0cc12e tool
+0x4ab25141 goal_pause_tool_begin_handler
+0xcf66717b gotparam
+0xd43c21b4 goal_pause_tool_get_settings
+0x1531b2d5 get_menu_template_settings
+0xa8ee7357 ScriptAssert
+0x4da4937b career
+0x4627a3de competitive
+0xdd4f543d default_options
+0xbd09544c func
+0xdeef04cd StructureContains
+0x032314d1 goal
+0x12e0a4d6 disable_pause
+0x19c8151e goal_pause_tool_get_custom_options
+0x9c7a7524 goal_pause_tool_get_default_options
+0x840d6547 GameMode_GetType
+0x2de8c60e printf
+0x9aa536ec GMan_PauseFunc
+0x90fec815 structure
+0x7321a8d6 type
+0x34799a3f GMan_GoalIsActive
+0x28936cb5 custom_options
+0x28656d12 pause
+0x2db7ddc4 shreddfest
+0x34c68f24 goal_pause_tool_stop_handler
+0x1aba5f3a settings
+

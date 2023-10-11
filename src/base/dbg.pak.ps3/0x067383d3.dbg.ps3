@@ -1,0 +1,34 @@
+[LineNumbers]
+
+[Checksums]
+0xf2832a36 models\car_instruments\guitar\prs\gtr188_prs_orianthi.qb
+0x9687f060 BRIDGE
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x1357a21e gtr188_prs_orianthi_NodeArray
+0x3706f34c GTR188_PRS_Orianthi_GTR188_N_pickup04
+0x4001c3da GTR188_PRS_Orianthi_GTR188_N_pickup05
+0x3e2f94cc GTR188_PRS_Orianthi_GTR188_N_misc
+0x03cb94f6 gtr188_prs_orianthi_NodeArray_SortedNames
+0x8058e545 MISC
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0xde655679 GTR188_PRS_Orianthi_GTR188_N_pickup02
+0xa96266ef GTR188_PRS_Orianthi_GTR188_N_pickup03
+0x283a1742 GTR188_PRS_Orianthi_GTR188_PRS_Orianthi
+0x476c07c3 GTR188_PRS_Orianthi_GTR188_N_pickup01
+0x7f261953 Pos
+0x19ebda23 Set
+0x4669ea90 GTR188_PRS_Orianthi
+0xc97f3aa9 Orientation
+0x61c17ae4 GTR188_PRS_Orianthi_GTR188_N_knob01
+0xf8c82b5e GTR188_PRS_Orianthi_GTR188_N_knob02
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0x5bc42cbf GTR188_PRS_Orianthi_GTR188_N_bridge
+0x385e8d74 SkinExport
+0x0b135f2b gtr188_prs_orianthi_NodeArray_SortedIndices
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+

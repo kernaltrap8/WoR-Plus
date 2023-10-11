@@ -1,0 +1,28 @@
+[LineNumbers]
+
+[Checksums]
+0xbc1f7ab6 models\car_instruments\guitar\prs\gtr82_prs_se1.qb
+0x9687f060 BRIDGE
+0x07f0a140 GTR82_PRS_SE1_NODE_Bridge
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x5ad48309 GTR82_PRS_SE1_GTR82_PRS_SE1
+0xbe61c602 PICKUP
+0x6093f637 gtr82_prs_se1_NodeArray_SortedIndices
+0x12b4e660 Class
+0x2f169722 GTR82_PRS_SE1_NODE_Pickup
+0x52f9794b gtr82_prs_se1_NodeArray
+0x7f261953 Pos
+0x6023d9cf GTR82_PRS_SE1_NODE_Knob
+0x19ebda23 Set
+0xc97f3aa9 Orientation
+0xf515fb33 gtr82_prs_se1_NodeArray_SortedNames
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x3ff47bf4 RemovalFlags
+0xeb7f0d1d GTR82_PRS_SE1_NODE_KnobSET2
+0x385e8d74 SkinExport
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+0x6d914feb GTR82_PRS_SE1
+

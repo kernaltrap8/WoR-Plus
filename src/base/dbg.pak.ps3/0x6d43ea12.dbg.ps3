@@ -1,0 +1,42 @@
+[LineNumbers]
+
+[Checksums]
+0xa9bb1f66 scripts\av_presets\og_element_spirograph.qb
+0xcae27061 sprite
+0xf5a93162 offsetX
+0xc48391a5 radius
+0x82ae01f4 offsetY
+0xb5aa125f fade
+0xdbbaf32d radiusScale
+0x91e07350 thickness
+0x26fff395 greenModulation
+0x051273c0 controls
+0xdd6bb3d5 blendMode
+0x07bd73e7 redModulation
+0x08c693f0 OG_Mat_Sphere_Add
+0xc184f404 response
+0xe58114db noteHit
+0xdea7e576 subtract
+0x6eaf8576 radius2
+0x67e6859a player
+0x7bc74623 spectrumBand
+0xd1cd1630 cosTime
+0xba277641 nStar2
+0x99a9b716 color
+0xed91979d responseFunc
+0x059c57d6 OG_Element_Spirograph
+0xd98047ec frequency
+0x0eab48a5 log2
+0x2f6238b3 nPoints
+0x7321a8d6 type
+0x7f261953 pos
+0x34952a27 constant
+0x83418a6a material
+0x2b489a86 circle
+0x73e5bad0 width
+0xf83a3ad0 sinTime
+0x0ab21af0 height
+0x797b2b45 scaleMod
+0xc42fab67 angularVel
+0x68e77f40 brighten
+

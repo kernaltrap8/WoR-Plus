@@ -1,0 +1,12 @@
+[LineNumbers]
+
+[Checksums]
+0xda7b6823 scripts\guitar\autotest\guitar_autotest_globals.qb
+0x4ffe6143 g_autotest_career_target_hit
+0x9a4a714e g_autotest_career_target_stars
+0x19d31289 autotest_turbo_mode
+0xe97512da g_autotest_quickplay_challenges
+0x10c6d74f g_autotest_career_powers
+0xd43297cf false
+0x8478fc46 autotest_on
+

@@ -1,0 +1,134 @@
+[LineNumbers]
+ui_create_example_ui_stack_object 92 (0,5) (6,7) (12,8) (48,9) (71,10) (94,11) (117,12) (608,34) (614,40) (621,41) (629,42) (642,43) (654,44) (656,45) (664,46) (676,47) (689,48) (701,49) (703,50) (705,51) (712,52) (720,53) (733,54) (745,55) (747,56) (755,57) (767,58) (780,59) (792,60) (794,61) (796,62) (803,63) (811,64) (824,65) (836,66) (838,67) (846,68) (858,69) (871,70) (883,71) (885,72) (887,73) (894,74) (902,75) (915,76) (927,77) (929,78) (937,79) (949,80) (962,81) (974,82) (976,83) (978,84) (985,85) (993,86) (1006,87) (1018,88) (1020,89) (1028,90) (1040,91) (1053,92) (1065,93) (1084,94) (1103,95) (1115,96) (1117,97) (1119,98) (1126,99) (1134,100) (1147,101) (1159,102) (1161,103) (1169,104) (1181,105) (1194,106) (1206,107) (1225,108) (1244,109) (1256,110) (1258,111) (1260,112) (1289,116) (1340,123) (1380,128) (1416,132) (1452,140) (1488,141) (1540,143) (1592,144) (1644,145) (1696,146) (1748,147) 
+test_ui_element_modulate_color 8 (0,154) (36,155) (38,156) (73,157) (124,158) (159,159) (208,160) (210,161) 
+example_ui_stack_object_spawned_and_cleaned_up_on_destruction 5 (0,168) (2,169) (36,170) (88,171) (90,172) 
+example_ui_stack_object_spawned_and_cleaned_up_on_deinit 5 (0,179) (2,180) (36,181) (88,182) (90,183) 
+ui_destroy_example_ui_stack_object 2 (0,190) (6,193) 
+example_ui_stack_object_up 4 (0,200) (6,204) (19,205) (64,206) 
+example_ui_stack_object_down 4 (0,215) (6,219) (19,220) (64,221) 
+example_ui_stack_object_L1 14 (0,230) (36,234) (72,235) (74,236) (80,237) (94,238) (106,239) (118,240) (130,241) (146,242) (162,243) (174,244) (176,245) (194,251) 
+test_element_created_in_pad_event_logic 6 (0,258) (52,260) (104,261) (156,262) (162,263) (180,264) 
+ui_create_test_ui_state_A 5 (0,271) (448,288) (477,289) (528,291) (580,292) 
+ui_destroy_test_ui_state_A 2 (0,299) (6,300) 
+ui_create_test_ui_state_B 4 (0,307) (304,320) (333,321) (384,323) 
+ui_destroy_test_ui_state_B 3 (0,330) (36,331) (42,332) 
+
+[Checksums]
+0xe9a10358 scripts\guitar\menu\states\layouts\test_ui_stack_components.qb
+0x8e411006 b
+0x0b135007 SE_GetStackObjectID
+0xb394c01c special
+0xaa7f2028 pad_L1
+0x475bf03c event_handlers
+0x059ea070 red
+0x01984077 pad_btn_top
+0xa075808c source
+0x383dd096 ui_destroy_test_ui_state_B
+0x93de209d value_range
+0xe4f130f4 s
+0xb12b510a SpriteElement
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0xe36f1129 example_ui_stack_object_spawned_and_cleaned_up_on_destruction
+0x5507d12c green_dk
+0xa134812c ui_destroy_test_ui_state_A
+0x01dd615f DescInterface
+0xced601b8 ExampleUIStack_time
+0x174841bc a
+0x6017f1cc ui_event
+0x2f6511de green
+0xa1dc81f9 name
+0x500eb224 Obj_GetID
+0x8fae8247 title_text
+0x40d92263 TextBlockElement
+0x2bf0a2a5 A_data_text
+0x1694e303 DescPropertyFloat
+0x43c2230c example_ui_stack_object_L1
+0x740de321 property
+0x2ffb1360 yellow
+0x0203b372 true
+0xf44a53ab desc
+0xc5f953c2 button
+0xc12a03c4 blue_md
+0xc5bc93ee ScreenElementExists
+0x57525413 object
+0x18ca342e test_ui_element_modulate_color
+0xcc04242f fast_hand_rot_angle
+0x1e93946b alias
+0xb212c4a4 B_data_text
+0x6f4e14ff uistate_test_ui_state_B
+0x51501501 red_dk
+0x469f2507 result_data_text
+0x1e3e253b pad_choose
+0xf6474545 uistate_test_ui_state_A
+0x61c9354b blue
+0xc451f558 event
+0x34a68574 dims
+0x6730f587 example_ui_stack_object_down
+0x6c78a5b6 range
+0x23a4e5c2 Obj_SpawnScript
+0x56a245c5 ExampleUIStack_SetValues
+0x0ea335ca ui_destroy_example_ui_stack_object
+0x2de8c60e Printf
+0xd029f619 seconds
+0x78575660 AttachComponentObserver
+0x1daa868b pad_btn_left
+0xf70ac68d test_element_created_in_pad_event_logic
+0x2f1fc695 alpha
+0xa78e56b8 ExampleUIStack_GetValues
+0x7a72c6be ExampleUIStack_result
+0x7eb8e6bf ExampleUIStack_a
+0xe7b1b705 ExampleUIStack_b
+0x2f6bf72d font
+0x0ed45788 Obj_SpawnScriptNow
+0x906b67ba time
+0xed4d9802 time_data_text
+0x86e32811 test_element_created_in_pad_event
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0x4bb2084e desc_id
+0xb9e618aa slow_hand_rot_angle
+0x40c698af id
+0xd7cc38be test_ui_element
+0x7321a8d6 type
+0x6cef5907 menu_change
+0x7f261953 pos
+0x3c15e9b6 DestroyScreenElement
+0xd4d2c9df LB
+0x898a7a4c ui_create_test_ui_state_A
+0x71d0fa66 UIStack_SpawnBoundScriptNow
+0x4f660a71 debug_me
+0x56a1eae3 root_window
+0xd919fb12 example_ui_stack_object_up
+0x28e66b14 resolved_id
+0xef348b2d alias_title
+0x8e43db4d ExampleUIStack_GetResult
+0xa6c25b4f example_ui_stack_object_spawned_and_cleaned_up_on_deinit
+0x3321eb61 output
+0x90436bd9 tags
+0x10832bf6 ui_create_test_ui_state_B
+0x4d49ac0a current_menu
+0x82117c1a Wait
+0x9f23dc21 SE_SetProps
+0x520c0c9c data
+0x0830ecaf objID
+0xfbd89cd5 Obj_KillSpawnedScript
+0x74240ce4 SEIntToString
+0x5c6c2d04 state
+0x27d7cd28 input
+0x7ee0fd2a pad_back
+0x4577fd38 AssignAlias
+0x6940ed92 ui_create_example_ui_stack_object
+0x3f6bcdba rgba
+0x68318dc1 init_variable
+0xa7920e3b UIStack_CreateBoundScreenElement
+0x5a7ece86 menu_back
+0x49e0ee96 second
+0x4d192e9e stack_obj_id
+0xec953eec result
+0x02141f19 clean_up_user_control_helpers
+0x53c52f22 wrap
+0xd13b2f35 ExampleUIStack_int_time
+0x2fefaf84 fontgrid_text_a1
+0xc2719fb0 parent
+

@@ -1,0 +1,39 @@
+[LineNumbers]
+ui_create_net_zero_search_results_popup 19 (0,9) (7,12) (19,13) (31,14) (39,15) (41,16) (53,17) (65,18) (67,19) (69,20) (81,21) (93,22) (95,23) (97,24) (103,25) (115,26) (128,27) (130,28) (196,30) 
+ui_destroy_net_zero_search_results_popup 2 (0,40) (6,41) 
+ui_deinit_net_zero_search_results_popup 2 (0,50) (6,51) 
+refresh_band_search 7 (0,59) (6,60) (24,61) (76,64) (82,68) (88,70) (106,71) 
+
+[Checksums]
+0xd0e10115 scripts\guitar\menu\states\layouts\ui_net_zero_search_results_popup.qb
+0x059ea070 red
+0xd98ef0c8 ui_create_net_zero_search_results_popup
+0x500eb224 Obj_GetId
+0xd65b6284 ui_deinit_net_zero_search_results_popup
+0xc5f953c2 button
+0x60b653db cancel_join_server
+0xbd09544c func
+0x91f0e45a body_text
+0x2e1e7476 back_button_script
+0x445114c8 NetSessionFunc
+0x2fca0578 options
+0x150d35f1 heading_text
+0xe357b6bc stop_server_list
+0xc195a822 create_dialog_box
+0xf4d9a825 add_user_control_helper
+0x739e0837 cancel_net_career_mode_search
+0xc4745838 text
+0x9d2d8850 z
+0x7d31b8be refresh_band_search
+0xeafc692e no_background
+0xc9428a08 device_num
+0x85a43afa match
+0x37c84b09 destroy_dialog_box
+0xb9992b93 obj
+0x9f23dc21 SE_SetProps
+0x0830ecaf objid
+0x139d8cc6 ui_create_net_career_join_popup
+0x09847db9 ui_destroy_net_zero_search_results_popup
+0xe5d6fe3e block_events
+0x69d0dfaf player_device
+

@@ -1,0 +1,35 @@
+[LineNumbers]
+
+[Checksums]
+0xaaad223e models\car_instruments\guitar\esp\gtr33d_base.qb
+0x9687f060 BRIDGE
+0x310cc1d7 KNOB
+0xa1dc81f9 Name
+0x0138524a gtr33d_base_NodeArray_SortedIndices
+0xde287363 GTR4_ESP_Eclipse_01_GTR33D_BASE
+0x8058e545 MISC
+0xbe61c602 PICKUP
+0x12b4e660 Class
+0xa4101735 gtr33d_base_NodeArray
+0x14d7884c gtr33d_base_NodeArray_SortedNames
+0x7f261953 Pos
+0x19ebda23 Set
+0xa4f2ba24 GTR4_ESP_Eclipse_01_GTR33_NODE_PICKUP03
+0xc97f3aa9 Orientation
+0xd3f58ab2 GTR4_ESP_Eclipse_01_GTR33_NODE_PICKUP02
+0xb5cd8afe GTR4_ESP_Eclipse_01_GTR33_NODE_KNOB01
+0x4afcdb08 GTR4_ESP_Eclipse_01_GTR33_NODE_PICKUP01
+0x2cc4db44 GTR4_ESP_Eclipse_01_GTR33_NODE_KNOB02
+0x007c7b68 AttachType
+0x53265ba6 AttachIndex
+0x5bc3ebd2 GTR4_ESP_Eclipse_01_GTR33_NODE_KNOB03
+0x3ff47bf4 RemovalFlags
+0x967fdc63 GTR33D_BASE
+0x8fc8dca5 GTR4_ESP_Eclipse_01_GTR33_NODE_Bridge
+0x438bccb2 GTR4_ESP_Eclipse_01_GTR33_NODE_MISC
+0x385e8d74 SkinExport
+0x4d911f11 GTR4_ESP_Eclipse_01_GTR33_NODE_PICKUP05
+0x84b1df33 ExportName
+0x64f0cf83 AttachPoint
+0x3a962f87 GTR4_ESP_Eclipse_01_GTR33_NODE_PICKUP04
+

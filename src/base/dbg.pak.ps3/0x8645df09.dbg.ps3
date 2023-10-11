@@ -1,0 +1,135 @@
+[LineNumbers]
+__soft_assert 24 (0,12) (9,13) (11,14) (13,15) (19,17) (26,18) (49,20) (88,22) (99,24) (101,25) (103,26) (140,29) (174,30) (186,31) (188,32) (194,34) (200,35) (218,41) (245,42) (263,43) (300,45) (306,46) (308,47) (310,49) 
+soft_assert_is_active 6 (0,57) (36,59) (54,60) (84,61) (86,62) (116,63) 
+soft_assert_should_show 15 (0,72) (36,75) (57,76) (88,77) (90,78) (108,81) (120,82) (122,83) (161,84) (192,85) (194,86) (215,88) (223,89) (225,90) (256,92) 
+soft_assert_confirm 7 (0,101) (9,103) (40,104) (58,105) (60,106) (96,108) (102,110) 
+soft_assert_handle_next 74 (0,119) (36,121) (38,122) (40,123) (50,125) (52,126) (54,127) (75,129) (81,131) (176,138) (188,140) (232,142) (268,145) (314,146) (316,147) (352,149) (398,150) (400,151) (436,153) (482,154) (484,155) (520,157) (566,158) (568,159) (604,161) (616,162) (628,163) (630,164) (674,165) (681,166) (693,167) (706,168) (719,169) (732,170) (744,171) (756,172) (772,173) (778,174) (794,175) (823,176) (825,177) (846,178) (854,179) (856,180) (869,182) (882,183) (895,184) (908,185) (921,186) (934,189) (936,190) (957,192) (969,193) (981,194) (993,195) (995,196) (1023,197) (1045,198) (1066,199) (1074,200) (1092,202) (1126,203) (1139,205) (1152,206) (1160,207) (1173,208) (1199,209) (1201,210) (1203,211) (1205,212) (1207,213) (1209,214) (1215,217) (1264,219) 
+soft_assert_scroll 15 (0,228) (44,230) (62,231) (80,232) (102,233) (140,235) (175,236) (212,238) (214,239) (218,240) (237,241) (274,242) (276,243) (278,244) (280,245) 
+soft_assert_input 55 (28,254) (34,256) (43,259) (51,260) (76,261) (101,262) (126,263) (128,264) (132,265) (140,266) (165,267) (190,268) (215,269) (217,270) (219,271) (256,275) (258,276) (308,277) (360,278) (367,279) (369,280) (381,282) (400,285) (412,286) (414,287) (442,288) (470,289) (491,290) (499,291) (532,292) (534,293) (548,295) (560,298) (562,299) (581,300) (647,301) (651,302) (689,303) (691,304) (720,306) (741,308) (780,310) (799,312) (819,313) (821,314) (823,315) (827,316) (846,317) (848,318) (850,319) (852,320) (854,321) (904,323) (944,326) (973,327) 
+
+[Checksums]
+0xa1b83ba3 scripts\engine\softassert.qb
+0xb990d003 target
+0x8e411006 b
+0xba297025 CD
+0x0f7e902c nullscript
+0x475bf03c event_handlers
+0x4d883056 file_text
+0x93f60062 r
+0x6680806f soft_assert_queue
+0xf9462090 c
+0xaf6240b2 reset
+0x024160d5 GetDebugFont
+0x36bae0da soft_assert_scroll
+0xe4f130f4 s
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0x73665140 CreateScreenElement
+0x5ef31148 array
+0x01dd615f DescInterface
+0xcf66717b GotParam
+0x5d0671b8 channel
+0xbc4601c3 step
+0xbebfa1c6 element
+0x1fe341d2 internal_scale
+0xbfa801df change
+0x3b4631df IsPS3
+0x3f93a1ef replace_handlers
+0xa1dc81f9 name
+0x4bfcd202 AddArrayElement
+0x40d92263 TextBlockElement
+0x20689278 triangle
+0xdfb72292 expand dims
+0x59a1632b soft_assert_should_show
+0x4f659345 enable_soft_asserts
+0xa8ee7357 ScriptAssert
+0x0203b372 true
+0xad9fa37f goto
+0xf44a53ab desc
+0xd4f393d2 callstack
+0x6de1c3e1 message_text
+0xc5bc93ee ScreenElementExists
+0x67d2e3f0 SE_GetProps
+0x72743400 soft_assert_handle_next
+0xff0db407 textname
+0x892cd41f f
+0x9277f428 FormatText
+0x11d6b44c alias_menu
+0x8c5f546b softassert
+0x39b5c4b0 GetArraySize
+0x29e4f4b0 next_params
+0x56ec54c7 fit_width
+0xb77364d3 ControllerDebounce
+0x9d3fb516 focus
+0xd9e4052c StartRendering
+0x7a95a557 t
+0x0561e559 __soft_assert
+0x34a68574 dims
+0xcbddf58d steps
+0x062a4596 ScreenElementPos
+0xc30835d2 build_text
+0x2de8c60e printf
+0x6bef3672 SetScriptCannotPause
+0x95741693 pad_option2
+0x894496d9 fit_height
+0x1a6b96ec full_message
+0x2f6bf72d font
+0x17164733 Dumpheaps
+0x2cb33744 LaunchEvent
+0x47ba1751 AddParams
+0x321c9756 square
+0x406dd761 GetScreenElementDims
+0x6c63c7c5 SetProps
+0xd43297cf false
+0xc44777f3 reason
+0x30a4f836 pad_up
+0xc4745838 text
+0x4fbd0847 soft_assert_confirm
+0x240cb86f Debounce
+0x29f1a896 GetScreenElementChildren
+0x40c698af id
+0x7321a8d6 type
+0x7f8c98fe index
+0x28158918 text_font
+0x030c0940 IsTrue
+0x7f261953 pos
+0x1993c98e i
+0x322839a2 allow_expansion
+0x83d189a3 button_name
+0x3c15e9b6 DestroyScreenElement
+0x5c3979e3 pad_square
+0xc2a639e6 total_height
+0x0424d9ea y
+0x7360c9ef file
+0x604efa33 helper_text
+0x56a1eae3 root_window
+0x30a78aef soft_assert_is_active
+0x0ab21af0 height
+0x2eeb4b09 line
+0x28e66b14 resolved_id
+0x4f39abe1 line_text
+0x37f1ac0e RemoveArrayElement
+0x44059c11 callstack_line
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0x0fd1ac26 pad_down
+0xfbd89cd5 Obj_KillSpawnedScript
+0x69f93d01 l
+0x425f0d24 build
+0x388dcd38 Obj_SpawnScriptLater
+0xc6289d46 soft_assert_queue_max_size
+0x7f5b3d4d array_size
+0xbe17cd52 event_name
+0x3f6bcdba rgba
+0xce4afdd9 GetScreenElementPosition
+0xc155cddb soft_assert_input
+0x5e684e45 children
+0xbe304e86 printstruct
+0x15041eef HideLoadingScreen
+0xfc37df05 gameframe
+0xa0711f14 debug_font
+0x53c52f22 wrap
+0xbcfccf24 soft_assert_anchor
+0xc2719fb0 parent
+0xe3006fc4 down
+
