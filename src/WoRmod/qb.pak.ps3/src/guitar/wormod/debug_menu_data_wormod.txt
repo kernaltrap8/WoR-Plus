@@ -18,7 +18,8 @@ SectionArray debug_submenus {
 }
 
 Script set_wormod_options [
-    ${StructInt debug_use_screen_noise 0}$
-    ${StructInt debug_use_motion_blur 0}$
-    ${StructInt g_debug_highway_visible 0}$
+    $change$${StructInt debug_use_screen_noise = 0}$
+    $change$${StructInt debug_use_motion_blur = 0}$
+    $change$${StructInt g_debug_highway_visible = 0}$
+    $change$${StructInt enable_button_cheats = 1}$
 ]
