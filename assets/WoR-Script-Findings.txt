@@ -1,0 +1,3 @@
+original checksum (doesnt seem to work): 0x75bf91e7
+checksum from DBG file (checksum of "s"): 0xe4f130f4
+findings: GHSDK when decompiling will unchecksum the "s", but the original name (name used was wormod) is still there as a checksum. since the checksum of wormod isnt in the game, we have to use s as the name of the script. will now test.
