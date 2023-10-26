@@ -22,6 +22,8 @@ Project announcements:
 (7/9/2023): First alpha release of WoRmod.
 <br>
 (15/9/2023): Debug menu offsets found.
+<br>
+(25/10/23): WoRmod's 3 month anniversary! I am so happy with what this project has become, and im so excited for the next 3 months.
 # Mod ideas
 Bugfixes:
   - Fix star power math bug when in Quickplay+ Powers mode
