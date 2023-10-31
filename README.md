@@ -69,3 +69,6 @@ National Security Agency - For Ghidra, probably the best decompilers out there (
 ExtremeKnave0 - For his QB script findings
 <br>
 uzis - EBOOT patch help (NotCD & highway_fps_patch)
+
+# Need help?
+Contact me on Discord: duck8330
