@@ -1,0 +1,7 @@
+NotCD Patch
+
+offset 5546E0, replace original bytes with "2C 03 00 00 60 00 00 00 3C 60 00 CD 38 80 00 00" (adds nop instruction after cmpwi r3,0)
+
+offset 5546EC, replace original bytes with "38 80 00 00 98 83 AD FE 3C 60 00 90 63 C4 00 00" (sets li r4, 1 to l1 r4, 0)
+
+offset 554714, doesnt need to be changed. this is the next NotCD func li function, this is already set to 0 in the original EBOOT.
