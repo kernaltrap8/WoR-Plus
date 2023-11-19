@@ -1,5 +1,4 @@
 # WoRmod
-
 ![banner](https://github.com/JamesIsWack/WoRmod/assets/94473358/0c7db371-b94a-46fd-8a87-1c1390771db7)
 
 ---------------------------------
@@ -40,6 +39,7 @@ Future additions:
   - Add better support for open-notes on Guitar (HOPOs and proper anims)
   - Add tap-note chord support
   - Add new chart features to GHTunes
+
 # Files decompiled
 `QB.PAB.PS3:`
   - 99% Completed
@@ -52,7 +52,10 @@ Future additions:
 `QS.PAB.PS3:`
   - 100% Completed
     - This file contains strings for the game, it is plaintext and can be read in a text editor.
-    
+
+# Tutorial resources
+[Debug menu enable (Writeup and research done by kernaltrap)](https://github.com/JamesIsWack/WoRmod/blob/master/assets/tutorials/debug-menu.md)
+
 # Credits
 TheOmen757 - Testing & KLIC hash
 <br>
@@ -62,9 +65,9 @@ WTDE Development Team - For QBc and GHSDK
 <br>
 NeverScript Development Team - For making QB tools and QB documentation
 <br>
-Neversoft and Beenox - For making the best rhythm game, and for their humour in the QB source files
-<br>
 National Security Agency - For Ghidra, probably the best decompilers out there (used to decompile the EBOOT.ELF)
+<br>
+HexRays Development Team - For IDAPro, the tool I use to reverse engineer PS3 binaries
 <br>
 ExtremeKnave0 - For his QB script findings
 <br>
