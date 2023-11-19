@@ -70,5 +70,5 @@ ExtremeKnave0 - For his QB script findings
 <br>
 uzis - EBOOT patch help (NotCD & highway_fps_patch)
 
-# Need help?
+# Need help, or just want to chat with the community?
 Join the Discord server: https://discord.gg/Pdm7KJGMjV
