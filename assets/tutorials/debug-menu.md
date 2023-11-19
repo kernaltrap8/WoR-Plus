@@ -10,11 +10,11 @@ First, make sure you have turned your console on from standby. If the console wa
 <br>
 Step 1 - Turn the console off.<br>
 Step 2 - Turn the console on and boot WoR.<br>
-Step 3 - Go to your PC and run this command: [command 1 goes here]
+Step 3 - Go to your PC and run this command: [ps3 ip]/getmem.ps3mapi?proc=1&addr=3971470&len=256
 Step 4 - If the first line of HEX is `2A F9 28 O4`, then you have the correct offset! Run this command: [command 1 apply]<br<
 If you we're able to enable debug with the above step, great! Debug is now enabled. This is not permanant, and will be gone after reboot. You will need to do this after every reboot.
-Step 5 - If you dont have a offest, try this one: [command 2]<br<
-If that one starts with `2A F9 28 04`, then great! You found the correct offset! If not, then continue on.<br>
+Step 5 - If you dont have a offest, try this one: [ps3 ip]/getmem.ps3mapi?proc=1&addr=3A71470&len=256<br<
+If that one starts with `2A F9 28 04`, then great! You found the correct offset! Run this command: [command] If not, then continue on.<br>
 
 # Dumping the memory to find new offsets
 In my research, I have yet to find every offset. That is where you come in! I'm a very busy person, and I cannot, on my own, find all the offsets.<br<
