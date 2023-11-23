@@ -1,0 +1,3 @@
+[submodule "binary/gh6_burn"]
+	path = binary/gh6_burn
+	url = https://github.com/JamesIsWack/gh6_burn
