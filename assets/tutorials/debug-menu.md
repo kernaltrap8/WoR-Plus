@@ -34,5 +34,5 @@ Now, in the Cheat Engine window go to the glowing green box in the corner <br>
 ![image](https://github.com/JamesIsWack/WoRmod/assets/94473358/f3fc6b03-f1cd-481a-b538-26c8989f0e0d)<br>
 And click on it. Then click on the application with the WoR icon, and select `Open`. Now go to the botttom and select `Memory view`. Once in this screen, go to `Search > Find memory`, and tick `Array of byte` in the search box. Paste in this value: `2AF92804E34DCB0C000000003116E67C`, and click `OK`. Once it finds it, go to the part of the memory view that has a `31`, and double-click on the `00` right next to it, and replace the value with a `1`. This should enable the menu, enjoy!
 
-
+[RPCS3 video tutorial](https://mega.nz/file/ZZYwDB7Y#hZWvW4HJV6z09zwQQ5P1TjvKV0SWg0OmB6nLaIH292o)
 
