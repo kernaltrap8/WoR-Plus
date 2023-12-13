@@ -1,0 +1,7 @@
+script table pointers could be:
+007865F8
+00786450
+0078438C
+00783998
+
+VERY much possible pointer: 009E710C
