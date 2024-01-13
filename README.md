@@ -22,6 +22,7 @@ Project announcements:
 <br>
 (15/9/2023): Debug menu offsets found.
 <br>
+(12/1/2024): SPRX backend complete.
 (25/10/23): WoRmod's 3 month anniversary! I am so happy with what this project has become, and im so excited for the next 3 months.
 # Mod ideas
 Bugfixes:
@@ -75,6 +76,9 @@ HexRays Development Team - For IDAPro, the tool I use to reverse engineer PS3 bi
 ExtremeKnave0 - For his QB script findings
 <br>
 uzis - EBOOT patch help (NotCD & highway_fps_patch)
+
+# Special thanks
+CHC - Numerous testing, help and major contributions to WoRmod
 
 # Need help, or just want to chat with the community?
 Join the Discord server: https://discord.gg/Pdm7KJGMjV
