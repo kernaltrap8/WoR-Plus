@@ -58,7 +58,7 @@ Future additions:
 [Debug menu enable (Writeup and research done by kernaltrap)](https://github.com/JamesIsWack/WoRmod/blob/master/assets/tutorials/debug-menu.md)
 
 # How to install the mod
-Download and extract the zipfile provided at the Releases tab of this repository. copy the `game` folder to the root of `dev_hdd0`, and copy `PS3_GAME` to the WoR install directory.
+Download the `ghwor_plugin.sprx` from the `Releases` tab and load it via webMAN MOD webUI once in-game.
 
 # Credits
 TheOmen757 - Testing & KLIC hash
