@@ -57,8 +57,9 @@ Future additions:
 # Tutorial resources
 [Debug menu enable (Writeup and research done by kernaltrap)](https://github.com/JamesIsWack/WoRmod/blob/master/assets/tutorials/debug-menu.md)
 
-# How to install the mod
-Download the `ghwor_plugin.sprx` from the `Releases` tab and load it via webMAN MOD webUI once in-game.
+# Installation
+Download the zip from the Releases tab. Extract and follow the `readme.txt` inside the zip file.
+For RPCS3 users, you must copy the SPRX to dev_hdd0/tmp *while* the game is starting (at the Compiling PPU modules step).
 
 # Credits
 TheOmen757 - Testing & KLIC hash
