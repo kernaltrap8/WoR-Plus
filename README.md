@@ -1,5 +1,5 @@
-# WoRmod
-![banner](https://github.com/JamesIsWack/WoRmod/assets/94473358/0c7db371-b94a-46fd-8a87-1c1390771db7)
+# WoR+
+![WoR+](https://github.com/kernaltrap8/WoR+/assets/94473358/24573afd-9c46-47ba-9d86-118181d7d1e6)
 
 ---------------------------------
 Project announcements:
@@ -18,12 +18,12 @@ Project announcements:
 <br>
 (25/8/2023): EBOOT strings exported, CDN/dev CDN found (still up)
 <br>
-(7/9/2023): First alpha release of WoRmod.
+(7/9/2023): First alpha release of WoR+.
 <br>
 (15/9/2023): Debug menu offsets found.
 <br>
 (12/1/2024): SPRX backend complete.
-(25/10/23): WoRmod's 3 month anniversary! I am so happy with what this project has become, and im so excited for the next 3 months.
+(25/10/23): WoR+'s 3 month anniversary! I am so happy with what this project has become, and im so excited for the next 3 months.
 # Mod ideas
 Bugfixes:
   - Fix star power math bug when in Quickplay+ Powers mode
@@ -39,7 +39,8 @@ Future additions:
   - Port other game assets to WoR (GH5/BH/WT/GH3)
   - Add better support for open-notes on Guitar (HOPOs and proper anims)
   - Add tap-note chord support
-  - Add new chart features to GHTunes
+  - Add new chart features to GHTunes!
+
 
 # Files decompiled
 `QB.PAB.PS3:`
@@ -55,7 +56,7 @@ Future additions:
     - This file contains strings for the game, it is plaintext and can be read in a text editor.
 
 # Tutorial resources
-[Debug menu enable (Writeup and research done by kernaltrap)](https://github.com/JamesIsWack/WoRmod/blob/master/assets/tutorials/debug-menu.md)
+[Debug menu enable (Writeup and research done by kernaltrap)](https://github.com/JamesIsWack/WoR+/blob/master/assets/tutorials/debug-menu.md)
 
 # Installation
 Download the zip from the Releases tab. Extract and follow the `readme.txt` inside the zip file.
@@ -79,7 +80,7 @@ ExtremeKnave0 - For his QB script findings
 uzis - EBOOT patch help (NotCD & highway_fps_patch)
 
 # Special thanks
-CHC - Numerous testing, help and major contributions to WoRmod
+CHC - Numerous testing, help and major contributions to WoR+
 
 # Need help, or just want to chat with the community?
 Join the Discord server: https://discord.gg/Pdm7KJGMjV
