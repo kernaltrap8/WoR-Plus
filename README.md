@@ -1,5 +1,5 @@
 # WoR+
-![WoR+](https://github.com/kernaltrap8/WoR+/assets/94473358/24573afd-9c46-47ba-9d86-118181d7d1e6)
+![WoR+](https://github.com/kernaltrap8/WoR-Plus/assets/94473358/24573afd-9c46-47ba-9d86-118181d7d1e6)
 
 ---------------------------------
 Project announcements:
@@ -56,7 +56,7 @@ Future additions:
     - This file contains strings for the game, it is plaintext and can be read in a text editor.
 
 # Tutorial resources
-[Debug menu enable (Writeup and research done by kernaltrap)](https://github.com/JamesIsWack/WoR+/blob/master/assets/tutorials/debug-menu.md)
+[Debug menu enable (Writeup and research done by kernaltrap)](https://github.com/JamesIsWack/WoR-Plus/blob/master/assets/tutorials/debug-menu.md)
 
 # Installation
 Download the zip from the Releases tab. Extract and follow the `readme.txt` inside the zip file.
