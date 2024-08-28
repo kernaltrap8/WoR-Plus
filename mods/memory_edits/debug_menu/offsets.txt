@@ -1,5 +1,0 @@
-yx71470
-y being a value between 1-9, x being a value between 1-9, A-F
-
-other offsets:
-442B930

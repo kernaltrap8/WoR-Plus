@@ -1,1 +1,0 @@
-Unknown [1c000000000000000000006c0000000000000000]Script is_regular_controller d25c5dbc [	:i if $IsGuitarController$$controller$ = %GLOBAL%$controller$		:i return ${StructQBKey false}$	:i elseif $IsDrumController$$controller$ = %GLOBAL%$controller$		:i return ${StructQBKey false}$	:i endif	:i return ${StructQBKey true}$	:i endfunction]

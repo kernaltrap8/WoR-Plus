@@ -1,1 +1,0 @@
-Unknown [1c00000000000000000000480000000000000000]Script hide_console_window ffffffff [	:i endfunction]Script unhide_console_window ffffffff [	:i endfunction]

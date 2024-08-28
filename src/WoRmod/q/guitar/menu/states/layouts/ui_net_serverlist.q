@@ -1,1 +1,0 @@
-Unknown [1c00000000000000000000540000000000000000]Script ui_create_net_serverlist f861ec51 [	:i $create_online_server_list$ isNull 	:i endfunction]Script ui_destroy_net_serverlist 0x7d303549 [	:i $destroy_online_server_list$	:i endfunction]

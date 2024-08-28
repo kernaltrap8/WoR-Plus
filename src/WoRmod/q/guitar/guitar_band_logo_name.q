@@ -1,1 +1,0 @@
-Unknown [1c00000000000000000000240000000000000000]Script apply_band_logo_to_venue 0x6f4f881e [	:i return 	:i endfunction]

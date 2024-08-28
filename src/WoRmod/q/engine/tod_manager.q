@@ -1,1 +1,0 @@
-Unknown [1c000000000000000000006c0000000000000000]SectionQBKey default_light_group NoneScript tod_manager_create_perm_lights 0x6c775999 [	:i $SetDynamicShadowIntensity$${StructFloat i = 0.3500000238418579}$	:i $SetModelLightsFadeTime$${StructFloat time = 0.00009999999747378752}$	:i endfunction]

@@ -1,1 +1,0 @@
-Unknown [1c00000000000000000000540000000000000000]Script ui_create_practice_warning b84de383 [	:i $create_practice_warning_menu$ isNull 	:i endfunction]Script ui_destroy_practice_warning 0x30ae4d90 [	:i $destroy_practice_warning_menu$	:i endfunction]

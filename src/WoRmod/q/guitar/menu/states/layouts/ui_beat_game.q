@@ -1,1 +1,0 @@
-Unknown [1c00000000000000000000500000000000000000]Script ui_create_beat_game 0x3513ae13 [	:i $create_beat_game_menu$	:i endfunction]Script ui_destroy_beat_game d423d24d [	:i $destroy_beat_game_menu$	:i endfunction]
