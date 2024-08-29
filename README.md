@@ -28,7 +28,7 @@ Project announcements:
 <br>
 (15/8/2024): WoR+'s 1 year anniversary.
 <br>
-(28/8/2024): Works on CFW/HEN/RPCS3, features being added, QB.PAB can be repacked. Future looking bright.
+(28/8/2024): Works on CFW/HEN/RPCS3/Xbox 360, features being added, QB.PAB can be repacked. Future looking bright.
 # Mod ideas
 Bugfixes:
   - Fix star power math bug when in Quickplay+ Powers mode
