@@ -32,7 +32,7 @@ Project announcements:
 # Mod ideas
 Bugfixes:
   - Fix star power math bug when in Quickplay+ Powers mode
-  - ~~Fix issue when the Quickplay+ Rank is higher than 108~ Seemingly randomly, the game will set rank in leaderboards to `1`
+  - ~~Fix issue when the Quickplay+ Rank is higher than 108~~ Seemingly randomly, the game will set rank in leaderboards to `1`
   - Fix issue where if the section breakdown screen doesnt have enough sections, the game will refuse to scroll the list once scrolled fully
 
 Future additions:
@@ -62,11 +62,10 @@ Features (as of 2024-08-28):
     - This file contains strings for the game, it is plaintext and can be read in a text editor.
 
 # Tutorial resources
-[Debug menu enable (Writeup and research done by kernaltrap)](https://github.com/JamesIsWack/WoR-Plus/blob/master/assets/tutorials/debug-menu.md)
+[Debug menu enable (Writeup and research done by kernaltrap)](https://github.com/kernaltrap8/WoR-Plus/blob/master/assets/tutorials/debug-menu.md)
 
 # Installation
-Download the zip from the Releases tab. Extract and follow the `instructions.txt` inside the zip file.
-For RPCS3 users, you must copy the SPRX to dev_hdd0/tmp *while* the game is starting (at the Compiling PPU modules step).
+Extract the zip file from the Releases tab. Copy the data folder to your disc dump's `USRDIR`. Your disc dump will be in `dev_hdd0/GAMES`.
 
 # Credits
 TheOmen757 - Testing & KLIC hash
@@ -84,7 +83,7 @@ HexRays Development Team - For IDAPro
 ExtremeKnave0 - For his QB script findings
 <br>
 uzis - EBOOT patch help (NotCD & highway_fps_patch)
-<br<
+<br>
 
 # Special thanks
 CHCniz - For being a great friend & helper, as well as for making [qb-tools](https://github.com/chc/qb-tools)
