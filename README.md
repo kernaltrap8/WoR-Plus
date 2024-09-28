@@ -46,12 +46,13 @@ Future additions:
   - Add tap-note chord support
   - Add new chart features to GHTunes<br>
   
-Features (as of 2024-08-28):
+Features (as of 2024-09-28):
 - Drums on Guitar/Pad
 - Guitar on Pad
 - Debug Menu
 - No postprocessing effects (only AO and tone mapping)
 - All powers in Quickplay+ (beta state, being worked on)
+- Negative calibration (Video/Audio)
 
 # Files decompiled
 `QB.PAB.PS3:`
