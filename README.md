@@ -44,13 +44,14 @@ Future additions:
   - Port other game assets to WoR (GH5/BH/WT/GH3)
   - Add better support for open-notes on Guitar (HOPOs)
   - Add tap-note chord support
-  - Add new chart features to GHTunes
+  - Add new chart features to GHTunes<br>
+  
 Features (as of 2024-08-28):
-  - Drums on Guitar/Pad
-  - Guitar on Pad
-  - Debug Menu/features
-  - No postprocessing effects
-  - All powers in Quickplay+ (beta state, being worked on)
+- Drums on Guitar/Pad
+- Guitar on Pad
+- Debug Menu
+- No postprocessing effects (only AO and tone mapping)
+- All powers in Quickplay+ (beta state, being worked on)
 
 # Files decompiled
 `QB.PAB.PS3:`
