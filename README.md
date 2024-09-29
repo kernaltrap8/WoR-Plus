@@ -50,9 +50,10 @@ Features (as of 2024-09-28):
 - Drums on Guitar/Pad
 - Guitar on Pad
 - Debug Menu
-- No postprocessing effects (only AO and tone mapping)
+- No postprocessing effects (only AO and tone mapping) for a clean look
 - All powers in Quickplay+ (beta state, being worked on)
 - Negative calibration (Video/Audio)
+- Fast boot (skips intro video)
 
 # Files decompiled
 `QB.PAB.PS3:`
