@@ -45,6 +45,7 @@ Future additions:
   - Add better support for open-notes on Guitar (HOPOs)
   - Add tap-note chord support
   - Add new chart features to GHTunes<br>
+  - [GHWT Gem Profiles](https://youtu.be/68wDZH_Kaac) (Bacon & Eggs, Diabolical, Pink, etc) 
   
 Features (as of 2024-09-28):
 - Drums on Guitar/Pad
