@@ -29,45 +29,29 @@ Project announcements:
 (15/8/2024): WoR+'s 1 year anniversary.
 <br>
 (28/8/2024): Works on CFW/HEN/RPCS3/Xbox 360, features being added, QB.PAB can be repacked. Future looking bright.
+
+# Features
+- Drums on Guitar/Pad
+- Guitar on Pad
+- Debug Menu
+- No postprocessing effects (only AO and tone mapping) for a clean look)
+- Negative calibration (Video/Audio)
+- Fast boot (skips intro video)
 # Mod ideas
 Bugfixes:
   - Fix star power math bug when in Quickplay+ Powers mode
   - ~~Fix issue when the Quickplay+ Rank is higher than 108~~ Seemingly randomly, the game will set rank in leaderboards to `1`
-  - Fix issue where if the section breakdown screen doesnt have enough sections, the game will refuse to scroll the list once scrolled fully
-
+  - Fix issue where if the section breakdown screen doesnt have enough sections, the game will refuse to scroll the list once scrolled fully<br>
+  
 Future additions:
   - Add custom asset loading
-  - ~~Patch QB hash-checks~~ No such thing
-  - ~~Add Neversoft debug menu~~ Done
-  - ~~Custom song loading without needing custom cache~~ Not planned
-  - Ability to load/parse/save mod settings via INI format
   - Port other game assets to WoR (GH5/BH/WT/GH3)
   - Add better support for open-notes on Guitar (HOPOs)
   - Add tap-note chord support
   - Add new chart features to GHTunes<br>
-  - [GHWT Gem Profiles](https://youtu.be/68wDZH_Kaac) (Bacon & Eggs, Diabolical, Pink, etc) 
-  
-Features (as of 2024-09-28):
-- Drums on Guitar/Pad
-- Guitar on Pad
-- Debug Menu
-- No postprocessing effects (only AO and tone mapping) for a clean look
-- All powers in Quickplay+ (beta state, being worked on)
-- Negative calibration (Video/Audio)
-- Fast boot (skips intro video)
-
-# Files decompiled
-`QB.PAB.PS3:`
-  - 100% Completed
-    - Files can be read and easily modified thanks to the help of CHCniz and his qb-tools.
+  - [GHWT Gem Profiles](https://youtu.be/68wDZH_Kaac) (Bacon & Eggs, Diabolical, Pink, etc)
+  - All powers in Quickplay+ (beta state, being worked on
     
-`QS.PAB.PS3:`
-  - 100% Completed
-    - This file contains strings for the game, it is plaintext and can be read in a text editor.
-
-# Tutorial resources
-[Debug menu enable (Writeup and research done by kernaltrap)](https://github.com/kernaltrap8/WoR-Plus/blob/master/assets/tutorials/debug-menu.md)
-
 # Installation
 Extract the zip file from the Releases tab. Copy the data folder to your disc dump's `USRDIR`. Your disc dump will be in `dev_hdd0/GAMES`.
 
@@ -80,9 +64,7 @@ WTDE Development Team - For QBc and GHSDK
 <br>
 NeverScript Development Team - For making QB tools and QB documentation
 <br>
-National Security Agency - For Ghidra
-<br>
-HexRays Development Team - For IDAPro
+HexRays - For IDAPro
 <br>
 ExtremeKnave0 - For his QB script findings
 <br>
@@ -90,7 +72,7 @@ uzis - EBOOT patch help (NotCD & highway_fps_patch)
 <br>
 
 # Special thanks
-CHCniz - For being a great friend & helper, as well as for making [qb-tools](https://github.com/chc/qb-tools)
+CHCniz - For being a great friend & helper, as well as for making [qb-tools](https://github.com/chc/qb-tools). I wouldn't be here without him.
 
 # Need help, or just want to chat with the community?
 Join the Discord server: https://discord.gg/Pdm7KJGMjV
