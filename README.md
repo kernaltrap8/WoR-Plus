@@ -37,6 +37,7 @@ Project announcements:
 - No postprocessing effects (only AO and tone mapping) for a clean look)
 - Negative calibration (Video/Audio)
 - Fast boot (skips intro video)
+- Removed Party Play timer in main menu (Party Play is still accesible by pressing yellow)
 # Mod ideas
 Bugfixes:
   - Fix star power math bug when in Quickplay+ Powers mode
