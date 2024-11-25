@@ -1,6 +1,5 @@
 # WoR+
-![WoR+](https://github.com/kernaltrap8/WoR-Plus/assets/94473358/24573afd-9c46-47ba-9d86-118181d7d1e6)
-
+![WoR+](https://media.githubusercontent.com/media/kernaltrap8/kernaltrap8.github.io/main/img/worplus-gif-header.GIF)
 ---------------------------------
 # Features
 - Drums on Guitar/Pad
