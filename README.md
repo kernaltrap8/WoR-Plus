@@ -1,4 +1,3 @@
-# WoR+
 ![WoR+](https://media.githubusercontent.com/media/kernaltrap8/kernaltrap8.github.io/main/img/worplus-gif-header.GIF)
 ---------------------------------
 # Features
