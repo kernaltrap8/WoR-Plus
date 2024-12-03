@@ -9,6 +9,8 @@
 - Fast boot (skips intro video)
 - Removed Party Play timer in main menu (Party Play is still accesible by pressing yellow)
 - Extra highway customization (Gamertag HUD, Gem/FX Profiles, Black Highway)
+- No vocalist gender locking (any character can be used on vox regardless of song vocalist gender)
+- Extra characters added (Frankenrocker, Skeleton, etc)
 - All settings are toggleable in WoR+ Settings under Options in the main menu
 
 # TODO
